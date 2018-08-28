@@ -66,7 +66,7 @@ Bad:
 ```
 om ity ādeśam{This is an interesting form!} ādāya natvā [this expression comes from Mbh 22.33.44] taṃ suravandinaḥ // 15.33.7
 ```
-* The pre-trained model has a limit of 128 characters per text line. Longer text lines are cut after the 96th character.
+* The pre-trained model has a limit of 128 characters per text line. Longer text lines are cut after the 128th character.
 If you need a model for longer text lines, train a new one (see below). 
 * The majority of training texts is composed in classical Sanskrit. The model may have problems with (early) Vedic.
 * The input sticks to the orthographic conventions used - more or less consistently - in the DCS. If your input text deviates strongly from this convention (e.g., class nasals instead of anusvara), analysis quality may go down.
