@@ -5,6 +5,8 @@ This directory contains code and data for the following paper:
 Oliver Hellwig, Sebastian Nehrdich: Sanskrit Word Segmentation Using Character-level Recurrent and
 Convolutional Neural Networks. *To appear in*: Proceedings of the EMNLP 2018.
 
+Code and data are licensed under the GNU AGPLv3 license.
+
 ## Applying a pre-trained model to local data
 
 The folder data/models contains a pre-trained model that can be loaded locally and applied to un-sandhied text files.
