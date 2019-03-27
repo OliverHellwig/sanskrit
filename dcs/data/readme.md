@@ -8,19 +8,22 @@ An important deviation from this scheme is the link between the column 'word_ref
 
 If a column comment contains the term 'permanent', the value of this column should not change between different dumps of the database; see, for example, the column 'lexicon.id', which gives permanent identifiers of each word.
 
-## License and Citation
+## License
 
-If you use the data in your work, please use the following citation:
+The data of the DCS and any data in child directories are licensed under the Creative Common BY 4.0 (CC BY 4.0) license.
 
-Oliver Hellwig: Digital Corpus of Sanskrit (DCS). 2010-2018.
+## Citation
+
+If you use the DCS data in your work, please use the following citation:
+
+Oliver Hellwig: Digital Corpus of Sanskrit (DCS). 2010-2019.
 
 In bibtex:
 ```
 @Manual{your_latech_key,
 title = {{The Digital Corpus of Sanskrit (DCS)}},
 author = {Hellwig, Oliver},
-year = {2010--2018}
+year = {2010--2019}
 }
 ```
 
-Data are licensed under the Creative Common BY 4.0 (CC BY 4.0) license.
