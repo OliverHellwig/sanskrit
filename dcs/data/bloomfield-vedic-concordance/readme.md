@@ -10,7 +10,8 @@ Each line in data/bloomfield-vc-full.txt is structured by the sequence ' $ '.
 To the left of this separator, you find the original line, and to its right the output of the script with resolved references.
 
 **Example:**
-*Original line (no. 375)*: >agnaye kāmāya svāhā # TB.3.12.2.2-8. Cf. kāmāya svāhā, and agnīṣomābhyāṃ kāmāya.
+*Original line (no. 375)*: 
+>agnaye kāmāya svāhā # TB.3.12.2.2-8. Cf. kāmāya svāhā, and agnīṣomābhyāṃ kāmāya.
 
 *Transformed line*:
 >agnaye kāmāya svāhā # TB.3.12.2.2-8. Cf. kāmāya svāhā, and agnīṣomābhyāṃ kāmāya.** $ **>agnaye kāmāya svāhā # TB.3.12.2.2; TB.3.12.2.3; TB.3.12.2.4; TB.3.12.2.5; TB.3.12.2.6; TB.3.12.2.7; TB.3.12.2.8.
