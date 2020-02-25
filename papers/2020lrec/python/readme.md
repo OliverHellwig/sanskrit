@@ -1,5 +1,3 @@
-# xx
+Code for creating the dependency labeler, requires tensorflow < 2.0
 
-## Building the data
-The script build_data.py creates the sentences, the target values, indices of children and parents in the sentences
-and produces a training/test split.
+Running train.py performs a tenfold CV; results stored in data/output.
