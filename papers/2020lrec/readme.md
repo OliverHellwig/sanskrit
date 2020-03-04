@@ -8,3 +8,4 @@ Subdirectories:
 * python: code for training the dependency labeler described in the paper
 
 
+Data and code are licensed under the Creative Common BY 4.0 (CC BY 4.0) license.
