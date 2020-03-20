@@ -23,6 +23,7 @@ Each line starting with a number contains twelve entries. The following list exp
 5. XPOS: Language-specific part-of-speech tag. - This tag set is described in ./files/lookup/pos.csv and Hellwig, Hettrich, Modi and Pinkal (2018): Multi-layer Annotation of the Rigveda.
 11. Lemma ID, numeric. Matches the first column of ./files/lookup/dictionary.csv
 12. The unsandhied word form ("padapāṭha version", univerbified preverbs are not resolved, but can be retrieved from the column 'preverbs' in ./files/lookup/dictionary.csv); only available for a part of the DCS, mainly the Vedic texts.
+13. Ids of word semantic concepts, or _ if none is annotated. The Ids correspond to the first column of in ./files/lookup/word-senses.csv.
 
 ## Directory 'lookup'
 
