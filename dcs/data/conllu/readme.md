@@ -17,13 +17,13 @@ The file name "Aṣṭāṅgahṛdayasaṃhitā-0007-AHS, Sū., 8-1162" means: T
 
 Each line starting with a number contains twelve entries. The following list explains entries whose meaning is not the same as in the UD standard as well as the additional fields (11++).
 
-2. FORM: Word form or punctuation symbol. - A single string (= sequence of letters limited by spaces) can contain one or multiple words in Sanskrit. If it contains multiple words, the annotation follows the proposals for multiword annotation (https://universaldependencies.org/format.html#words-tokens-and-empty-nodes).
-3. LEMMA: Lemma or stem of word form. - The lexical id of the lemma is found in field 11.
-4. UPOS: Universal part-of-speech tag. - Not set.
-5. XPOS: Language-specific part-of-speech tag. - This tag set is described in ./files/lookup/pos.csv and Hellwig, Hettrich, Modi and Pinkal (2018): Multi-layer Annotation of the Rigveda.
-11. Lemma ID, numeric. Matches the first column of ./files/lookup/dictionary.csv
-12. The unsandhied word form ("padapāṭha version", univerbified preverbs are not resolved, but can be retrieved from the column 'preverbs' in ./files/lookup/dictionary.csv); only available for a part of the DCS, mainly the Vedic texts.
-13. Ids of word semantic concepts, or _ if none is annotated. The Ids correspond to the first column of in ./files/lookup/word-senses.csv.
+* 2. FORM: Word form or punctuation symbol. - A single string (= sequence of letters limited by spaces) can contain one or multiple words in Sanskrit. If it contains multiple words, the annotation follows the proposals for multiword annotation (https://universaldependencies.org/format.html#words-tokens-and-empty-nodes).
+* 3. LEMMA: Lemma or stem of word form. - The lexical id of the lemma is found in field 11.
+* 4. UPOS: Universal part-of-speech tag. - Not set.
+* 5. XPOS: Language-specific part-of-speech tag. - This tag set is described in ./files/lookup/pos.csv and Hellwig, Hettrich, Modi and Pinkal (2018): Multi-layer Annotation of the Rigveda.
+* 11. Lemma ID, numeric. Matches the first column of ./files/lookup/dictionary.csv
+* 12. The unsandhied word form ("padapāṭha version", univerbified preverbs are not resolved, but can be retrieved from the column 'preverbs' in ./files/lookup/dictionary.csv); only available for a part of the DCS, mainly the Vedic texts.
+* 13. Ids of word semantic concepts, or _ if none is annotated. The Ids correspond to the first column of in ./files/lookup/word-senses.csv.
 
 ## Directory 'lookup'
 
