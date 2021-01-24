@@ -16,14 +16,14 @@ The data of the DCS and any data in child directories are licensed under the Cre
 
 If you use the DCS data in your work, please use the following citation:
 
-Oliver Hellwig: Digital Corpus of Sanskrit (DCS). 2010-2019.
+Oliver Hellwig: Digital Corpus of Sanskrit (DCS). 2010-2021.
 
 In bibtex:
 ```
 @Manual{your_latech_key,
 title = {{The Digital Corpus of Sanskrit (DCS)}},
 author = {Hellwig, Oliver},
-year = {2010--2019}
+year = {2010--2021}
 }
 ```
 

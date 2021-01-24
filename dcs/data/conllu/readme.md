@@ -8,8 +8,8 @@ The analysis of each string has been checked by one annotator.
 The subdirectory ./files contains the texts in an extended CoNLL-U format (see https://universaldependencies.org/format.html).
 Current size of the dump:
 
-* Number of lines: 620155
-* Number of words: 4699761
+* Number of lines: 641373
+* Number of words: 4858872
 
 Texts shorter than 50,000 words are stored in individual files in the directory ./files. Their names end with -all (= containing all chapters).
 Longer texts are split into one file per chapter and stored in subdirectories of ./files.
@@ -23,7 +23,7 @@ Each line starting with a number contains twelve entries. The following list exp
 * 5. XPOS: Language-specific part-of-speech tag. - This tag set is described in ./files/lookup/pos.csv and Hellwig, Hettrich, Modi and Pinkal (2018): Multi-layer Annotation of the Rigveda.
 * 11. Lemma ID, numeric. Matches the first column of ./files/lookup/dictionary.csv
 * 12. The unsandhied word form ("padapāṭha version", univerbified preverbs are not resolved, but can be retrieved from the column 'preverbs' in ./files/lookup/dictionary.csv); only available for a part of the DCS, mainly the Vedic texts.
-* 13. Ids of word semantic concepts, or _ if none is annotated. The Ids correspond to the first column of in ./files/lookup/word-senses.csv.
+* 13. Ids of word semantic concepts, or _ if none is annotated. The Ids correspond to the first column of in ./files/lookup/word-senses.csv. A nicer form of these data is available via the [http://sanskritwordnet.unipv.it/](Sanskrit WordNet).
 
 ## Directory 'lookup'
 
@@ -33,14 +33,14 @@ This directory contains lexicographic information (dictionary.csv) and a short e
 
 If you use these data in your work, please use this citation:
 
-Oliver Hellwig: Digital Corpus of Sanskrit (DCS). 2010-2019.
+Oliver Hellwig: Digital Corpus of Sanskrit (DCS). 2010-2021.
 
 In bibtex:
 ```
 @Manual{your_latech_key,
 title = {{The Digital Corpus of Sanskrit (DCS)}},
 author = {Hellwig, Oliver},
-year = {2010--2019}
+year = {2010--2021}
 }
 ```
 
