@@ -1,3 +1,7 @@
+# Aim
+
+Provide scholarly translations whose sentence numbering runs parallel with that used in the DCS.
+
 
 # Preparing the data
 Regular expressions:

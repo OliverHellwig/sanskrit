@@ -4,440 +4,440 @@
 ## chapter_id: 5678
 
 # text_line: baladeva uvāca
-# text_line_id: 214476
+# text_line_id: 214481
 # text_line_counter: 1
 # text_line_subcounter: 1
-1	baladeva	baladeva	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	154328	_	_
-2	uvāca	vac	_	None	Tense=Perf|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157264	_	_
+1	baladeva	baladeva	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	154328	_	_
+2	uvāca	vac	VERB	V	Tense=Perf|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157264	_	_
 
 # text_line: śrutaṃ bhavadbhir gadapūrvajasya vākyaṃ yathā dharmavad arthavacca
-# text_line_id: 214477
+# text_line_id: 214482
 # text_line_counter: 1
 # text_line_subcounter: 2
-1	śrutaṃ	śru	_	None	Case=Nom|Number=1|Gender=Neut|VerbForm=PPP	_	_	_	_	157409	_	_
-2	bhavadbhir	bhavat	_	None	Case=Ins|Number=3|Gender=Masc	_	_	_	_	49231	_	_
+1	śrutaṃ	śru	VERB	PPP	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	_	157409	_	_
+2	bhavadbhir	bhavat	ADJ	JJ	Case=Ins|Gender=Masc|Number=Plur	_	_	_	_	49231	_	_
 3-4	gadapūrvajasya	_	_	_	_	_	_	_	_
-3	_	gada	_	None	Case=Cpd	_	_	_	_	129387	_	128053
-4	_	pūrvaja	_	None	Case=Gen|Number=1|Gender=Masc	_	_	_	_	145645	_	44516
-5	vākyaṃ	vākya	_	None	Case=Nom|Number=1|Gender=Neut	_	_	_	_	76075	_	_
-6	yathā	yathā	_	None		_	_	_	_	73250	_	_
-7	dharmavad	dharmavat	_	None	Case=Nom|Number=1|Gender=Neut	_	_	_	_	92185	_	_
+3	_	gada	NOUN	NC	Case=Cpd	_	_	_	_	129387	_	128053
+4	_	pūrvaja	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	145645	_	44516
+5	vākyaṃ	vākya	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	76075	_	_
+6	yathā	yathā	PART	CCM		_	_	_	_	73250	_	_
+7	dharmavad	dharmavat	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	92185	_	_
 8-9	arthavacca	_	_	_	_	_	_	_	_
-8	_	arthavat	_	None	Case=Nom|Number=1|Gender=Neut	_	_	_	_	53218	_	_
-9	_	ca	_	None		_	_	_	_	157144	_	_
+8	_	arthavat	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	53218	_	_
+9	_	ca	CCONJ	CCD		_	_	_	_	157144	_	_
 
 # text_line: ajātaśatrośca hitaṃ hitaṃ ca duryodhanasyāpi tathaiva rājñaḥ
-# text_line_id: 214478
+# text_line_id: 214483
 # text_line_counter: 1
 # text_line_subcounter: 3
 1-3	ajātaśatrośca	_	_	_	_	_	_	_	_
-1	_	ajāta	_	None	Case=Cpd	_	_	_	_	6532	_	_
-2	_	śatru	_	None	Case=Gen|Number=1|Gender=Masc	_	_	_	_	115509	_	_
-3	_	ca	_	None		_	_	_	_	157144	_	_
-4	hitaṃ	hita	_	None	Case=Nom|Number=1|Gender=Neut	_	_	_	_	109983	_	_
-5	hitaṃ	hita	_	None	Case=Nom|Number=1|Gender=Neut	_	_	_	_	109983	_	_
-6	ca	ca	_	None		_	_	_	_	157144	_	_
+1	_	ajāta	ADJ	JJ	Case=Cpd	_	_	_	_	6532	_	_
+2	_	śatru	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	115509	_	_
+3	_	ca	CCONJ	CCD		_	_	_	_	157144	_	_
+4	hitaṃ	hita	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	109983	_	_
+5	hitaṃ	hita	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	109983	_	_
+6	ca	ca	CCONJ	CCD		_	_	_	_	157144	_	_
 7-8	duryodhanasyāpi	_	_	_	_	_	_	_	_
-7	_	duryodhana	_	None	Case=Gen|Number=1|Gender=Masc	_	_	_	_	85684	_	_
-8	_	api	_	None		_	_	_	_	21365	_	_
+7	_	duryodhana	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	85684	_	_
+8	_	api	ADV	CX		_	_	_	_	21365	_	_
 9-10	tathaiva	_	_	_	_	_	_	_	_
-9	_	tathā	_	None		_	_	_	_	95987	_	_
-10	_	eva	_	None		_	_	_	_	39754	_	_
-11	rājñaḥ	rājan	_	None	Case=Gen|Number=1|Gender=Masc	_	_	_	_	70467	_	_
+9	_	tathā	ADV	CX		_	_	_	_	95987	_	_
+10	_	eva	PART	CEM		_	_	_	_	39754	_	_
+11	rājñaḥ	rājan	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	70467	_	_
 
 # text_line: ardhaṃ hi rājyasya visṛjya vīrāḥ kuntīsutāstasya kṛte yatante
-# text_line_id: 214479
+# text_line_id: 214484
 # text_line_counter: 2
 # text_line_subcounter: 1
-1	ardhaṃ	ardha	_	None	Case=Acc|Number=1|Gender=Neut	_	_	_	_	53322	_	_
-2	hi	hi	_	None		_	_	_	_	109879	_	_
-3	rājyasya	rājya	_	None	Case=Gen|Number=1|Gender=Neut	_	_	_	_	70493	_	_
-4	visṛjya	visṛj	_	None	VerbForm=Abs	_	_	_	_	163648	_	_
-5	vīrāḥ	vīra	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	166143	_	_
+1	ardhaṃ	ardha	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	53322	_	_
+2	hi	hi	ADV	CX		_	_	_	_	109879	_	_
+3	rājyasya	rājya	NOUN	NC	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_	70493	_	_
+4	visṛjya	visṛj	VERB	CGDA	VerbForm=Conv	_	_	_	_	163648	_	_
+5	vīrāḥ	vīra	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	166143	_	_
 6-8	kuntīsutāstasya	_	_	_	_	_	_	_	_
-6	_	kuntī	_	None	Case=Cpd	_	_	_	_	24419	_	_
-7	_	suta	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	106624	_	_
-8	_	tad	_	None	Case=Gen|Number=1|Gender=Masc	_	_	_	_	37875	_	_
-9	kṛte	kṛta	_	None	Case=Loc|Number=1|Gender=Neut	_	_	_	_	3448	_	_
-10	yatante	yat	_	None	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157295	_	_
+6	_	kuntī	NOUN	NC	Case=Cpd	_	_	_	_	24419	_	_
+7	_	suta	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	106624	_	_
+8	_	tad	PRON	PRD	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	37875	_	_
+9	kṛte	kṛta	NOUN	NC	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_	3448	_	_
+10	yatante	yat	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157295	_	_
 
 # text_line: pradāya cārdhaṃ dhṛtarāṣṭraputraḥ sukhī sahāsmābhir atīva modet
-# text_line_id: 214480
+# text_line_id: 214485
 # text_line_counter: 2
 # text_line_subcounter: 2
-1	pradāya	pradā	_	None	VerbForm=Abs	_	_	_	_	162876	_	_
+1	pradāya	pradā	VERB	CGDA	VerbForm=Conv	_	_	_	_	162876	_	_
 2-3	cārdhaṃ	_	_	_	_	_	_	_	_
-2	_	ca	_	None		_	_	_	_	157144	_	_
-3	_	ardha	_	None	Case=Acc|Number=1|Gender=Neut	_	_	_	_	53322	_	_
+2	_	ca	CCONJ	CCD		_	_	_	_	157144	_	_
+3	_	ardha	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	53322	_	_
 4-5	dhṛtarāṣṭraputraḥ	_	_	_	_	_	_	_	_
-4	_	dhṛtarāṣṭra	_	None	Case=Cpd	_	_	_	_	43000	_	_
-5	_	putra	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	144475	_	_
-6	sukhī	sukhin	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	107063	_	_
+4	_	dhṛtarāṣṭra	NOUN	NC	Case=Cpd	_	_	_	_	43000	_	_
+5	_	putra	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	144475	_	_
+6	sukhī	sukhin	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	107063	_	_
 7-8	sahāsmābhir	_	_	_	_	_	_	_	_
-7	_	saha	_	None		_	_	_	_	105774	_	_
-8	_	mad	_	None	Case=Ins|Number=3|Gender=	_	_	_	_	37879	_	_
-9	atīva	atīva	_	None		_	_	_	_	7340	_	_
-10	modet	mud	_	None	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157888	_	_
+7	_	saha	ADV	CX		_	_	_	_	105774	_	_
+8	_	mad	PRON	PPR	Case=Ins|Gender=|Number=Plur	_	_	_	_	37879	_	_
+9	atīva	atīva	ADV	CX		_	_	_	_	7340	_	_
+10	modet	mud	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157888	_	_
 
 # text_line: labdhvā hi rājyaṃ puruṣapravīrāḥ samyak pravṛtteṣu pareṣu caiva
-# text_line_id: 214481
+# text_line_id: 214486
 # text_line_counter: 3
 # text_line_subcounter: 1
-1	labdhvā	labh	_	None	VerbForm=Abs	_	_	_	_	158020	_	_
-2	hi	hi	_	None		_	_	_	_	109879	_	_
-3	rājyaṃ	rājya	_	None	Case=Acc|Number=1|Gender=Neut	_	_	_	_	70493	_	_
+1	labdhvā	labh	VERB	CGDA	VerbForm=Conv	_	_	_	_	158020	_	_
+2	hi	hi	ADV	CX		_	_	_	_	109879	_	_
+3	rājyaṃ	rājya	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	70493	_	_
 4-5	puruṣapravīrāḥ	_	_	_	_	_	_	_	_
-4	_	puruṣa	_	None	Case=Cpd	_	_	_	_	144647	_	_
-5	_	pravīra	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	155605	_	_
-6	samyak	samyak	_	None		_	_	_	_	167087	_	_
-7	pravṛtteṣu	pravṛt	_	None	Case=Loc|Number=3|Gender=Masc|VerbForm=PPP	_	_	_	_	163066	_	_
-8	pareṣu	para	_	None	Case=Loc|Number=3|Gender=Masc	_	_	_	_	163234	_	_
+4	_	puruṣa	NOUN	NC	Case=Cpd	_	_	_	_	144647	_	_
+5	_	pravīra	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	155605	_	_
+6	samyak	samyak	ADV	CX		_	_	_	_	167087	_	_
+7	pravṛtteṣu	pravṛt	VERB	PPP	Case=Loc|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	_	163066	_	_
+8	pareṣu	para	PRON	PPX	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	163234	_	_
 9-10	caiva	_	_	_	_	_	_	_	_
-9	_	ca	_	None		_	_	_	_	157144	_	_
-10	_	eva	_	None		_	_	_	_	39754	_	_
+9	_	ca	CCONJ	CCD		_	_	_	_	157144	_	_
+10	_	eva	PART	CEM		_	_	_	_	39754	_	_
 
 # text_line: dhruvaṃ praśāntāḥ sukham āviśeyus teṣāṃ praśāntiśca hitaṃ prajānām
-# text_line_id: 214482
+# text_line_id: 214487
 # text_line_counter: 3
 # text_line_subcounter: 2
-1	dhruvaṃ	dhruvam	_	None		_	_	_	_	203063	_	_
-2	praśāntāḥ	praśam	_	None	Case=Nom|Number=3|Gender=Masc|VerbForm=PPP	_	_	_	_	163084	_	_
-3	sukham	sukham	_	None		_	_	_	_	205178	_	_
-4	āviśeyus	āviś	_	None	Tense=Pres|Mood=Opt|Person=3|Number=Plur	_	_	_	_	159946	_	_
-5	teṣāṃ	tad	_	None	Case=Gen|Number=3|Gender=Masc	_	_	_	_	37875	_	_
+1	dhruvaṃ	dhruvam	ADV	CX		_	_	_	_	203063	_	_
+2	praśāntāḥ	praśam	VERB	PPP	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	_	163084	_	_
+3	sukham	sukham	ADV	CX		_	_	_	_	205178	_	_
+4	āviśeyus	āviś	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Plur	_	_	_	_	159946	_	_
+5	teṣāṃ	tad	PRON	PRD	Case=Gen|Gender=Masc|Number=Plur	_	_	_	_	37875	_	_
 6-7	praśāntiśca	_	_	_	_	_	_	_	_
-6	_	praśānti	_	None	Case=Nom|Number=1|Gender=Fem	_	_	_	_	155658	_	_
-7	_	ca	_	None		_	_	_	_	157144	_	_
-8	hitaṃ	hita	_	None	Case=Nom|Number=1|Gender=Neut	_	_	_	_	109983	_	_
-9	prajānām	prajā	_	None	Case=Gen|Number=3|Gender=Fem	_	_	_	_	150748	_	_
+6	_	praśānti	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	155658	_	_
+7	_	ca	CCONJ	CCD		_	_	_	_	157144	_	_
+8	hitaṃ	hita	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	109983	_	_
+9	prajānām	prajā	NOUN	NC	Case=Gen|Gender=Fem|Number=Plur	_	_	_	_	150748	_	_
 
 # text_line: duryodhanasyāpi mataṃ ca vettuṃ vaktuṃ ca vākyāni yudhiṣṭhirasya
-# text_line_id: 214483
+# text_line_id: 214488
 # text_line_counter: 4
 # text_line_subcounter: 1
 1-2	duryodhanasyāpi	_	_	_	_	_	_	_	_
-1	_	duryodhana	_	None	Case=Gen|Number=1|Gender=Masc	_	_	_	_	85684	_	_
-2	_	api	_	None		_	_	_	_	21365	_	_
-3	mataṃ	mata	_	None	Case=Acc|Number=1|Gender=Neut	_	_	_	_	35981	_	_
-4	ca	ca	_	None		_	_	_	_	157144	_	_
-5	vettuṃ	vid	_	None	VerbForm=Inf	_	_	_	_	158058	_	_
-6	vaktuṃ	vac	_	None	VerbForm=Inf	_	_	_	_	157264	_	_
-7	ca	ca	_	None		_	_	_	_	157144	_	_
-8	vākyāni	vākya	_	None	Case=Acc|Number=3|Gender=Neut	_	_	_	_	76075	_	_
-9	yudhiṣṭhirasya	yudhiṣṭhira	_	None	Case=Gen|Number=1|Gender=Masc	_	_	_	_	64859	_	_
+1	_	duryodhana	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	85684	_	_
+2	_	api	ADV	CX		_	_	_	_	21365	_	_
+3	mataṃ	mata	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	35981	_	_
+4	ca	ca	CCONJ	CCD		_	_	_	_	157144	_	_
+5	vettuṃ	vid	VERB	CGDI	VerbForm=Inf	_	_	_	_	158058	_	_
+6	vaktuṃ	vac	VERB	CGDI	VerbForm=Inf	_	_	_	_	157264	_	_
+7	ca	ca	CCONJ	CCD		_	_	_	_	157144	_	_
+8	vākyāni	vākya	NOUN	NC	Case=Acc|Gender=Neut|Number=Plur	_	_	_	_	76075	_	_
+9	yudhiṣṭhirasya	yudhiṣṭhira	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	64859	_	_
 
 # text_line: priyaṃ mama syād yadi tatra kaścid vrajecchamārthaṃ kurupāṇḍavānām
-# text_line_id: 214484
+# text_line_id: 214489
 # text_line_counter: 4
 # text_line_subcounter: 2
-1	priyaṃ	priya	_	None	Case=Nom|Number=1|Gender=Neut	_	_	_	_	153185	_	_
-2	mama	mad	_	None	Case=Gen|Number=1|Gender=	_	_	_	_	37879	_	_
-3	syād	as	_	None	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	156122	_	_
-4	yadi	yadi	_	None		_	_	_	_	73699	_	_
-5	tatra	tatra	_	None		_	_	_	_	95978	_	_
-6	kaścid	kaścit	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	164309	_	_
+1	priyaṃ	priya	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	153185	_	_
+2	mama	mad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37879	_	_
+3	syād	as	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	156122	_	_
+4	yadi	yadi	SCONJ	CSB		_	_	_	_	73699	_	_
+5	tatra	tatra	ADV	CAD		_	_	_	_	95978	_	_
+6	kaścid	kaścit	PRON	PRI	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	164309	_	_
 7-9	vrajecchamārthaṃ	_	_	_	_	_	_	_	_
-7	_	vraj	_	None	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157500	_	_
-8	_	śama	_	None	Case=Cpd	_	_	_	_	167486	_	31698
-9	_	artha	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	53136	_	_
+7	_	vraj	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157500	_	_
+8	_	śama	NOUN	NC	Case=Cpd	_	_	_	_	167486	_	31698
+9	_	artha	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	53136	_	_
 10-11	kurupāṇḍavānām	_	_	_	_	_	_	_	_
-10	_	kuru	_	None	Case=Cpd	_	_	_	_	24725	_	_
-11	_	pāṇḍava	_	None	Case=Gen|Number=3|Gender=Masc	_	_	_	_	93423	_	_
+10	_	kuru	NOUN	NC	Case=Cpd	_	_	_	_	24725	_	_
+11	_	pāṇḍava	NOUN	NC	Case=Gen|Gender=Masc|Number=Plur	_	_	_	_	93423	_	_
 
 # text_line: sa bhīṣmam āmantrya kurupravīraṃ vaicitravīryaṃ ca mahānubhāvam
-# text_line_id: 214485
+# text_line_id: 214490
 # text_line_counter: 5
 # text_line_subcounter: 1
-1	sa	tad	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	37875	_	_
-2	bhīṣmam	bhīṣma	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	50421	_	_
-3	āmantrya	āmantray	_	None	VerbForm=Abs	_	_	_	_	159857	_	_
+1	sa	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37875	_	_
+2	bhīṣmam	bhīṣma	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	50421	_	_
+3	āmantrya	āmantray	VERB	CGDA	VerbForm=Conv	_	_	_	_	159857	_	_
 4-5	kurupravīraṃ	_	_	_	_	_	_	_	_
-4	_	kuru	_	None	Case=Cpd	_	_	_	_	24725	_	_
-5	_	pravīra	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	155605	_	_
-6	vaicitravīryaṃ	vaicitravīrya	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	117009	_	127640
-7	ca	ca	_	None		_	_	_	_	157144	_	_
+4	_	kuru	NOUN	NC	Case=Cpd	_	_	_	_	24725	_	_
+5	_	pravīra	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	155605	_	_
+6	vaicitravīryaṃ	vaicitravīrya	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	117009	_	127640
+7	ca	ca	CCONJ	CCD		_	_	_	_	157144	_	_
 8-9	mahānubhāvam	_	_	_	_	_	_	_	_
-8	_	mahat	_	None	Case=Cpd	_	_	_	_	37544	_	_
-9	_	anubhāva	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	11123	_	_
+8	_	mahat	ADJ	JJ	Case=Cpd	_	_	_	_	37544	_	_
+9	_	anubhāva	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	11123	_	_
 
 # text_line: droṇaṃ saputraṃ viduraṃ kṛpaṃ ca gāndhārarājaṃ ca sasūtaputram
-# text_line_id: 214486
+# text_line_id: 214491
 # text_line_counter: 5
 # text_line_subcounter: 2
-1	droṇaṃ	droṇa	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	90696	_	_
+1	droṇaṃ	droṇa	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	90696	_	_
 2-3	saputraṃ	_	_	_	_	_	_	_	_
-2	_	sa	_	None		_	_	_	_	202954	_	_
-3	_	putra	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	144475	_	_
-4	viduraṃ	vidura	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	122672	_	_
-5	kṛpaṃ	kṛpa	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	3895	_	_
-6	ca	ca	_	None		_	_	_	_	157144	_	_
+2	_	sa	ADV	CX		_	_	_	_	202954	_	_
+3	_	putra	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	144475	_	_
+4	viduraṃ	vidura	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	122672	_	_
+5	kṛpaṃ	kṛpa	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	3895	_	_
+6	ca	ca	CCONJ	CCD		_	_	_	_	157144	_	_
 7-8	gāndhārarājaṃ	_	_	_	_	_	_	_	_
-7	_	gāndhāra	_	None	Case=Cpd	_	_	_	_	130295	_	_
-8	_	rāja	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	70209	_	_
-9	ca	ca	_	None		_	_	_	_	157144	_	_
+7	_	gāndhāra	NOUN	NC	Case=Cpd	_	_	_	_	130295	_	_
+8	_	rāja	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	70209	_	_
+9	ca	ca	CCONJ	CCD		_	_	_	_	157144	_	_
 10-11	sasūtaputram	_	_	_	_	_	_	_	_
-10	_	sa	_	None		_	_	_	_	202954	_	_
-11	_	sūtaputra	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	99108	_	_
+10	_	sa	ADV	CX		_	_	_	_	202954	_	_
+11	_	sūtaputra	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	99108	_	_
 
 # text_line: sarve ca ye 'nye dhṛtarāṣṭraputrā balapradhānā nigamapradhānāḥ
-# text_line_id: 214487
+# text_line_id: 214492
 # text_line_counter: 6
 # text_line_subcounter: 1
-1	sarve	sarva	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	104444	_	_
-2	ca	ca	_	None		_	_	_	_	157144	_	_
-3	ye	yad	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	37877	_	_
-4	'nye	anya	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	164189	_	_
+1	sarve	sarva	ADJ	JQ	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	104444	_	_
+2	ca	ca	CCONJ	CCD		_	_	_	_	157144	_	_
+3	ye	yad	PRON	PRL	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37877	_	_
+4	'nye	anya	PRON	PPX	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	164189	_	_
 5-6	dhṛtarāṣṭraputrā	_	_	_	_	_	_	_	_
-5	_	dhṛtarāṣṭra	_	None	Case=Cpd	_	_	_	_	43000	_	_
-6	_	putra	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	144475	_	_
+5	_	dhṛtarāṣṭra	NOUN	NC	Case=Cpd	_	_	_	_	43000	_	_
+6	_	putra	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	144475	_	_
 7-8	balapradhānā	_	_	_	_	_	_	_	_
-7	_	bala	_	None	Case=Cpd	_	_	_	_	154315	_	_
-8	_	pradhāna	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	140873	_	_
+7	_	bala	NOUN	NC	Case=Cpd	_	_	_	_	154315	_	_
+8	_	pradhāna	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	140873	_	_
 9-10	nigamapradhānāḥ	_	_	_	_	_	_	_	_
-9	_	nigama	_	None	Case=Cpd	_	_	_	_	34877	_	_
-10	_	pradhāna	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	140873	_	_
+9	_	nigama	NOUN	NC	Case=Cpd	_	_	_	_	34877	_	_
+10	_	pradhāna	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	140873	_	_
 
 # text_line: sthitāśca dharmeṣu yathā svakeṣu lokapravīrāḥ śrutakālavṛddhāḥ
-# text_line_id: 214488
+# text_line_id: 214493
 # text_line_counter: 6
 # text_line_subcounter: 2
 1-2	sthitāśca	_	_	_	_	_	_	_	_
-1	_	sthā	_	None	Case=Nom|Number=3|Gender=Masc|VerbForm=PPP	_	_	_	_	157340	_	_
-2	_	ca	_	None		_	_	_	_	157144	_	_
-3	dharmeṣu	dharma	_	None	Case=Loc|Number=3|Gender=Masc	_	_	_	_	91970	_	_
-4	yathā	yathā	_	None		_	_	_	_	73250	_	_
-5	svakeṣu	svaka	_	None	Case=Loc|Number=3|Gender=Masc	_	_	_	_	120257	_	_
+1	_	sthā	VERB	PPP	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	_	157340	_	_
+2	_	ca	CCONJ	CCD		_	_	_	_	157144	_	_
+3	dharmeṣu	dharma	NOUN	NC	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	91970	_	_
+4	yathā	yathā	PART	CCM		_	_	_	_	73250	_	_
+5	svakeṣu	svaka	ADJ	JJ	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	120257	_	_
 6-7	lokapravīrāḥ	_	_	_	_	_	_	_	_
-6	_	loka	_	None	Case=Cpd	_	_	_	_	66869	_	_
-7	_	pravīra	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	155605	_	_
+6	_	loka	NOUN	NC	Case=Cpd	_	_	_	_	66869	_	_
+7	_	pravīra	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	155605	_	_
 8-10	śrutakālavṛddhāḥ	_	_	_	_	_	_	_	_
-8	_	śruta	_	None	Case=Cpd	_	_	_	_	40759	_	_
-9	_	kāla	_	None	Case=Cpd	_	_	_	_	22761	_	_
-10	_	vṛdh	_	None	Case=Nom|Number=3|Gender=Masc|VerbForm=PPP	_	_	_	_	157334	_	_
+8	_	śruta	NOUN	NC	Case=Cpd	_	_	_	_	40759	_	_
+9	_	kāla	NOUN	NC	Case=Cpd	_	_	_	_	22761	_	_
+10	_	vṛdh	VERB	PPP	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	_	157334	_	_
 
 # text_line: eteṣu sarveṣu samāgateṣu paureṣu vṛddheṣu ca saṃgateṣu
-# text_line_id: 214489
+# text_line_id: 214494
 # text_line_counter: 7
 # text_line_subcounter: 1
-1	eteṣu	etad	_	None	Case=Loc|Number=3|Gender=Masc	_	_	_	_	163744	_	_
-2	sarveṣu	sarva	_	None	Case=Loc|Number=3|Gender=Masc	_	_	_	_	104444	_	_
-3	samāgateṣu	samāgam	_	None	Case=Loc|Number=3|Gender=Masc|VerbForm=PPP	_	_	_	_	165182	_	_
-4	paureṣu	paura	_	None	Case=Loc|Number=3|Gender=Masc	_	_	_	_	151032	_	_
-5	vṛddheṣu	vṛddha	_	None	Case=Loc|Number=3|Gender=Masc	_	_	_	_	142781	_	_
-6	ca	ca	_	None		_	_	_	_	157144	_	_
-7	saṃgateṣu	saṃgam	_	None	Case=Loc|Number=3|Gender=Masc|VerbForm=PPP	_	_	_	_	164878	_	_
+1	eteṣu	etad	PRON	PRD	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	163744	_	_
+2	sarveṣu	sarva	ADJ	JQ	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	104444	_	_
+3	samāgateṣu	samāgam	VERB	PPP	Case=Loc|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	_	165182	_	_
+4	paureṣu	paura	NOUN	NC	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	151032	_	_
+5	vṛddheṣu	vṛddha	ADJ	JJ	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	142781	_	_
+6	ca	ca	CCONJ	CCD		_	_	_	_	157144	_	_
+7	saṃgateṣu	saṃgam	VERB	PPP	Case=Loc|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	_	164878	_	_
 
 # text_line: bravītu vākyaṃ praṇipātayuktaṃ kuntīsutasyārthakaraṃ yathā syāt
-# text_line_id: 214490
+# text_line_id: 214495
 # text_line_counter: 7
 # text_line_subcounter: 2
-1	bravītu	brū	_	None	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	_	157262	_	_
-2	vākyaṃ	vākya	_	None	Case=Acc|Number=1|Gender=Neut	_	_	_	_	76075	_	_
+1	bravītu	brū	VERB	V	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	_	157262	_	_
+2	vākyaṃ	vākya	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	76075	_	_
 3-4	praṇipātayuktaṃ	_	_	_	_	_	_	_	_
-3	_	praṇipāta	_	None	Case=Cpd	_	_	_	_	151745	_	_
-4	_	yuj	_	None	Case=Acc|Number=1|Gender=Neut|VerbForm=PPP	_	_	_	_	157298	_	_
+3	_	praṇipāta	NOUN	NC	Case=Cpd	_	_	_	_	151745	_	_
+4	_	yuj	VERB	PPP	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	_	157298	_	_
 5-8	kuntīsutasyārthakaraṃ	_	_	_	_	_	_	_	_
-5	_	kuntī	_	None	Case=Cpd	_	_	_	_	24419	_	_
-6	_	suta	_	None	Case=Gen|Number=1|Gender=Masc	_	_	_	_	106624	_	_
-7	_	artha	_	None	Case=Cpd	_	_	_	_	53136	_	_
-8	_	kara	_	None	Case=Nom|Number=1|Gender=Neut	_	_	_	_	2220	_	_
-9	yathā	yathā	_	None		_	_	_	_	73250	_	_
-10	syāt	as	_	None	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	156122	_	_
+5	_	kuntī	NOUN	NC	Case=Cpd	_	_	_	_	24419	_	_
+6	_	suta	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	106624	_	_
+7	_	artha	NOUN	NC	Case=Cpd	_	_	_	_	53136	_	_
+8	_	kara	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	2220	_	_
+9	yathā	yathā	PART	CCM		_	_	_	_	73250	_	_
+10	syāt	as	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	156122	_	_
 
 # text_line: sarvāsvavasthāsu ca te na kauṭyād grasto hi so 'rtho balam āśritaistaiḥ
-# text_line_id: 214491
+# text_line_id: 214496
 # text_line_counter: 8
 # text_line_subcounter: 1
 1-2	sarvāsvavasthāsu	_	_	_	_	_	_	_	_
-1	_	sarva	_	None	Case=Loc|Number=3|Gender=Fem	_	_	_	_	104444	_	_
-2	_	avasthā	_	None	Case=Loc|Number=3|Gender=Fem	_	_	_	_	54714	_	_
-3	ca	ca	_	None		_	_	_	_	157144	_	_
-4	te	tad	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	37875	_	_
-5	na	na	_	None		_	_	_	_	43432	_	_
-6	kauṭyād	gras	_	None	Case=Nom|Number=1|Gender=Masc|VerbForm=PPP	_	_	_	_	156233	_	_
-7	grasto	hi	_	None		_	_	_	_	109879	_	_
-8	hi	tad	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	37875	_	_
-9	so	artha	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	53136	_	_
-10	'rtho	bala	_	None	Case=Acc|Number=1|Gender=Neut	_	_	_	_	154315	_	_
+1	_	sarva	ADJ	JQ	Case=Loc|Gender=Fem|Number=Plur	_	_	_	_	104444	_	_
+2	_	avasthā	NOUN	NC	Case=Loc|Gender=Fem|Number=Plur	_	_	_	_	54714	_	_
+3	ca	ca	CCONJ	CCD		_	_	_	_	157144	_	_
+4	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	_	_
+5	na	na	PART	CNG		_	_	_	_	43432	_	_
+6	kauṭyād	gras	VERB	PPP	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	156233	_	_
+7	grasto	hi	ADV	CX		_	_	_	_	109879	_	_
+8	hi	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37875	_	_
+9	so	artha	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	53136	_	_
+10	'rtho	bala	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	154315	_	_
 11-12	balam	_	_	_	_	_	_	_	_
-11	_	āśri	_	None	Case=Ins|Number=3|Gender=Masc|VerbForm=PPP	_	_	_	_	159985	_	_
-12	_	tad	_	None	Case=Ins|Number=3|Gender=Masc	_	_	_	_	37875	_	_
+11	_	āśri	VERB	PPP	Case=Ins|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	_	159985	_	_
+12	_	tad	PRON	PRD	Case=Ins|Gender=Masc|Number=Plur	_	_	_	_	37875	_	_
 
 # text_line: priyābhyupetasya yudhiṣṭhirasya dyūte pramattasya hṛtaṃ ca rājyam
-# text_line_id: 214492
+# text_line_id: 214497
 # text_line_counter: 8
 # text_line_subcounter: 2
 1-2	priyābhyupetasya	_	_	_	_	_	_	_	_
-1	_	priya	_	None	Case=Cpd	_	_	_	_	153185	_	_
-2	_	abhyupe	_	None	Case=Gen|Number=1|Gender=Masc|VerbForm=PPP	_	_	_	_	159382	_	_
-3	yudhiṣṭhirasya	yudhiṣṭhira	_	None	Case=Gen|Number=1|Gender=Masc	_	_	_	_	64859	_	_
-4	dyūte	dyūta	_	None	Case=Loc|Number=1|Gender=Neut	_	_	_	_	90356	_	_
-5	pramattasya	pramad	_	None	Case=Gen|Number=1|Gender=Masc|VerbForm=PPP	_	_	_	_	162952	_	_
-6	hṛtaṃ	hṛ	_	None	Case=Nom|Number=1|Gender=Neut|VerbForm=PPP	_	_	_	_	157558	_	_
-7	ca	ca	_	None		_	_	_	_	157144	_	_
-8	rājyam	rājya	_	None	Case=Nom|Number=1|Gender=Neut	_	_	_	_	70493	_	_
+1	_	priya	ADJ	JJ	Case=Cpd	_	_	_	_	153185	_	_
+2	_	abhyupe	VERB	PPP	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	159382	_	_
+3	yudhiṣṭhirasya	yudhiṣṭhira	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	64859	_	_
+4	dyūte	dyūta	NOUN	NC	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_	90356	_	_
+5	pramattasya	pramad	VERB	PPP	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	162952	_	_
+6	hṛtaṃ	hṛ	VERB	PPP	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	_	157558	_	_
+7	ca	ca	CCONJ	CCD		_	_	_	_	157144	_	_
+8	rājyam	rājya	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	70493	_	_
 
 # text_line: nivāryamāṇaśca kurupravīraiḥ sarvaiḥ suhṛdbhir hyayam apyatajjñaḥ
-# text_line_id: 214493
+# text_line_id: 214498
 # text_line_counter: 9
 # text_line_subcounter: 1
 1-2	nivāryamāṇaśca	_	_	_	_	_	_	_	_
-1	_	nivāray	_	None	Case=Nom|Number=1|Gender=Masc|Tense=Pres|Voice=Pass|VerbForm=Part	_	_	_	_	161479	_	_
-2	_	ca	_	None		_	_	_	_	157144	_	_
+1	_	nivāray	VERB	KDP	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	_	161479	_	_
+2	_	ca	CCONJ	CCD		_	_	_	_	157144	_	_
 3-4	kurupravīraiḥ	_	_	_	_	_	_	_	_
-3	_	kuru	_	None	Case=Cpd	_	_	_	_	24725	_	_
-4	_	pravīra	_	None	Case=Ins|Number=3|Gender=Masc	_	_	_	_	155605	_	_
-5	sarvaiḥ	sarva	_	None	Case=Ins|Number=3|Gender=Masc	_	_	_	_	104444	_	_
-6	suhṛdbhir	suhṛd	_	None	Case=Ins|Number=3|Gender=Masc	_	_	_	_	98826	_	_
+3	_	kuru	NOUN	NC	Case=Cpd	_	_	_	_	24725	_	_
+4	_	pravīra	NOUN	NC	Case=Ins|Gender=Masc|Number=Plur	_	_	_	_	155605	_	_
+5	sarvaiḥ	sarva	ADJ	JQ	Case=Ins|Gender=Masc|Number=Plur	_	_	_	_	104444	_	_
+6	suhṛdbhir	suhṛd	NOUN	NC	Case=Ins|Gender=Masc|Number=Plur	_	_	_	_	98826	_	_
 7-8	hyayam	_	_	_	_	_	_	_	_
-7	_	hi	_	None		_	_	_	_	109879	_	_
-8	_	idam	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	37876	_	_
+7	_	hi	ADV	CX		_	_	_	_	109879	_	_
+8	_	idam	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37876	_	_
 9-10	apyatajjñaḥ	_	_	_	_	_	_	_	_
-9	_	api	_	None		_	_	_	_	21365	_	_
-10	_	atajjña	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	6787	_	_
+9	_	api	ADV	CX		_	_	_	_	21365	_	_
+10	_	atajjña	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	6787	_	_
 
 # text_line: gāndhārarājasya sutaṃ matākṣaṃ samāhvayed devitum ājamīḍhaḥ
-# text_line_id: 214494
+# text_line_id: 214499
 # text_line_counter: 9
 # text_line_subcounter: 2
 1-2	gāndhārarājasya	_	_	_	_	_	_	_	_
-1	_	gāndhāra	_	None	Case=Cpd	_	_	_	_	130295	_	120295
-2	_	rāja	_	None	Case=Gen|Number=1|Gender=Masc	_	_	_	_	70209	_	46329
-3	sutaṃ	suta	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	106624	_	48023
-4	matākṣaṃ	matākṣa	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	35991	_	_
-5	samāhvayed	samāhvā	_	None	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	165265	_	_
-6	devitum	dīv	_	None	VerbForm=Inf	_	_	_	_	157374	_	89344
-7	ājamīḍhaḥ	ājamīḍha	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	57498	_	127624
+1	_	gāndhāra	NOUN	NC	Case=Cpd	_	_	_	_	130295	_	120295
+2	_	rāja	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	70209	_	46329
+3	sutaṃ	suta	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	106624	_	48023
+4	matākṣaṃ	matākṣa	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	35991	_	_
+5	samāhvayed	samāhvā	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	165265	_	_
+6	devitum	dīv	VERB	CGDI	VerbForm=Inf	_	_	_	_	157374	_	89344
+7	ājamīḍhaḥ	ājamīḍha	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	57498	_	127624
 
 # text_line: durodarāstatra sahasraśo 'nye yudhiṣṭhiro yān viṣaheta jetum
-# text_line_id: 214495
+# text_line_id: 214500
 # text_line_counter: 10
 # text_line_subcounter: 1
 1-2	durodarāstatra	_	_	_	_	_	_	_	_
-1	_	durodara	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	85274	_	_
-2	_	tatra	_	None		_	_	_	_	95978	_	_
-3	sahasraśo	sahasraśas	_	None		_	_	_	_	111554	_	97517
-4	'nye	anya	_	None	Case=Nom|Number=3|Gender=Masc	_	_	_	_	164189	_	78363
-5	yudhiṣṭhiro	yudhiṣṭhira	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	64859	_	127624
-6	yān	yad	_	None	Case=Acc|Number=3|Gender=Masc	_	_	_	_	37877	_	_
-7	viṣaheta	viṣah	_	None	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	163632	_	_
-8	jetum	ji	_	None	VerbForm=Inf	_	_	_	_	156588	_	89155
+1	_	durodara	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	85274	_	_
+2	_	tatra	ADV	CAD		_	_	_	_	95978	_	_
+3	sahasraśo	sahasraśas	ADV	CX		_	_	_	_	111554	_	97517
+4	'nye	anya	PRON	PPX	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	164189	_	78363
+5	yudhiṣṭhiro	yudhiṣṭhira	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	64859	_	127624
+6	yān	yad	PRON	PRL	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	37877	_	_
+7	viṣaheta	viṣah	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	163632	_	_
+8	jetum	ji	VERB	CGDI	VerbForm=Inf	_	_	_	_	156588	_	89155
 
 # text_line: utsṛjya tān saubalam eva cāyaṃ samāhvayat tena jito 'kṣavatyām
-# text_line_id: 214496
+# text_line_id: 214501
 # text_line_counter: 10
 # text_line_subcounter: 2
-1	utsṛjya	utsṛj	_	None	VerbForm=Abs	_	_	_	_	160160	_	_
-2	tān	tad	_	None	Case=Acc|Number=3|Gender=Masc	_	_	_	_	37875	_	_
-3	saubalam	saubala	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	101644	_	102260
-4	eva	eva	_	None		_	_	_	_	39754	_	96832
+1	utsṛjya	utsṛj	VERB	CGDA	VerbForm=Conv	_	_	_	_	160160	_	_
+2	tān	tad	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	37875	_	_
+3	saubalam	saubala	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	101644	_	102260
+4	eva	eva	PART	CEM		_	_	_	_	39754	_	96832
 5-6	cāyaṃ	_	_	_	_	_	_	_	_
-5	_	ca	_	None		_	_	_	_	157144	_	104004
-6	_	idam	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	37876	_	129840
-7	samāhvayat	samāhvā	_	None	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	_	165265	_	_
-8	tena	tad	_	None	Case=Ins|Number=1|Gender=Masc	_	_	_	_	37875	_	129840
-9	jito	ji	_	None	Case=Nom|Number=1|Gender=Masc|VerbForm=PPP	_	_	_	_	156588	_	89155
-10	'kṣavatyām	akṣavatī	_	None	Case=Loc|Number=1|Gender=Fem	_	_	_	_	5428	_	131769
+5	_	ca	CCONJ	CCD		_	_	_	_	157144	_	104004
+6	_	idam	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37876	_	129840
+7	samāhvayat	samāhvā	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Sing	_	_	_	_	165265	_	_
+8	tena	tad	PRON	PRD	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	37875	_	129840
+9	jito	ji	VERB	PPP	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	156588	_	89155
+10	'kṣavatyām	akṣavatī	NOUN	NC	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_	5428	_	131769
 
 # text_line: sa dīvyamānaḥ pratidevanena akṣeṣu nityaṃ suparāṅmukheṣu
-# text_line_id: 214497
+# text_line_id: 214502
 # text_line_counter: 11
 # text_line_subcounter: 1
-1	sa	tad	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	37875	_	_
-2	dīvyamānaḥ	dīv	_	None	Case=Nom|Number=1|Gender=Masc|Tense=Pres|VerbForm=Part	_	_	_	_	157374	_	89344
-3	pratidevanena	pratidevana	_	None	Case=Ins|Number=1|Gender=Neut	_	_	_	_	209466	_	_
-4	akṣeṣu	akṣa	_	None	Case=Loc|Number=3|Gender=Masc	_	_	_	_	5396	_	_
-5	nityaṃ	nityam	_	None		_	_	_	_	202758	_	_
+1	sa	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37875	_	_
+2	dīvyamānaḥ	dīv	VERB	KDP	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	_	157374	_	89344
+3	pratidevanena	pratidevana	NOUN	NC	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	209466	_	_
+4	akṣeṣu	akṣa	NOUN	NC	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	5396	_	_
+5	nityaṃ	nityam	ADV	CX		_	_	_	_	202758	_	_
 6-7	suparāṅmukheṣu	_	_	_	_	_	_	_	_
-6	_	su	_	None		_	_	_	_	204329	_	_
-7	_	parāṅmukha	_	None	Case=Loc|Number=3|Gender=Masc	_	_	_	_	18716	_	_
+6	_	su	ADV	CAD		_	_	_	_	204329	_	_
+7	_	parāṅmukha	ADJ	JJ	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	18716	_	_
 
 # text_line: saṃrambhamāṇo vijitaḥ prasahya tatrāparādhaḥ śakuner na kaścit
-# text_line_id: 214498
+# text_line_id: 214503
 # text_line_counter: 11
 # text_line_subcounter: 2
-1	saṃrambhamāṇo	saṃrabh	_	None	Case=Nom|Number=1|Gender=Masc|Tense=Pres|VerbForm=Part	_	_	_	_	164700	_	_
-2	vijitaḥ	viji	_	None	Case=Nom|Number=1|Gender=Masc|VerbForm=PPP	_	_	_	_	163307	_	_
-3	prasahya	prasah	_	None	VerbForm=Abs	_	_	_	_	163108	_	_
+1	saṃrambhamāṇo	saṃrabh	VERB	KDP	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	_	164700	_	_
+2	vijitaḥ	viji	VERB	PPP	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	163307	_	_
+3	prasahya	prasah	VERB	CGDA	VerbForm=Conv	_	_	_	_	163108	_	_
 4-5	tatrāparādhaḥ	_	_	_	_	_	_	_	_
-4	_	tatra	_	None		_	_	_	_	95978	_	_
-5	_	aparādha	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	21005	_	_
-6	śakuner	śakuni	_	None	Case=Gen|Number=1|Gender=Masc	_	_	_	_	116367	_	102260
-7	na	na	_	None		_	_	_	_	43432	_	_
-8	kaścit	kaścit	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	164309	_	_
+4	_	tatra	ADV	CAD		_	_	_	_	95978	_	_
+5	_	aparādha	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	21005	_	_
+6	śakuner	śakuni	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	116367	_	102260
+7	na	na	PART	CNG		_	_	_	_	43432	_	_
+8	kaścit	kaścit	PRON	PRI	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	164309	_	_
 
 # text_line: tasmāt praṇamyaiva vaco bravītu vaicitravīryaṃ bahusāmayuktam
-# text_line_id: 214499
+# text_line_id: 214504
 # text_line_counter: 12
 # text_line_subcounter: 1
-1	tasmāt	tasmāt	_	None		_	_	_	_	203521	_	_
+1	tasmāt	tasmāt	ADV	CX		_	_	_	_	203521	_	_
 2-3	praṇamyaiva	_	_	_	_	_	_	_	_
-2	_	praṇam	_	None	VerbForm=Abs	_	_	_	_	162415	_	_
-3	_	eva	_	None		_	_	_	_	39754	_	_
-4	vaco	vacas	_	None	Case=Acc|Number=1|Gender=Neut	_	_	_	_	67891	_	_
-5	bravītu	brū	_	None	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	_	157262	_	_
-6	vaicitravīryaṃ	vaicitravīrya	_	None	Case=Acc|Number=1|Gender=Masc	_	_	_	_	117009	_	127640
+2	_	praṇam	VERB	CGDA	VerbForm=Conv	_	_	_	_	162415	_	_
+3	_	eva	PART	CEM		_	_	_	_	39754	_	_
+4	vaco	vacas	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	67891	_	_
+5	bravītu	brū	VERB	V	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	_	157262	_	_
+6	vaicitravīryaṃ	vaicitravīrya	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	117009	_	127640
 7-9	bahusāmayuktam	_	_	_	_	_	_	_	_
-7	_	bahu	_	None	Case=Cpd	_	_	_	_	154412	_	_
-8	_	sāman	_	None	Case=Cpd	_	_	_	_	112566	_	_
-9	_	yuj	_	None	Case=Acc|Number=1|Gender=Neut|VerbForm=PPP	_	_	_	_	157298	_	_
+7	_	bahu	ADJ	JJ	Case=Cpd	_	_	_	_	154412	_	_
+8	_	sāman	NOUN	NC	Case=Cpd	_	_	_	_	112566	_	_
+9	_	yuj	VERB	PPP	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	_	157298	_	_
 
 # text_line: tathā hi śakyo dhṛtarāṣṭraputraḥ svārthe niyoktuṃ puruṣeṇa tena
-# text_line_id: 214500
+# text_line_id: 214505
 # text_line_counter: 12
 # text_line_subcounter: 2
-1	tathā	tathā	_	None		_	_	_	_	95987	_	_
-2	hi	hi	_	None		_	_	_	_	109879	_	_
-3	śakyo	śakya	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	114849	_	_
+1	tathā	tathā	ADV	CX		_	_	_	_	95987	_	_
+2	hi	hi	ADV	CX		_	_	_	_	109879	_	_
+3	śakyo	śakya	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	114849	_	_
 4-5	dhṛtarāṣṭraputraḥ	_	_	_	_	_	_	_	_
-4	_	dhṛtarāṣṭra	_	None	Case=Cpd	_	_	_	_	43000	_	_
-5	_	putra	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	144475	_	_
+4	_	dhṛtarāṣṭra	NOUN	NC	Case=Cpd	_	_	_	_	43000	_	_
+5	_	putra	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	144475	_	_
 6-7	svārthe	_	_	_	_	_	_	_	_
-6	_	sva	_	None	Case=Cpd	_	_	_	_	114356	_	_
-7	_	artha	_	None	Case=Loc|Number=1|Gender=Masc	_	_	_	_	53136	_	_
-8	niyoktuṃ	niyuj	_	None	VerbForm=Inf	_	_	_	_	161344	_	_
-9	puruṣeṇa	puruṣa	_	None	Case=Ins|Number=1|Gender=Masc	_	_	_	_	144647	_	_
-10	tena	tad	_	None	Case=Ins|Number=1|Gender=Masc	_	_	_	_	37875	_	_
+6	_	sva	ADJ	JJ	Case=Cpd	_	_	_	_	114356	_	_
+7	_	artha	NOUN	NC	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	53136	_	_
+8	niyoktuṃ	niyuj	VERB	CGDI	VerbForm=Inf	_	_	_	_	161344	_	_
+9	puruṣeṇa	puruṣa	NOUN	NC	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	144647	_	_
+10	tena	tad	PRON	PRD	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	37875	_	_
 
 # text_line: vaiśaṃpāyana uvāca
-# text_line_id: 214501
+# text_line_id: 214506
 # text_line_counter: 13
 # text_line_subcounter: 1
-1	vaiśaṃpāyana	vaiśampāyana	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	118517	_	_
-2	uvāca	vac	_	None	Tense=Perf|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157264	_	_
+1	vaiśaṃpāyana	vaiśampāyana	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	118517	_	_
+2	uvāca	vac	VERB	V	Tense=Perf|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157264	_	_
 
 # text_line: evaṃ bruvatyeva madhupravīre śinipravīraḥ sahasotpapāta
-# text_line_id: 214502
+# text_line_id: 214507
 # text_line_counter: 13
 # text_line_subcounter: 2
-1	evaṃ	evam	_	None		_	_	_	_	39758	_	_
+1	evaṃ	evam	ADV	CX		_	_	_	_	39758	_	_
 2-3	bruvatyeva	_	_	_	_	_	_	_	_
-2	_	brū	_	None	Case=Loc|Number=1|Gender=Masc|Tense=Pres|VerbForm=Part	_	_	_	_	157262	_	_
-3	_	eva	_	None		_	_	_	_	39754	_	_
+2	_	brū	VERB	KDP	Case=Loc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	_	157262	_	_
+3	_	eva	PART	CEM		_	_	_	_	39754	_	_
 4-5	madhupravīre	_	_	_	_	_	_	_	_
-4	_	madhu	_	None	Case=Cpd	_	_	_	_	35441	_	_
-5	_	pravīra	_	None	Case=Loc|Number=1|Gender=Masc	_	_	_	_	155605	_	_
-6	śinipravīraḥ	śinipravīra	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	217809	_	131633
+4	_	madhu	NOUN	NC	Case=Cpd	_	_	_	_	35441	_	_
+5	_	pravīra	NOUN	NC	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	155605	_	_
+6	śinipravīraḥ	śinipravīra	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	217809	_	131633
 7-8	sahasotpapāta	_	_	_	_	_	_	_	_
-7	_	sahasā	_	None		_	_	_	_	204213	_	_
-8	_	utpat	_	None	Tense=Perf|Mood=Ind|Person=3|Number=Sing	_	_	_	_	160139	_	_
+7	_	sahasā	ADV	CX		_	_	_	_	204213	_	_
+8	_	utpat	VERB	V	Tense=Perf|Mood=Ind|Person=3|Number=Sing	_	_	_	_	160139	_	_
 
 # text_line: taccāpi vākyaṃ parinindya tasya samādade vākyam idaṃ samanyuḥ
-# text_line_id: 214503
+# text_line_id: 214508
 # text_line_counter: 13
 # text_line_subcounter: 3
 1-3	taccāpi	_	_	_	_	_	_	_	_
-1	_	tad	_	None	Case=Acc|Number=1|Gender=Neut	_	_	_	_	37875	_	_
-2	_	ca	_	None		_	_	_	_	157144	_	_
-3	_	api	_	None		_	_	_	_	21365	_	_
-4	vākyaṃ	vākya	_	None	Case=Acc|Number=1|Gender=Neut	_	_	_	_	76075	_	_
+1	_	tad	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37875	_	_
+2	_	ca	CCONJ	CCD		_	_	_	_	157144	_	_
+3	_	api	ADV	CX		_	_	_	_	21365	_	_
+4	vākyaṃ	vākya	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	76075	_	_
 5-6	parinindya	_	_	_	_	_	_	_	_
-5	_	pari	_	None		_	_	_	_	170864	_	_
-6	_	nind	_	None	VerbForm=Abs	_	_	_	_	159181	_	_
-7	tasya	tad	_	None	Case=Gen|Number=1|Gender=Masc	_	_	_	_	37875	_	_
-8	samādade	samādā	_	None	Tense=Perf|Mood=Ind|Person=3|Number=Sing	_	_	_	_	165193	_	_
-9	vākyam	vākya	_	None	Case=Acc|Number=1|Gender=Neut	_	_	_	_	76075	_	_
-10	idaṃ	idam	_	None	Case=Acc|Number=1|Gender=Neut	_	_	_	_	37876	_	_
+5	_	pari	ADV	CADP		_	_	_	_	170864	_	_
+6	_	nind	VERB	CGDA	VerbForm=Conv	_	_	_	_	159181	_	_
+7	tasya	tad	PRON	PRD	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	37875	_	_
+8	samādade	samādā	VERB	V	Tense=Perf|Mood=Ind|Person=3|Number=Sing	_	_	_	_	165193	_	_
+9	vākyam	vākya	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	76075	_	_
+10	idaṃ	idam	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37876	_	_
 11-12	samanyuḥ	_	_	_	_	_	_	_	_
-11	_	sa	_	None		_	_	_	_	202954	_	_
-12	_	manyu	_	None	Case=Nom|Number=1|Gender=Masc	_	_	_	_	36530	_	_
+11	_	sa	ADV	CX		_	_	_	_	202954	_	_
+12	_	manyu	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	36530	_	_
