@@ -1214,11 +1214,14 @@
 3	_	bali	NOUN	NC	Case=Cpd	_	_	_	_	154379	bali	_
 4	_	śeṣa	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	127336	śeṣam	_
 5	adbhir	ap	NOUN	NC	Case=Ins|Gender=|Number=Plur	_	_	_	_	167009	_	_
-6	abhyāsicyāvasalavi	dakṣiṇā	ADV	CX		_	_	_	_	168786	dakṣiṇā	_
-7	dakṣiṇā	ninī	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	161306	ninayet	_
-8	ninayet	tad	PRON	PRD	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	37875	tat	_
-9	tat	pitṛ	NOUN	NC	Case=Dat|Gender=Masc|Number=Plur	_	_	_	_	94899	pitṛbhyaḥ	_
-10	pitṛbhyo	bhū	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157250	bhavati	_
+6-7	abhyāsicyāvasalavi	_	_	_	_	_	_	_	_
+6	_	abhyāsic	VERB	CGDA	VerbForm=Conv	_	_	_	_	159323	abhyāsicya	_
+7	_	apasalavi	ADV	CX		_	_	_	_	21194	avasalavi	_
+8	dakṣiṇā	dakṣiṇā	ADV	CX		_	_	_	_	168786	dakṣiṇā	_
+9	ninayet	ninī	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	161306	ninayet	_
+10	tat	tad	PRON	PRD	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	37875	tat	_
+11	pitṛbhyo	pitṛ	NOUN	NC	Case=Dat|Gender=Masc|Number=Plur	_	_	_	_	94899	pitṛbhyaḥ	_
+12	bhavati	bhū	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157250	bhavati	_
 
 # text_line: āsīna eva 'gnau juhuyāt
 # text_line_id: 101564
@@ -1351,7 +1354,7 @@
 11	balitantraṃ	balitantra	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	153870	balitantram	_
 12	kurvīta	kṛ	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	156168	kurvīta	_
 
-# text_line: yasya tv eṣām agrataḥ siddhyed niyuktam agnau kṛtvāgraṃ brāhmaṇāya dattvā bhuñjīta
+# text_line: yasya tv eṣām agrataḥ sidhyed niyuktam agnau kṛtvāgraṃ brāhmaṇāya dattvā bhuñjīta
 # text_line_id: 101575
 # text_line_counter: 24
 # text_line_subcounter: 
@@ -1359,7 +1362,7 @@
 2	tv	tu	CCONJ	CCD		_	_	_	_	82701	tu	_
 3	eṣām	idam	PRON	PRD	Case=Gen|Gender=Masc|Number=Plur	_	_	_	_	37876	eṣām	_
 4	agrataḥ	agratas	ADV	CX		_	_	_	_	6002	agratas	_
-5	siddhyed	niyuj	VERB	PPP	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	_	161344	niyuktam	_
+5	sidhyed	niyuj	VERB	PPP	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	_	161344	niyuktam	_
 6	niyuktam	agni	NOUN	NC	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	5705	agnau	_
 7-8	agnau	_	_	_	_	_	_	_	_
 7	_	kṛ	VERB	CGDA	VerbForm=Conv	_	_	_	_	156168	kṛtvā	_
@@ -1372,11 +1375,14 @@
 # text_line_id: 101576
 # text_line_counter: 25
 # text_line_subcounter: 
-1	jaghanyaṃ	jaghanya	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	87275	jaghanyam	_
-2-4	bhuñjītaiveti	_	_	_	_	_	_	_	_
-2	_	bhuj	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157293	bhuñjīta	_
-3	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-4	_	iti	PART	CQT		_	_	_	_	63331	iti	_
+1-2	yasyo	_	_	_	_	_	_	_	_
+1	_	yad	PRON	PRL	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	37877	yasya	_
+2	_	u	PART	CEM		_	_	_	_	213150	u	_
+3	jaghanyaṃ	jaghanya	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	87275	jaghanyam	_
+4-6	bhuñjītaiveti	_	_	_	_	_	_	_	_
+4	_	bhuj	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157293	bhuñjīta	_
+5	_	eva	PART	CEM		_	_	_	_	39754	eva	_
+6	_	iti	PART	CQT		_	_	_	_	63331	iti	_
 
 # text_line: athāpy udāharanti
 # text_line_id: 101577
@@ -1419,16 +1425,18 @@
 6	hared	hṛ	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157558	haret	_
 7	yavebhyo	yava	NOUN	NC	Case=Dat|Gender=Masc|Number=Plur	_	_	_	_	74014	yavebhyaḥ	_
 8	'dhy	adhi	ADV	CADP		_	_	_	_	170078	adhi	_
-9	ā	vrīhi	NOUN	NC	Case=Dat|Gender=Masc|Number=Plur	_	_	_	_	165641	_	_
+9	ā	ā	ADV	CADP		_	_	_	_	213041	ā	_
 10	vrīhibhyo	vrīhi	NOUN	NC	Case=Dat|Gender=Masc|Number=Plur	_	_	_	_	165641	_	_
-11	vrīhibhyo	adhi	ADV	CADP		_	_	_	_	170078	adhi	_
-12	'dhy	yava	NOUN	NC	Case=Dat|Gender=Masc|Number=Plur	_	_	_	_	74014	yavebhyaḥ	_
-13	ā	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37875	saḥ	_
-14	yavebhyaḥ	tu	CCONJ	CCD		_	_	_	_	82701	tu	_
-15	sa	āsasya	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	171656	āsasyaḥ	_
-16	tv	nāma	ADV	CX		_	_	_	_	33528	nāma	_
-17	āsasyo	bali	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	154379	baliḥ	_
-18	nāma	bhū	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157250	bhavati	_
+11	vrīhibhyo	vrīhi	NOUN	NC	Case=Dat|Gender=Masc|Number=Plur	_	_	_	_	165641	_	_
+12	'dhy	adhi	ADV	CADP		_	_	_	_	170078	adhi	_
+13	ā	ā	ADV	CADP		_	_	_	_	213041	ā	_
+14	yavebhyaḥ	yava	NOUN	NC	Case=Dat|Gender=Masc|Number=Plur	_	_	_	_	74014	yavebhyaḥ	_
+15	sa	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37875	saḥ	_
+16	tv	tu	CCONJ	CCD		_	_	_	_	82701	tu	_
+17	āsasyo	āsasya	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	171656	āsasyaḥ	_
+18	nāma	nāma	ADV	CX		_	_	_	_	33528	nāma	_
+19	balir	bali	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	154379	baliḥ	_
+20	bhavati	bhū	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157250	bhavati	_
 
 # text_line: dīrghāyur haiva bhavati
 # text_line_id: 101580
