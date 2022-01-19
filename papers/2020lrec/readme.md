@@ -4,7 +4,7 @@ Oliver Hellwig, Salvatore Scarlata, Elia Ackermann and Paul Widmer: The Treebank
 
 Subdirectories:
 * treebank: The treebank published with the paper ('sanskrit.conllu') and an updated and enlarged version ('sanskrit-2022.conllu').
-* paper: pdf versions of the paper and the annotation guidelines. 'guidelines.pdf' is the original version, 'guidelines-v30.pdf' reflects decisions made during ongoing annotation.
+* paper: pdf versions of the paper and the annotation guidelines. 'guidelines.pdf' is the original version. The current citable version of the guidelines can be downloaded from [https://www.zora.uzh.ch/id/eprint/212699/].
 * python: code for training the dependency labeler described in the paper
 
 
