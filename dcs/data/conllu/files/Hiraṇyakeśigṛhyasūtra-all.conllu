@@ -310,7 +310,7 @@
 6	_	ap	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	167009	apaḥ	_
 7-9	ācamyāpareṇāgniṃ	_	_	_	_	_	_	_	_
 7	_	ācam	VERB	CGDA	VerbForm=Conv	_	_	_	_	159737	ācamya	_
-8	_	apara	PRON	PPX	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	166280	apareṇa	_
+8	_	apareṇa	ADV	CX		_	_	_	_	222960	apareṇa	_
 9	_	agni	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	5705	agnim	_
 10-11	dakṣiṇātikramya	_	_	_	_	_	_	_	_
 10	_	dakṣiṇā	ADV	CX		_	_	_	_	168786	dakṣiṇā	_
@@ -348,7 +348,7 @@
 11	nakhāc	nakha	NOUN	NC	Case=Abl|Gender=Masc|Number=Sing	_	_	_	_	43607	nakhāt	_
 12-13	chittvādbhir	_	_	_	_	_	_	_	_
 12	_	chid	VERB	CGDA	VerbForm=Conv	_	_	_	_	156265	chittvā	_
-13	_	ad	ADJ	JJ	Case=Ins|Gender=Fem|Number=Plur	_	_	_	_	221023	adbhiḥ	_
+13	_	ap	NOUN	NC	Case=Ins|Gender=Fem|Number=Plur	_	_	_	_	167009	adbhiḥ	_
 14	anumṛjya	anumṛj	VERB	CGDA	VerbForm=Conv	_	_	_	_	157979	anumṛjya	_
 15-16	pavitrāntarhite	_	_	_	_	_	_	_	_
 15	_	pavitra	NOUN	NC	Case=Cpd	_	_	_	_	92634	pavitra	_
@@ -457,7 +457,7 @@
 27	pavitrābhyāṃ	pavitra	NOUN	NC	Case=Ins|Gender=Neut|Number=Dual	_	_	_	_	92634	pavitrābhyām	_
 28-29	punarāhāram	_	_	_	_	_	_	_	_
 28	_	punar	ADV	CAD		_	_	_	_	143659	punar	_
-29	_	āhāra	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	63136	āhāram	_
+29	_	āhṛ	VERB	CGDA	VerbForm=Conv	_	_	_	_	160039	āhāram	_
 30	ājyaṃ	ājya	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	57582	ājyam	_
 31-32	trirutpūya	_	_	_	_	_	_	_	_
 31	_	tris	ADV	CX		_	_	_	_	84415	tris	_
@@ -7956,7 +7956,7 @@
 6-7	abhīva	_	_	_	_	_	_	_	_
 6	_	abhi	ADV	CADP		_	_	_	_	171289	abhi	_
 7	_	iva	PART	CCM		_	_	_	_	63807	iva	_
-8	lomāny	loman	NOUN	NC	Case=Nom|Gender=Neut|Number=Plur	_	_	_	_	67138	lomāni	_
+8	lomāny	loman	NOUN	NC	Case=Acc|Gender=Neut|Number=Plur	_	_	_	_	67138	lomāni	_
 9	aṅguṣṭhaṃ	aṅguṣṭha	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	6299	aṅguṣṭham	_
 10-11	sahāṅgulibhir	_	_	_	_	_	_	_	_
 10	_	saha	ADV	CX		_	_	_	_	105774	saha	_
@@ -14280,40 +14280,42 @@
 2	_	yajña	NOUN	NC	Case=Cpd	_	_	_	_	72936	yajña	_
 3	_	upavītin	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	45622	upavītī	_
 4	ācānto	ācam	VERB	PPP	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	159737	ācāntaḥ	_
-5	'nāprītena	anāprīta	ADJ	JJ	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	205583	anāprītena	_
-6-7	śarāveṇodakam	_	_	_	_	_	_	_	_
-6	_	śarāva	NOUN	NC	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	116857	śarāveṇa	_
-7	_	udaka	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	56229	udakam	_
-8	āhṛtya	āhṛ	VERB	CGDA	VerbForm=Conv	_	_	_	_	160039	āhṛtya	_
-9	sabhāyāṃ	sabhā	NOUN	NC	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_	18377	sabhāyām	_
-10	madhye	madhya	NOUN	NC	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_	35810	madhye	_
-11	'dhidevanam	adhidevana	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	7991	adhidevanam	_
-12-14	uddhatyāvokṣyākṣān	_	_	_	_	_	_	_	_
-12	_	uddhan	VERB	CGDA	VerbForm=Conv	_	_	_	_	160235	uddhatya	_
-13	_	avokṣ	VERB	CGDA	VerbForm=Conv	_	_	_	_	205584	avokṣya	_
-14	_	akṣa	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	5396	akṣān	_
-15	nyupya	nivap	VERB	CGDA	VerbForm=Conv	_	_	_	_	161469	nyupya	_
-16	vyūhya	vyūh	VERB	CGDA	VerbForm=Conv	_	_	_	_	164684	vyūhya	_
-17	samūhya	samūh	VERB	CGDA	VerbForm=Conv	_	_	_	_	216275	samūhya	_
-18-19	prathayitvopariṣṭāt	_	_	_	_	_	_	_	_
-18	_	prathay	VERB	CGDA	VerbForm=Conv	_	_	_	_	157877	prathayitvā	_
-19	_	upariṣṭāt	ADV	CX		_	_	_	_	45469	upariṣṭāt	_
-20	sabhāyāṃ	sabhā	NOUN	NC	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_	18377	sabhāyām	_
-21	vyūhya	vyūh	VERB	CGDA	VerbForm=Conv	_	_	_	_	164684	vyūhya	_
-22	tṛṇāni	tṛṇa	NOUN	NC	Case=Acc|Gender=Neut|Number=Plur	_	_	_	_	83182	tṛṇāni	_
-23	tena	tad	PRON	PRD	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	37875	tena	_
-24	kumāram	kumāra	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	24502	kumāram	_
-25-27	abhyāhṛtyākṣeṣūttānaṃ	_	_	_	_	_	_	_	_
-25	_	abhyāhṛ	VERB	CGDA	VerbForm=Conv	_	_	_	_	159325	abhyāhṛtya	_
-26	_	akṣa	NOUN	NC	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	5396	akṣeṣu	_
-27	_	uttāna	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	55604	uttānam	_
-28	nipātya	nipātay	VERB	CGDA	VerbForm=Conv	_	_	_	_	161309	nipātya	_
-29	dadhnā	dadhi	NOUN	NC	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	100937	dadhnā	_
-30-33	lavaṇodakamiśreṇābhyukṣati	_	_	_	_	_	_	_	_
-30	_	lavaṇa	ADJ	JJ	Case=Cpd	_	_	_	_	81155	lavaṇa	_
-31	_	udaka	NOUN	NC	Case=Cpd	_	_	_	_	56229	udaka	_
-32	_	miśra	ADJ	JJ	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	136760	miśreṇa	_
-33	_	abhyukṣ	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	159327	abhyukṣati	_
+5-6	'nāprītena	_	_	_	_	_	_	_	_
+5	_	an	PART	CNG		_	_	_	_	213304	an	_
+6	_	āprī	VERB	PPP	Case=Ins|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	159836	āprītena	_
+7-8	śarāveṇodakam	_	_	_	_	_	_	_	_
+7	_	śarāva	NOUN	NC	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	116857	śarāveṇa	_
+8	_	udaka	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	56229	udakam	_
+9	āhṛtya	āhṛ	VERB	CGDA	VerbForm=Conv	_	_	_	_	160039	āhṛtya	_
+10	sabhāyāṃ	sabhā	NOUN	NC	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_	18377	sabhāyām	_
+11	madhye	madhya	NOUN	NC	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_	35810	madhye	_
+12	'dhidevanam	adhidevana	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	7991	adhidevanam	_
+13-15	uddhatyāvokṣyākṣān	_	_	_	_	_	_	_	_
+13	_	uddhan	VERB	CGDA	VerbForm=Conv	_	_	_	_	160235	uddhatya	_
+14	_	avokṣ	VERB	CGDA	VerbForm=Conv	_	_	_	_	205584	avokṣya	_
+15	_	akṣa	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	5396	akṣān	_
+16	nyupya	nivap	VERB	CGDA	VerbForm=Conv	_	_	_	_	161469	nyupya	_
+17	vyūhya	vyūh	VERB	CGDA	VerbForm=Conv	_	_	_	_	164684	vyūhya	_
+18	samūhya	samūh	VERB	CGDA	VerbForm=Conv	_	_	_	_	216275	samūhya	_
+19-20	prathayitvopariṣṭāt	_	_	_	_	_	_	_	_
+19	_	prathay	VERB	CGDA	VerbForm=Conv	_	_	_	_	157877	prathayitvā	_
+20	_	upariṣṭāt	ADV	CX		_	_	_	_	45469	upariṣṭāt	_
+21	sabhāyāṃ	sabhā	NOUN	NC	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_	18377	sabhāyām	_
+22	vyūhya	vyūh	VERB	CGDA	VerbForm=Conv	_	_	_	_	164684	vyūhya	_
+23	tṛṇāni	tṛṇa	NOUN	NC	Case=Acc|Gender=Neut|Number=Plur	_	_	_	_	83182	tṛṇāni	_
+24	tena	tad	PRON	PRD	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	37875	tena	_
+25	kumāram	kumāra	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	24502	kumāram	_
+26-28	abhyāhṛtyākṣeṣūttānaṃ	_	_	_	_	_	_	_	_
+26	_	abhyāhṛ	VERB	CGDA	VerbForm=Conv	_	_	_	_	159325	abhyāhṛtya	_
+27	_	akṣa	NOUN	NC	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	5396	akṣeṣu	_
+28	_	uttāna	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	55604	uttānam	_
+29	nipātya	nipātay	VERB	CGDA	VerbForm=Conv	_	_	_	_	161309	nipātya	_
+30	dadhnā	dadhi	NOUN	NC	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	100937	dadhnā	_
+31-34	lavaṇodakamiśreṇābhyukṣati	_	_	_	_	_	_	_	_
+31	_	lavaṇa	ADJ	JJ	Case=Cpd	_	_	_	_	81155	lavaṇa	_
+32	_	udaka	NOUN	NC	Case=Cpd	_	_	_	_	56229	udaka	_
+33	_	miśra	ADJ	JJ	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	136760	miśreṇa	_
+34	_	abhyukṣ	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	159327	abhyukṣati	_
 
 # text_line: āghnanti kaṃsaṃ dakṣiṇataḥ
 # text_line_id: 423322
