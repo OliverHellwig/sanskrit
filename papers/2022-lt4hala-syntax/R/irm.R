@@ -57,8 +57,8 @@ Y = match(x$j,keep)
 K = 30
 z = sample(K,n,replace=TRUE) # class assignments
 alpha = 1 # DP
-beta = 0.5#1
-itrs = 100#300
+beta = 0.5
+itrs = 100
 sigma.t = 0.1
 mu.t.0 = 0
 sigma.t.0 = 0.1
