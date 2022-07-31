@@ -6,7 +6,11 @@ This directory contains data and code for our paper at the World Sanskrit Confer
 Oliver Hellwig, Sven Sellmer and Kyoko Amano: The Vedic corpus as a graph. An updated version of Bloomfield’s Vedic Concordance
 ```
 
-The main contribution is found in data/vc.xml. This file is a new and extended version of Bloomfield's well known Vedic Concordance, based on the electronic edition by Franceschini (2007). Our aim was to explicitly encode the data structures found in previous printed and electronic versions of this work. This includes, among other, resolving all citations and variants. Detailed information can be found in the paper (directory paper/).
+The main contribution is found in data/vc.xml. This file is a new and extended version of Bloomfield's well known Vedic Concordance, based on the electronic edition by Franceschini (2007). 
+Bloomfield's Vedic Concordance ([see here](http://www.people.fas.harvard.edu/~witzel/VedicConcordance/ReadmeEng.html) for the original data and the copyright notice) is extremely useful, but can be difficult to parse in its original format.
+It is also complicated to find text references consumed in lists and enumerations.
+The entry ŚB.3.2.2.20-5.20, for example, can be expanded into ŚB.3.2.2.20; ŚB.3.2.3.20; ŚB.3.2.4.20; ŚB.3.2.5.20.
+Our aim was to explicitly encode such kind of information found in previous printed and electronic versions of this work. This includes, among other, resolving all citations and variants. Detailed information is given in the paper (directory paper/).
 
 Entries from the following texts have been added to the Vedic Concordance:
 
