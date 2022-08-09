@@ -2,116 +2,106 @@
 ## text_id: 464
 ## chapter: AVŚ, 1, 13
 ## chapter_id: 10582
+# text = namaḥ te astu vidyute namaḥ te stanayitnave
+# sent_id = 609375_1
+1	namaḥ	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	LemmaId=44133|OccId=4526716|Unsandhied=namaḥ|Annotator=Ol
+2	te	tvad	PRON	_	Case=Dat|Number=Sing	0	root	_	LemmaId=37880|OccId=4526717|Unsandhied=te|Annotator=Ol
+3	astu	as	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	cop	_	LemmaId=156122|OccId=4526718|Unsandhied=astu|Annotator=Ol
+4	vidyute	vidyut	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	nmod:appos	_	LemmaId=122790|OccId=4526719|Unsandhied=vidyute|Annotator=Ol|Punctuation=comma
+5	namaḥ	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	LemmaId=44133|OccId=4526720|Unsandhied=namaḥ|Annotator=Ol
+6	te	tvad	PRON	_	Case=Dat|Number=Sing	2	conj	_	LemmaId=37880|OccId=4526721|Unsandhied=te|Annotator=Ol
+7	stanayitnave	stanayitnu	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	6	nmod:appos	_	LemmaId=102227|OccId=4526722|Unsandhied=stanayitnave|Annotator=Ol|Punctuation=fullStop
 
-# text_line: namas te astu vidyute namas te stanayitnave
-# text_line_id: 608264
-# text_line_counter: 1
-# text_line_subcounter: 1
-1	namas	namas	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	44133	namaḥ	_
-2	te	tvad	PRON	PPR	Case=Dat|Gender=|Number=Sing	_	_	_	_	37880	te	_
-3	astu	as	VERB	V	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	_	156122	astu	_
-4	vidyute	vidyut	NOUN	NC	Case=Dat|Gender=Fem|Number=Sing	_	_	_	_	122790	vidyute	_
-5	namas	namas	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	44133	namaḥ	_
-6	te	tvad	PRON	PPR	Case=Dat|Gender=|Number=Sing	_	_	_	_	37880	te	_
-7	stanayitnave	stanayitnu	NOUN	NC	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_	102227	stanayitnave	_
+# text = namaḥ te astu aśmane yena ā dūḍāśe asyasi
+# sent_id = 609376_1
+1	namaḥ	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	LemmaId=44133|OccId=4526723|Unsandhied=namaḥ|Annotator=Ol
+2	te	tvad	PRON	_	Case=Dat|Number=Sing	0	root	_	LemmaId=37880|OccId=4526724|Unsandhied=te|Annotator=Ol
+3	astu	as	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	cop	_	LemmaId=156122|OccId=4526725|Unsandhied=astu|Annotator=Ol
+4	aśmane	aśman	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	2	nmod:appos	_	LemmaId=60078|OccId=4526726|Unsandhied=aśmane|Annotator=Ol|Punctuation=comma
+5	yena	yad	PRON	_	Case=Ins|Gender=Masc|Number=Sing	8	obl:instr	_	LemmaId=37877|OccId=4526783|Unsandhied=yena|Annotator=Ol
+6	ā	ā	ADV	_	_	8	advmod	_	LemmaId=213041|OccId=4526784|Unsandhied=ā|Annotator=Ol
+7	dūḍāśe	dūḍāś	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	8	obl:goal	_	LemmaId=86013|OccId=4526727|Unsandhied=dūḍāśe|Annotator=Ol
+8	asyasi	as	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	4	acl:rel	_	LemmaId=156123|OccId=4526728|Unsandhied=asyasi|Annotator=Ol|Punctuation=fullStop
 
-# text_line: namas te astv aśmane yenā dūḍāśe asyasi
-# text_line_id: 608265
-# text_line_counter: 1
-# text_line_subcounter: 2
-1	namas	namas	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	44133	namaḥ	_
-2	te	tvad	PRON	PPR	Case=Dat|Gender=|Number=Sing	_	_	_	_	37880	te	_
-3	astv	as	VERB	V	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	_	156122	astu	_
-4	aśmane	aśman	NOUN	NC	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_	60078	aśmane	_
-5-6	yenā	_	_	_	_	_	_	_	_
-5	_	yad	PRON	PRL	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	37877	yena	_
-6	_	ā	ADV	CADP		_	_	_	_	213041	ā	_
-7	dūḍāśe	dūḍāś	ADJ	JJ	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_	86013	dūḍāśe	_
-8	asyasi	as	VERB	V	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	_	156123	asyasi	_
+# text = namaḥ te pravataḥ napāt yatas tapaḥ samūhasi
+# sent_id = 609377_1
+1	namaḥ	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	LemmaId=44133|OccId=4526729|Unsandhied=namaḥ|Annotator=Ol
+2	te	tvad	PRON	_	Case=Dat|Number=Sing	0	root	_	LemmaId=37880|OccId=4526730|Unsandhied=te|Annotator=Ol
+3	pravataḥ	pravat	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	LemmaId=155544|OccId=4526731|Unsandhied=pravataḥ|Annotator=Ol
+4	napāt	napāt	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	LemmaId=216442|OccId=4526732|Unsandhied=napāt|Annotator=Ol|Punctuation=comma
+5	yatas	yatas	SCONJ	_	_	7	obl:source	_	LemmaId=73226|OccId=4526733|Unsandhied=yatas|Annotator=Ol
+6	tapaḥ	tapas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	LemmaId=96401|OccId=4526734|Unsandhied=tapaḥ|Annotator=Ol
+7	samūhasi	samūh	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	acl:rel	_	LemmaId=216275|OccId=4526735|Unsandhied=samūhasi|Annotator=Ol|Punctuation=fullStop
 
-# text_line: namas te pravato napād yatas tapaḥ samūhasi
-# text_line_id: 608266
-# text_line_counter: 2
-# text_line_subcounter: 1
-1	namas	namas	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	44133	namaḥ	_
-2	te	tvad	PRON	PPR	Case=Dat|Gender=|Number=Sing	_	_	_	_	37880	te	_
-3	pravato	pravat	NOUN	NC	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_	155544	pravataḥ	_
-4	napād	napāt	NOUN	NC	Case=Voc|Gender=Masc|Number=Sing	_	_	_	_	216442	napāt	_
-5	yatas	yatas	SCONJ	CSB		_	_	_	_	73226	yatas	_
-6	tapaḥ	tapas	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	96401	tapaḥ	_
-7	samūhasi	samūh	VERB	V	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	_	216275	samūhasi	_
+# text = mṛḍayā naḥ tanūbhyaḥ
+# sent_id = 609378_1
+1	mṛḍayā	mṛḍay	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=170904|OccId=4526736|Unsandhied=mṛḍayā|Annotator=Ol
+2	naḥ	mad	PRON	_	Case=Gen|Number=Plur	3	nmod	_	LemmaId=37879|OccId=4526737|Unsandhied=naḥ|Annotator=Ol
+3	tanūbhyaḥ	tanū	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	1	obj	_	LemmaId=96222|OccId=4526738|Unsandhied=tanūbhyaḥ|Annotator=Ol|Punctuation=fullStop
 
-# text_line: mṛḍayā nas tanūbhyo mayas tokebhyas kṛdhi
-# text_line_id: 608267
-# text_line_counter: 2
-# text_line_subcounter: 2
-1	mṛḍayā	mṛḍay	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	_	170904	mṛḍayā	_
-2	nas	mad	PRON	PPR	Case=Gen|Gender=|Number=Plur	_	_	_	_	37879	naḥ	_
-3	tanūbhyo	tanū	NOUN	NC	Case=Dat|Gender=Fem|Number=Plur	_	_	_	_	96222	tanūbhyaḥ	_
-4	mayas	mayas	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	36825	mayaḥ	_
-5	tokebhyas	toka	NOUN	NC	Case=Dat|Gender=Neut|Number=Plur	_	_	_	_	83564	tokebhyaḥ	_
-6	kṛdhi	kṛ	VERB	V	Tense=Aor|Mood=Imp|Person=2|Number=Sing	_	_	_	_	156168	kṛdhi	_
+# text = mayaḥ tokebhyaḥ kṛdhi
+# sent_id = 609378_2
+1	mayaḥ	mayas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	LemmaId=36825|OccId=4526739|Unsandhied=mayaḥ|Annotator=Ol
+2	tokebhyaḥ	toka	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	3	iobj	_	LemmaId=83564|OccId=4526785|Unsandhied=tokebhyaḥ|Annotator=Ol
+3	kṛdhi	kṛ	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Past	0	root	_	LemmaId=156168|OccId=4526740|Unsandhied=kṛdhi|Annotator=Ol|Punctuation=fullStop
 
-# text_line: pravato napān nama evāstu tubhyaṃ namas te hetaye tapuṣe ca kṛṇmaḥ
-# text_line_id: 608268
-# text_line_counter: 3
-# text_line_subcounter: 1
-1	pravato	pravat	NOUN	NC	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_	155544	pravataḥ	_
-2	napān	napāt	NOUN	NC	Case=Voc|Gender=Masc|Number=Sing	_	_	_	_	216442	napāt	_
-3	nama	namas	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	44133	namaḥ	_
-4-5	evāstu	_	_	_	_	_	_	_	_
-4	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-5	_	as	VERB	V	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	_	156122	astu	_
-6	tubhyaṃ	tvad	PRON	PPR	Case=Dat|Gender=|Number=Sing	_	_	_	_	37880	tubhyam	_
-7	namas	namas	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	44133	namaḥ	_
-8	te	tvad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37880	te	_
-9	hetaye	heti	NOUN	NC	Case=Dat|Gender=Fem|Number=Sing	_	_	_	_	110752	hetaye	_
-10	tapuṣe	tapus	NOUN	NC	Case=Dat|Gender=Neut|Number=Sing	_	_	_	_	96433	tapuṣe	_
-11	ca	ca	CCONJ	CCD		_	_	_	_	157144	ca	_
-12	kṛṇmaḥ	kṛ	VERB	V	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	_	156168	kṛṇmaḥ	_
+# text = pravataḥ napāt namaḥ eva astu tubhyam
+# sent_id = 609379_1
+1	pravataḥ	pravat	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	LemmaId=155544|OccId=4526741|Unsandhied=pravataḥ|Annotator=Ol
+2	napāt	napāt	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	6	vocative	_	LemmaId=216442|OccId=4526742|Unsandhied=napāt|Annotator=Ol
+3	namaḥ	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	LemmaId=44133|OccId=4526743|Unsandhied=namaḥ|Annotator=Ol
+4	eva	eva	PART	_	_	3	discourse	_	LemmaId=39754|OccId=4526744|Unsandhied=eva|Annotator=Ol
+5	astu	as	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	6	cop	_	LemmaId=156122|OccId=4526745|Unsandhied=astu|Annotator=Ol
+6	tubhyam	tvad	PRON	_	Case=Dat|Number=Sing	0	root	_	LemmaId=37880|OccId=4526746|Unsandhied=tubhyam|Annotator=Ol|Punctuation=fullStop
 
-# text_line: vidma te dhāma paramaṃ guhā yat samudre antar nihitāsi nābhiḥ
-# text_line_id: 608269
-# text_line_counter: 3
-# text_line_subcounter: 2
-1	vidma	vid	VERB	V	Tense=Perf|Mood=Ind|Person=1|Number=Plur	_	_	_	_	158058	vidma	_
-2	te	tvad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37880	te	_
-3	dhāma	dhāman	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	42443	dhāma	_
-4	paramaṃ	parama	ADJ	JJ	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	16405	paramam	_
-5	guhā	guhā	ADV	CX		_	_	_	_	218720	guhā	_
-6	yat	yad	PRON	PRL	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	37877	yat	_
-7	samudre	samudra	NOUN	NC	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	30275	samudre	_
-8	antar	antar	ADV	CAD		_	_	_	_	167614	antar	_
-9-10	nihitāsi	_	_	_	_	_	_	_	_
-9	_	nidhā	VERB	PPP	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	_	161295	nihitā	_
-10	_	as	VERB	V	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	_	156122	asi	_
-11	nābhiḥ	nābhi	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	33491	nābhiḥ	_
+# text = namaḥ te hetaye tapuṣe ca kṛṇmaḥ
+# sent_id = 609379_2
+1	namaḥ	namas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	LemmaId=44133|OccId=4526747|Unsandhied=namaḥ|Annotator=Ol
+2	te	tvad	PRON	_	Case=Gen|Number=Sing	3	nmod	_	LemmaId=37880|OccId=4526748|Unsandhied=te|Annotator=Ol
+3	hetaye	heti	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	6	iobj	_	LemmaId=110752|OccId=4526749|Unsandhied=hetaye|Annotator=Ol
+4	tapuṣe	tapus	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	3	conj	_	LemmaId=96433|OccId=4526750|Unsandhied=tapuṣe|Annotator=Ol
+5	ca	ca	CCONJ	_	_	4	cc	_	LemmaId=157144|OccId=4526751|Unsandhied=ca|Annotator=Ol
+6	kṛṇmaḥ	kṛ	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	LemmaId=156168|OccId=4526752|Unsandhied=kṛṇmaḥ|Annotator=Ol|Punctuation=fullStop
 
-# text_line: yāṃ tvā devā asṛjanta viśva iṣuṃ kṛṇvānā asanāya dhṛṣṇum
-# text_line_id: 608270
-# text_line_counter: 4
-# text_line_subcounter: 1
-1	yāṃ	yad	PRON	PRL	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	37877	yām	_
-2	tvā	tvad	PRON	PPR	Case=Acc|Gender=|Number=Sing	_	_	_	_	37880	tvā	_
-3	devā	deva	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	86559	devāḥ	_
-4	asṛjanta	sṛj	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157522	asṛjanta	_
-5	viśva	viśva	ADJ	JQ	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	139262	viśve	_
-6	iṣuṃ	iṣu	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	63823	iṣum	_
-7	kṛṇvānā	kṛ	VERB	KDP	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	_	156168	kṛṇvānāḥ	_
-8	asanāya	asana	NOUN	NC	Case=Dat|Gender=Neut|Number=Sing	_	_	_	_	60576	asanāya	_
-9	dhṛṣṇum	dhṛṣṇu	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	43063	dhṛṣṇum	_
+# text = vidma te dhāma paramam guhā yat
+# sent_id = 609380_1
+1	vidma	vid	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past	0	root	_	LemmaId=158058|OccId=4526753|Unsandhied=vidma|Annotator=Ol
+2	te	tvad	PRON	_	Case=Gen|Number=Sing	3	nmod	_	LemmaId=37880|OccId=4526754|Unsandhied=te|Annotator=Ol
+3	dhāma	dhāman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	LemmaId=42443|OccId=4526755|Unsandhied=dhāma|Annotator=Ol
+4	paramam	parama	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	3	amod	_	LemmaId=16405|OccId=4526756|Unsandhied=paramam|Annotator=Ol|Punctuation=comma
+5	guhā	guhā	ADV	_	_	3	acl:rel	_	LemmaId=218720|OccId=4526757|Unsandhied=guhā|Annotator=Ol
+6	yat	yad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	LemmaId=37877|OccId=5054933|Unsandhied=yat|Annotator=Ol|Punctuation=fullStop
 
-# text_line: sā no mṛḍa vidathe gṛṇānā tasyai te namo astu devi
-# text_line_id: 608271
-# text_line_counter: 4
-# text_line_subcounter: 2
-1	sā	tad	PRON	PRD	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	37875	sā	_
-2	no	mad	PRON	PPR	Case=Dat|Gender=|Number=Plur	_	_	_	_	37879	naḥ	_
-3	mṛḍa	mṛḍ	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	_	218727	mṛḍa	_
-4	vidathe	vidatha	NOUN	NC	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_	121229	vidathe	_
-5	gṛṇānā	gṛ	VERB	KDP	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	_	156228	gṛṇānā	_
-6	tasyai	tad	PRON	PRD	Case=Dat|Gender=Fem|Number=Sing	_	_	_	_	37875	tasyai	_
-7	te	tvad	PRON	PPR	Case=Dat|Gender=|Number=Sing	_	_	_	_	37880	te	_
-8	namo	namas	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	44133	namaḥ	_
-9	astu	as	VERB	V	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	_	156122	astu	_
-10	devi	devī	NOUN	NC	Case=Voc|Gender=Fem|Number=Sing	_	_	_	_	87156	devi	_
+# text = samudre antar nihitā asi nābhiḥ
+# sent_id = 609380_2
+1	samudre	samudra	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	3	obl:loc	_	LemmaId=30275|OccId=4526759|Unsandhied=samudre|Annotator=Ol
+2	antar	antar	ADV	_	_	1	case	_	LemmaId=167614|OccId=4526760|Unsandhied=antar|Annotator=Ol
+3	nihitā	nidhā	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=161295|OccId=4526761|Unsandhied=nihitā|Annotator=Ol
+4	asi	as	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	aux	_	LemmaId=156122|OccId=4526762|Unsandhied=asi|Annotator=Ol
+5	nābhiḥ	nābhi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	3	advcl	_	LemmaId=33491|OccId=4526763|Unsandhied=nābhiḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = yām tvā devāḥ asṛjanta viśve iṣum kṛṇvānāḥ asanāya dhṛṣṇum sā naḥ mṛḍa vidathe gṛṇānā
+# sent_id = 609382_1
+1	yām	yad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	2	det	_	LemmaId=37877|OccId=4526764|Unsandhied=yām|Annotator=Ol
+2	tvā	tvad	PRON	_	Case=Acc|Number=Sing	4	obj	_	LemmaId=37880|OccId=4526765|Unsandhied=tvā|Annotator=Ol
+3	devāḥ	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	LemmaId=86559|OccId=4526766|Unsandhied=devāḥ|Annotator=Ol
+4	asṛjanta	sṛj	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	10	acl	_	LemmaId=157522|OccId=4526767|Unsandhied=asṛjanta|Annotator=Ol
+5	viśve	viśva	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	3	det	_	LemmaId=139262|OccId=4526768|Unsandhied=viśve|Annotator=Ol
+6	iṣum	iṣu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	LemmaId=63823|OccId=4526769|Unsandhied=iṣum|Annotator=Ol
+7	kṛṇvānāḥ	kṛ	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	3	acl	_	LemmaId=156168|OccId=4526770|Unsandhied=kṛṇvānāḥ|Annotator=Ol
+8	asanāya	asana	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	7	advcl	_	LemmaId=60576|OccId=4526771|Unsandhied=asanāya|Annotator=Ol
+9	dhṛṣṇum	dhṛṣṇu	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	6	amod	_	LemmaId=43063|OccId=4526772|Unsandhied=dhṛṣṇum|Annotator=Ol|Punctuation=comma
+10	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	LemmaId=37875|OccId=4526773|Unsandhied=sā|Annotator=Ol
+11	naḥ	mad	PRON	_	Case=Dat|Number=Plur	12	obj	_	LemmaId=37879|OccId=4526774|Unsandhied=naḥ|Annotator=Ol
+12	mṛḍa	mṛḍ	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=218727|OccId=4526775|Unsandhied=mṛḍa|Annotator=Ol
+13	vidathe	vidatha	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	14	obl:loc	_	LemmaId=121229|OccId=4526776|Unsandhied=vidathe|Annotator=Ol
+14	gṛṇānā	gṛ	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part	10	acl	_	LemmaId=156228|OccId=4526777|Unsandhied=gṛṇānā|Annotator=Ol|Punctuation=fullStop
+
+# text = tasyai te namaḥ astu devi
+# sent_id = 609382_2
+1	tasyai	tad	PRON	_	Case=Dat|Gender=Fem|Number=Sing	2	det	_	LemmaId=37875|OccId=4526778|Unsandhied=tasyai|Annotator=Ol
+2	te	tvad	PRON	_	Case=Dat|Number=Sing	0	root	_	LemmaId=37880|OccId=4526779|Unsandhied=te|Annotator=Ol
+3	namaḥ	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	LemmaId=44133|OccId=4526780|Unsandhied=namaḥ|Annotator=Ol
+4	astu	as	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	2	cop	_	LemmaId=156122|OccId=4526781|Unsandhied=astu|Annotator=Ol
+5	devi	devī	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	2	vocative	_	LemmaId=87156|OccId=4526782|Unsandhied=devi|Annotator=Ol|Punctuation=fullStop
+

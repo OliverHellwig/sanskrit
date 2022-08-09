@@ -2,137 +2,147 @@
 ## text_id: 471
 ## chapter: AB, 7, 4
 ## chapter_id: 12098
+# text = tat āhuḥ yasya sāyaṃdugdham sāṃnāyyam duṣyet vā apaharet vā kā tatra prāyaścittiḥ iti
+# sent_id = 625548_1
+1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=37875|OccId=4925510|Unsandhied=tat|Annotator=Sa
+2	āhuḥ	ah	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=156124|OccId=4925511|Unsandhied=āhuḥ|Annotator=Sa|Punctuation=fullStop
+3	yasya	yad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	LemmaId=37877|OccId=4925512|Unsandhied=yasya|Annotator=Sa
+4	sāyaṃdugdham	sāyaṃdugdha	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	5	acl:attr	_	LemmaId=112892|OccId=4925513|Unsandhied=sāyaṃdugdham|Annotator=Sa
+5	sāṃnāyyam	sāṃnāyya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	LemmaId=112446|OccId=4925514|Unsandhied=sāṃnāyyam|Annotator=Sa
+6	duṣyet	duṣ	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	12	advcl:cond	_	LemmaId=157760|OccId=4925515|Unsandhied=duṣyet|Annotator=Sa
+7	vā	vā	CCONJ	_	_	6	cc	_	LemmaId=75765|OccId=4925516|Unsandhied=vā|Annotator=Sa
+8	apaharet	apahṛ	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	6	conj	_	LemmaId=158497|OccId=4925517|Unsandhied=apaharet|Annotator=Sa
+9	vā	vā	CCONJ	_	_	8	cc	_	LemmaId=75765|OccId=4925518|Unsandhied=vā|Annotator=Sa|Punctuation=comma
+10	kā	ka	PRON	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	LemmaId=37878|OccId=4925519|Unsandhied=kā|Annotator=Sa
+11	tatra	tatra	ADV	_	_	12	advmod	_	LemmaId=95978|OccId=4925520|Unsandhied=tatra|Annotator=Sa
+12	prāyaścittiḥ	prāyaścitti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	ccomp	_	LemmaId=153122|OccId=4925521|Unsandhied=prāyaścittiḥ|Annotator=Sa
+13	iti	iti	PART	_	_	12	mark	_	LemmaId=63331|OccId=4925522|Unsandhied=iti|Annotator=Sa|Punctuation=fullStop
 
-# text_line: tad āhur yasya sāyaṃdugdhaṃ sāṃnāyyaṃ duṣyed vāpahared vā kā tatra prāyaścittir iti prātardugdhaṃ dvaidhaṃ kṛtvā tasyānyatarām bhaktim ātacya tena yajeta sā tatra prāyaścittiḥ
-# text_line_id: 624437
-# text_line_counter: 1
-# text_line_subcounter: 
-1	tad	tad	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37875	tat	_
-2	āhur	ah	VERB	V	Tense=Perf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	156124	āhuḥ	_
-3	yasya	yad	PRON	PRL	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	37877	yasya	_
-4	sāyaṃdugdhaṃ	sāyaṃdugdha	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	112892	sāyaṃdugdham	_
-5	sāṃnāyyaṃ	sāṃnāyya	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	112446	sāṃnāyyam	_
-6	duṣyed	duṣ	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157760	duṣyet	_
-7-8	vāpahared	_	_	_	_	_	_	_	_
-7	_	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-8	_	apahṛ	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	158497	apaharet	_
-9	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-10	kā	ka	PRON	PRQ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	37878	kā	_
-11	tatra	tatra	ADV	CAD		_	_	_	_	95978	tatra	_
-12	prāyaścittir	prāyaścitti	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	153122	prāyaścittiḥ	_
-13	iti	iti	PART	CQT		_	_	_	_	63331	iti	_
-14	prātardugdhaṃ	prātardugdha	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	152032	prātardugdham	_
-15	dvaidhaṃ	dvaidha	ADJ	JJ	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	91504	dvaidham	_
-16	kṛtvā	kṛ	VERB	CGDA	VerbForm=Conv	_	_	_	_	156168	kṛtvā	_
-17-18	tasyānyatarām	_	_	_	_	_	_	_	_
-17	_	tad	PRON	PRD	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_	37875	tasya	_
-18	_	anyatara	PRON	PPX	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	166326	anyatarām	_
-19	bhaktim	bhakti	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	48409	bhaktim	_
-20	ātacya	ātañc	VERB	CGDA	VerbForm=Conv	_	_	_	_	221813	ātacya	_
-21	tena	tad	PRON	PRD	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	37875	tena	_
-22	yajeta	yaj	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157422	yajeta	_
-23	sā	tad	PRON	PRD	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	37875	sā	_
-24	tatra	tatra	ADV	CAD		_	_	_	_	95978	tatra	_
-25	prāyaścittiḥ	prāyaścitti	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	153122	prāyaścittiḥ	_
+# text = prātardugdham dvaidham kṛtvā tasya anyatarām bhaktim ātacya tena yajeta
+# sent_id = 625548_2
+1	prātardugdham	prātardugdha	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obj	_	LemmaId=152032|OccId=4925523|Unsandhied=prātardugdham|Annotator=Sa
+2	dvaidham	dvaidha	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	3	xcomp:result	_	LemmaId=91504|OccId=4925524|Unsandhied=dvaidham|Annotator=Sa
+3	kṛtvā	kṛ	VERB	_	VerbForm=Conv	7	advcl:temp	_	LemmaId=156168|OccId=4925525|Unsandhied=kṛtvā|Annotator=Sa|Punctuation=comma
+4	tasya	tad	PRON	_	Case=Gen|Gender=Neut|Number=Sing	6	nmod	_	LemmaId=37875|OccId=4925526|Unsandhied=tasya|Annotator=Sa
+5	anyatarām	anyatara	PRON	_	Case=Acc|Gender=Fem|Number=Sing	6	det	_	LemmaId=166326|OccId=4925527|Unsandhied=anyatarām|Annotator=Ol
+6	bhaktim	bhakti	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	obj	_	LemmaId=48409|OccId=4925528|Unsandhied=bhaktim|Annotator=Sa
+7	ātacya	ātañc	VERB	_	VerbForm=Conv	9	advcl:temp	_	LemmaId=221813|OccId=4925611|Unsandhied=ātacya|Annotator=Sa|Punctuation=comma
+8	tena	tad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	9	obl:instr	_	LemmaId=37875|OccId=4925529|Unsandhied=tena|Annotator=Sa
+9	yajeta	yaj	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157422|OccId=4925530|Unsandhied=yajeta|Annotator=Sa|Punctuation=fullStop
 
-# text_line: tad āhur yasya prātardugdhaṃ sāṃnāyyaṃ duṣyed vāpahared vā kā tatra prāyaścittir ity aindraṃ vā māhendraṃ vā puroﾱāśaṃ tasya sthāne nirupya tena yajeta sā tatra prāyaścittiḥ
-# text_line_id: 624438
-# text_line_counter: 2
-# text_line_subcounter: 
-1	tad	tad	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37875	tat	_
-2	āhur	ah	VERB	V	Tense=Perf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	156124	āhuḥ	_
-3	yasya	yad	PRON	PRL	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	37877	yasya	_
-4	prātardugdhaṃ	prātardugdha	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	152032	prātardugdham	_
-5	sāṃnāyyaṃ	sāṃnāyya	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	112446	sāṃnāyyam	_
-6	duṣyed	duṣ	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157760	duṣyet	_
-7-8	vāpahared	_	_	_	_	_	_	_	_
-7	_	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-8	_	apahṛ	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	158497	apaharet	_
-9	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-10	kā	ka	PRON	PRQ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	37878	kā	_
-11	tatra	tatra	ADV	CAD		_	_	_	_	95978	tatra	_
-12	prāyaścittir	prāyaścitti	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	153122	prāyaścittiḥ	_
-13	ity	iti	PART	CQT		_	_	_	_	63331	iti	_
-14	aindraṃ	aindra	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	39926	aindram	_
-15	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-16	māhendraṃ	māhendra	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	133194	māhendram	_
-17	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-18	puroﾱāśaṃ	puroḍāś	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	144585	puroﾱāśam	_
-19	tasya	tad	PRON	PRD	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_	37875	tasya	_
-20	sthāne	sthāna	NOUN	NC	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_	102857	sthāne	_
-21	nirupya	nirvap	VERB	CGDA	VerbForm=Conv	_	_	_	_	161438	nirupya	_
-22	tena	tad	PRON	PRD	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	37875	tena	_
-23	yajeta	yaj	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157422	yajeta	_
-24	sā	tad	PRON	PRD	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	37875	sā	_
-25	tatra	tatra	ADV	CAD		_	_	_	_	95978	tatra	_
-26	prāyaścittiḥ	prāyaścitti	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	153122	prāyaścittiḥ	_
+# text = sā tatra prāyaścittiḥ
+# sent_id = 625548_3
+1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	LemmaId=37875|OccId=4925531|Unsandhied=sā|Annotator=Sa
+2	tatra	tatra	ADV	_	_	3	advmod	_	LemmaId=95978|OccId=4925532|Unsandhied=tatra|Annotator=Sa
+3	prāyaścittiḥ	prāyaścitti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=153122|OccId=4925533|Unsandhied=prāyaścittiḥ|Annotator=Sa|Punctuation=fullStop
 
-# text_line: tad āhur yasya sarvam eva sāṃnāyyaṃ duṣyed vāpahared vā kā tatra prāyaścittir ity aindraṃ vā māhendraṃ veti samānaṃ sā tatra prāyaścittiḥ
-# text_line_id: 624439
-# text_line_counter: 3
-# text_line_subcounter: 
-1	tad	tad	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37875	tat	_
-2	āhur	ah	VERB	V	Tense=Perf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	156124	āhuḥ	_
-3	yasya	yad	PRON	PRL	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	37877	yasya	_
-4	sarvam	sarva	ADJ	JQ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	104444	sarvam	_
-5	eva	eva	PART	CEM		_	_	_	_	39754	eva	_
-6	sāṃnāyyaṃ	sāṃnāyya	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	112446	sāṃnāyyam	_
-7	duṣyed	duṣ	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157760	duṣyet	_
-8-9	vāpahared	_	_	_	_	_	_	_	_
-8	_	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-9	_	apahṛ	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	158497	apaharet	_
-10	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-11	kā	ka	PRON	PRQ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	37878	kā	_
-12	tatra	tatra	ADV	CAD		_	_	_	_	95978	tatra	_
-13	prāyaścittir	prāyaścitti	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	153122	prāyaścittiḥ	_
-14	ity	iti	PART	CQT		_	_	_	_	63331	iti	_
-15	aindraṃ	aindra	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	39926	aindram	_
-16	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-17	māhendraṃ	māhendra	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	133194	māhendram	_
-18-19	veti	_	_	_	_	_	_	_	_
-18	_	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-19	_	iti	PART	CQT		_	_	_	_	63331	iti	_
-20	samānaṃ	samāna	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	29763	samānam	_
-21	sā	tad	PRON	PRD	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	37875	sā	_
-22	tatra	tatra	ADV	CAD		_	_	_	_	95978	tatra	_
-23	prāyaścittiḥ	prāyaścitti	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	153122	prāyaścittiḥ	_
+# text = tat āhuḥ yasya prātardugdham sāṃnāyyam duṣyet vā apaharet vā kā tatra prāyaścittiḥ iti
+# sent_id = 625549_1
+1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=37875|OccId=4925534|Unsandhied=tat|Annotator=Sa
+2	āhuḥ	ah	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=156124|OccId=4925535|Unsandhied=āhuḥ|Annotator=Sa|Punctuation=fullStop
+3	yasya	yad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	LemmaId=37877|OccId=4925536|Unsandhied=yasya|Annotator=Sa
+4	prātardugdham	prātardugdha	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	acl:attr	_	LemmaId=152032|OccId=4925537|Unsandhied=prātardugdham|Annotator=Sa
+5	sāṃnāyyam	sāṃnāyya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	LemmaId=112446|OccId=4925612|Unsandhied=sāṃnāyyam|Annotator=Sa
+6	duṣyet	duṣ	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	12	advcl:cond	_	LemmaId=157760|OccId=4925538|Unsandhied=duṣyet|Annotator=Sa
+7	vā	vā	CCONJ	_	_	6	cc	_	LemmaId=75765|OccId=4925539|Unsandhied=vā|Annotator=Sa
+8	apaharet	apahṛ	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	6	conj	_	LemmaId=158497|OccId=4925540|Unsandhied=apaharet|Annotator=Sa
+9	vā	vā	CCONJ	_	_	8	cc	_	LemmaId=75765|OccId=4925541|Unsandhied=vā|Annotator=Sa|Punctuation=comma
+10	kā	ka	PRON	_	Case=Nom|Gender=Fem|Number=Sing	12	nsubj	_	LemmaId=37878|OccId=4925542|Unsandhied=kā|Annotator=Sa
+11	tatra	tatra	ADV	_	_	12	advmod	_	LemmaId=95978|OccId=4925543|Unsandhied=tatra|Annotator=Sa
+12	prāyaścittiḥ	prāyaścitti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	ccomp	_	LemmaId=153122|OccId=4925544|Unsandhied=prāyaścittiḥ|Annotator=Sa
+13	iti	iti	PART	_	_	12	mark	_	LemmaId=63331|OccId=4925545|Unsandhied=iti|Annotator=Sa|Punctuation=fullStop
 
-# text_line: tad āhur yasya sarvāṇy eva havīṃṣi duṣyeyur vāpahareyur vā kā tatra prāyaścittir ity ājyasyaināni yathādevatam parikalpya tayājyahaviṣeṣṭyā yajetāto 'nyām iṣṭim anulbaṇāṃ tanvīta yajño yajñasya prāyaścittiḥ
-# text_line_id: 624440
-# text_line_counter: 4
-# text_line_subcounter: 
-1	tad	tad	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37875	tat	_
-2	āhur	ah	VERB	V	Tense=Perf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	156124	āhuḥ	_
-3	yasya	yad	PRON	PRL	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	37877	yasya	_
-4	sarvāṇy	sarva	ADJ	JQ	Case=Nom|Gender=Neut|Number=Plur	_	_	_	_	104444	sarvāṇi	_
-5	eva	eva	PART	CEM		_	_	_	_	39754	eva	_
-6	havīṃṣi	havis	NOUN	NC	Case=Nom|Gender=Neut|Number=Plur	_	_	_	_	109386	havīṃṣi	_
-7	duṣyeyur	duṣ	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Plur	_	_	_	_	157760	duṣyeyuḥ	_
-8-9	vāpahareyur	_	_	_	_	_	_	_	_
-8	_	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-9	_	apahṛ	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Plur	_	_	_	_	158497	apahareyuḥ	_
-10	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-11	kā	ka	PRON	PRQ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	37878	kā	_
-12	tatra	tatra	ADV	CAD		_	_	_	_	95978	tatra	_
-13	prāyaścittir	prāyaścitti	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	153122	prāyaścittiḥ	_
-14	ity	iti	PART	CQT		_	_	_	_	63331	iti	_
-15-16	ājyasyaināni	_	_	_	_	_	_	_	_
-15	_	ājya	NOUN	NC	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_	57582	ājyasya	_
-16	_	enad	PRON	PRD	Case=Acc|Gender=Neut|Number=Plur	_	_	_	_	166401	enāni	_
-17	yathādevatam	yathādevatam	ADV	CX		_	_	_	_	73334	yathādevatam	_
-18	parikalpya	parikalpay	VERB	CGDA	VerbForm=Conv	_	_	_	_	161649	parikalpya	_
-19-22	tayājyahaviṣeṣṭyā	_	_	_	_	_	_	_	_
-19	_	tad	PRON	PRD	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	37875	tayā	_
-20	_	ājya	NOUN	NC	Case=Cpd	_	_	_	_	57582	ājya	_
-21	_	havis	NOUN	NC	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	109386	haviṣā	_
-22	_	iṣṭi	NOUN	NC	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	63945	iṣṭyā	_
-23-24	yajetāto	_	_	_	_	_	_	_	_
-23	_	yaj	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157422	yajeta	_
-24	_	atas	ADV	CX		_	_	_	_	6823	atas	_
-25	'nyām	anya	PRON	PPX	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	164189	anyām	_
-26	iṣṭim	iṣṭi	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	63945	iṣṭim	_
-27	anulbaṇāṃ	anulbaṇa	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	11266	anulbaṇām	_
-28	tanvīta	tan	VERB	V	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	_	157173	tanvīta	_
-29	yajño	yajña	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	72936	yajñaḥ	_
-30	yajñasya	yajña	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	72936	yajñasya	_
-31	prāyaścittiḥ	prāyaścitti	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	153122	prāyaścittiḥ	_
+# text = aindram vā māhendram vā puroﾱāśam tasya sthāne nirupya tena yajeta
+# sent_id = 625549_2
+1	aindram	aindra	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	5	amod	_	LemmaId=39926|OccId=4925546|Unsandhied=aindram|Annotator=Sa
+2	vā	vā	CCONJ	_	_	1	cc	_	LemmaId=75765|OccId=4925547|Unsandhied=vā|Annotator=Sa
+3	māhendram	māhendra	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	LemmaId=133194|OccId=4925548|Unsandhied=māhendram|Annotator=Sa
+4	vā	vā	CCONJ	_	_	3	cc	_	LemmaId=75765|OccId=4925549|Unsandhied=vā|Annotator=Sa
+5	puroﾱāśam	puroḍāś	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	LemmaId=144585|OccId=4925613|Unsandhied=puroﾱāśam|Annotator=Sa
+6	tasya	tad	PRON	_	Case=Gen|Gender=Neut|Number=Sing	7	nmod	_	LemmaId=37875|OccId=4925550|Unsandhied=tasya|Annotator=Sa
+7	sthāne	sthāna	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	8	obl:goal	_	LemmaId=102857|OccId=4925551|Unsandhied=sthāne|Annotator=Sa
+8	nirupya	nirvap	VERB	_	VerbForm=Conv	10	advcl:temp	_	LemmaId=161438|OccId=4925552|Unsandhied=nirupya|Annotator=Sa|Punctuation=comma
+9	tena	tad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	10	obl:instr	_	LemmaId=37875|OccId=4925553|Unsandhied=tena|Annotator=Sa
+10	yajeta	yaj	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157422|OccId=4925554|Unsandhied=yajeta|Annotator=Sa|Punctuation=fullStop
+
+# text = sā tatra prāyaścittiḥ
+# sent_id = 625549_3
+1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	LemmaId=37875|OccId=4925555|Unsandhied=sā|Annotator=Sa
+2	tatra	tatra	ADV	_	_	3	advmod	_	LemmaId=95978|OccId=4925556|Unsandhied=tatra|Annotator=Sa
+3	prāyaścittiḥ	prāyaścitti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=153122|OccId=4925557|Unsandhied=prāyaścittiḥ|Annotator=Sa|Punctuation=fullStop
+
+# text = tat āhuḥ yasya sarvam eva sāṃnāyyam duṣyet vā apaharet vā kā tatra prāyaścittiḥ iti
+# sent_id = 625550_1
+1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=37875|OccId=4925558|Unsandhied=tat|Annotator=Sa
+2	āhuḥ	ah	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=156124|OccId=4925559|Unsandhied=āhuḥ|Annotator=Sa|Punctuation=fullStop
+3	yasya	yad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	LemmaId=37877|OccId=4925560|Unsandhied=yasya|Annotator=Sa
+4	sarvam	sarva	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	6	det	_	LemmaId=104444|OccId=4925561|Unsandhied=sarvam|Annotator=Sa
+5	eva	eva	PART	_	_	4	discourse	_	LemmaId=39754|OccId=4925562|Unsandhied=eva|Annotator=Sa
+6	sāṃnāyyam	sāṃnāyya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	7	nsubj	_	LemmaId=112446|OccId=4925563|Unsandhied=sāṃnāyyam|Annotator=Sa
+7	duṣyet	duṣ	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	13	advcl:cond	_	LemmaId=157760|OccId=4925564|Unsandhied=duṣyet|Annotator=Sa
+8	vā	vā	CCONJ	_	_	7	cc	_	LemmaId=75765|OccId=4925565|Unsandhied=vā|Annotator=Sa
+9	apaharet	apahṛ	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	7	conj	_	LemmaId=158497|OccId=4925566|Unsandhied=apaharet|Annotator=Sa
+10	vā	vā	CCONJ	_	_	9	cc	_	LemmaId=75765|OccId=4925567|Unsandhied=vā|Annotator=Sa|Punctuation=comma
+11	kā	ka	PRON	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	LemmaId=37878|OccId=4925568|Unsandhied=kā|Annotator=Sa
+12	tatra	tatra	ADV	_	_	13	advmod	_	LemmaId=95978|OccId=4925569|Unsandhied=tatra|Annotator=Sa
+13	prāyaścittiḥ	prāyaścitti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	ccomp	_	LemmaId=153122|OccId=4925614|Unsandhied=prāyaścittiḥ|Annotator=Sa
+14	iti	iti	PART	_	_	13	mark	_	LemmaId=63331|OccId=4925570|Unsandhied=iti|Annotator=Sa|Punctuation=fullStop
+
+# text = aindram vā māhendram vā iti samānam
+# sent_id = 625550_2
+1	aindram	aindra	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	6	orphan	_	LemmaId=39926|OccId=4925571|Unsandhied=aindram|Annotator=Ol
+2	vā	vā	CCONJ	_	_	1	cc	_	LemmaId=75765|OccId=4925572|Unsandhied=vā|Annotator=Ol
+3	māhendram	māhendra	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	LemmaId=133194|OccId=4925573|Unsandhied=māhendram|Annotator=Ol
+4	vā	vā	CCONJ	_	_	3	cc	_	LemmaId=75765|OccId=4925574|Unsandhied=vā|Annotator=Ol
+5	iti	iti	PART	_	_	1	mark	_	LemmaId=63331|OccId=4925575|Unsandhied=iti|Annotator=Ol
+6	samānam	samāna	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=29763|OccId=4925576|Unsandhied=samānam|Annotator=Sa|Punctuation=fullStop
+
+# text = sā tatra prāyaścittiḥ
+# sent_id = 625550_3
+1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	LemmaId=37875|OccId=4925577|Unsandhied=sā|Annotator=Sa
+2	tatra	tatra	ADV	_	_	3	advmod	_	LemmaId=95978|OccId=4925578|Unsandhied=tatra|Annotator=Sa
+3	prāyaścittiḥ	prāyaścitti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=153122|OccId=4925579|Unsandhied=prāyaścittiḥ|Annotator=Sa|Punctuation=fullStop
+
+# text = tat āhuḥ yasya sarvāṇi eva havīṃṣi duṣyeyuḥ vā apahareyuḥ vā kā tatra prāyaścittiḥ iti
+# sent_id = 625551_1
+1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=37875|OccId=4925580|Unsandhied=tat|Annotator=Sa
+2	āhuḥ	ah	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=156124|OccId=4925581|Unsandhied=āhuḥ|Annotator=Sa|Punctuation=fullStop
+3	yasya	yad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	LemmaId=37877|OccId=4925582|Unsandhied=yasya|Annotator=Sa
+4	sarvāṇi	sarva	ADJ	_	Case=Nom|Gender=Neut|Number=Plur	6	det	_	LemmaId=104444|OccId=4925583|Unsandhied=sarvāṇi|Annotator=Sa
+5	eva	eva	PART	_	_	4	discourse	_	LemmaId=39754|OccId=4925584|Unsandhied=eva|Annotator=Sa
+6	havīṃṣi	havis	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	LemmaId=109386|OccId=4925585|Unsandhied=havīṃṣi|Annotator=Sa
+7	duṣyeyuḥ	duṣ	VERB	_	Mood=Opt|Number=Plur|Person=3|Tense=Pres	13	advcl:cond	_	LemmaId=157760|OccId=4925586|Unsandhied=duṣyeyuḥ|Annotator=Sa
+8	vā	vā	CCONJ	_	_	7	cc	_	LemmaId=75765|OccId=4925587|Unsandhied=vā|Annotator=Sa
+9	apahareyuḥ	apahṛ	VERB	_	Mood=Opt|Number=Plur|Person=3|Tense=Pres	7	conj	_	LemmaId=158497|OccId=4925588|Unsandhied=apahareyuḥ|Annotator=Sa
+10	vā	vā	CCONJ	_	_	9	cc	_	LemmaId=75765|OccId=4925589|Unsandhied=vā|Annotator=Sa|Punctuation=comma
+11	kā	ka	PRON	_	Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	LemmaId=37878|OccId=4925590|Unsandhied=kā|Annotator=Sa
+12	tatra	tatra	ADV	_	_	13	advmod	_	LemmaId=95978|OccId=4925591|Unsandhied=tatra|Annotator=Sa
+13	prāyaścittiḥ	prāyaścitti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	ccomp	_	LemmaId=153122|OccId=4925592|Unsandhied=prāyaścittiḥ|Annotator=Sa
+14	iti	iti	PART	_	_	13	mark	_	LemmaId=63331|OccId=4925593|Unsandhied=iti|Annotator=Sa|Punctuation=fullStop
+
+# text = ājyasya enāni yathādevatam parikalpya tayā ājya haviṣā iṣṭyā yajeta
+# sent_id = 625551_2
+1	ājyasya	ājya	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	obl:source	_	LemmaId=57582|OccId=4925594|Unsandhied=ājyasya|Annotator=Ol
+2	enāni	enad	PRON	_	Case=Acc|Gender=Neut|Number=Plur	4	obj	_	LemmaId=166401|OccId=4925595|Unsandhied=enāni|Annotator=Sa
+3	yathādevatam	yathādevatam	ADV	_	_	4	advmod	_	LemmaId=73334|OccId=4925596|Unsandhied=yathādevatam|Annotator=Sa
+4	parikalpya	parikalpay	VERB	_	VerbForm=Conv	9	advcl:temp	_	LemmaId=161649|OccId=4925597|Unsandhied=parikalpya|Annotator=Sa|Punctuation=comma
+5	tayā	tad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	8	det	_	LemmaId=37875|OccId=4925598|Unsandhied=tayā|Annotator=Sa
+6	ājya	ājya	NOUN	_	Case=Cpd|Gender=Neut	7	nmod	_	LemmaId=57582|OccId=4925599|Unsandhied=ājya|Annotator=Sa
+7	haviṣā	havis	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	8	acl:attr	_	LemmaId=109386|OccId=4925600|Unsandhied=haviṣā|Annotator=Sa
+8	iṣṭyā	iṣṭi	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	9	obl:instr	_	LemmaId=63945|OccId=4925601|Unsandhied=iṣṭyā|Annotator=Sa
+9	yajeta	yaj	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157422|OccId=4925602|Unsandhied=yajeta|Annotator=Sa
+
+# text = atas anyām iṣṭim anulbaṇām tanvīta
+# sent_id = 625551_3
+1	atas	atas	ADV	_	_	5	advmod	_	LemmaId=6823|OccId=4925603|Unsandhied=atas|Annotator=Sa
+2	anyām	anya	PRON	_	Case=Acc|Gender=Fem|Number=Sing	3	det	_	LemmaId=164189|OccId=4925604|Unsandhied=anyām|Annotator=Sa
+3	iṣṭim	iṣṭi	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obj	_	LemmaId=63945|OccId=4925605|Unsandhied=iṣṭim|Annotator=Sa
+4	anulbaṇām	anulbaṇa	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	3	acl	_	LemmaId=11266|OccId=4925606|Unsandhied=anulbaṇām|Annotator=Sa
+5	tanvīta	tan	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157173|OccId=4925607|Unsandhied=tanvīta|Annotator=Sa|Punctuation=fullStop
+
+# text = yajñaḥ yajñasya prāyaścittiḥ
+# sent_id = 625551_4
+1	yajñaḥ	yajña	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LemmaId=72936|OccId=4925608|Unsandhied=yajñaḥ|Annotator=Sa
+2	yajñasya	yajña	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LemmaId=72936|OccId=4925609|Unsandhied=yajñasya|Annotator=Sa
+3	prāyaścittiḥ	prāyaścitti	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=153122|OccId=4925610|Unsandhied=prāyaścittiḥ|Annotator=Sa|Punctuation=fullStop
+

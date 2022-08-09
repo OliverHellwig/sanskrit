@@ -2,343 +2,290 @@
 ## text_id: 471
 ## chapter: AB, 1, 23
 ## chapter_id: 10898
+# text = deva asurāḥ vai eṣu lokeṣu samayatanta
+# sent_id = 623293_1
+1	deva	deva	NOUN	_	Case=Cpd|Gender=Masc	2	compound:coord	_	LemmaId=86559|OccId=4628690|Unsandhied=deva|Annotator=Ol
+2	asurāḥ	asura	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	LemmaId=61054|OccId=4628691|Unsandhied=asurāḥ|Annotator=Ol
+3	vai	vai	PART	_	_	6	discourse	_	LemmaId=118154|OccId=4628692|Unsandhied=vai|Annotator=Ol
+4	eṣu	idam	PRON	_	Case=Loc|Gender=Masc|Number=Plur	5	det	_	LemmaId=37876|OccId=4628693|Unsandhied=eṣu|Annotator=Ol
+5	lokeṣu	loka	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	6	obl	_	LemmaId=66869|OccId=4628694|Unsandhied=lokeṣu|Annotator=Ol
+6	samayatanta	saṃyat	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=164688|OccId=4628695|Unsandhied=samayatanta|Annotator=Ol|Punctuation=fullStop
 
-# text_line: devāsurā vā eṣu lokeṣu samayatanta te vā asurā imān eva lokān puro 'kurvata yathaujīyāṃso balīyāṃsa evaṃ te vā ayasmayīm evemām akurvata rajatām antarikṣaṃ hariṇīṃ divaṃ te tathemāṃllokān puro 'kurvata te devā abruvan puro vā ime 'surā imāṃllokān akrata pura imāṃllokān pratikaravāmahā iti tatheti te sada evāsyāḥ pratyakurvatāgnīdhram antarikṣāddhavirdhāne divas te tathemāṃllokān puraḥ pratyakurvata
-# text_line_id: 622182
-# text_line_counter: 1
-# text_line_subcounter: 
-1-2	devāsurā	_	_	_	_	_	_	_	_
-1	_	deva	NOUN	NC	Case=Cpd	_	_	_	_	86559	deva	_
-2	_	asura	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	61054	asurāḥ	_
-3	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
-4	eṣu	idam	PRON	PRD	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	37876	eṣu	_
-5	lokeṣu	loka	NOUN	NC	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	66869	lokeṣu	_
-6	samayatanta	saṃyat	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	164688	samayatanta	_
-7	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-8	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
-9	asurā	asura	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	61054	asurāḥ	_
-10	imān	idam	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	37876	imān	_
-11	eva	eva	PART	CEM		_	_	_	_	39754	eva	_
-12	lokān	loka	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	66869	lokān	_
-13	puro	pur	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	144597	puraḥ	_
-14	'kurvata	kṛ	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	156168	akurvata	_
-15-16	yathaujīyāṃso	_	_	_	_	_	_	_	_
-15	_	yathā	PART	CCM		_	_	_	_	73250	yathā	_
-16	_	ojīyas	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	219153	ojīyāṃsaḥ	_
-17	balīyāṃsa	balīyas	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	154368	balīyāṃsaḥ	_
-18	evaṃ	evam	ADV	CX		_	_	_	_	39758	evam	_
-19	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-20	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
-21	ayasmayīm	ayasmaya	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	32319	ayasmayīm	_
-22-23	evemām	_	_	_	_	_	_	_	_
-22	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-23	_	idam	PRON	PRD	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	37876	imām	_
-24	akurvata	kṛ	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	156168	akurvata	_
-25	rajatām	rajata	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	65953	rajatām	75271
-26	antarikṣaṃ	antarikṣa	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	11898	antarikṣam	_
-27	hariṇīṃ	harita	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	108976	hariṇīm	_
-28	divaṃ	div	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	168377	divam	_
-29	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-30-32	tathemāṃllokān	_	_	_	_	_	_	_	_
-30	_	tathā	ADV	CX		_	_	_	_	95987	tathā	_
-31	_	idam	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	37876	imān	_
-32	_	loka	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	66869	lokān	_
-33	puro	pur	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	144597	puraḥ	_
-34	'kurvata	kṛ	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	156168	akurvata	_
-35	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-36	devā	deva	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	86559	devāḥ	_
-37	abruvan	brū	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157262	abruvan	_
-38	puro	pur	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	144597	puraḥ	_
-39	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
-40	ime	idam	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37876	ime	_
-41	'surā	asura	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	61054	asurāḥ	_
-42-43	imāṃllokān	_	_	_	_	_	_	_	_
-42	_	idam	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	37876	imān	_
-43	_	loka	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	66869	lokān	_
-44	akrata	kṛ	VERB	V	Tense=Aor|Mood=Ind|Formation=root|Person=3|Number=Plur	_	_	_	_	156168	akrata	_
-45	pura	pur	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	144597	puraḥ	_
-46-47	imāṃllokān	_	_	_	_	_	_	_	_
-46	_	idam	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	37876	imān	_
-47	_	loka	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	66869	lokān	_
-48	pratikaravāmahā	pratikṛ	VERB	V	Tense=Pres|Mood=Imp|Person=1|Number=Plur	_	_	_	_	162445	pratikaravāmahai	_
-49	iti	iti	PART	CQT		_	_	_	_	63331	iti	_
-50-51	tatheti	_	_	_	_	_	_	_	_
-50	_	tathā	ADV	CX		_	_	_	_	95987	tathā	_
-51	_	iti	PART	CQT		_	_	_	_	63331	iti	_
-52	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-53	sada	sadas	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	17082	sadaḥ	_
-54-55	evāsyāḥ	_	_	_	_	_	_	_	_
-54	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-55	_	idam	PRON	PRD	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_	37876	asyāḥ	_
-56-57	pratyakurvatāgnīdhram	_	_	_	_	_	_	_	_
-56	_	pratikṛ	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	162445	pratyakurvata	_
-57	_	āgnīdhra	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	62113	āgnīdhram	_
-58-59	antarikṣāddhavirdhāne	_	_	_	_	_	_	_	_
-58	_	antarikṣa	NOUN	NC	Case=Abl|Gender=Neut|Number=Sing	_	_	_	_	11898	antarikṣāt	_
-59	_	havirdhāna	NOUN	NC	Case=Acc|Gender=Neut|Number=Dual	_	_	_	_	109343	havirdhāne	_
-60	divas	div	NOUN	NC	Case=Abl|Gender=Masc|Number=Sing	_	_	_	_	168377	divaḥ	_
-61	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-62-64	tathemāṃllokān	_	_	_	_	_	_	_	_
-62	_	tathā	ADV	CX		_	_	_	_	95987	tathā	_
-63	_	idam	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	37876	imān	_
-64	_	loka	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	66869	lokān	_
-65	puraḥ	pur	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	144597	puraḥ	_
-66	pratyakurvata	pratikṛ	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	162445	pratyakurvata	_
+# text = te vai asurāḥ imān eva lokān puraḥ akurvata yathā ojīyāṃsaḥ balīyāṃsaḥ evam
+# sent_id = 623293_2
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	3	det	_	LemmaId=37875|OccId=4628696|Unsandhied=te|Annotator=Ol
+2	vai	vai	PART	_	_	8	discourse	_	LemmaId=118154|OccId=4628697|Unsandhied=vai|Annotator=Ol
+3	asurāḥ	asura	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	LemmaId=61054|OccId=4628698|Unsandhied=asurāḥ|Annotator=Ol
+4	imān	idam	PRON	_	Case=Acc|Gender=Masc|Number=Plur	6	det	_	LemmaId=37876|OccId=4628699|Unsandhied=imān|Annotator=Ol
+5	eva	eva	PART	_	_	4	discourse	_	LemmaId=39754|OccId=4628700|Unsandhied=eva|Annotator=Ol
+6	lokān	loka	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	obj	_	LemmaId=66869|OccId=4628701|Unsandhied=lokān|Annotator=Ol
+7	puraḥ	pur	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	8	xcomp	_	LemmaId=144597|OccId=4628702|Unsandhied=puraḥ|Annotator=Ol
+8	akurvata	kṛ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=156168|OccId=4628703|Unsandhied=akurvata|Annotator=Ol|Punctuation=comma
+9	yathā	yathā	PART	_	_	10	mark:sim	_	LemmaId=73250|OccId=4628704|Unsandhied=yathā|Annotator=Ol
+10	ojīyāṃsaḥ	ojīyas	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	8	advcl	_	LemmaId=219153|OccId=4628705|Unsandhied=ojīyāṃsaḥ|Annotator=Ol
+11	balīyāṃsaḥ	balīyas	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	10	conj	_	LemmaId=154368|OccId=4692734|Unsandhied=balīyāṃsaḥ|Annotator=Ol
+12	evam	evam	ADV	_	_	8	advmod	_	LemmaId=39758|OccId=4628706|Unsandhied=evam|Annotator=Ol|Punctuation=fullStop
 
-# text_line: te devā abruvann upasada upāyāmopasadā vai mahāpuraṃ jayantīti tatheti te yām eva prathamām upasadam upāyaṃs tayaivainān asmāllokād anudanta yāṃ dvitīyāṃ tayāntarikṣād yāṃ tṛtīyāṃ tayā divas tāṃstathaibhyo lokebhyo 'nudanta
-# text_line_id: 622183
-# text_line_counter: 2
-# text_line_subcounter: 
-1	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-2	devā	deva	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	86559	devāḥ	_
-3	abruvann	brū	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157262	abruvan	_
-4	upasada	upasad	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	45730	upasadaḥ	_
-5-6	upāyāmopasadā	_	_	_	_	_	_	_	_
-5	_	upe	VERB	V	Tense=Pres|Mood=Sub|Person=1|Number=Plur	_	_	_	_	160734	upāyāma	_
-6	_	upasad	NOUN	NC	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	45730	upasadā	_
-7	vai	vai	PART	CEM		_	_	_	_	118154	vai	_
-8-9	mahāpuraṃ	_	_	_	_	_	_	_	_
-8	_	mahat	ADJ	JJ	Case=Cpd	_	_	_	_	37544	mahā	_
-9	_	pura	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	166808	puram	_
-10-11	jayantīti	_	_	_	_	_	_	_	_
-10	_	ji	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	_	156588	jayanti	_
-11	_	iti	PART	CQT		_	_	_	_	63331	iti	_
-12-13	tatheti	_	_	_	_	_	_	_	_
-12	_	tathā	ADV	CX		_	_	_	_	95987	tathā	_
-13	_	iti	PART	CQT		_	_	_	_	63331	iti	_
-14	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-15	yām	yad	PRON	PRL	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	37877	yām	_
-16	eva	eva	PART	CEM		_	_	_	_	39754	eva	_
-17	prathamām	prathama	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	140448	prathamām	_
-18	upasadam	upasad	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	45730	upasadam	_
-19	upāyaṃs	upe	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	160734	upāyan	_
-20-22	tayaivainān	_	_	_	_	_	_	_	_
-20	_	tad	PRON	PRD	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	37875	tayā	_
-21	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-22	_	enad	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	166401	enān	_
-23-24	asmāllokād	_	_	_	_	_	_	_	_
-23	_	idam	PRON	PRD	Case=Abl|Gender=Masc|Number=Sing	_	_	_	_	37876	asmāt	_
-24	_	loka	NOUN	NC	Case=Abl|Gender=Masc|Number=Sing	_	_	_	_	66869	lokāt	_
-25	anudanta	nud	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157386	anudanta	_
-26	yāṃ	yad	PRON	PRL	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	37877	yām	_
-27	dvitīyāṃ	dvitīya	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	91331	dvitīyām	_
-28-29	tayāntarikṣād	_	_	_	_	_	_	_	_
-28	_	tad	PRON	PRD	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	37875	tayā	_
-29	_	antarikṣa	NOUN	NC	Case=Abl|Gender=Neut|Number=Sing	_	_	_	_	11898	antarikṣāt	_
-30	yāṃ	yad	PRON	PRL	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	37877	yām	_
-31	tṛtīyāṃ	tṛtīya	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	83290	tṛtīyām	_
-32	tayā	tad	PRON	PRD	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	37875	tayā	_
-33	divas	div	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	168377	divaḥ	_
-34-36	tāṃstathaibhyo	_	_	_	_	_	_	_	_
-34	_	tad	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	37875	tān	_
-35	_	tathā	ADV	CX		_	_	_	_	95987	tathā	_
-36	_	idam	PRON	PRD	Case=Abl|Gender=Masc|Number=Plur	_	_	_	_	37876	ebhyaḥ	_
-37	lokebhyo	loka	NOUN	NC	Case=Abl|Gender=Masc|Number=Plur	_	_	_	_	66869	lokebhyaḥ	_
-38	'nudanta	nud	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157386	anudanta	_
+# text = te vai ayasmayīm eva imām akurvata rajatām antarikṣam hariṇīm divam
+# sent_id = 623293_3
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	LemmaId=37875|OccId=4628707|Unsandhied=te|Annotator=Ol
+2	vai	vai	PART	_	_	6	discourse	_	LemmaId=118154|OccId=4628708|Unsandhied=vai|Annotator=Ol
+3	ayasmayīm	ayasmaya	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	6	xcomp	_	LemmaId=32319|OccId=4628709|Unsandhied=ayasmayīm|Annotator=Ol
+4	eva	eva	PART	_	_	3	discourse	_	LemmaId=39754|OccId=4628710|Unsandhied=eva|Annotator=Ol
+5	imām	idam	PRON	_	Case=Acc|Gender=Fem|Number=Sing	6	obj	_	LemmaId=37876|OccId=4628711|Unsandhied=imām|Annotator=Ol
+6	akurvata	kṛ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=156168|OccId=4628712|Unsandhied=akurvata|Annotator=Ol|Punctuation=comma
+7	rajatām	rajata	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	8	orphan	_	LemmaId=65953|OccId=4628713|Unsandhied=rajatām|Annotator=Ol|WordSem=75271
+8	antarikṣam	antarikṣa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	LemmaId=11898|OccId=4628714|Unsandhied=antarikṣam|Annotator=Ol|Punctuation=comma
+9	hariṇīm	harita	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	10	orphan	_	LemmaId=108976|OccId=5039296|Unsandhied=hariṇīm|Annotator=Ol
+10	divam	div	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	6	conj	_	LemmaId=168377|OccId=4628716|Unsandhied=divam|Annotator=Ol|Punctuation=fullStop
 
-# text_line: te vā ebhyo lokebhyo nuttā asurā ṛtūn aśrayanta te devā abruvann upasada evopāyāmeti tatheti ta imās tisraḥ satīr upasado dvir dvir ekaikām upāyaṃs tāḥ ṣaṭ samapadyanta ṣaḍ vā ṛtavas tān vā ṛtubhyo 'nudanta
-# text_line_id: 622184
-# text_line_counter: 3
-# text_line_subcounter: 
-1	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-2	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
-3	ebhyo	idam	PRON	PRD	Case=Abl|Gender=Masc|Number=Plur	_	_	_	_	37876	ebhyaḥ	_
-4	lokebhyo	loka	NOUN	NC	Case=Abl|Gender=Masc|Number=Plur	_	_	_	_	66869	lokebhyaḥ	_
-5	nuttā	nud	VERB	PPP	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	_	157386	nuttāḥ	_
-6	asurā	asura	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	61054	asurāḥ	_
-7	ṛtūn	ṛtu	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	38726	ṛtūn	_
-8	aśrayanta	śri	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157331	aśrayanta	_
-9	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-10	devā	deva	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	86559	devāḥ	_
-11	abruvann	brū	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157262	abruvan	_
-12	upasada	upasad	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	45730	upasadaḥ	_
-13-15	evopāyāmeti	_	_	_	_	_	_	_	_
-13	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-14	_	upe	VERB	V	Tense=Pres|Mood=Sub|Person=1|Number=Plur	_	_	_	_	160734	upāyāma	_
-15	_	iti	PART	CQT		_	_	_	_	63331	iti	_
-16-17	tatheti	_	_	_	_	_	_	_	_
-16	_	tathā	ADV	CX		_	_	_	_	95987	tathā	_
-17	_	iti	PART	CQT		_	_	_	_	63331	iti	_
-18	ta	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-19	imās	idam	PRON	PRD	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	37876	imāḥ	_
-20	tisraḥ	tri	NUM	NUM	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	166282	tisraḥ	_
-21	satīr	as	VERB	KDP	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	_	156122	satīḥ	_
-22	upasado	upasad	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	45730	upasadaḥ	_
-23	dvir	dvis	ADV	CX		_	_	_	_	91383	dvis	_
-24	dvir	dvis	ADV	CX		_	_	_	_	91383	dvis	_
-25	ekaikām	ekaika	PRON	PRC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	39573	ekaikām	_
-26	upāyaṃs	upe	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	160734	upāyan	_
-27	tāḥ	tad	PRON	PRD	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	37875	tāḥ	_
-28	ṣaṭ	ṣaṣ	NUM	NUM	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	41703	ṣaḍ	_
-29	samapadyanta	sampad	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	165414	samapadyanta	_
-30	ṣaḍ	ṣaṣ	NUM	NUM	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	41703	ṣaṭ	_
-31	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
-32	ṛtavas	ṛtu	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	38726	ṛtavaḥ	_
-33	tān	tad	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	37875	tān	_
-34	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
-35	ṛtubhyo	ṛtu	NOUN	NC	Case=Abl|Gender=Masc|Number=Plur	_	_	_	_	38726	ṛtubhyaḥ	_
-36	'nudanta	nud	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157386	anudanta	_
+# text = te tathā imān lokān puraḥ akurvata
+# sent_id = 623293_4
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	LemmaId=37875|OccId=4628717|Unsandhied=te|Annotator=Ol
+2	tathā	tathā	ADV	_	_	6	advmod	_	LemmaId=95987|OccId=4628718|Unsandhied=tathā|Annotator=Ol
+3	imān	idam	PRON	_	Case=Acc|Gender=Masc|Number=Plur	4	det	_	LemmaId=37876|OccId=4628719|Unsandhied=imān|Annotator=Ol
+4	lokān	loka	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	LemmaId=66869|OccId=4628720|Unsandhied=lokān|Annotator=Ol
+5	puraḥ	pur	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	xcomp	_	LemmaId=144597|OccId=4628721|Unsandhied=puraḥ|Annotator=Ol
+6	akurvata	kṛ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=156168|OccId=4628722|Unsandhied=akurvata|Annotator=Ol|Punctuation=fullStop
 
-# text_line: te vā ṛtubhyo nuttā asurā māsān aśrayanta te devā abruvann upasada evopāyāmeti tatheti ta imāḥ ṣaṭ satīrupasado dvir dvir ekaikām upāyaṃs tā dvādaśa samapadyanta dvādaśa vai māsas tān vai māsebhyo 'nudanta
-# text_line_id: 622185
-# text_line_counter: 4
-# text_line_subcounter: 
-1	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-2	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
-3	ṛtubhyo	ṛtu	NOUN	NC	Case=Abl|Gender=Masc|Number=Plur	_	_	_	_	38726	ṛtubhyaḥ	_
-4	nuttā	nud	VERB	PPP	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	_	157386	nuttāḥ	_
-5	asurā	asura	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	61054	asurāḥ	_
-6	māsān	māsa	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	133175	māsān	_
-7	aśrayanta	śri	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157331	aśrayanta	_
-8	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-9	devā	deva	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	86559	devāḥ	_
-10	abruvann	brū	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157262	abruvan	_
-11	upasada	upasad	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	45730	upasadaḥ	_
-12-14	evopāyāmeti	_	_	_	_	_	_	_	_
-12	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-13	_	upe	VERB	V	Tense=Pres|Mood=Sub|Person=1|Number=Plur	_	_	_	_	160734	upāyāma	_
-14	_	iti	PART	CQT		_	_	_	_	63331	iti	_
-15-16	tatheti	_	_	_	_	_	_	_	_
-15	_	tathā	ADV	CX		_	_	_	_	95987	tathā	_
-16	_	iti	PART	CQT		_	_	_	_	63331	iti	_
-17	ta	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-18	imāḥ	idam	PRON	PRD	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	37876	imāḥ	_
-19	ṣaṭ	ṣaṣ	NUM	NUM	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	41703	ṣaḍ	_
-20-21	satīrupasado	_	_	_	_	_	_	_	_
-20	_	as	VERB	KDP	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	_	156122	satīḥ	_
-21	_	upasad	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	45730	upasadaḥ	_
-22	dvir	dvis	ADV	CX		_	_	_	_	91383	dvis	_
-23	dvir	dvis	ADV	CX		_	_	_	_	91383	dvis	_
-24	ekaikām	ekaika	PRON	PRC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	39573	ekaikām	_
-25	upāyaṃs	upe	VERB	V	Tense=Pres|Mood=Sub|Person=3|Number=Plur	_	_	_	_	160734	upāyan	_
-26	tā	tad	PRON	PRD	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	37875	tāḥ	_
-27	dvādaśa	dvādaśan	NUM	NUM	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	90821	dvādaśa	_
-28	samapadyanta	sampad	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	165414	samapadyanta	_
-29	dvādaśa	dvādaśan	NUM	NUM	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	90821	dvādaśa	_
-30	vai	vai	PART	CEM		_	_	_	_	118154	vai	_
-31	māsas	māsa	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	133175	māsaḥ	_
-32	tān	tad	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	37875	tān	_
-33	vai	vai	PART	CEM		_	_	_	_	118154	vai	_
-34	māsebhyo	māsa	NOUN	NC	Case=Abl|Gender=Masc|Number=Plur	_	_	_	_	133175	māsebhyaḥ	_
-35	'nudanta	nud	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157386	anudanta	_
+# text = te devāḥ abruvan puraḥ vai ime asurāḥ imān lokān akrata puraḥ imān lokān pratikaravāmahai iti
+# sent_id = 623293_5
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	2	det	_	LemmaId=37875|OccId=4628723|Unsandhied=te|Annotator=Ol
+2	devāḥ	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	LemmaId=86559|OccId=4628724|Unsandhied=devāḥ|Annotator=Ol
+3	abruvan	brū	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=157262|OccId=4628725|Unsandhied=abruvan|Annotator=Ol|Punctuation=fullStop
+4	puraḥ	pur	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	10	xcomp	_	LemmaId=144597|OccId=4628726|Unsandhied=puraḥ|Annotator=Ol
+5	vai	vai	PART	_	_	10	discourse	_	LemmaId=118154|OccId=4628727|Unsandhied=vai|Annotator=Ol
+6	ime	idam	PRON	_	Case=Nom|Gender=Masc|Number=Plur	7	det	_	LemmaId=37876|OccId=4628728|Unsandhied=ime|Annotator=Ol
+7	asurāḥ	asura	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	10	nsubj	_	LemmaId=61054|OccId=4628729|Unsandhied=asurāḥ|Annotator=Ol
+8	imān	idam	PRON	_	Case=Acc|Gender=Masc|Number=Plur	9	det	_	LemmaId=37876|OccId=4628730|Unsandhied=imān|Annotator=Ol
+9	lokān	loka	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	10	obj	_	LemmaId=66869|OccId=4628731|Unsandhied=lokān|Annotator=Ol
+10	akrata	kṛ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	3	ccomp	_	LemmaId=156168|OccId=4628732|Unsandhied=akrata|Annotator=Ol|Punctuation=fullStop
+11	puraḥ	pur	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	14	xcomp	_	LemmaId=144597|OccId=4628733|Unsandhied=puraḥ|Annotator=Ol
+12	imān	idam	PRON	_	Case=Acc|Gender=Masc|Number=Plur	13	det	_	LemmaId=37876|OccId=4628734|Unsandhied=imān|Annotator=Ol
+13	lokān	loka	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	14	obj	_	LemmaId=66869|OccId=4628735|Unsandhied=lokān|Annotator=Ol
+14	pratikaravāmahai	pratikṛ	VERB	_	Mood=Imp|Number=Plur|Person=1|Tense=Pres	10	parataxis	_	LemmaId=162445|OccId=4628736|Unsandhied=pratikaravāmahai|Annotator=Ol
+15	iti	iti	PART	_	_	14	mark	_	LemmaId=63331|OccId=4628737|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
 
-# text_line: te vai māsebhyo nuttā asurā ardhamāsān aśrayanta te devā abruvann upasada evopāyāmeti tatheti ta imā dvādaśa satīr upasado dvir dvir ekaikām upāyaṃs tāś caturviṃśatiḥ samapadyanta caturviṃśatir vā ardhamāsās tān vā ardhamāsebhyo 'nudanta
-# text_line_id: 622186
-# text_line_counter: 5
-# text_line_subcounter: 
-1	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-2	vai	vai	PART	CEM		_	_	_	_	118154	vai	_
-3	māsebhyo	māsa	NOUN	NC	Case=Abl|Gender=Masc|Number=Plur	_	_	_	_	133175	māsebhyaḥ	_
-4	nuttā	nud	VERB	PPP	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	_	157386	nuttāḥ	_
-5	asurā	asura	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	61054	asurāḥ	_
-6-7	ardhamāsān	_	_	_	_	_	_	_	_
-6	_	ardha	ADJ	JJ	Case=Cpd	_	_	_	_	53321	ardha	_
-7	_	māsa	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	133175	māsān	_
-8	aśrayanta	śri	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157331	aśrayanta	_
-9	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-10	devā	deva	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	86559	devāḥ	_
-11	abruvann	brū	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157262	abruvan	_
-12	upasada	upasad	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	45730	upasadaḥ	_
-13-15	evopāyāmeti	_	_	_	_	_	_	_	_
-13	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-14	_	upe	VERB	V	Tense=Pres|Mood=Sub|Person=1|Number=Plur	_	_	_	_	160734	upāyāma	_
-15	_	iti	PART	CQT		_	_	_	_	63331	iti	_
-16-17	tatheti	_	_	_	_	_	_	_	_
-16	_	tathā	ADV	CX		_	_	_	_	95987	tathā	_
-17	_	iti	PART	CQT		_	_	_	_	63331	iti	_
-18	ta	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-19	imā	idam	PRON	PRD	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	37876	imāḥ	_
-20	dvādaśa	dvādaśan	NUM	NUM	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	90821	dvādaśa	_
-21	satīr	as	VERB	KDP	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	_	156122	satīḥ	_
-22	upasado	upasad	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	45730	upasadaḥ	_
-23	dvir	dvis	ADV	CX		_	_	_	_	91383	dvis	_
-24	dvir	dvis	ADV	CX		_	_	_	_	91383	dvis	_
-25	ekaikām	ekaika	PRON	PRC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	39573	ekaikām	_
-26	upāyaṃs	upe	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	160734	upāyan	_
-27	tāś	tad	PRON	PRD	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	37875	tāḥ	_
-28	caturviṃśatiḥ	caturviṃśati	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	164234	caturviṃśatiḥ	_
-29	samapadyanta	sampad	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	165414	samapadyanta	_
-30	caturviṃśatir	caturviṃśati	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	164234	caturviṃśatiḥ	_
-31	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
-32-33	ardhamāsās	_	_	_	_	_	_	_	_
-32	_	ardha	ADJ	JJ	Case=Cpd	_	_	_	_	53321	ardha	_
-33	_	māsa	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	133175	māsāḥ	_
-34	tān	tad	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	37875	tān	_
-35	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
-36-37	ardhamāsebhyo	_	_	_	_	_	_	_	_
-36	_	ardha	ADJ	JJ	Case=Cpd	_	_	_	_	53321	ardha	_
-37	_	māsa	NOUN	NC	Case=Abl|Gender=Masc|Number=Plur	_	_	_	_	133175	māsebhyaḥ	_
-38	'nudanta	nud	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157386	anudanta	_
+# text = tathā iti
+# sent_id = 623293_6
+1	tathā	tathā	ADV	_	_	0	root	_	LemmaId=95987|OccId=4628738|Unsandhied=tathā|Annotator=Ol
+2	iti	iti	PART	_	_	1	mark	_	LemmaId=63331|OccId=4628739|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
 
-# text_line: te vā ardhamāsebhyo nuttā asurā ahorātre aśrayanta te devā abruvann upasadāv evopāyāmeti tatheti te yām eva pūrvāhṇa upasadam upāyaṃs tayaivainān ahno 'nudanta yām aparāhṇe tayā rātres tāṃstathobhābhyām antarāyan
-# text_line_id: 622187
-# text_line_counter: 6
-# text_line_subcounter: 
-1	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-2	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
+# text = te sadaḥ eva asyāḥ pratyakurvata āgnīdhram antarikṣāt havirdhāne divaḥ
+# sent_id = 623293_7
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	5	nsubj	_	LemmaId=37875|OccId=4628740|Unsandhied=te|Annotator=Ol
+2	sadaḥ	sadas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	LemmaId=17082|OccId=4628741|Unsandhied=sadaḥ|Annotator=Ol
+3	eva	eva	PART	_	_	2	discourse	_	LemmaId=39754|OccId=4628742|Unsandhied=eva|Annotator=Ol
+4	asyāḥ	idam	PRON	_	Case=Gen|Gender=Fem|Number=Sing	5	obl:benef	_	LemmaId=37876|OccId=4628743|Unsandhied=asyāḥ|Annotator=Ol
+5	pratyakurvata	pratikṛ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=162445|OccId=4628744|Unsandhied=pratyakurvata|Annotator=Ol
+6	āgnīdhram	āgnīdhra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	orphan	_	LemmaId=62113|OccId=4628745|Unsandhied=āgnīdhram|Annotator=Ol
+7	antarikṣāt	antarikṣa	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	5	conj	_	LemmaId=11898|OccId=4628945|Unsandhied=antarikṣāt|Annotator=Ol
+8	havirdhāne	havirdhāna	NOUN	_	Case=Acc|Gender=Neut|Number=Dual	9	orphan	_	LemmaId=109343|OccId=4628946|Unsandhied=havirdhāne|Annotator=Ol
+9	divaḥ	div	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	5	conj	_	LemmaId=168377|OccId=4628746|Unsandhied=divaḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = te tathā imān lokān puraḥ pratyakurvata
+# sent_id = 623293_8
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	LemmaId=37875|OccId=4628747|Unsandhied=te|Annotator=Ol
+2	tathā	tathā	ADV	_	_	6	advmod	_	LemmaId=95987|OccId=4628748|Unsandhied=tathā|Annotator=Ol
+3	imān	idam	PRON	_	Case=Acc|Gender=Masc|Number=Plur	4	det	_	LemmaId=37876|OccId=4628749|Unsandhied=imān|Annotator=Ol
+4	lokān	loka	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	obj	_	LemmaId=66869|OccId=4628750|Unsandhied=lokān|Annotator=Ol
+5	puraḥ	pur	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	xcomp	_	LemmaId=144597|OccId=4628751|Unsandhied=puraḥ|Annotator=Ol
+6	pratyakurvata	pratikṛ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=162445|OccId=4628752|Unsandhied=pratyakurvata|Annotator=Ol|Punctuation=fullStop
+
+# text = te devāḥ abruvan upasadaḥ upāyāma upasadā vai mahā puram jayanti iti
+# sent_id = 623294_1
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	2	det	_	LemmaId=37875|OccId=4628753|Unsandhied=te|Annotator=Ol
+2	devāḥ	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	LemmaId=86559|OccId=4628754|Unsandhied=devāḥ|Annotator=Ol
+3	abruvan	brū	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=157262|OccId=4628755|Unsandhied=abruvan|Annotator=Ol|Punctuation=fullStop
+4	upasadaḥ	upasad	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	obl:goal	_	LemmaId=45730|OccId=4628756|Unsandhied=upasadaḥ|Annotator=Ol
+5	upāyāma	upe	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres	3	ccomp	_	LemmaId=160734|OccId=4628757|Unsandhied=upāyāma|Annotator=Ol
+6	upasadā	upasad	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	10	obl	_	LemmaId=45730|OccId=4628758|Unsandhied=upasadā|Annotator=Ol
+7	vai	vai	PART	_	_	10	discourse	_	LemmaId=118154|OccId=4628759|Unsandhied=vai|Annotator=Ol
+8	mahā	mahat	ADJ	_	Case=Cpd	9	amod	_	LemmaId=37544|OccId=4628760|Unsandhied=mahā|Annotator=Ol
+9	puram	pura	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	obj	_	LemmaId=166808|OccId=4628761|Unsandhied=puram|Annotator=Ol
+10	jayanti	ji	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	5	parataxis	_	LemmaId=156588|OccId=4628762|Unsandhied=jayanti|Annotator=Ol
+11	iti	iti	PART	_	_	10	mark	_	LemmaId=63331|OccId=4628763|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
+
+# text = tathā iti
+# sent_id = 623294_2
+1	tathā	tathā	ADV	_	_	0	root	_	LemmaId=95987|OccId=4628764|Unsandhied=tathā|Annotator=Ol
+2	iti	iti	PART	_	_	1	mark	_	LemmaId=63331|OccId=4628765|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
+
+# text = yām eva prathamām upasadam upāyan tayā eva enān asmāt lokāt anudanta yām dvitīyām tayā antarikṣāt yām tṛtīyām tayā divaḥ
+# sent_id = 623294_3
+1	yām	yad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	4	det	_	LemmaId=37877|OccId=4628767|Unsandhied=yām|Annotator=Ol
+2	eva	eva	PART	_	_	1	discourse	_	LemmaId=39754|OccId=4628768|Unsandhied=eva|Annotator=Ol
+3	prathamām	prathama	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	4	acl	_	LemmaId=140448|OccId=4628769|Unsandhied=prathamām|Annotator=Ol
+4	upasadam	upasad	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	LemmaId=45730|OccId=4628770|Unsandhied=upasadam|Annotator=Ol
+5	upāyan	upe	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	6	acl	_	LemmaId=160734|OccId=4628771|Unsandhied=upāyan|Annotator=Ol|Punctuation=comma
+6	tayā	tad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	11	obl	_	LemmaId=37875|OccId=4628772|Unsandhied=tayā|Annotator=Ol
+7	eva	eva	PART	_	_	6	discourse	_	LemmaId=39754|OccId=4628773|Unsandhied=eva|Annotator=Ol
+8	enān	enad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	11	obj	_	LemmaId=166401|OccId=4628774|Unsandhied=enān|Annotator=Ol
+9	asmāt	idam	PRON	_	Case=Abl|Gender=Masc|Number=Sing	10	det	_	LemmaId=37876|OccId=4628947|Unsandhied=asmāt|Annotator=Ol
+10	lokāt	loka	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	11	obl	_	LemmaId=66869|OccId=4628948|Unsandhied=lokāt|Annotator=Ol
+11	anudanta	nud	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=157386|OccId=4628775|Unsandhied=anudanta|Annotator=Ol|Punctuation=comma
+12	yām	yad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	13	det	_	LemmaId=37877|OccId=4628776|Unsandhied=yām|Annotator=Ol
+13	dvitīyām	dvitīya	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	14	acl	_	LemmaId=91331|OccId=4628777|Unsandhied=dvitīyām|Annotator=Ol|Punctuation=comma
+14	tayā	tad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	15	orphan	_	LemmaId=37875|OccId=4628778|Unsandhied=tayā|Annotator=Ol
+15	antarikṣāt	antarikṣa	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	11	conj	_	LemmaId=11898|OccId=4628779|Unsandhied=antarikṣāt|Annotator=Ol|Punctuation=comma
+16	yām	yad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	17	det	_	LemmaId=37877|OccId=4628780|Unsandhied=yām|Annotator=Ol
+17	tṛtīyām	tṛtīya	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	18	acl	_	LemmaId=83290|OccId=4628781|Unsandhied=tṛtīyām|Annotator=Ol|Punctuation=comma
+18	tayā	tad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	19	orphan	_	LemmaId=37875|OccId=4628782|Unsandhied=tayā|Annotator=Ol
+19	divaḥ	div	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	11	conj	_	LemmaId=168377|OccId=4628783|Unsandhied=divaḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = tān tathā ebhyaḥ lokebhyaḥ anudanta
+# sent_id = 623294_4
+1	tān	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	LemmaId=37875|OccId=4628949|Unsandhied=tān|Annotator=Ol
+2	tathā	tathā	ADV	_	_	5	advmod	_	LemmaId=95987|OccId=4628950|Unsandhied=tathā|Annotator=Ol
+3	ebhyaḥ	idam	PRON	_	Case=Abl|Gender=Masc|Number=Plur	4	det	_	LemmaId=37876|OccId=4628951|Unsandhied=ebhyaḥ|Annotator=Ol
+4	lokebhyaḥ	loka	NOUN	_	Case=Abl|Gender=Masc|Number=Plur	5	obl	_	LemmaId=66869|OccId=4628784|Unsandhied=lokebhyaḥ|Annotator=Ol
+5	anudanta	nud	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=157386|OccId=4628785|Unsandhied=anudanta|Annotator=Ol|Punctuation=fullStop
+
+# text = te vai ebhyaḥ lokebhyaḥ nuttāḥ asurāḥ ṛtūn aśrayanta
+# sent_id = 623295_1
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	6	det	_	LemmaId=37875|OccId=4628786|Unsandhied=te|Annotator=Ol
+2	vai	vai	PART	_	_	8	discourse	_	LemmaId=118154|OccId=4628787|Unsandhied=vai|Annotator=Ol
+3	ebhyaḥ	idam	PRON	_	Case=Abl|Gender=Masc|Number=Plur	4	det	_	LemmaId=37876|OccId=4628788|Unsandhied=ebhyaḥ|Annotator=Ol
+4	lokebhyaḥ	loka	NOUN	_	Case=Abl|Gender=Masc|Number=Plur	5	obl:source	_	LemmaId=66869|OccId=4628789|Unsandhied=lokebhyaḥ|Annotator=Ol
+5	nuttāḥ	nud	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl	_	LemmaId=157386|OccId=4628790|Unsandhied=nuttāḥ|Annotator=Ol
+6	asurāḥ	asura	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	LemmaId=61054|OccId=4628791|Unsandhied=asurāḥ|Annotator=Ol
+7	ṛtūn	ṛtu	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	obl	_	LemmaId=38726|OccId=4628792|Unsandhied=ṛtūn|Annotator=Ol
+8	aśrayanta	śri	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=157331|OccId=4628793|Unsandhied=aśrayanta|Annotator=Ol|Punctuation=fullStop
+
+# text = te vai ṛtubhyaḥ nuttāḥ asurāḥ māsān aśrayanta
+# sent_id = 623296_1
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	5	det	_	LemmaId=37875|OccId=4628820|Unsandhied=te|Annotator=Ol
+2	vai	vai	PART	_	_	7	discourse	_	LemmaId=118154|OccId=4628821|Unsandhied=vai|Annotator=Ol
+3	ṛtubhyaḥ	ṛtu	NOUN	_	Case=Abl|Gender=Masc|Number=Plur	4	obl	_	LemmaId=38726|OccId=4628822|Unsandhied=ṛtubhyaḥ|Annotator=Ol
+4	nuttāḥ	nud	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	LemmaId=157386|OccId=4628823|Unsandhied=nuttāḥ|Annotator=Ol
+5	asurāḥ	asura	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	LemmaId=61054|OccId=4628824|Unsandhied=asurāḥ|Annotator=Ol
+6	māsān	māsa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	7	obl	_	LemmaId=133175|OccId=4628825|Unsandhied=māsān|Annotator=Ol
+7	aśrayanta	śri	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=157331|OccId=4628826|Unsandhied=aśrayanta|Annotator=Ol|Punctuation=fullStop
+
+# text = te devāḥ abruvan upasadaḥ eva upāyāma iti
+# sent_id = 623296_2
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	2	det	_	LemmaId=37875|OccId=4628827|Unsandhied=te|Annotator=Ol
+2	devāḥ	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	LemmaId=86559|OccId=4628828|Unsandhied=devāḥ|Annotator=Ol
+3	abruvan	brū	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=157262|OccId=4628829|Unsandhied=abruvan|Annotator=Ol|Punctuation=fullStop
+4	upasadaḥ	upasad	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	obl	_	LemmaId=45730|OccId=4628830|Unsandhied=upasadaḥ|Annotator=Ol
+5	eva	eva	PART	_	_	4	discourse	_	LemmaId=39754|OccId=4628831|Unsandhied=eva|Annotator=Ol
+6	upāyāma	upe	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres	3	ccomp	_	LemmaId=160734|OccId=4628832|Unsandhied=upāyāma|Annotator=Ol
+7	iti	iti	PART	_	_	6	mark	_	LemmaId=63331|OccId=4628833|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
+
+# text = tathā iti
+# sent_id = 623296_3
+1	tathā	tathā	ADV	_	_	0	root	_	LemmaId=95987|OccId=4628834|Unsandhied=tathā|Annotator=Ol
+2	iti	iti	PART	_	_	1	mark	_	LemmaId=63331|OccId=4628835|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
+
+# text = te imāḥ ṣaḍ satīḥ upasadaḥ dvis dvis ekaikām upāyan
+# sent_id = 623296_4
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	9	nsubj	_	LemmaId=37875|OccId=4628836|Unsandhied=te|Annotator=Ol
+2	imāḥ	idam	PRON	_	Case=Acc|Gender=Fem|Number=Plur	5	det	_	LemmaId=37876|OccId=4628837|Unsandhied=imāḥ|Annotator=Ol
+3	ṣaḍ	ṣaṣ	NUM	_	Case=Acc|Gender=Fem|Number=Plur	5	acl	_	LemmaId=41703|OccId=4628838|Unsandhied=ṣaḍ|Annotator=Ol
+4	satīḥ	as	VERB	_	Case=Acc|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part	3	cop	_	LemmaId=156122|OccId=4628839|Unsandhied=satīḥ|Annotator=Ol
+5	upasadaḥ	upasad	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	9	obl	_	LemmaId=45730|OccId=4628840|Unsandhied=upasadaḥ|Annotator=Ol
+6	dvis	dvis	ADV	_	_	9	advmod	_	LemmaId=91383|OccId=4628841|Unsandhied=dvis|Annotator=Ol
+7	dvis	dvis	ADV	_	_	6	conj	_	LemmaId=91383|OccId=4628842|Unsandhied=dvis|Annotator=Ol
+8	ekaikām	ekaika	PRON	_	Case=Acc|Gender=Fem|Number=Sing	9	obj	_	LemmaId=39573|OccId=4628843|Unsandhied=ekaikām|Annotator=Ol
+9	upāyan	upe	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres	0	root	_	LemmaId=160734|OccId=4628844|Unsandhied=upāyan|Annotator=Ol|Punctuation=fullStop
+
+# text = tāḥ dvādaśa samapadyanta
+# sent_id = 623296_5
+1	tāḥ	tad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	LemmaId=37875|OccId=4628845|Unsandhied=tāḥ|Annotator=Ol
+2	dvādaśa	dvādaśan	NUM	_	Case=Nom|Gender=Neut|Number=Sing	3	xcomp	_	LemmaId=90821|OccId=4628846|Unsandhied=dvādaśa|Annotator=Ol
+3	samapadyanta	sampad	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=165414|OccId=4628847|Unsandhied=samapadyanta|Annotator=Ol|Punctuation=fullStop
+
+# text = dvādaśa vai māsaḥ
+# sent_id = 623296_6
+1	dvādaśa	dvādaśan	NUM	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=90821|OccId=4628848|Unsandhied=dvādaśa|Annotator=Ol
+2	vai	vai	PART	_	_	1	discourse	_	LemmaId=118154|OccId=4628849|Unsandhied=vai|Annotator=Ol
+3	māsaḥ	māsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=133175|OccId=4628850|Unsandhied=māsaḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = tān vai māsebhyaḥ anudanta
+# sent_id = 623296_7
+1	tān	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	LemmaId=37875|OccId=4628851|Unsandhied=tān|Annotator=Ol
+2	vai	vai	PART	_	_	4	discourse	_	LemmaId=118154|OccId=4628852|Unsandhied=vai|Annotator=Ol
+3	māsebhyaḥ	māsa	NOUN	_	Case=Abl|Gender=Masc|Number=Plur	4	obl	_	LemmaId=133175|OccId=4628853|Unsandhied=māsebhyaḥ|Annotator=Ol
+4	anudanta	nud	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=157386|OccId=4628854|Unsandhied=anudanta|Annotator=Ol|Punctuation=fullStop
+
+# text = te vai māsebhyaḥ nuttāḥ asurāḥ ardha māsān aśrayanta
+# sent_id = 623297_1
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	5	det	_	LemmaId=37875|OccId=4628855|Unsandhied=te|Annotator=Ol
+2	vai	vai	PART	_	_	8	discourse	_	LemmaId=118154|OccId=4628856|Unsandhied=vai|Annotator=Ol
+3	māsebhyaḥ	māsa	NOUN	_	Case=Abl|Gender=Masc|Number=Plur	4	obl	_	LemmaId=133175|OccId=4628857|Unsandhied=māsebhyaḥ|Annotator=Ol
+4	nuttāḥ	nud	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	acl	_	LemmaId=157386|OccId=4628858|Unsandhied=nuttāḥ|Annotator=Ol
+5	asurāḥ	asura	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	8	nsubj	_	LemmaId=61054|OccId=4628859|Unsandhied=asurāḥ|Annotator=Ol
+6	ardha	ardha	ADJ	_	Case=Cpd	7	amod	_	LemmaId=53321|OccId=4628860|Unsandhied=ardha|Annotator=Ol
+7	māsān	māsa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	8	obl	_	LemmaId=133175|OccId=4628861|Unsandhied=māsān|Annotator=Ol
+8	aśrayanta	śri	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=157331|OccId=4628862|Unsandhied=aśrayanta|Annotator=Ol|Punctuation=fullStop
+
+# text = te vā ardhamāsebhyo nuttā asurā ahorātre aśrayanta te devā abruvann upasadāv evopāyāmeti tatheti te yām eva pūrvāhṇa upasadam upāyaṃs tayaivainān ahno 'nudanta yām aparāhṇe tayā rātres tāṃstathobhābhyām antarāyan
+# sent_id = 623298
+# sent_counter = 6
+# sent_subcounter = 
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4628893|Unsandhied=te
+2	vā	vai	PART	_		_	_	_	LemmaId=118154|OccId=4628954|Unsandhied=vai
 3-4	ardhamāsebhyo	_	_	_	_	_	_	_	_
-3	_	ardha	ADJ	JJ	Case=Cpd	_	_	_	_	53321	ardha	_
-4	_	māsa	NOUN	NC	Case=Abl|Gender=Masc|Number=Plur	_	_	_	_	133175	māsebhyaḥ	_
-5	nuttā	nud	VERB	PPP	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	_	157386	nuttāḥ	_
-6	asurā	asura	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	61054	asurāḥ	_
+3	_	ardha	ADJ	_	Case=Cpd	_	_	_	LemmaId=53321|OccId=4628894|Unsandhied=ardha
+4	_	māsa	NOUN	_	Case=Abl|Gender=Masc|Number=Plur	_	_	_	LemmaId=133175|OccId=4628895|Unsandhied=māsebhyaḥ
+5	nuttā	nud	VERB	_	Case=Nom|Gender=Masc|Number=Plur|VerbForm=Part	_	_	_	LemmaId=157386|OccId=4628896|Unsandhied=nuttāḥ
+6	asurā	asura	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=61054|OccId=4628897|Unsandhied=asurāḥ
 7-8	ahorātre	_	_	_	_	_	_	_	_
-7	_	ahar	NOUN	NC	Case=Cpd	_	_	_	_	168349	ahar	_
-8	_	rātra	NOUN	NC	Case=Acc|Gender=Neut|Number=Dual	_	_	_	_	70684	rātre	_
-9	aśrayanta	śri	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157331	aśrayanta	_
-10	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-11	devā	deva	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	86559	devāḥ	_
-12	abruvann	brū	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157262	abruvan	_
-13	upasadāv	upasad	NOUN	NC	Case=Acc|Gender=Fem|Number=Dual	_	_	_	_	45730	upasadau	_
+7	_	ahar	NOUN	_	Case=Cpd	_	_	_	LemmaId=168349|OccId=4628898|Unsandhied=ahar
+8	_	rātra	NOUN	_	Case=Acc|Gender=Neut|Number=Dual	_	_	_	LemmaId=70684|OccId=4628899|Unsandhied=rātre
+9	aśrayanta	śri	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157331|OccId=4628900|Unsandhied=aśrayanta|Punctuation=fullStop
+10	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4628901|Unsandhied=te
+11	devā	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=86559|OccId=4628902|Unsandhied=devāḥ
+12	abruvann	brū	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157262|OccId=4628903|Unsandhied=abruvan|Punctuation=fullStop
+13	upasadāv	upasad	NOUN	_	Case=Acc|Gender=Fem|Number=Dual	_	_	_	LemmaId=45730|OccId=4628904|Unsandhied=upasadau
 14-16	evopāyāmeti	_	_	_	_	_	_	_	_
-14	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-15	_	upe	VERB	V	Tense=Pres|Mood=Sub|Person=1|Number=Plur	_	_	_	_	160734	upāyāma	_
-16	_	iti	PART	CQT		_	_	_	_	63331	iti	_
+14	_	eva	PART	_		_	_	_	LemmaId=39754|OccId=4628905|Unsandhied=eva
+15	_	upe	VERB	_	Tense=Pres|Mood=Sub|Person=1|Number=Plur	_	_	_	LemmaId=160734|OccId=4628906|Unsandhied=upāyāma
+16	_	iti	PART	_		_	_	_	LemmaId=63331|OccId=4628907|Unsandhied=iti|Punctuation=fullStop
 17-18	tatheti	_	_	_	_	_	_	_	_
-17	_	tathā	ADV	CX		_	_	_	_	95987	tathā	_
-18	_	iti	PART	CQT		_	_	_	_	63331	iti	_
-19	te	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-20	yām	yad	PRON	PRL	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	37877	yām	_
-21	eva	eva	PART	CEM		_	_	_	_	39754	eva	_
-22	pūrvāhṇa	pūrvāhṇa	NOUN	NC	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	145704	pūrvāhṇe	_
-23	upasadam	upasad	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	45730	upasadam	_
-24	upāyaṃs	upe	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	160734	upāyan	_
+17	_	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=4628908|Unsandhied=tathā
+18	_	iti	PART	_		_	_	_	LemmaId=63331|OccId=4628909|Unsandhied=iti|Punctuation=fullStop
+19	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4628910|Unsandhied=te
+20	yām	yad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=37877|OccId=4628911|Unsandhied=yām
+21	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4628912|Unsandhied=eva
+22	pūrvāhṇa	pūrvāhṇa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=145704|OccId=4628913|Unsandhied=pūrvāhṇe
+23	upasadam	upasad	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=45730|OccId=4628914|Unsandhied=upasadam
+24	upāyaṃs	upe	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=160734|OccId=4628915|Unsandhied=upāyan|Punctuation=comma
 25-27	tayaivainān	_	_	_	_	_	_	_	_
-25	_	tad	PRON	PRD	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	37875	tayā	_
-26	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-27	_	enad	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	166401	enān	_
-28	ahno	ahar	NOUN	NC	Case=Abl|Gender=Neut|Number=Sing	_	_	_	_	168349	ahnaḥ	_
-29	'nudanta	nud	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157386	anudanta	_
-30	yām	yad	PRON	PRL	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	37877	yām	_
-31	aparāhṇe	aparāhṇa	NOUN	NC	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	20983	aparāhṇe	_
-32	tayā	tad	PRON	PRD	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	37875	tayā	_
-33	rātres	rātri	NOUN	NC	Case=Abl|Gender=Fem|Number=Sing	_	_	_	_	70626	rātreḥ	_
+25	_	tad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=4628916|Unsandhied=tayā
+26	_	eva	PART	_		_	_	_	LemmaId=39754|OccId=4628917|Unsandhied=eva
+27	_	enad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=166401|OccId=4628918|Unsandhied=enān
+28	ahno	ahar	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=168349|OccId=4628919|Unsandhied=ahnaḥ
+29	'nudanta	nud	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157386|OccId=4628920|Unsandhied=anudanta|Punctuation=comma
+30	yām	yad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=37877|OccId=4628921|Unsandhied=yām
+31	aparāhṇe	aparāhṇa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=20983|OccId=4628922|Unsandhied=aparāhṇe|Punctuation=comma
+32	tayā	tad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=4628923|Unsandhied=tayā
+33	rātres	rātri	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	_	_	_	LemmaId=70626|OccId=4628924|Unsandhied=rātreḥ|Punctuation=fullStop
 34-36	tāṃstathobhābhyām	_	_	_	_	_	_	_	_
-34	_	tad	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	37875	tān	_
-35	_	tathā	ADV	CX		_	_	_	_	95987	tathā	_
-36	_	ubh	PRON	PPX	Case=Abl|Gender=Masc|Number=Dual	_	_	_	_	170620	ubhābhyām	_
-37	antarāyan	antari	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	171146	antarāyan	_
+34	_	tad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37875|OccId=4628925|Unsandhied=tān
+35	_	tathā	ADV	_		_	_	_	LemmaId=95987|OccId=4628926|Unsandhied=tathā
+36	_	ubh	PRON	_	Case=Abl|Gender=Masc|Number=Dual	_	_	_	LemmaId=170620|OccId=4628927|Unsandhied=ubhābhyām
+37	antarāyan	antari	VERB	_	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=171146|OccId=4628928|Unsandhied=antarāyan|Punctuation=fullStop
 
-# text_line: tasmāt supūrvāhṇa eva pūrvayopasadā pracaritavyaṃ svaparāhṇe 'parayā tāvantameva tad dviṣate lokam pariśinaṣṭi
-# text_line_id: 622188
-# text_line_counter: 7
-# text_line_subcounter: 
-1	tasmāt	tasmāt	ADV	CX		_	_	_	_	203521	tasmāt	_
-2-3	supūrvāhṇa	_	_	_	_	_	_	_	_
-2	_	su	ADV	CAD		_	_	_	_	204329	su	97219
-3	_	pūrvāhṇa	NOUN	NC	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	145704	pūrvāhṇe	65949
-4	eva	eva	PART	CEM		_	_	_	_	39754	eva	_
-5-6	pūrvayopasadā	_	_	_	_	_	_	_	_
-5	_	pūrva	PRON	PPX	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	145625	pūrvayā	_
-6	_	upasad	NOUN	NC	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	45730	upasadā	_
-7	pracaritavyaṃ	pracar	VERB	KDG	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	_	_	_	_	162383	pracaritavyam	_
-8-9	svaparāhṇe	_	_	_	_	_	_	_	_
-8	_	su	ADV	CAD		_	_	_	_	204329	su	97219
-9	_	aparāhṇa	NOUN	NC	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	20983	aparāhṇe	65955
-10	'parayā	apara	PRON	PPX	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	166280	aparayā	_
-11-12	tāvantameva	_	_	_	_	_	_	_	_
-11	_	tāvat	ADJ	JJ	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	82070	tāvantam	75422
-12	_	eva	PART	CEM		_	_	_	_	39754	eva	96649
-13	tad	tad	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37875	tat	_
-14	dviṣate	dviṣ	VERB	KDP	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	_	157774	dviṣate	92290
-15	lokam	loka	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	66869	lokam	60098
-16	pariśinaṣṭi	pariśiṣ	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	162184	pariśinaṣṭi	96449
+# text = tasmāt su pūrvāhṇe eva pūrvayā upasadā pracaritavyam su aparāhṇe aparayā
+# sent_id = 623299_1
+1	tasmāt	tasmāt	ADV	_	_	7	advmod	_	LemmaId=203521|OccId=4628929|Unsandhied=tasmāt|Annotator=Ol
+2	su	su	ADV	_	_	3	advmod	_	LemmaId=204329|OccId=4628930|Unsandhied=su|Annotator=Ol|WordSem=97219
+3	pūrvāhṇe	pūrvāhṇa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	7	obl:temp	_	LemmaId=145704|OccId=4628931|Unsandhied=pūrvāhṇe|Annotator=Ol|WordSem=65949
+4	eva	eva	PART	_	_	3	discourse	_	LemmaId=39754|OccId=4628932|Unsandhied=eva|Annotator=Ol
+5	pūrvayā	pūrva	PRON	_	Case=Ins|Gender=Fem|Number=Sing	6	det	_	LemmaId=145625|OccId=4628933|Unsandhied=pūrvayā|Annotator=Ol
+6	upasadā	upasad	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	obl	_	LemmaId=45730|OccId=4628934|Unsandhied=upasadā|Annotator=Ol
+7	pracaritavyam	pracar	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Gdv	0	root	_	LemmaId=162383|OccId=4628935|Unsandhied=pracaritavyam|Annotator=Ol|Punctuation=comma
+8	su	su	ADV	_	_	9	advmod	_	LemmaId=204329|OccId=4628936|Unsandhied=su|Annotator=Ol|WordSem=97219
+9	aparāhṇe	aparāhṇa	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	10	orphan	_	LemmaId=20983|OccId=4628937|Unsandhied=aparāhṇe|Annotator=Ol|WordSem=65955
+10	aparayā	apara	PRON	_	Case=Ins|Gender=Fem|Number=Sing	7	conj	_	LemmaId=166280|OccId=4628938|Unsandhied=aparayā|Annotator=Ol|Punctuation=fullStop
+
+# text = tāvantam eva tat dviṣate lokam pariśinaṣṭi
+# sent_id = 623299_2
+1	tāvantam	tāvat	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	5	det	_	LemmaId=82070|OccId=4628939|Unsandhied=tāvantam|Annotator=Ol|WordSem=75422
+2	eva	eva	PART	_	_	1	discourse	_	LemmaId=39754|OccId=4628940|Unsandhied=eva|Annotator=Ol|WordSem=96649
+3	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	6	advmod	_	LemmaId=37875|OccId=4628941|Unsandhied=tat|Annotator=Ol
+4	dviṣate	dviṣ	VERB	_	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	6	iobj	_	LemmaId=157774|OccId=4628942|Unsandhied=dviṣate|Annotator=Ol|WordSem=92290
+5	lokam	loka	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	LemmaId=66869|OccId=4628943|Unsandhied=lokam|Annotator=Ol|WordSem=60098
+6	pariśinaṣṭi	pariśiṣ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=162184|OccId=4628944|Unsandhied=pariśinaṣṭi|Annotator=Ol|Punctuation=fullStop|WordSem=96449
+

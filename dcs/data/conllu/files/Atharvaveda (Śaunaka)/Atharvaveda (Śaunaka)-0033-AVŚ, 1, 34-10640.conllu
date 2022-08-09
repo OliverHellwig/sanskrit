@@ -2,132 +2,119 @@
 ## text_id: 464
 ## chapter: AVŚ, 1, 34
 ## chapter_id: 10640
+# text = iyam vīrudh madhu jātā
+# sent_id = 609547_1
+1	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	2	det	_	LemmaId=37876|OccId=4540631|Unsandhied=iyam|Annotator=Ol
+2	vīrudh	vīrudh	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	LemmaId=141550|OccId=4540632|Unsandhied=vīrudh|Annotator=Ol
+3	madhu	madhu	NOUN	_	Case=Cpd|Gender=Neut	4	obl:source	_	LemmaId=35443|OccId=4540633|Unsandhied=madhu|Annotator=Ol
+4	jātā	jan	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=156584|OccId=4540634|Unsandhied=jātā|Annotator=Ol|Punctuation=fullStop
 
-# text_line: iyaṃ vīrun madhujātā madhunā tvā khanāmasi
-# text_line_id: 608436
-# text_line_counter: 1
-# text_line_subcounter: 1
-1	iyaṃ	idam	PRON	PRD	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	37876	iyam	_
-2	vīrun	vīrudh	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	141550	vīrudh	_
-3-4	madhujātā	_	_	_	_	_	_	_	_
-3	_	madhu	NOUN	NC	Case=Cpd	_	_	_	_	35443	madhu	_
-4	_	jan	VERB	PPP	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	_	156584	jātā	_
-5	madhunā	madhu	NOUN	NC	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	35443	madhunā	_
-6	tvā	tvad	PRON	PPR	Case=Acc|Gender=|Number=Sing	_	_	_	_	37880	tvā	_
-7	khanāmasi	khan	VERB	V	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	_	156206	khanāmasi	_
+# text = madhunā tvā khanāmasi
+# sent_id = 609547_2
+1	madhunā	madhu	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	3	obl:instr	_	LemmaId=35443|OccId=4540635|Unsandhied=madhunā|Annotator=Ol
+2	tvā	tvad	PRON	_	Case=Acc|Number=Sing	3	obj	_	LemmaId=37880|OccId=4540636|Unsandhied=tvā|Annotator=Ol
+3	khanāmasi	khan	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	LemmaId=156206|OccId=4540637|Unsandhied=khanāmasi|Annotator=Ol|Punctuation=fullStop
 
-# text_line: madhor adhi prajātāsi sā no madhumatas kṛdhi
-# text_line_id: 608437
-# text_line_counter: 1
-# text_line_subcounter: 2
-1	madhor	madhu	NOUN	NC	Case=Abl|Gender=Neut|Number=Sing	_	_	_	_	35443	madhoḥ	_
-2	adhi	adhi	ADV	CADP		_	_	_	_	170078	adhi	_
-3-4	prajātāsi	_	_	_	_	_	_	_	_
-3	_	prajan	VERB	PPP	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	_	162399	prajātā	_
-4	_	as	VERB	V	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	_	156122	asi	_
-5	sā	tad	PRON	PRD	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	37875	sā	_
-6	no	mad	PRON	PPR	Case=Acc|Gender=|Number=Plur	_	_	_	_	37879	naḥ	_
-7	madhumatas	madhumat	ADJ	JJ	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	35578	madhumataḥ	_
-8	kṛdhi	kṛ	VERB	V	Tense=Aor|Mood=Imp|Person=2|Number=Sing	_	_	_	_	156168	kṛdhi	_
+# text = madhoḥ adhi prajātā asi
+# sent_id = 609548_1
+1	madhoḥ	madhu	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	3	obl:source	_	LemmaId=35443|OccId=4540638|Unsandhied=madhoḥ|Annotator=Ol
+2	adhi	adhi	ADV	_	_	1	case	_	LemmaId=170078|OccId=4540639|Unsandhied=adhi|Annotator=Ol
+3	prajātā	prajan	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=162399|OccId=4540640|Unsandhied=prajātā|Annotator=Ol
+4	asi	as	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres	3	aux	_	LemmaId=156122|OccId=4540641|Unsandhied=asi|Annotator=Ol|Punctuation=fullStop
 
-# text_line: jihvāyā agre madhu me jihvāmūle madhūlakam
-# text_line_id: 608438
-# text_line_counter: 2
-# text_line_subcounter: 1
-1	jihvāyā	jihvā	NOUN	NC	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_	89128	jihvāyāḥ	_
-2	agre	agra	NOUN	NC	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_	5937	agre	_
-3	madhu	madhu	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	35443	madhu	_
-4	me	mad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37879	me	_
-5-6	jihvāmūle	_	_	_	_	_	_	_	_
-5	_	jihvā	NOUN	NC	Case=Cpd	_	_	_	_	89128	jihvā	_
-6	_	mūla	NOUN	NC	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_	137542	mūle	_
-7	madhūlakam	madhūlaka	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	35784	madhūlakam	_
+# text = sā naḥ madhumataḥ kṛdhi
+# sent_id = 609548_2
+1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	LemmaId=37875|OccId=4540642|Unsandhied=sā|Annotator=Ol
+2	naḥ	mad	PRON	_	Case=Acc|Number=Plur	4	obj	_	LemmaId=37879|OccId=4540643|Unsandhied=naḥ|Annotator=Ol
+3	madhumataḥ	madhumat	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	4	xcomp:result	_	LemmaId=35578|OccId=4540694|Unsandhied=madhumataḥ|Annotator=Ol
+4	kṛdhi	kṛ	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Past	0	root	_	LemmaId=156168|OccId=4540644|Unsandhied=kṛdhi|Annotator=Ol|Punctuation=fullStop
 
-# text_line: mamed aha kratāv aso mama cittam upāyasi
-# text_line_id: 608439
-# text_line_counter: 2
-# text_line_subcounter: 2
-1-2	mamed	_	_	_	_	_	_	_	_
-1	_	mad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37879	mama	_
-2	_	id	PART	CEM		_	_	_	_	217401	id	_
-3	aha	aha	PART	CEM		_	_	_	_	213757	aha	_
-4	kratāv	kratu	NOUN	NC	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	134074	kratau	_
-5	aso	as	VERB	V	Tense=Pres|Mood=Sub|Person=2|Number=Sing	_	_	_	_	156122	asaḥ	_
-6	mama	mad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37879	mama	_
-7	cittam	citta	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	51356	cittam	_
-8	upāyasi	upe	VERB	V	Tense=Pres|Mood=Sub|Person=2|Number=Sing	_	_	_	_	160734	upāyasi	_
+# text = jihvāyāḥ agre madhu me
+# sent_id = 609549_1
+1	jihvāyāḥ	jihvā	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	2	nmod	_	LemmaId=89128|OccId=4540645|Unsandhied=jihvāyāḥ|Annotator=Ol
+2	agre	agra	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	0	root	_	LemmaId=5937|OccId=4540646|Unsandhied=agre|Annotator=Ol
+3	madhu	madhu	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	LemmaId=35443|OccId=4540647|Unsandhied=madhu|Annotator=Ol
+4	me	mad	PRON	_	Case=Gen|Number=Sing	1	nmod	_	LemmaId=37879|OccId=4540648|Unsandhied=me|Annotator=Ol|Punctuation=comma
 
-# text_line: madhuman me nikramaṇaṃ madhuman me parāyaṇam
-# text_line_id: 608440
-# text_line_counter: 3
-# text_line_subcounter: 1
-1	madhuman	madhumat	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	35578	madhumat	_
-2	me	mad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37879	me	_
-3	nikramaṇaṃ	nikramaṇa	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	34835	nikramaṇam	_
-4	madhuman	madhumat	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	35578	madhumat	_
-5	me	mad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37879	me	_
-6	parāyaṇam	parāyaṇa	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	16348	parāyaṇam	_
+# text = jihvā mūle madhūlakam
+# sent_id = 609549_2
+1	jihvā	jihvā	NOUN	_	Case=Cpd|Gender=Fem	2	nmod	_	LemmaId=89128|OccId=4540649|Unsandhied=jihvā|Annotator=Ol
+2	mūle	mūla	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	0	root	_	LemmaId=137542|OccId=4540650|Unsandhied=mūle|Annotator=Ol
+3	madhūlakam	madhūlaka	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	LemmaId=35784|OccId=4540651|Unsandhied=madhūlakam|Annotator=Ol|Punctuation=fullStop
 
-# text_line: vācā vadāmi madhumad bhūyāsaṃ madhusaṃdṛśaḥ
-# text_line_id: 608441
-# text_line_counter: 3
-# text_line_subcounter: 2
-1	vācā	vāc	NOUN	NC	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	76023	vācā	_
-2	vadāmi	vad	VERB	V	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	_	157266	vadāmi	_
-3	madhumad	madhumat	ADJ	JJ	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	35578	madhumat	_
-4	bhūyāsaṃ	bhū	VERB	V	Tense=Aor|Mood=Prec|Person=1|Number=Sing	_	_	_	_	157250	bhūyāsam	_
-5-6	madhusaṃdṛśaḥ	_	_	_	_	_	_	_	_
-5	_	madhu	ADJ	JJ	Case=Cpd	_	_	_	_	35440	madhu	_
-6	_	saṃdṛśa	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	220082	saṃdṛśaḥ	_
+# text = mama id aha kratau asaḥ
+# sent_id = 609550_1
+1	mama	mad	PRON	_	Case=Gen|Number=Sing	4	nmod	_	LemmaId=37879|OccId=4540652|Unsandhied=mama|Annotator=Ol
+2	id	id	PART	_	_	4	discourse	_	LemmaId=217401|OccId=4540653|Unsandhied=id|Annotator=Ol
+3	aha	aha	PART	_	_	4	discourse	_	LemmaId=213757|OccId=4540654|Unsandhied=aha|Annotator=Ol
+4	kratau	kratu	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	0	root	_	LemmaId=134074|OccId=4540655|Unsandhied=kratau|Annotator=Ol
+5	asaḥ	as	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres	4	cop	_	LemmaId=156122|OccId=4540656|Unsandhied=asaḥ|Annotator=Ol|Punctuation=fullStop
 
-# text_line: madhor asmi madhutaro madughān madhumattaraḥ
-# text_line_id: 608442
-# text_line_counter: 4
-# text_line_subcounter: 1
-1	madhor	madhu	NOUN	NC	Case=Abl|Gender=Neut|Number=Sing	_	_	_	_	35443	madhoḥ	_
-2	asmi	as	VERB	V	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	_	156122	asmi	_
-3	madhutaro	madhutara	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	220083	madhutaraḥ	_
-4	madughān	madugha	NOUN	NC	Case=Abl|Gender=Masc|Number=Sing	_	_	_	_	35374	madughāt	_
-5	madhumattaraḥ	madhumattara	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	220084	madhumattaraḥ	_
+# text = mama cittam upāyasi
+# sent_id = 609550_2
+1	mama	mad	PRON	_	Case=Gen|Number=Sing	2	nmod	_	LemmaId=37879|OccId=4540657|Unsandhied=mama|Annotator=Ol
+2	cittam	citta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	obl:goal	_	LemmaId=51356|OccId=4540658|Unsandhied=cittam|Annotator=Ol
+3	upāyasi	upe	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=160734|OccId=4540659|Unsandhied=upāyasi|Annotator=Ol|Punctuation=fullStop
 
-# text_line: mām it kila tvaṃ vanāḥ śākhāṃ madhumatīm iva
-# text_line_id: 608443
-# text_line_counter: 4
-# text_line_subcounter: 2
-1	mām	mad	PRON	PPR	Case=Acc|Gender=|Number=Sing	_	_	_	_	37879	mām	_
-2	it	id	PART	CEM		_	_	_	_	217401	id	_
-3	kila	kila	PART	CEM		_	_	_	_	23494	kila	_
-4	tvaṃ	tvad	PRON	PPR	Case=Nom|Gender=|Number=Sing	_	_	_	_	37880	tvam	_
-5	vanāḥ	van	VERB	V	Tense=Pres|Mood=Sub|Person=2|Number=Sing	_	_	_	_	158953	vanāḥ	_
-6	śākhāṃ	śākhā	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	130656	śākhām	_
-7	madhumatīm	madhumat	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	35578	madhumatīm	_
-8	iva	iva	PART	CCM		_	_	_	_	63807	iva	_
+# text = madhumat me nikramaṇam
+# sent_id = 609551_1
+1	madhumat	madhumat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=35578|OccId=4540660|Unsandhied=madhumat|Annotator=Ol
+2	me	mad	PRON	_	Case=Gen|Number=Sing	3	nmod	_	LemmaId=37879|OccId=4540661|Unsandhied=me|Annotator=Ol
+3	nikramaṇam	nikramaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	LemmaId=34835|OccId=4540662|Unsandhied=nikramaṇam|Annotator=Ol|Punctuation=fullStop
 
-# text_line: pari tvā paritatnunekṣuṇāgām avidviṣe
-# text_line_id: 608444
-# text_line_counter: 5
-# text_line_subcounter: 1
-1	pari	pari	ADV	CADP		_	_	_	_	170864	pari	_
-2	tvā	tvad	PRON	PPR	Case=Acc|Gender=|Number=Sing	_	_	_	_	37880	tvā	_
-3-5	paritatnunekṣuṇāgām	_	_	_	_	_	_	_	_
-3	_	paritatnu	ADJ	JJ	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	19055	paritatnunā	69089
-4	_	ikṣu	NOUN	NC	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	63216	ikṣuṇā	52357
-5	_	gā	VERB	V	Tense=Aor|Mood=Ind|Formation=root|Person=1|Number=Sing	_	_	_	_	156219	agām	_
-6-7	avidviṣe	_	_	_	_	_	_	_	_
-6	_	a	PART	CNG		_	_	_	_	213048	a	_
-7	_	vidviṣ	ADJ	JJ	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_	121491	vidviṣe	_
+# text = madhumat me parāyaṇam
+# sent_id = 609551_2
+1	madhumat	madhumat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=35578|OccId=4540663|Unsandhied=madhumat|Annotator=Ol
+2	me	mad	PRON	_	Case=Gen|Number=Sing	3	nmod	_	LemmaId=37879|OccId=4540664|Unsandhied=me|Annotator=Ol
+3	parāyaṇam	parāyaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	LemmaId=16348|OccId=4540665|Unsandhied=parāyaṇam|Annotator=Ol|Punctuation=fullStop
 
-# text_line: yathā māṃ kāminy aso yathā man nāpagā asaḥ
-# text_line_id: 608445
-# text_line_counter: 5
-# text_line_subcounter: 2
-1	yathā	yathā	PART	CCM		_	_	_	_	73250	yathā	_
-2	māṃ	mad	PRON	PPR	Case=Acc|Gender=|Number=Sing	_	_	_	_	37879	mām	_
-3	kāminy	kāmin	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	14006	kāminī	_
-4	aso	as	VERB	V	Tense=Pres|Mood=Sub|Person=2|Number=Sing	_	_	_	_	156122	asaḥ	_
-5	yathā	yathā	PART	CCM		_	_	_	_	73250	yathā	_
-6	man	mad	PRON	PPR	Case=Abl|Gender=|Number=Sing	_	_	_	_	37879	mat	_
-7-8	nāpagā	_	_	_	_	_	_	_	_
-7	_	na	PART	CNG		_	_	_	_	43432	na	_
-8	_	apaga	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	20729	apagā	_
-9	asaḥ	as	VERB	V	Tense=Pres|Mood=Sub|Person=2|Number=Sing	_	_	_	_	156122	asaḥ	_
+# text = vācā vadāmi madhumat
+# sent_id = 609552_1
+1	vācā	vāc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	2	obl:instr	_	LemmaId=76023|OccId=4540666|Unsandhied=vācā|Annotator=Ol
+2	vadāmi	vad	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	LemmaId=157266|OccId=4540667|Unsandhied=vadāmi|Annotator=Ol
+3	madhumat	madhumat	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=35578|OccId=4540668|Unsandhied=madhumat|Annotator=Ol|Punctuation=fullStop
+
+# text = bhūyāsam madhu saṃdṛśaḥ
+# sent_id = 609552_2
+1	bhūyāsam	bhū	VERB	_	Mood=Opt|Number=Sing|Person=1|Tense=Past	0	root	_	LemmaId=157250|OccId=4540669|Unsandhied=bhūyāsam|Annotator=Ol
+2	madhu	madhu	ADJ	_	Case=Cpd	3	nmod	_	LemmaId=35440|OccId=4540695|Unsandhied=madhu|Annotator=Ol
+3	saṃdṛśaḥ	saṃdṛśa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	xcomp:result	_	LemmaId=220082|OccId=4540696|Unsandhied=saṃdṛśaḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = madhoḥ asmi madhutaraḥ madughāt madhumattaraḥ
+# sent_id = 609553_1
+1	madhoḥ	madhu	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	3	obl:grad	_	LemmaId=35443|OccId=4540670|Unsandhied=madhoḥ|Annotator=Ol
+2	asmi	as	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	cop	_	LemmaId=156122|OccId=4540671|Unsandhied=asmi|Annotator=Ol
+3	madhutaraḥ	madhutara	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=220083|OccId=4540697|Unsandhied=madhutaraḥ|Annotator=Ol|Punctuation=comma
+4	madughāt	madugha	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	5	obl:grad	_	LemmaId=35374|OccId=4540672|Unsandhied=madughāt|Annotator=Ol
+5	madhumattaraḥ	madhumattara	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	conj	_	LemmaId=220084|OccId=4540698|Unsandhied=madhumattaraḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = mām id kila tvam vanāḥ śākhām madhumatīm iva
+# sent_id = 609554_1
+1	mām	mad	PRON	_	Case=Acc|Number=Sing	5	obj	_	LemmaId=37879|OccId=4540673|Unsandhied=mām|Annotator=Ol
+2	id	id	PART	_	_	5	discourse	_	LemmaId=217401|OccId=4540674|Unsandhied=id|Annotator=Ol
+3	kila	kila	PART	_	_	5	discourse	_	LemmaId=23494|OccId=4540675|Unsandhied=kila|Annotator=Ol
+4	tvam	tvad	PRON	_	Case=Nom|Number=Sing	5	nsubj	_	LemmaId=37880|OccId=4540676|Unsandhied=tvam|Annotator=Ol
+5	vanāḥ	van	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=158953|OccId=4540677|Unsandhied=vanāḥ|Annotator=Ol
+6	śākhām	śākhā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	obl	_	LemmaId=130656|OccId=4540678|Unsandhied=śākhām|Annotator=Ol
+7	madhumatīm	madhumat	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	6	amod	_	LemmaId=35578|OccId=4540679|Unsandhied=madhumatīm|Annotator=Ol
+8	iva	iva	PART	_	_	6	case	_	LemmaId=63807|OccId=4540680|Unsandhied=iva|Annotator=Ol|Punctuation=fullStop
+
+# text = pari tvā paritatnunā ikṣuṇā agām a vidviṣe yathā mām kāminī asaḥ yathā mat na apagā asaḥ
+# sent_id = 609555_1
+1	pari	pari	ADV	_	_	5	advmod	_	LemmaId=170864|OccId=4540681|Unsandhied=pari|Annotator=Ol
+2	tvā	tvad	PRON	_	Case=Acc|Number=Sing	5	obl:goal	_	LemmaId=37880|OccId=4540682|Unsandhied=tvā|Annotator=Ol
+3	paritatnunā	paritatnu	ADJ	_	Case=Ins|Gender=Masc|Number=Sing	4	amod	_	LemmaId=19055|OccId=4540683|Unsandhied=paritatnunā|Annotator=Ol|WordSem=69089
+4	ikṣuṇā	ikṣu	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	5	obl:instr	_	LemmaId=63216|OccId=4540684|Unsandhied=ikṣuṇā|Annotator=Ol|WordSem=52357
+5	agām	gā	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	LemmaId=156219|OccId=4540685|Unsandhied=agām|Annotator=Ol
+6	a	a	PART	_	_	7	advmod	_	LemmaId=213048|OccId=4540699|Unsandhied=a|Annotator=Ol
+7	vidviṣe	vidviṣ	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	5	advcl:fin	_	LemmaId=121491|OccId=4540700|Unsandhied=vidviṣe|Annotator=Ol|Punctuation=comma
+8	yathā	yathā	PART	_	_	10	mark	_	LemmaId=73250|OccId=4540686|Unsandhied=yathā|Annotator=Ol
+9	mām	mad	PRON	_	Case=Acc|Number=Sing	10	obj	_	LemmaId=37879|OccId=4540687|Unsandhied=mām|Annotator=Ol
+10	kāminī	kāmin	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	advcl:fin	_	LemmaId=14006|OccId=5050708|Unsandhied=kāminī|Annotator=Ol
+11	asaḥ	as	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres	10	cop	_	LemmaId=156122|OccId=4540688|Unsandhied=asaḥ|Annotator=Ol|Punctuation=comma
+12	yathā	yathā	PART	_	_	15	mark	_	LemmaId=73250|OccId=4540689|Unsandhied=yathā|Annotator=Ol
+13	mat	mad	PRON	_	Case=Abl|Number=Sing	15	obl:source	_	LemmaId=37879|OccId=4540690|Unsandhied=mat|Annotator=Ol
+14	na	na	PART	_	_	15	advmod	_	LemmaId=43432|OccId=4540691|Unsandhied=na|Annotator=Ol
+15	apagā	apaga	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	10	conj	_	LemmaId=20729|OccId=4540692|Unsandhied=apagā|Annotator=Ol
+16	asaḥ	as	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres	15	cop	_	LemmaId=156122|OccId=4540693|Unsandhied=asaḥ|Annotator=Ol|Punctuation=fullStop
+

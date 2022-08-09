@@ -2,104 +2,77 @@
 ## text_id: 464
 ## chapter: AVŚ, 1, 22
 ## chapter_id: 10594
+# text = anu sūryam ud ayatām hṛddyotaḥ harimā ca te
+# sent_id = 609447_1
+1	anu	anu	ADV	_	_	2	case	_	LemmaId=166836|OccId=4529781|Unsandhied=anu|Annotator=Ol
+2	sūryam	sūrya	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	obl:goal	_	LemmaId=99310|OccId=4529782|Unsandhied=sūryam|Annotator=Ol
+3	ud	ud	ADV	_	_	4	advmod	_	LemmaId=214859|OccId=4529783|Unsandhied=ud|Annotator=Ol
+4	ayatām	i	VERB	_	Mood=Imp|Number=Dual|Person=3|Tense=Pres	0	root	_	LemmaId=156127|OccId=4529830|Unsandhied=ayatām|Annotator=Ol
+5	hṛddyotaḥ	hṛddyota	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=110541|OccId=4529784|Unsandhied=hṛddyotaḥ|Annotator=Ol
+6	harimā	hariman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	LemmaId=109051|OccId=4529785|Unsandhied=harimā|Annotator=Ol
+7	ca	ca	CCONJ	_	_	6	cc	_	LemmaId=157144|OccId=4529786|Unsandhied=ca|Annotator=Ol
+8	te	tvad	PRON	_	Case=Gen|Number=Sing	5	nmod	_	LemmaId=37880|OccId=4529787|Unsandhied=te|Annotator=Ol|Punctuation=fullStop
 
-# text_line: anu sūryam ud ayatāṃ hṛddyoto harimā ca te
-# text_line_id: 608336
-# text_line_counter: 1
-# text_line_subcounter: 1
-1	anu	anu	ADV	CADP		_	_	_	_	166836	anu	_
-2	sūryam	sūrya	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	99310	sūryam	_
-3	ud	ud	ADV	CADP		_	_	_	_	214859	ud	_
-4	ayatāṃ	i	VERB	V	Tense=Pres|Mood=Imp|Person=3|Number=Dual	_	_	_	_	156127	ayatām	_
-5	hṛddyoto	hṛddyota	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	110541	hṛddyotaḥ	_
-6	harimā	hariman	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	109051	harimā	_
-7	ca	ca	CCONJ	CCD		_	_	_	_	157144	ca	_
-8	te	tvad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37880	te	_
+# text = goḥ rohitasya varṇena tena tvā paridadhmasi
+# sent_id = 609448_1
+1	goḥ	go	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LemmaId=166386|OccId=4529788|Unsandhied=goḥ|Annotator=Ol
+2	rohitasya	rohita	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	1	amod	_	LemmaId=80124|OccId=4529789|Unsandhied=rohitasya|Annotator=Ol
+3	varṇena	varṇa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	4	nmod:appos	_	LemmaId=74430|OccId=4529790|Unsandhied=varṇena|Annotator=Ol
+4	tena	tad	PRON	_	Case=Ins|Gender=Masc|Number=Sing	6	obl:instr	_	LemmaId=37875|OccId=4529791|Unsandhied=tena|Annotator=Ol
+5	tvā	tvad	PRON	_	Case=Acc|Number=Sing	6	obj	_	LemmaId=37880|OccId=4529792|Unsandhied=tvā|Annotator=Ol
+6	paridadhmasi	paridhā	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	LemmaId=162038|OccId=4972068|Unsandhied=paridadhmasi|Annotator=Ol|Punctuation=fullStop
 
-# text_line: go rohitasya varṇena tena tvā paridadhmasi
-# text_line_id: 608337
-# text_line_counter: 1
-# text_line_subcounter: 2
-1	go	go	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	166386	goḥ	_
-2	rohitasya	rohita	ADJ	JJ	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	80124	rohitasya	_
-3	varṇena	varṇa	NOUN	NC	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	74430	varṇena	_
-4	tena	tad	PRON	PRD	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	37875	tena	_
-5	tvā	tvad	PRON	PPR	Case=Acc|Gender=|Number=Sing	_	_	_	_	37880	tvā	_
-6	paridadhmasi	paridhā	VERB	V	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	_	162038	paridadhmasi	_
+# text = pari tvā rohitaiḥ varṇaiḥ dīrgha āyu tvāya dadhmasi yathā ayam arapāḥ asat atha u a haritaḥ bhuvat
+# sent_id = 609449_1
+1	pari	pari	ADV	_	_	8	advmod	_	LemmaId=170864|OccId=4529795|Unsandhied=pari|Annotator=Ol
+2	tvā	tvad	PRON	_	Case=Acc|Number=Sing	8	obj	_	LemmaId=37880|OccId=4529796|Unsandhied=tvā|Annotator=Ol
+3	rohitaiḥ	rohita	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	4	amod	_	LemmaId=80124|OccId=4529797|Unsandhied=rohitaiḥ|Annotator=Ol
+4	varṇaiḥ	varṇa	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	8	obl:instr	_	LemmaId=74430|OccId=4529798|Unsandhied=varṇaiḥ|Annotator=Ol
+5	dīrgha	dīrgha	ADJ	_	Case=Cpd	6	amod	_	LemmaId=84789|OccId=4529799|Unsandhied=dīrgha|Annotator=Ol
+6	āyu	āyu	NOUN	_	Case=Cpd|Gender=Neut	7	nmod	_	LemmaId=59200|OccId=4529800|Unsandhied=āyu|Annotator=Ol
+7	tvāya	tva	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	8	advcl:fin	_	LemmaId=163754|OccId=4529801|Unsandhied=tvāya|Annotator=Ol
+8	dadhmasi	dhā	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	LemmaId=157327|OccId=4529802|Unsandhied=dadhmasi|Annotator=Ol|Punctuation=fullStop
+9	yathā	yathā	PART	_	_	11	mark	_	LemmaId=73250|OccId=4529803|Unsandhied=yathā|Annotator=Ol
+10	ayam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	11	nsubj	_	LemmaId=37876|OccId=4529804|Unsandhied=ayam|Annotator=Ol
+11	arapāḥ	arapas	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	8	advcl	_	LemmaId=32592|OccId=4529805|Unsandhied=arapāḥ|Annotator=Ol
+12	asat	as	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	11	cop	_	LemmaId=156122|OccId=4529806|Unsandhied=asat|Annotator=Ol|Punctuation=comma
+13	atha	atha	ADV	_	_	16	advmod	_	LemmaId=7467|OccId=4972070|Unsandhied=atha|Annotator=Ol
+14	u	u	PART	_	_	13	fixed	_	LemmaId=213150|OccId=4972071|Unsandhied=u|Annotator=Ol
+15	a	a	PART	_	_	16	advmod	_	LemmaId=213048|OccId=4529831|Unsandhied=a|Annotator=Ol
+16	haritaḥ	harita	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	11	conj	_	LemmaId=108976|OccId=4529832|Unsandhied=haritaḥ|Annotator=Ol
+17	bhuvat	bhū	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	16	cop	_	LemmaId=157250|OccId=4529808|Unsandhied=bhuvat|Annotator=Ol|Punctuation=fullStop
 
-# text_line: pari tvā rohitair varṇair dīrghāyutvāya dadhmasi
-# text_line_id: 608338
-# text_line_counter: 2
-# text_line_subcounter: 1
-1	pari	pari	ADV	CADP		_	_	_	_	170864	pari	_
-2	tvā	tvad	PRON	PPR	Case=Acc|Gender=|Number=Sing	_	_	_	_	37880	tvā	_
-3	rohitair	rohita	ADJ	JJ	Case=Ins|Gender=Masc|Number=Plur	_	_	_	_	80124	rohitaiḥ	_
-4	varṇair	varṇa	NOUN	NC	Case=Ins|Gender=Masc|Number=Plur	_	_	_	_	74430	varṇaiḥ	_
-5-7	dīrghāyutvāya	_	_	_	_	_	_	_	_
-5	_	dīrgha	ADJ	JJ	Case=Cpd	_	_	_	_	84789	dīrgha	_
-6	_	āyu	NOUN	NC	Case=Cpd	_	_	_	_	59200	āyu	_
-7	_	tva	NOUN	NC	Case=Dat|Gender=Neut|Number=Sing	_	_	_	_	163754	tvāya	_
-8	dadhmasi	dhā	VERB	V	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	_	157327	dadhmasi	_
+# text = yāḥ rohiṇīḥ devatyāḥ gāvaḥ yāḥ uta rohiṇīḥ rūpam rūpam vayaḥ vayaḥ tābhiḥ tvā paridadhmasi
+# sent_id = 609452_1
+1	yāḥ	yad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	LemmaId=37877|OccId=4529809|Unsandhied=yāḥ|Annotator=Ol
+2	rohiṇīḥ	rohita	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	3	amod	_	LemmaId=80124|OccId=4972065|Unsandhied=rohiṇīḥ|Annotator=Ol
+3	devatyāḥ	devatya	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	12	acl	_	LemmaId=87132|OccId=4529811|Unsandhied=devatyāḥ|Annotator=Ol|Punctuation=comma
+4	gāvaḥ	go	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	7	nsubj	_	LemmaId=166386|OccId=4529812|Unsandhied=gāvaḥ|Annotator=Ol
+5	yāḥ	yad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	4	det	_	LemmaId=37877|OccId=4529813|Unsandhied=yāḥ|Annotator=Ol
+6	uta	uta	CCONJ	_	_	4	cc	_	LemmaId=55443|OccId=4529814|Unsandhied=uta|Annotator=Ol
+7	rohiṇīḥ	rohita	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	3	conj	_	LemmaId=80124|OccId=4972066|Unsandhied=rohiṇīḥ|Annotator=Ol|Punctuation=comma
+8	rūpam	rūpa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	LemmaId=71929|OccId=4529837|Unsandhied=rūpam|Annotator=Ol
+9	rūpam	rūpa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	8	conj	_	LemmaId=71929|OccId=4529833|Unsandhied=rūpam|Annotator=Ol
+10	vayaḥ	vayas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	14	obl	_	LemmaId=68966|OccId=4529834|Unsandhied=vayaḥ|Annotator=Ol
+11	vayaḥ	vayas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	10	conj	_	LemmaId=68966|OccId=4529835|Unsandhied=vayaḥ|Annotator=Ol
+12	tābhiḥ	tad	PRON	_	Case=Ins|Gender=Fem|Number=Plur	14	obl:instr	_	LemmaId=37875|OccId=4529816|Unsandhied=tābhiḥ|Annotator=Ol
+13	tvā	tvad	PRON	_	Case=Acc|Number=Sing	14	obj	_	LemmaId=37880|OccId=4529836|Unsandhied=tvā|Annotator=Ol
+14	paridadhmasi	paridhā	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	LemmaId=162038|OccId=4972069|Unsandhied=paridadhmasi|Annotator=Ol|Punctuation=fullStop
 
-# text_line: yathāyam arapā asad atho aharito bhuvat
-# text_line_id: 608339
-# text_line_counter: 2
-# text_line_subcounter: 2
-1-2	yathāyam	_	_	_	_	_	_	_	_
-1	_	yathā	PART	CCM		_	_	_	_	73250	yathā	_
-2	_	idam	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37876	ayam	_
-3	arapā	arapas	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	32592	arapāḥ	_
-4	asad	as	VERB	V	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	_	156122	asat	_
-5-6	atho	_	_	_	_	_	_	_	_
-5	_	atha	ADV	CAD		_	_	_	_	7467	atha	_
-6	_	u	PART	CEM		_	_	_	_	213150	u	_
-7-8	aharito	_	_	_	_	_	_	_	_
-7	_	a	PART	CNG		_	_	_	_	213048	a	_
-8	_	harita	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	108976	haritaḥ	_
-9	bhuvat	bhū	VERB	V	Tense=Aor|Mood=Sub|Person=3|Number=Sing	_	_	_	_	157250	bhuvat	_
+# text = śukeṣu te harimāṇam ropaṇākāsu dadhmasi
+# sent_id = 609453_1
+1	śukeṣu	śuka	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	5	obl:goal	_	LemmaId=126235|OccId=4529819|Unsandhied=śukeṣu|Annotator=Ol
+2	te	tvad	PRON	_	Case=Gen|Number=Sing	3	nmod	_	LemmaId=37880|OccId=4529820|Unsandhied=te|Annotator=Ol
+3	harimāṇam	hariman	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	LemmaId=109051|OccId=4529821|Unsandhied=harimāṇam|Annotator=Ol
+4	ropaṇākāsu	ropaṇākā	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	1	conj	_	LemmaId=79965|OccId=4529822|Unsandhied=ropaṇākāsu|Annotator=Ol
+5	dadhmasi	dhā	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	LemmaId=157327|OccId=4529823|Unsandhied=dadhmasi|Annotator=Ol|Punctuation=fullStop
 
-# text_line: yā rohiṇīr devatyā gāvo yā uta rohiṇīḥ
-# text_line_id: 608340
-# text_line_counter: 3
-# text_line_subcounter: 1
-1	yā	yad	PRON	PRL	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	37877	yāḥ	_
-2	rohiṇīr	rohita	ADJ	JJ	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	80124	rohiṇīḥ	_
-3	devatyā	devatya	ADJ	JJ	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	87132	devatyāḥ	_
-4	gāvo	go	NOUN	NC	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	166386	gāvaḥ	_
-5	yā	yad	PRON	PRL	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	37877	yāḥ	_
-6	uta	uta	CCONJ	CCD		_	_	_	_	55443	uta	_
-7	rohiṇīḥ	rohita	ADJ	JJ	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	80124	rohiṇīḥ	_
+# text = atha u hāridraveṣu te harimāṇam nidadhmasi
+# sent_id = 609454_1
+1	atha	atha	ADV	_	_	6	advmod	_	LemmaId=7467|OccId=4972072|Unsandhied=atha|Annotator=Ol
+2	u	u	PART	_	_	1	fixed	_	LemmaId=213150|OccId=4972073|Unsandhied=u|Annotator=Ol
+3	hāridraveṣu	hāridrava	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	6	obl:goal	_	LemmaId=109092|OccId=4529825|Unsandhied=hāridraveṣu|Annotator=Ol
+4	te	tvad	PRON	_	Case=Gen|Number=Sing	5	nmod	_	LemmaId=37880|OccId=4529826|Unsandhied=te|Annotator=Ol
+5	harimāṇam	hariman	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	obj	_	LemmaId=109051|OccId=4529827|Unsandhied=harimāṇam|Annotator=Ol
+6	nidadhmasi	nidhā	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	LemmaId=161295|OccId=4972067|Unsandhied=nidadhmasi|Annotator=Ol|Punctuation=fullStop
 
-# text_line: rūpaṃ rūpaṃ vayo vayas tābhiṣ ṭvā paridadhmasi
-# text_line_id: 608341
-# text_line_counter: 3
-# text_line_subcounter: 2
-1	rūpaṃ	rūpa	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	71929	rūpam	_
-2	rūpaṃ	rūpa	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	71929	rūpam	_
-3	vayo	vayas	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	68966	vayaḥ	_
-4	vayas	vayas	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	68966	vayaḥ	_
-5	tābhiṣ	tad	PRON	PRD	Case=Ins|Gender=Fem|Number=Plur	_	_	_	_	37875	tābhiḥ	_
-6	ṭvā	tvad	PRON	PPR	Case=Acc|Gender=|Number=Sing	_	_	_	_	37880	tvā	_
-7	paridadhmasi	paridhā	VERB	V	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	_	162038	paridadhmasi	_
-
-# text_line: śukeṣu te harimāṇaṃ ropaṇākāsu dadhmasi
-# text_line_id: 608342
-# text_line_counter: 4
-# text_line_subcounter: 1
-1	śukeṣu	śuka	NOUN	NC	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	126235	śukeṣu	_
-2	te	tvad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37880	te	_
-3	harimāṇaṃ	hariman	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	109051	harimāṇam	_
-4	ropaṇākāsu	ropaṇākā	NOUN	NC	Case=Loc|Gender=Fem|Number=Plur	_	_	_	_	79965	ropaṇākāsu	_
-5	dadhmasi	dhā	VERB	V	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	_	157327	dadhmasi	_
-
-# text_line: atho hāridraveṣu te harimāṇaṃ nidadhmasi
-# text_line_id: 608343
-# text_line_counter: 4
-# text_line_subcounter: 2
-1-2	atho	_	_	_	_	_	_	_	_
-1	_	atha	ADV	CAD		_	_	_	_	7467	atha	_
-2	_	u	PART	CEM		_	_	_	_	213150	u	_
-3	hāridraveṣu	hāridrava	NOUN	NC	Case=Loc|Gender=Masc|Number=Plur	_	_	_	_	109092	hāridraveṣu	_
-4	te	tvad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37880	te	_
-5	harimāṇaṃ	hariman	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	109051	harimāṇam	_
-6	nidadhmasi	nidhā	VERB	V	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	_	161295	nidadhmasi	_

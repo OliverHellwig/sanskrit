@@ -2,89 +2,86 @@
 ## text_id: 464
 ## chapter: AVŚ, 6, 57
 ## chapter_id: 11356
+# text = idam id vai u bheṣajam
+# sent_id = 612158_1
+1	idam	idam	PRON	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	LemmaId=37876|OccId=4746968|Unsandhied=idam|Annotator=Ol
+2	id	id	PART	_	_	5	discourse	_	LemmaId=217401|OccId=4746969|Unsandhied=id|Annotator=Ol
+3	vai	vai	PART	_	_	5	discourse	_	LemmaId=118154|OccId=4746970|Unsandhied=vai|Annotator=Ol
+4	u	u	PART	_	_	5	discourse	_	LemmaId=213150|OccId=4747015|Unsandhied=u|Annotator=Ol
+5	bheṣajam	bheṣaja	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=25937|OccId=4746971|Unsandhied=bheṣajam|Annotator=Ol|Punctuation=fullStop
 
-# text_line: idam id vā u bheṣajam idaṃ rudrasya bheṣajam
-# text_line_id: 611047
-# text_line_counter: 1
-# text_line_subcounter: 1
-1	idam	idam	PRON	PRD	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	37876	idam	_
-2	id	id	PART	CEM		_	_	_	_	217401	id	_
-3	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
-4	u	u	PART	CEM		_	_	_	_	213150	u	_
-5	bheṣajam	bheṣaja	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	25937	bheṣajam	_
-6	idaṃ	idam	PRON	PRD	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	37876	idam	_
-7	rudrasya	rudra	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	71571	rudrasya	_
-8	bheṣajam	bheṣaja	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	25937	bheṣajam	_
+# text = idam rudrasya bheṣajam yena iṣum eka tejanām śata śalyām apabravat
+# sent_id = 612158_2
+1	idam	idam	PRON	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	LemmaId=37876|OccId=4746972|Unsandhied=idam|Annotator=Ol
+2	rudrasya	rudra	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LemmaId=71571|OccId=4746973|Unsandhied=rudrasya|Annotator=Ol
+3	bheṣajam	bheṣaja	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=25937|OccId=4746974|Unsandhied=bheṣajam|Annotator=Ol|Punctuation=comma
+4	yena	yad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	10	obl	_	LemmaId=37877|OccId=4746975|Unsandhied=yena|Annotator=Ol
+5	iṣum	iṣu	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	LemmaId=63823|OccId=4746976|Unsandhied=iṣum|Annotator=Ol
+6	eka	eka	PRON	_	Case=Cpd	7	nummod	_	LemmaId=39102|OccId=4746977|Unsandhied=eka|Annotator=Ol
+7	tejanām	tejana	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	5	acl	_	LemmaId=83381|OccId=4746978|Unsandhied=tejanām|Annotator=Ol
+8	śata	śata	NUM	_	Case=Cpd|Gender=Neut	9	nummod	_	LemmaId=116433|OccId=4746979|Unsandhied=śata|Annotator=Ol
+9	śalyām	śalya	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	7	conj	_	LemmaId=131041|OccId=4746980|Unsandhied=śalyām|Annotator=Ol
+10	apabravat	apabrū	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	3	acl	_	LemmaId=158420|OccId=4747016|Unsandhied=apabravat|Annotator=Ol|Punctuation=fullStop
 
-# text_line: yeneṣum ekatejanāṃ śataśalyām apabravat
-# text_line_id: 611048
-# text_line_counter: 1
-# text_line_subcounter: 2
-1-2	yeneṣum	_	_	_	_	_	_	_	_
-1	_	yad	PRON	PRL	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	37877	yena	_
-2	_	iṣu	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	63823	iṣum	_
-3-4	ekatejanāṃ	_	_	_	_	_	_	_	_
-3	_	eka	PRON	PPX	Case=Cpd	_	_	_	_	39102	eka	_
-4	_	tejana	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	83381	tejanām	_
-5-6	śataśalyām	_	_	_	_	_	_	_	_
-5	_	śata	NUM	NUM	Case=Cpd	_	_	_	_	116433	śata	_
-6	_	śalya	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	131041	śalyām	_
-7	apabravat	apabrū	VERB	V	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	_	158420	apabravat	_
+# text = jālāṣeṇa abhi siñcata
+# sent_id = 612160_1
+1	jālāṣeṇa	jālāṣa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	3	obl	_	LemmaId=88909|OccId=4746981|Unsandhied=jālāṣeṇa|Annotator=Ol
+2	abhi	abhi	ADV	_	_	3	advmod	_	LemmaId=171289|OccId=4746982|Unsandhied=abhi|Annotator=Ol
+3	siñcata	sic	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	0	root	_	LemmaId=158080|OccId=4747017|Unsandhied=siñcata|Annotator=Ol|Punctuation=fullStop
 
-# text_line: jālāṣeṇābhi ṣiñcata jālāṣeṇopa siñcata
-# text_line_id: 611049
-# text_line_counter: 2
-# text_line_subcounter: 1
-1-2	jālāṣeṇābhi	_	_	_	_	_	_	_	_
-1	_	jālāṣa	NOUN	NC	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	88909	jālāṣeṇa	_
-2	_	abhi	ADV	CADP		_	_	_	_	171289	abhi	_
-3	ṣiñcata	sic	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	_	158080	siñcata	_
-4-5	jālāṣeṇopa	_	_	_	_	_	_	_	_
-4	_	jālāṣa	NOUN	NC	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	88909	jālāṣeṇa	_
-5	_	upa	ADV	CADP		_	_	_	_	169779	upa	_
-6	siñcata	sic	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	_	158080	siñcata	_
+# text = jālāṣeṇa upa siñcata
+# sent_id = 612160_2
+1	jālāṣeṇa	jālāṣa	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	3	obl	_	LemmaId=88909|OccId=4746983|Unsandhied=jālāṣeṇa|Annotator=Ol
+2	upa	upa	ADV	_	_	3	advmod	_	LemmaId=169779|OccId=4746984|Unsandhied=upa|Annotator=Ol
+3	siñcata	sic	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	0	root	_	LemmaId=158080|OccId=4746985|Unsandhied=siñcata|Annotator=Ol|Punctuation=fullStop
 
-# text_line: jālāṣam ugraṃ bheṣajaṃ tena no mṛḍa jīvase
-# text_line_id: 611050
-# text_line_counter: 2
-# text_line_subcounter: 2
-1	jālāṣam	jālāṣa	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	88909	jālāṣam	_
-2	ugraṃ	ugra	ADJ	JJ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	64249	ugram	_
-3	bheṣajaṃ	bheṣaja	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	25937	bheṣajam	_
-4	tena	tad	PRON	PRD	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	37875	tena	_
-5	no	mad	PRON	PPR	Case=Dat|Gender=|Number=Plur	_	_	_	_	37879	naḥ	_
-6	mṛḍa	mṛḍ	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	_	218727	mṛḍa	_
-7	jīvase	jīv	VERB	CGDI	VerbForm=Inf	_	_	_	_	157146	jīvase	_
+# text = jālāṣam ugram bheṣajam
+# sent_id = 612161_1
+1	jālāṣam	jālāṣa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	LemmaId=88909|OccId=4746986|Unsandhied=jālāṣam|Annotator=Ol
+2	ugram	ugra	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	LemmaId=64249|OccId=4746987|Unsandhied=ugram|Annotator=Ol
+3	bheṣajam	bheṣaja	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=25937|OccId=4746988|Unsandhied=bheṣajam|Annotator=Ol|Punctuation=fullStop
 
-# text_line: śaṃ ca no mayaś ca no mā ca naḥ kiṃ canāmamat
-# text_line_id: 611051
-# text_line_counter: 3
-# text_line_subcounter: 1
-1	śaṃ	śam	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	220942	śam	_
-2	ca	ca	CCONJ	CCD		_	_	_	_	157144	ca	_
-3	no	mad	PRON	PPR	Case=Dat|Gender=|Number=Plur	_	_	_	_	37879	naḥ	_
-4	mayaś	mayas	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	36825	mayaḥ	_
-5	ca	ca	CCONJ	CCD		_	_	_	_	157144	ca	_
-6	no	mad	PRON	PPR	Case=Dat|Gender=|Number=Plur	_	_	_	_	37879	naḥ	_
-7	mā	mā	PART	CNG		_	_	_	_	170120	mā	_
-8	ca	ca	CCONJ	CCD		_	_	_	_	157144	ca	_
-9	naḥ	mad	PRON	PPR	Case=Acc|Gender=|Number=Plur	_	_	_	_	37879	naḥ	_
-10	kiṃ	ka	PRON	PRQ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	37878	kim	_
-11-12	canāmamat	_	_	_	_	_	_	_	_
-11	_	cana	PART	CEM		_	_	_	_	213756	cana	_
-12	_	am	VERB	V	Tense=Aor|Mood=Sub|Person=3|Number=Sing	_	_	_	_	218840	amamat	_
+# text = tena naḥ mṛḍa jīvase
+# sent_id = 612161_2
+1	tena	tad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	3	obl	_	LemmaId=37875|OccId=4746989|Unsandhied=tena|Annotator=Ol
+2	naḥ	mad	PRON	_	Case=Dat|Number=Plur	3	iobj	_	LemmaId=37879|OccId=4746990|Unsandhied=naḥ|Annotator=Ol
+3	mṛḍa	mṛḍ	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=218727|OccId=4746991|Unsandhied=mṛḍa|Annotator=Ol
+4	jīvase	jīv	VERB	_	VerbForm=Inf	3	advcl	_	LemmaId=157146|OccId=4746992|Unsandhied=jīvase|Annotator=Ol|Punctuation=fullStop
 
-# text_line: kṣamā rapo viśvaṃ no astu bheṣajaṃ sarvaṃ no astu bheṣajam
-# text_line_id: 611052
-# text_line_counter: 3
-# text_line_subcounter: 2
-1	kṣamā	kṣamā	ADV	CX		_	_	_	_	134439	kṣamā	_
-2	rapo	rapas	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	66602	rapaḥ	_
-3	viśvaṃ	viśva	ADJ	JQ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	139262	viśvam	_
-4	no	mad	PRON	PPR	Case=Dat|Gender=|Number=Plur	_	_	_	_	37879	naḥ	_
-5	astu	as	VERB	V	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	_	156122	astu	_
-6	bheṣajaṃ	bheṣaja	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	25937	bheṣajam	_
-7	sarvaṃ	sarva	ADJ	JQ	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	104444	sarvam	_
-8	no	mad	PRON	PPR	Case=Dat|Gender=|Number=Plur	_	_	_	_	37879	naḥ	_
-9	astu	as	VERB	V	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	_	156122	astu	_
-10	bheṣajam	bheṣaja	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	25937	bheṣajam	_
+# text = śam ca naḥ mayaḥ ca naḥ
+# sent_id = 612162_1
+1	śam	śam	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=220942|OccId=4746993|Unsandhied=śam|Annotator=Ol
+2	ca	ca	CCONJ	_	_	1	cc	_	LemmaId=157144|OccId=4746994|Unsandhied=ca|Annotator=Ol
+3	naḥ	mad	PRON	_	Case=Dat|Number=Plur	1	iobj	_	LemmaId=37879|OccId=4746995|Unsandhied=naḥ|Annotator=Ol
+4	mayaḥ	mayas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	conj	_	LemmaId=36825|OccId=4746996|Unsandhied=mayaḥ|Annotator=Ol
+5	ca	ca	CCONJ	_	_	4	cc	_	LemmaId=157144|OccId=4746997|Unsandhied=ca|Annotator=Ol
+6	naḥ	mad	PRON	_	Case=Dat|Number=Plur	4	iobj	_	LemmaId=37879|OccId=4746998|Unsandhied=naḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = mā ca naḥ kim cana amamat
+# sent_id = 612162_2
+1	mā	mā	PART	_	_	6	advmod	_	LemmaId=170120|OccId=4746999|Unsandhied=mā|Annotator=Ol
+2	ca	ca	CCONJ	_	_	1	cc	_	LemmaId=157144|OccId=4747000|Unsandhied=ca|Annotator=Ol
+3	naḥ	mad	PRON	_	Case=Acc|Number=Plur	6	obj	_	LemmaId=37879|OccId=4747001|Unsandhied=naḥ|Annotator=Ol
+4	kim	ka	PRON	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	LemmaId=37878|OccId=4747002|Unsandhied=kim|Annotator=Ol
+5	cana	cana	PART	_	_	4	discourse	_	LemmaId=213756|OccId=4747003|Unsandhied=cana|Annotator=Ol
+6	amamat	am	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=218840|OccId=4747004|Unsandhied=amamat|Annotator=Ol|Punctuation=fullStop
+
+# text = kṣamā rapaḥ
+# sent_id = 612163_1
+1	kṣamā	kṣamā	ADV	_	_	2	advmod	_	LemmaId=134439|OccId=4747005|Unsandhied=kṣamā|Annotator=Ol
+2	rapaḥ	rapas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=66602|OccId=4747006|Unsandhied=rapaḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = viśvam naḥ astu bheṣajam
+# sent_id = 612163_2
+1	viśvam	viśva	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=139262|OccId=4747007|Unsandhied=viśvam|Annotator=Ol
+2	naḥ	mad	PRON	_	Case=Dat|Number=Plur	4	iobj	_	LemmaId=37879|OccId=4747008|Unsandhied=naḥ|Annotator=Ol
+3	astu	as	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	4	cop	_	LemmaId=156122|OccId=4747009|Unsandhied=astu|Annotator=Ol
+4	bheṣajam	bheṣaja	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=25937|OccId=4747010|Unsandhied=bheṣajam|Annotator=Ol|Punctuation=fullStop
+
+# text = sarvam naḥ astu bheṣajam
+# sent_id = 612163_3
+1	sarvam	sarva	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=104444|OccId=4747011|Unsandhied=sarvam|Annotator=Ol
+2	naḥ	mad	PRON	_	Case=Dat|Number=Plur	4	iobj	_	LemmaId=37879|OccId=4747012|Unsandhied=naḥ|Annotator=Ol
+3	astu	as	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	4	cop	_	LemmaId=156122|OccId=4747013|Unsandhied=astu|Annotator=Ol
+4	bheṣajam	bheṣaja	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=25937|OccId=4747014|Unsandhied=bheṣajam|Annotator=Ol|Punctuation=fullStop
+

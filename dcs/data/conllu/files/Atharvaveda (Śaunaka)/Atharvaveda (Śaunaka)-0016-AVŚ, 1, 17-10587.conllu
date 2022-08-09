@@ -2,98 +2,83 @@
 ## text_id: 464
 ## chapter: AVŚ, 1, 17
 ## chapter_id: 10587
+# text = amūḥ yāḥ yanti yoṣitaḥ hirāḥ lohita vāsasaḥ a bhrātaraḥ iva jāmayaḥ tiṣṭhantu hata varcasaḥ
+# sent_id = 609408_1
+1	amūḥ	adas	PRON	_	Case=Nom|Gender=Fem|Number=Plur	4	det	_	LemmaId=163742|OccId=4528118|Unsandhied=amūḥ|Annotator=Ol
+2	yāḥ	yad	PRON	_	Case=Nom|Gender=Fem|Number=Plur	4	det	_	LemmaId=37877|OccId=4528119|Unsandhied=yāḥ|Annotator=Ol
+3	yanti	i	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	12	csubj	_	LemmaId=156127|OccId=4528120|Unsandhied=yanti|Annotator=Ol
+4	yoṣitaḥ	yoṣit	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	LemmaId=65296|OccId=4528121|Unsandhied=yoṣitaḥ|Annotator=Ol
+5	hirāḥ	hirā	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	nmod:appos	_	LemmaId=110182|OccId=4528122|Unsandhied=hirāḥ|Annotator=Ol
+6	lohita	lohita	ADJ	_	Case=Cpd	7	amod	_	LemmaId=67333|OccId=4528123|Unsandhied=lohita|Annotator=Ol
+7	vāsasaḥ	vāsas	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	5	acl	_	LemmaId=46937|OccId=4528124|Unsandhied=vāsasaḥ|Annotator=Ol
+8	a	a	PART	_	_	9	advmod	_	LemmaId=213048|OccId=4528163|Unsandhied=a|Annotator=Ol
+9	bhrātaraḥ	bhrātṛ	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	11	acl	_	LemmaId=26394|OccId=4528164|Unsandhied=bhrātaraḥ|Annotator=Ol
+10	iva	iva	PART	_	_	11	case:sim	_	LemmaId=63807|OccId=4528125|Unsandhied=iva|Annotator=Ol
+11	jāmayaḥ	jāmi	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	12	advcl:manner	_	LemmaId=88769|OccId=4528126|Unsandhied=jāmayaḥ|Annotator=Ol|Punctuation=comma
+12	tiṣṭhantu	sthā	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres	0	root	_	LemmaId=157340|OccId=4528127|Unsandhied=tiṣṭhantu|Annotator=Ol
+13	hata	han	VERB	_	Case=Cpd|Tense=Past|VerbForm=Part	14	acl	_	LemmaId=157282|OccId=4528128|Unsandhied=hata|Annotator=Ol
+14	varcasaḥ	varcas	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	12	advcl	_	LemmaId=69437|OccId=4528129|Unsandhied=varcasaḥ|Annotator=Ol|Punctuation=fullStop
 
-# text_line: amūr yā yanti yoṣito hirā lohitavāsasaḥ
-# text_line_id: 608296
-# text_line_counter: 1
-# text_line_subcounter: 1
-1	amūr	adas	PRON	PRD	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	163742	amūḥ	_
-2	yā	yad	PRON	PRL	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	37877	yāḥ	_
-3	yanti	i	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	_	156127	yanti	_
-4	yoṣito	yoṣit	NOUN	NC	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	65296	yoṣitaḥ	_
-5	hirā	hirā	NOUN	NC	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	110182	hirāḥ	_
-6-7	lohitavāsasaḥ	_	_	_	_	_	_	_	_
-6	_	lohita	ADJ	JJ	Case=Cpd	_	_	_	_	67333	lohita	_
-7	_	vāsas	NOUN	NC	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	46937	vāsasaḥ	_
+# text = tiṣṭha avare
+# sent_id = 609409_1
+1	tiṣṭha	sthā	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=157340|OccId=4985559|Unsandhied=tiṣṭha|Annotator=Ol
+2	avare	avara	ADJ	_	Case=Voc|Gender=Fem|Number=Sing	1	vocative	_	LemmaId=54436|OccId=4985560|Unsandhied=avare|Annotator=Ol|Punctuation=fullStop
 
-# text_line: abhrātara iva jāmayas tiṣṭhantu hatavarcasaḥ
-# text_line_id: 608297
-# text_line_counter: 1
-# text_line_subcounter: 2
-1-2	abhrātara	_	_	_	_	_	_	_	_
-1	_	a	PART	CNG		_	_	_	_	213048	a	_
-2	_	bhrātṛ	NOUN	NC	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	26394	bhrātaraḥ	_
-3	iva	iva	PART	CCM		_	_	_	_	63807	iva	_
-4	jāmayas	jāmi	NOUN	NC	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	88769	jāmayaḥ	_
-5	tiṣṭhantu	sthā	VERB	V	Tense=Pres|Mood=Imp|Person=3|Number=Plur	_	_	_	_	157340	tiṣṭhantu	_
-6-7	hatavarcasaḥ	_	_	_	_	_	_	_	_
-6	_	han	VERB	PPP	Case=Cpd|VerbForm=Part	_	_	_	_	157282	hata	_
-7	_	varcas	NOUN	NC	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	69437	varcasaḥ	_
+# text = tiṣṭha pare
+# sent_id = 609409_2
+1	tiṣṭha	sthā	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=157340|OccId=4528132|Unsandhied=tiṣṭha|Annotator=Ol
+2	pare	para	PRON	_	Case=Voc|Gender=Fem|Number=Sing	1	vocative	_	LemmaId=163234|OccId=4528165|Unsandhied=pare|Annotator=Ol|Punctuation=fullStop
 
-# text_line: tiṣṭhāvare tiṣṭha para uta tvaṃ tiṣṭha madhyame
-# text_line_id: 608298
-# text_line_counter: 2
-# text_line_subcounter: 1
-1-2	tiṣṭhāvare	_	_	_	_	_	_	_	_
-1	_	sthā	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	_	157340	tiṣṭha	_
-2	_	avara	ADJ	JJ	Case=Voc|Gender=Fem|Number=Sing	_	_	_	_	54436	avare	_
-3	tiṣṭha	sthā	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	_	157340	tiṣṭha	_
-4	para	para	PRON	PPX	Case=Voc|Gender=Fem|Number=Sing	_	_	_	_	163234	pare	_
-5	uta	uta	CCONJ	CCD		_	_	_	_	55443	uta	_
-6	tvaṃ	tvad	PRON	PPR	Case=Nom|Gender=|Number=Sing	_	_	_	_	37880	tvam	_
-7	tiṣṭha	sthā	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	_	157340	tiṣṭha	_
-8	madhyame	madhyama	ADJ	JJ	Case=Voc|Gender=Fem|Number=Sing	_	_	_	_	35895	madhyame	_
+# text = uta tvam tiṣṭha madhyame
+# sent_id = 609409_3
+1	uta	uta	CCONJ	_	_	3	cc	_	LemmaId=55443|OccId=4528133|Unsandhied=uta|Annotator=Ol
+2	tvam	tvad	PRON	_	Case=Nom|Number=Sing	3	nsubj	_	LemmaId=37880|OccId=4528134|Unsandhied=tvam|Annotator=Ol
+3	tiṣṭha	sthā	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=157340|OccId=4528135|Unsandhied=tiṣṭha|Annotator=Ol
+4	madhyame	madhyama	ADJ	_	Case=Voc|Gender=Fem|Number=Sing	3	vocative	_	LemmaId=35895|OccId=4528136|Unsandhied=madhyame|Annotator=Ol|Punctuation=fullStop
 
-# text_line: kaniṣṭhikā ca tiṣṭhati tiṣṭhād id dhamanir mahī
-# text_line_id: 608299
-# text_line_counter: 2
-# text_line_subcounter: 2
-1	kaniṣṭhikā	kaniṣṭhaka	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	2016	kaniṣṭhikā	_
-2	ca	ca	CCONJ	CCD		_	_	_	_	157144	ca	_
-3	tiṣṭhati	sthā	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157340	tiṣṭhati	_
-4	tiṣṭhād	sthā	VERB	V	Tense=Pres|Mood=Sub|Person=3|Number=Sing	_	_	_	_	157340	tiṣṭhāt	_
-5	id	id	PART	CEM		_	_	_	_	217401	id	_
-6	dhamanir	dhamani	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	91864	dhamaniḥ	_
-7	mahī	mah	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	218692	mahī	_
+# text = kaniṣṭhikā ca tiṣṭhati
+# sent_id = 609410_1
+1	kaniṣṭhikā	kaniṣṭhaka	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	LemmaId=2016|OccId=4528137|Unsandhied=kaniṣṭhikā|Annotator=Ol
+2	ca	ca	CCONJ	_	_	3	cc	_	LemmaId=157144|OccId=4528138|Unsandhied=ca|Annotator=Ol
+3	tiṣṭhati	sthā	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157340|OccId=4528139|Unsandhied=tiṣṭhati|Annotator=Ol|Punctuation=fullStop
 
-# text_line: śatasya dhamanīnāṃ sahasrasya hirāṇām
-# text_line_id: 608300
-# text_line_counter: 3
-# text_line_subcounter: 1
-1	śatasya	śata	NUM	NUM	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_	116433	śatasya	_
-2	dhamanīnāṃ	dhamani	NOUN	NC	Case=Gen|Gender=Fem|Number=Plur	_	_	_	_	91864	dhamanīnām	_
-3	sahasrasya	sahasra	NUM	NUM	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_	111378	sahasrasya	_
-4	hirāṇām	hirā	NOUN	NC	Case=Gen|Gender=Fem|Number=Plur	_	_	_	_	110182	hirāṇām	_
+# text = tiṣṭhāt id dhamaniḥ mahī
+# sent_id = 609410_2
+1	tiṣṭhāt	sthā	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157340|OccId=4528140|Unsandhied=tiṣṭhāt|Annotator=Ol
+2	id	id	PART	_	_	1	discourse	_	LemmaId=217401|OccId=4528141|Unsandhied=id|Annotator=Ol
+3	dhamaniḥ	dhamani	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	LemmaId=91864|OccId=4528142|Unsandhied=dhamaniḥ|Annotator=Ol
+4	mahī	mah	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	LemmaId=218692|OccId=4528143|Unsandhied=mahī|Annotator=Ol|Punctuation=fullStop
 
-# text_line: asthur in madhyamā imāḥ sākam antā araṃsata
-# text_line_id: 608301
-# text_line_counter: 3
-# text_line_subcounter: 2
-1	asthur	sthā	VERB	V	Tense=Aor|Mood=Ind|Formation=root|Person=3|Number=Plur	_	_	_	_	157340	asthuḥ	_
-2	in	id	PART	CEM		_	_	_	_	217401	id	_
-3	madhyamā	madhyama	ADJ	JJ	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	35895	madhyamāḥ	_
-4	imāḥ	idam	PRON	PRD	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	37876	imāḥ	_
-5	sākam	sākam	ADV	CX		_	_	_	_	111733	sākam	_
-6	antā	anta	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	11658	antāḥ	_
-7	araṃsata	ram	VERB	V	Tense=Aor|Mood=Ind|Formation=s|Person=3|Number=Plur	_	_	_	_	157997	araṃsata	_
+# text = śatasya dhamanīnām sahasrasya hirāṇām asthuḥ id madhyamāḥ imāḥ
+# sent_id = 609412_1
+1	śatasya	śata	NUM	_	Case=Gen|Gender=Neut|Number=Sing	2	nummod	_	LemmaId=116433|OccId=4528144|Unsandhied=śatasya|Annotator=Ol
+2	dhamanīnām	dhamani	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	7	nmod	_	LemmaId=91864|OccId=4528145|Unsandhied=dhamanīnām|Annotator=Ol
+3	sahasrasya	sahasra	NUM	_	Case=Gen|Gender=Neut|Number=Sing	4	nummod	_	LemmaId=111378|OccId=4528146|Unsandhied=sahasrasya|Annotator=Ol
+4	hirāṇām	hirā	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	2	conj	_	LemmaId=110182|OccId=4528147|Unsandhied=hirāṇām|Annotator=Ol
+5	asthuḥ	sthā	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=157340|OccId=4528148|Unsandhied=asthuḥ|Annotator=Ol
+6	id	id	PART	_	_	5	discourse	_	LemmaId=217401|OccId=4528149|Unsandhied=id|Annotator=Ol
+7	madhyamāḥ	madhyama	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	5	nsubj	_	LemmaId=35895|OccId=4528150|Unsandhied=madhyamāḥ|Annotator=Ol
+8	imāḥ	idam	PRON	_	Case=Nom|Gender=Fem|Number=Plur	7	det	_	LemmaId=37876|OccId=4528151|Unsandhied=imāḥ|Annotator=Ol|Punctuation=fullStop
 
-# text_line: pari vaḥ sikatāvatī dhanūr bṛhaty akramīt
-# text_line_id: 608302
-# text_line_counter: 4
-# text_line_subcounter: 1
-1	pari	pari	ADV	CADP		_	_	_	_	170864	pari	_
-2	vaḥ	tvad	PRON	PPR	Case=Acc|Gender=|Number=Plur	_	_	_	_	37880	vaḥ	_
-3	sikatāvatī	sikatāvat	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	113707	sikatāvatī	73041
-4	dhanūr	dhanū	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	91751	dhanūḥ	42169
-5	bṛhaty	bṛhat	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	149085	bṛhatī	_
-6	akramīt	kram	VERB	V	Tense=Aor|Mood=Ind|Formation=is|Person=3|Number=Sing	_	_	_	_	156179	akramīt	_
+# text = sākam antāḥ araṃsata
+# sent_id = 609412_2
+1	sākam	sākam	ADV	_	_	3	advmod	_	LemmaId=111733|OccId=4528152|Unsandhied=sākam|Annotator=Ol
+2	antāḥ	anta	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	LemmaId=11658|OccId=4528153|Unsandhied=antāḥ|Annotator=Ol
+3	araṃsata	ram	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=157997|OccId=4528154|Unsandhied=araṃsata|Annotator=Ol|Punctuation=fullStop
 
-# text_line: tiṣṭhatelayatā su kam
-# text_line_id: 608303
-# text_line_counter: 4
-# text_line_subcounter: 2
-1-2	tiṣṭhatelayatā	_	_	_	_	_	_	_	_
-1	_	sthā	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	_	157340	tiṣṭhata	_
-2	_	ilay	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	_	219982	ilayata	_
-3	su	su	ADV	CAD		_	_	_	_	204329	su	_
-4	kam	kaṃ	PART	CEM		_	_	_	_	169291	kam	_
+# text = pari vaḥ sikatāvatī dhanūḥ bṛhatī akramīt
+# sent_id = 609413_1
+1	pari	pari	ADV	_	_	6	advmod	_	LemmaId=170864|OccId=4528155|Unsandhied=pari|Annotator=Ol
+2	vaḥ	tvad	PRON	_	Case=Acc|Number=Plur	6	obl:path	_	LemmaId=37880|OccId=4528156|Unsandhied=vaḥ|Annotator=Ol
+3	sikatāvatī	sikatāvat	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	4	amod	_	LemmaId=113707|OccId=4528157|Unsandhied=sikatāvatī|Annotator=Ol|WordSem=73041
+4	dhanūḥ	dhanū	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LemmaId=91751|OccId=4528158|Unsandhied=dhanūḥ|Annotator=Ol|WordSem=42169
+5	bṛhatī	bṛhat	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	conj	_	LemmaId=149085|OccId=4528159|Unsandhied=bṛhatī|Annotator=Ol
+6	akramīt	kram	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=156179|OccId=4528160|Unsandhied=akramīt|Annotator=Ol|Punctuation=fullStop
+
+# text = tiṣṭhata ilayata su kam
+# sent_id = 609414_1
+1	tiṣṭhata	sthā	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	0	root	_	LemmaId=157340|OccId=4528166|Unsandhied=tiṣṭhata|Annotator=Ol
+2	ilayata	ilay	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	1	conj	_	LemmaId=219982|OccId=4528167|Unsandhied=ilayata|Annotator=Ol
+3	su	su	ADV	_	_	1	discourse	_	LemmaId=204329|OccId=4528161|Unsandhied=su|Annotator=Ol
+4	kam	kaṃ	PART	_	_	1	discourse	_	LemmaId=169291|OccId=4528162|Unsandhied=kam|Annotator=Ol|Punctuation=fullStop
+

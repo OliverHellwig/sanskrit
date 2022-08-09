@@ -2,112 +2,130 @@
 ## text_id: 471
 ## chapter: AB, 1, 20
 ## chapter_id: 10886
+# text = srakve drapsasya dhamataḥ sam asvaran iti nava pāvamānyaḥ
+# sent_id = 623254_1
+1	srakve	srakva	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	8	csubj	_	LemmaId=114226|OccId=4624916|Unsandhied=srakve|Annotator=Ol|IsMantra=True
+2	drapsasya	drapsa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	flat	_	LemmaId=90399|OccId=4624917|Unsandhied=drapsasya|Annotator=Ol|IsMantra=True
+3	dhamataḥ	dham	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	2	flat	_	LemmaId=157579|OccId=4624918|Unsandhied=dhamataḥ|Annotator=Ol|IsMantra=True
+4	sam	sam	ADV	_	_	3	flat	_	LemmaId=171323|OccId=4624919|Unsandhied=sam|Annotator=Ol|IsMantra=True
+5	asvaran	svar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	4	flat	_	LemmaId=159208|OccId=4624920|Unsandhied=asvaran|Annotator=Ol|Punctuation=fullStop|IsMantra=True
+6	iti	iti	PART	_	_	5	mark	_	LemmaId=63331|OccId=4624921|Unsandhied=iti|Annotator=El
+7	nava	navan	NUM	_	Case=Nom|Gender=Neut|Number=Sing	8	nummod	_	LemmaId=44669|OccId=4624922|Unsandhied=nava|Annotator=El
+8	pāvamānyaḥ	pāvamāna	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	LemmaId=94485|OccId=4624923|Unsandhied=pāvamānyaḥ|Annotator=El|Punctuation=fullStop
 
-# text_line: srakve drapsasya dhamataḥ sam asvarann iti nava pāvamānyo nava vai prāṇāḥ prāṇān evāsmiṃs tad dadhāti
-# text_line_id: 622143
-# text_line_counter: 1
-# text_line_subcounter: 
-1	srakve	srakva	NOUN	NC	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	114226	srakve	_
-2	drapsasya	drapsa	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	90399	drapsasya	_
-3	dhamataḥ	dham	VERB	KDP	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	_	157579	dhamataḥ	_
-4	sam	sam	ADV	CADP		_	_	_	_	171323	sam	_
-5	asvarann	svar	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	159208	asvaran	_
-6	iti	iti	PART	CQT		_	_	_	_	63331	iti	_
-7	nava	navan	NUM	NUM	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	44669	nava	_
-8	pāvamānyo	pāvamāna	ADJ	JJ	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	94485	pāvamānyaḥ	_
-9	nava	navan	NUM	NUM	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	44669	nava	_
-10	vai	vai	PART	CEM		_	_	_	_	118154	vai	_
-11	prāṇāḥ	prāṇa	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	156090	prāṇāḥ	_
-12	prāṇān	prāṇa	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	156090	prāṇān	_
-13-14	evāsmiṃs	_	_	_	_	_	_	_	_
-13	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-14	_	idam	PRON	PRD	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	37876	asmin	_
-15	tad	tad	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37875	tat	_
-16	dadhāti	dhā	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157327	dadhāti	_
+# text = nava vai prāṇāḥ
+# sent_id = 623254_2
+1	nava	navan	NUM	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=44669|OccId=4624924|Unsandhied=nava|Annotator=El
+2	vai	vai	PART	_	_	1	discourse	_	LemmaId=118154|OccId=4624925|Unsandhied=vai|Annotator=El
+3	prāṇāḥ	prāṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	LemmaId=156090|OccId=4624926|Unsandhied=prāṇāḥ|Annotator=El|Punctuation=fullStop
 
-# text_line: ayaṃ venaś codayat pṛśnigarbhā iti
-# text_line_id: 622144
-# text_line_counter: 2
-# text_line_subcounter: 
-1	ayaṃ	idam	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37876	ayam	_
-2	venaś	vena	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	143120	venaḥ	_
-3	codayat	coday	VERB	V	Tense=Pres|Mood=Jus|Person=3|Number=Sing	_	_	_	_	158613	codayat	_
-4-5	pṛśnigarbhā	_	_	_	_	_	_	_	_
-4	_	pṛśni	NOUN	NC	Case=Cpd	_	_	_	_	150068	pṛśni	_
-5	_	garbha	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	129602	garbhāḥ	_
-6	iti	iti	PART	CQT		_	_	_	_	63331	iti	_
+# text = prāṇān eva asmin tat dadhāti
+# sent_id = 623254_3
+1	prāṇān	prāṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	LemmaId=156090|OccId=4624927|Unsandhied=prāṇān|Annotator=El
+2	eva	eva	PART	_	_	1	discourse	_	LemmaId=39754|OccId=4624928|Unsandhied=eva|Annotator=Ol
+3	asmin	idam	PRON	_	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	LemmaId=37876|OccId=4624929|Unsandhied=asmin|Annotator=El
+4	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	5	advmod	_	LemmaId=37875|OccId=4624930|Unsandhied=tat|Annotator=El
+5	dadhāti	dhā	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157327|OccId=4624931|Unsandhied=dadhāti|Annotator=El|Punctuation=fullStop
 
-# text_line: ayaṃ vai veno 'smād vā ūrdhvā anye prāṇā venanty avāñco 'nye tasmād venaḥ prāṇo vā ayaṃ san nābher iti tasmān nābhis tan nābher nābhitvaṃ prāṇam evāsmiṃs tad dadhāti
-# text_line_id: 622145
-# text_line_counter: 3
-# text_line_subcounter: 
-1	ayaṃ	idam	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37876	ayam	_
-2	vai	vai	PART	CEM		_	_	_	_	118154	vai	_
-3	veno	vena	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	143120	venaḥ	_
-4	'smād	idam	PRON	PRD	Case=Abl|Gender=Masc|Number=Sing	_	_	_	_	37876	asmāt	129840
-5	vā	vai	PART	CEM		_	_	_	_	118154	vai	97557
-6	ūrdhvā	ūrdhva	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	38446	ūrdhvāḥ	73389
-7	anye	anya	PRON	PPX	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	164189	anye	78363
-8	prāṇā	prāṇa	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	156090	prāṇāḥ	100623
-9	venanty	ven	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	_	158102	venanti	93486
-10	avāñco	avāñc	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	216454	avāñcaḥ	80683
-11	'nye	anya	PRON	PPX	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	164189	anye	78363
-12	tasmād	tasmāt	ADV	CX		_	_	_	_	203521	tasmāt	_
-13	venaḥ	vena	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	143120	venaḥ	_
-14	prāṇo	prāṇa	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	156090	prāṇaḥ	_
-15	vā	vai	PART	CEM		_	_	_	_	118154	vai	_
-16	ayaṃ	idam	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37876	ayam	_
-17	san	as	VERB	KDP	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	_	156122	san	_
-18-19	nābher	_	_	_	_	_	_	_	_
-18	_	na	PART	CNG		_	_	_	_	43432	na	96750
-19	_	bhī	VERB	V	Tense=Aor|Mood=Ind|Formation=root|Person=2|Number=Sing	_	_	_	_	159469	abheḥ	92317
-20	iti	iti	PART	CQT		_	_	_	_	63331	iti	97363
-21	tasmān	tasmāt	ADV	CX		_	_	_	_	203521	tasmāt	96850
-22	nābhis	nābhi	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	33491	nābhiḥ	27082
-23	tan	tad	PRON	PRD	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	37875	tat	_
-24	nābher	nābhi	NOUN	NC	Case=Gen|Gender=Fem|Number=Sing	_	_	_	_	33491	nābheḥ	_
-25-26	nābhitvaṃ	_	_	_	_	_	_	_	_
-25	_	nābhi	NOUN	NC	Case=Cpd	_	_	_	_	33491	nābhi	_
-26	_	tva	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	163754	tvam	_
-27	prāṇam	prāṇa	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	156090	prāṇam	_
-28-29	evāsmiṃs	_	_	_	_	_	_	_	_
-28	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-29	_	idam	PRON	PRD	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	37876	asmin	_
-30	tad	tad	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37875	tat	_
-31	dadhāti	dhā	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157327	dadhāti	_
+# text = ayam venaḥ codayat pṛśni garbhāḥ iti
+# sent_id = 623255_1
+1	ayam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=37876|OccId=4624932|Unsandhied=ayam|Annotator=Ol|IsMantra=True
+2	venaḥ	vena	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	flat	_	LemmaId=143120|OccId=4624933|Unsandhied=venaḥ|Annotator=Ol|IsMantra=True
+3	codayat	coday	VERB	_	Mood=Jus|Number=Sing|Person=3|Tense=Pres	2	flat	_	LemmaId=158613|OccId=4624988|Unsandhied=codayat|Annotator=Ol|IsMantra=True
+4	pṛśni	pṛśni	NOUN	_	Case=Cpd|Gender=Fem	3	flat	_	LemmaId=150068|OccId=4624934|Unsandhied=pṛśni|Annotator=Ol|IsMantra=True
+5	garbhāḥ	garbha	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	4	flat	_	LemmaId=129602|OccId=4624935|Unsandhied=garbhāḥ|Annotator=Ol|IsMantra=True
+6	iti	iti	PART	_	_	5	mark	_	LemmaId=63331|OccId=4624936|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
 
-# text_line: pavitraṃ te vitatam brahmaṇaspate tapoṣ pavitraṃ vitataṃ divas pade vi yat pavitraṃ dhiṣaṇā atanvateti pūtavantaḥ prāṇās ta ime 'vāñco retasyo mūtryaḥ purīṣya ity etān evāsmiṃs tad dadhāti
-# text_line_id: 622146
-# text_line_counter: 4
-# text_line_subcounter: 
-1	pavitraṃ	pavitra	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	92634	pavitram	_
-2	te	tvad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37880	te	_
-3	vitatam	vitan	VERB	PPP	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	_	163317	vitatam	_
-4	brahmaṇaspate	brahmaṇaspati	NOUN	NC	Case=Voc|Gender=Masc|Number=Sing	_	_	_	_	149726	brahmaṇaspate	_
-5	tapoṣ	tapu	ADJ	JJ	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	96422	tapoḥ	_
-6	pavitraṃ	pavitra	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	92634	pavitram	_
-7	vitataṃ	vitan	VERB	PPP	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	_	163317	vitatam	_
-8	divas	div	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	168377	divaḥ	_
-9	pade	pada	NOUN	NC	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_	15753	pade	_
-10	vi	vi	ADV	CADP		_	_	_	_	216733	vi	_
-11	yat	yat	SCONJ	CSB		_	_	_	_	73227	yat	_
-12	pavitraṃ	pavitra	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	92634	pavitram	_
-13	dhiṣaṇā	dhiṣaṇā	NOUN	NC	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	42645	dhiṣaṇāḥ	_
-14-15	atanvateti	_	_	_	_	_	_	_	_
-14	_	tan	VERB	V	Tense=Impf|Mood=Ind|Person=3|Number=Plur	_	_	_	_	157173	atanvata	_
-15	_	iti	PART	CQT		_	_	_	_	63331	iti	_
-16	pūtavantaḥ	pūtavat	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	220575	pūtavantaḥ	_
-17	prāṇās	prāṇa	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	156090	prāṇāḥ	_
-18	ta	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37875	te	_
-19	ime	idam	PRON	PRD	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	37876	ime	129840
-20	'vāñco	avāñc	ADJ	JJ	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	216454	avāñcaḥ	80683
-21	retasyo	retasya	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	79721	retasyaḥ	82421
-22	mūtryaḥ	mūtrya	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	136447	mūtryaḥ	83611
-23	purīṣya	purīṣya	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	143984	purīṣyaḥ	68950
-24	ity	iti	PART	CQT		_	_	_	_	63331	iti	_
-25	etān	etad	PRON	PRD	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	163744	etān	_
-26-27	evāsmiṃs	_	_	_	_	_	_	_	_
-26	_	eva	PART	CEM		_	_	_	_	39754	eva	_
-27	_	idam	PRON	PRD	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_	37876	asmin	_
-28	tad	tad	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37875	tat	_
-29	dadhāti	dhā	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157327	dadhāti	_
+# text = ayam vai venaḥ
+# sent_id = 623256_1
+1	ayam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=37876|OccId=4624937|Unsandhied=ayam|Annotator=El
+2	vai	vai	PART	_	_	1	discourse	_	LemmaId=118154|OccId=4624938|Unsandhied=vai|Annotator=El
+3	venaḥ	vena	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=143120|OccId=4624939|Unsandhied=venaḥ|Annotator=El|Punctuation=fullStop
+
+# text = asmāt vai ūrdhvāḥ anye prāṇāḥ venanti avāñcaḥ anye
+# sent_id = 623256_2
+1	asmāt	idam	PRON	_	Case=Abl|Gender=Masc|Number=Sing	3	obl:source	_	LemmaId=37876|OccId=4624940|Unsandhied=asmāt|Annotator=Ol|WordSem=129840
+2	vai	vai	PART	_	_	6	discourse	_	LemmaId=118154|OccId=4624941|Unsandhied=vai|Annotator=Ol|WordSem=97557
+3	ūrdhvāḥ	ūrdhva	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	5	acl	_	LemmaId=38446|OccId=4624942|Unsandhied=ūrdhvāḥ|Annotator=Ol|WordSem=73389
+4	anye	anya	PRON	_	Case=Nom|Gender=Masc|Number=Plur	5	det	_	LemmaId=164189|OccId=4624943|Unsandhied=anye|Annotator=Ol|WordSem=78363
+5	prāṇāḥ	prāṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	6	nsubj	_	LemmaId=156090|OccId=4624944|Unsandhied=prāṇāḥ|Annotator=El|WordSem=100623
+6	venanti	ven	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	LemmaId=158102|OccId=4624945|Unsandhied=venanti|Annotator=El|WordSem=93486
+7	avāñcaḥ	avāñc	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	6	conj	_	LemmaId=216454|OccId=4624946|Unsandhied=avāñcaḥ|Annotator=Ol|WordSem=80683
+8	anye	anya	PRON	_	Case=Nom|Gender=Masc|Number=Plur	7	orphan	_	LemmaId=164189|OccId=4624947|Unsandhied=anye|Annotator=Ol|Punctuation=fullStop|WordSem=78363
+
+# text = tasmāt venaḥ
+# sent_id = 623256_3
+1	tasmāt	tasmāt	ADV	_	_	2	advmod	_	LemmaId=203521|OccId=4624948|Unsandhied=tasmāt|Annotator=El
+2	venaḥ	vena	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=143120|OccId=4624949|Unsandhied=venaḥ|Annotator=El|Punctuation=fullStop
+
+# text = prāṇaḥ vai ayam san na abheḥ iti
+# sent_id = 623256_4
+1	prāṇaḥ	prāṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	acl	_	LemmaId=156090|OccId=4624950|Unsandhied=prāṇaḥ|Annotator=Ol
+2	vai	vai	PART	_	_	1	discourse	_	LemmaId=118154|OccId=4624951|Unsandhied=vai|Annotator=Ol
+3	ayam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LemmaId=37876|OccId=4624952|Unsandhied=ayam|Annotator=Ol
+4	san	as	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	1	cop	_	LemmaId=156122|OccId=4624953|Unsandhied=san|Annotator=Ol
+5	na	na	PART	_	_	6	advmod	_	LemmaId=43432|OccId=4624996|Unsandhied=na|Annotator=El|WordSem=96750
+6	abheḥ	bhī	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	LemmaId=159469|OccId=4624997|Unsandhied=abheḥ|Annotator=El|Punctuation=fullStop|WordSem=92317
+7	iti	iti	PART	_	_	6	mark	_	LemmaId=63331|OccId=4624954|Unsandhied=iti|Annotator=El|WordSem=97363
+
+# text = tasmāt nābhiḥ
+# sent_id = 623256_5
+1	tasmāt	tasmāt	ADV	_	_	2	advmod	_	LemmaId=203521|OccId=4624955|Unsandhied=tasmāt|Annotator=El|WordSem=96850
+2	nābhiḥ	nābhi	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=33491|OccId=4624956|Unsandhied=nābhiḥ|Annotator=El|Punctuation=fullStop|WordSem=27082
+
+# text = tat nābheḥ nābhi tvam
+# sent_id = 623256_6
+1	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=37875|OccId=4624957|Unsandhied=tat|Annotator=El
+2	nābheḥ	nābhi	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	LemmaId=33491|OccId=4624958|Unsandhied=nābheḥ|Annotator=El
+3	nābhi	nābhi	NOUN	_	Case=Cpd|Gender=Fem	4	nmod	_	LemmaId=33491|OccId=4624959|Unsandhied=nābhi|Annotator=El
+4	tvam	tva	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=163754|OccId=4624960|Unsandhied=tvam|Annotator=El|Punctuation=fullStop
+
+# text = prāṇam eva asmin tat dadhāti
+# sent_id = 623256_7
+1	prāṇam	prāṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	LemmaId=156090|OccId=4624961|Unsandhied=prāṇam|Annotator=El
+2	eva	eva	PART	_	_	1	discourse	_	LemmaId=39754|OccId=4624962|Unsandhied=eva|Annotator=Ol
+3	asmin	idam	PRON	_	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	LemmaId=37876|OccId=4624963|Unsandhied=asmin|Annotator=El
+4	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	5	advmod	_	LemmaId=37875|OccId=4624964|Unsandhied=tat|Annotator=El
+5	dadhāti	dhā	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157327|OccId=4624965|Unsandhied=dadhāti|Annotator=El|Punctuation=fullStop
+
+# text = pavitram te vitatam brahmaṇaspate tapoḥ pavitram vitatam divaḥ pade vi yat pavitram dhiṣaṇāḥ atanvata iti
+# sent_id = 623257_1
+1	pavitram	pavitra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=92634|OccId=4624966|Unsandhied=pavitram|Annotator=Ol|IsMantra=True
+2	te	tvad	PRON	_	Case=Gen|Number=Sing	1	flat	_	LemmaId=37880|OccId=4624967|Unsandhied=te|Annotator=Ol|IsMantra=True
+3	vitatam	vitan	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	2	flat	_	LemmaId=163317|OccId=4624968|Unsandhied=vitatam|Annotator=Ol|IsMantra=True
+4	brahmaṇaspate	brahmaṇaspati	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	3	flat	_	LemmaId=149726|OccId=4624989|Unsandhied=brahmaṇaspate|Annotator=Ol|Punctuation=fullStop|IsMantra=True
+5	tapoḥ	tapu	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	1	parataxis	_	LemmaId=96422|OccId=4624990|Unsandhied=tapoḥ|Annotator=Ol|IsMantra=True
+6	pavitram	pavitra	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	flat	_	LemmaId=92634|OccId=4624969|Unsandhied=pavitram|Annotator=Ol|IsMantra=True
+7	vitatam	vitan	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	6	flat	_	LemmaId=163317|OccId=4624970|Unsandhied=vitatam|Annotator=Ol|IsMantra=True
+8	divaḥ	div	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	flat	_	LemmaId=168377|OccId=4624991|Unsandhied=divaḥ|Annotator=Ol|IsMantra=True
+9	pade	pada	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	8	flat	_	LemmaId=15753|OccId=4624971|Unsandhied=pade|Annotator=Ol|Punctuation=fullStop|IsMantra=True
+10	vi	vi	ADV	_	_	5	parataxis	_	LemmaId=216733|OccId=4624995|Unsandhied=vi|Annotator=Ol
+11	yat	yat	SCONJ	_	_	10	flat	_	LemmaId=73227|OccId=4624972|Unsandhied=yat|Annotator=Ol
+12	pavitram	pavitra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	11	flat	_	LemmaId=92634|OccId=4624973|Unsandhied=pavitram|Annotator=Ol
+13	dhiṣaṇāḥ	dhiṣaṇā	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	12	flat	_	LemmaId=42645|OccId=4624974|Unsandhied=dhiṣaṇāḥ|Annotator=Ol
+14	atanvata	tan	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	13	flat	_	LemmaId=157173|OccId=4624975|Unsandhied=atanvata|Annotator=Ol
+15	iti	iti	PART	_	_	14	mark	_	LemmaId=63331|OccId=4624976|Unsandhied=iti|Annotator=El|Punctuation=fullStop
+
+# text = pūtavantaḥ prāṇāḥ
+# sent_id = 623257_2
+1	pūtavantaḥ	pūtavat	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	LemmaId=220575|OccId=4624992|Unsandhied=pūtavantaḥ|Annotator=El
+2	prāṇāḥ	prāṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	LemmaId=156090|OccId=4624977|Unsandhied=prāṇāḥ|Annotator=El
+
+# text = te ime avāñcaḥ retasyaḥ mūtryaḥ purīṣyaḥ iti
+# sent_id = 623257_3
+1	te	tad	PRON	_	Case=Nom|Gender=Masc|Number=Plur	3	det	_	LemmaId=37875|OccId=4624978|Unsandhied=te|Annotator=El|Punctuation=fullStop
+2	ime	idam	PRON	_	Case=Nom|Gender=Masc|Number=Plur	3	det	_	LemmaId=37876|OccId=4624979|Unsandhied=ime|Annotator=Ol|WordSem=129840
+3	avāñcaḥ	avāñc	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	LemmaId=216454|OccId=4624980|Unsandhied=avāñcaḥ|Annotator=El|WordSem=80683
+4	retasyaḥ	retasya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=79721|OccId=4624981|Unsandhied=retasyaḥ|Annotator=El|WordSem=82421
+5	mūtryaḥ	mūtrya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	LemmaId=136447|OccId=4624982|Unsandhied=mūtryaḥ|Annotator=El|WordSem=83611
+6	purīṣyaḥ	purīṣya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	LemmaId=143984|OccId=4624993|Unsandhied=purīṣyaḥ|Annotator=El|Punctuation=fullStop|WordSem=68950
+7	iti	iti	PART	_	_	4	mark	_	LemmaId=63331|OccId=4624994|Unsandhied=iti|Annotator=El
+
+# text = etān eva asmin tat dadhāti
+# sent_id = 623257_4
+1	etān	etad	PRON	_	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	LemmaId=163744|OccId=4624983|Unsandhied=etān|Annotator=El
+2	eva	eva	PART	_	_	1	discourse	_	LemmaId=39754|OccId=4624984|Unsandhied=eva|Annotator=Ol
+3	asmin	idam	PRON	_	Case=Loc|Gender=Masc|Number=Sing	5	obl	_	LemmaId=37876|OccId=4624985|Unsandhied=asmin|Annotator=El
+4	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	5	advmod	_	LemmaId=37875|OccId=4624986|Unsandhied=tat|Annotator=El
+5	dadhāti	dhā	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157327|OccId=4624987|Unsandhied=dadhāti|Annotator=El|Punctuation=fullStop
+

@@ -2,143 +2,139 @@
 ## text_id: 450
 ## chapter: ṚV, 9, 24
 ## chapter_id: 10980
+# text = pra somāso adhanviṣuḥ pavamānāsa indavaḥ
+# sent_id = 590564
+# sent_counter = 1
+# sent_subcounter = 1
+1	pra	pra	ADV	_		_	_	_	LemmaId=216277|OccId=4650062|Unsandhied=pra
+2	somāso	soma	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=100106|OccId=4650063|Unsandhied=somāsaḥ
+3	adhanviṣuḥ	dhanv	VERB	_	Tense=Past|Mood=Ind|Formation=is|Person=3|Number=Plur	_	_	_	LemmaId=157256|OccId=4650124|Unsandhied=adhanviṣuḥ
+4	pavamānāsa	pū	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157392|OccId=4650064|Unsandhied=pavamānāsaḥ
+5	indavaḥ	indu	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=63411|OccId=4650065|Unsandhied=indavaḥ|Punctuation=fullStop
 
-# text_line: pra somāso adhanviṣuḥ pavamānāsa indavaḥ
-# text_line_id: 589453
-# text_line_counter: 1
-# text_line_subcounter: 1
-1	pra	pra	ADV	CADP		_	_	_	_	216277	pra	_
-2	somāso	soma	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	100106	somāsaḥ	_
-3	adhanviṣuḥ	dhanv	VERB	V	Tense=Aor|Mood=Ind|Formation=is|Person=3|Number=Plur	_	_	_	_	157256	adhanviṣuḥ	_
-4	pavamānāsa	pū	VERB	KDP	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	_	157392	pavamānāsaḥ	_
-5	indavaḥ	indu	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	63411	indavaḥ	_
+# text = śrīṇānā apsu mṛñjata
+# sent_id = 590565
+# sent_counter = 1
+# sent_subcounter = 2
+1	śrīṇānā	śrī	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=159053|OccId=4650066|Unsandhied=śrīṇānāḥ
+2	apsu	ap	NOUN	_	Case=Loc|Gender=Fem|Number=Plur	_	_	_	LemmaId=167009|OccId=4650067|Unsandhied=apsu
+3	mṛñjata	mṛj	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Plur	_	_	_	LemmaId=157977|OccId=4650125|Unsandhied=mṛñjata|Punctuation=fullStop
 
-# text_line: śrīṇānā apsu mṛñjata
-# text_line_id: 589454
-# text_line_counter: 1
-# text_line_subcounter: 2
-1	śrīṇānā	śrī	VERB	KDP	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	_	159053	śrīṇānāḥ	_
-2	apsu	ap	NOUN	NC	Case=Loc|Gender=Fem|Number=Plur	_	_	_	_	167009	apsu	_
-3	mṛñjata	mṛj	VERB	V	Tense=Pres|Mood=Jus|Person=3|Number=Plur	_	_	_	_	157977	mṛñjata	_
+# text = abhi gāvaḥ adhanviṣuḥ āpaḥ na pravatā yatīḥ
+# sent_id = 590566_1
+1	abhi	abhi	ADV	_	_	3	advmod	_	LemmaId=171289|OccId=4650068|Unsandhied=abhi|Annotator=Er
+2	gāvaḥ	go	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	3	nsubj	_	LemmaId=166386|OccId=4650069|Unsandhied=gāvaḥ|Annotator=Er
+3	adhanviṣuḥ	dhanv	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=157256|OccId=4650126|Unsandhied=adhanviṣuḥ|Annotator=Er
+4	āpaḥ	ap	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	3	advcl:manner	_	LemmaId=167009|OccId=4650070|Unsandhied=āpaḥ|Annotator=Er
+5	na	na	PART	_	_	4	mark:sim	_	LemmaId=43432|OccId=4650071|Unsandhied=na|Annotator=Er
+6	pravatā	pravat	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	7	obl:path	_	LemmaId=155544|OccId=4650072|Unsandhied=pravatā|Annotator=Er
+7	yatīḥ	i	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part	4	acl	_	LemmaId=156127|OccId=4650073|Unsandhied=yatīḥ|Annotator=Ol|Punctuation=fullStop
 
-# text_line: abhi gāvo adhanviṣur āpo na pravatā yatīḥ
-# text_line_id: 589455
-# text_line_counter: 2
-# text_line_subcounter: 1
-1	abhi	abhi	ADV	CADP		_	_	_	_	171289	abhi	_
-2	gāvo	go	NOUN	NC	Case=Nom|Gender=Masc|Number=Plur	_	_	_	_	166386	gāvaḥ	_
-3	adhanviṣur	dhanv	VERB	V	Tense=Aor|Mood=Ind|Formation=is|Person=3|Number=Plur	_	_	_	_	157256	adhanviṣuḥ	_
-4	āpo	ap	NOUN	NC	Case=Nom|Gender=Fem|Number=Plur	_	_	_	_	167009	āpaḥ	_
-5	na	na	PART	CNG		_	_	_	_	43432	na	_
-6	pravatā	pravat	NOUN	NC	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	155544	pravatā	_
-7	yatīḥ	i	VERB	KDP	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	_	156127	yatīḥ	_
+# text = punānāḥ indram āśata
+# sent_id = 590567_1
+1	punānāḥ	pū	VERB	_	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part	3	advcl	_	LemmaId=157392|OccId=4650074|Unsandhied=punānāḥ|Annotator=Ol
+2	indram	indra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obl:goal	_	LemmaId=63463|OccId=4650075|Unsandhied=indram|Annotator=Ol
+3	āśata	aś	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=156119|OccId=4650076|Unsandhied=āśata|Annotator=Er|Punctuation=fullStop
 
-# text_line: punānā indram āśata
-# text_line_id: 589456
-# text_line_counter: 2
-# text_line_subcounter: 2
-1	punānā	pū	VERB	KDP	Case=Nom|Gender=Fem|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	_	157392	punānāḥ	_
-2	indram	indra	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	63463	indram	_
-3	āśata	aś	VERB	V	Tense=Aor|Mood=Ind|Formation=root|Person=3|Number=Plur	_	_	_	_	156119	āśata	_
-
-# text_line: pra pavamāna dhanvasi somendrāya pātave
-# text_line_id: 589457
-# text_line_counter: 3
-# text_line_subcounter: 1
-1	pra	pra	ADV	CADP		_	_	_	_	216277	pra	_
-2	pavamāna	pū	VERB	KDP	Case=Voc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	_	157392	pavamāna	_
-3	dhanvasi	dhanv	VERB	V	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	_	157256	dhanvasi	_
+# text = pra pavamāna dhanvasi somendrāya pātave
+# sent_id = 590568
+# sent_counter = 3
+# sent_subcounter = 1
+1	pra	pra	ADV	_		_	_	_	LemmaId=216277|OccId=4650077|Unsandhied=pra
+2	pavamāna	pū	VERB	_	Case=Voc|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157392|OccId=4650078|Unsandhied=pavamāna
+3	dhanvasi	dhanv	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	LemmaId=157256|OccId=4650079|Unsandhied=dhanvasi
 4-5	somendrāya	_	_	_	_	_	_	_	_
-4	_	soma	NOUN	NC	Case=Voc|Gender=Masc|Number=Sing	_	_	_	_	100106	soma	_
-5	_	indra	NOUN	NC	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_	63463	indrāya	_
-6	pātave	pā	VERB	CGDI	VerbForm=Inf	_	_	_	_	157391	pātave	_
+4	_	soma	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=4650080|Unsandhied=soma
+5	_	indra	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=4650081|Unsandhied=indrāya
+6	pātave	pā	VERB	_	VerbForm=Inf	_	_	_	LemmaId=157391|OccId=4650082|Unsandhied=pātave|Punctuation=fullStop
 
-# text_line: nṛbhir yato vi nīyase
-# text_line_id: 589458
-# text_line_counter: 3
-# text_line_subcounter: 2
-1	nṛbhir	nṛ	NOUN	NC	Case=Ins|Gender=Masc|Number=Plur	_	_	_	_	169021	nṛbhiḥ	_
-2	yato	yam	VERB	PPP	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	157296	yataḥ	_
-3	vi	vi	ADV	CADP		_	_	_	_	216733	vi	_
-4	nīyase	nī	VERB	V	Tense=Pres|Mood=Ind|Voice=Pass|Person=2|Number=Sing	_	_	_	_	157259	nīyase	_
+# text = nṛbhir yato vi nīyase
+# sent_id = 590569
+# sent_counter = 3
+# sent_subcounter = 2
+1	nṛbhir	nṛ	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=169021|OccId=4650083|Unsandhied=nṛbhiḥ
+2	yato	yam	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157296|OccId=4650084|Unsandhied=yataḥ
+3	vi	vi	ADV	_		_	_	_	LemmaId=216733|OccId=4650085|Unsandhied=vi
+4	nīyase	nī	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=2|Number=Sing	_	_	_	LemmaId=157259|OccId=4650086|Unsandhied=nīyase|Punctuation=fullStop
 
-# text_line: tvaṃ soma nṛmādanaḥ pavasva carṣaṇīsahe
-# text_line_id: 589459
-# text_line_counter: 4
-# text_line_subcounter: 1
-1	tvaṃ	tvad	PRON	PPR	Case=Nom|Gender=|Number=Sing	_	_	_	_	37880	tvam	_
-2	soma	soma	NOUN	NC	Case=Voc|Gender=Masc|Number=Sing	_	_	_	_	100106	soma	_
+# text = tvaṃ soma nṛmādanaḥ pavasva carṣaṇīsahe
+# sent_id = 590570
+# sent_counter = 4
+# sent_subcounter = 1
+1	tvaṃ	tvad	PRON	_	Case=Nom|Number=Sing	_	_	_	LemmaId=37880|OccId=4650087|Unsandhied=tvam
+2	soma	soma	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=4650088|Unsandhied=soma
 3-4	nṛmādanaḥ	_	_	_	_	_	_	_	_
-3	_	nṛ	NOUN	NC	Case=Cpd	_	_	_	_	169021	nṛ	_
-4	_	mādana	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	78686	mādanaḥ	_
-5	pavasva	pū	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	_	157392	pavasva	_
+3	_	nṛ	NOUN	_	Case=Cpd	_	_	_	LemmaId=169021|OccId=4650089|Unsandhied=nṛ
+4	_	mādana	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=78686|OccId=4650090|Unsandhied=mādanaḥ
+5	pavasva	pū	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157392|OccId=4650091|Unsandhied=pavasva
 6-7	carṣaṇīsahe	_	_	_	_	_	_	_	_
-6	_	carṣaṇi	NOUN	NC	Case=Cpd	_	_	_	_	50732	carṣaṇī	_
-7	_	sah	ADJ	JJ	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_	219406	sahe	_
+6	_	carṣaṇi	NOUN	_	Case=Cpd	_	_	_	LemmaId=50732|OccId=5086168|Unsandhied=carṣaṇī
+7	_	sah	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=219406|OccId=5086169|Unsandhied=sahe|Punctuation=comma
 
-# text_line: sasnir yo anumādyaḥ
-# text_line_id: 589460
-# text_line_counter: 4
-# text_line_subcounter: 2
-1	sasnir	sasni	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	105650	sasniḥ	_
-2	yo	yad	PRON	PRL	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37877	yaḥ	_
-3	anumādyaḥ	anumad	VERB	KDG	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	_	157955	anumādyaḥ	88092,88100
+# text = sasnir yo anumādyaḥ
+# sent_id = 590571
+# sent_counter = 4
+# sent_subcounter = 2
+1	sasnir	sasni	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=105650|OccId=4650094|Unsandhied=sasniḥ
+2	yo	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=4650095|Unsandhied=yaḥ
+3	anumādyaḥ	anumad	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157955|OccId=4650096|Unsandhied=anumādyaḥ|Punctuation=fullStop|WordSem=88092,88100
 
-# text_line: indo yad adribhiḥ sutaḥ pavitram paridhāvasi
-# text_line_id: 589461
-# text_line_counter: 5
-# text_line_subcounter: 1
-1	indo	indu	NOUN	NC	Case=Voc|Gender=Masc|Number=Sing	_	_	_	_	63411	indo	_
-2	yad	yat	SCONJ	CSB		_	_	_	_	73227	yat	_
-3	adribhiḥ	adri	NOUN	NC	Case=Ins|Gender=Masc|Number=Plur	_	_	_	_	7704	adribhiḥ	_
-4	sutaḥ	su	VERB	PPP	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	157338	sutaḥ	_
-5	pavitram	pavitra	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	92634	pavitram	_
-6	paridhāvasi	paridhāv	VERB	V	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	_	162040	paridhāvasi	_
+# text = indo yad adribhiḥ sutaḥ pavitram paridhāvasi
+# sent_id = 590572
+# sent_counter = 5
+# sent_subcounter = 1
+1	indo	indu	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63411|OccId=4650097|Unsandhied=indo
+2	yad	yat	SCONJ	_		_	_	_	LemmaId=73227|OccId=4650098|Unsandhied=yat
+3	adribhiḥ	adri	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=7704|OccId=4650099|Unsandhied=adribhiḥ
+4	sutaḥ	su	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157338|OccId=4650100|Unsandhied=sutaḥ
+5	pavitram	pavitra	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=92634|OccId=4650101|Unsandhied=pavitram
+6	paridhāvasi	paridhāv	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Sing	_	_	_	LemmaId=162040|OccId=4650102|Unsandhied=paridhāvasi|Punctuation=comma
 
-# text_line: aram indrasya dhāmne
-# text_line_id: 589462
-# text_line_counter: 5
-# text_line_subcounter: 2
-1	aram	aram	ADV	CX		_	_	_	_	32594	aram	_
-2	indrasya	indra	NOUN	NC	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	63463	indrasya	_
-3	dhāmne	dhāman	NOUN	NC	Case=Dat|Gender=Neut|Number=Sing	_	_	_	_	42443	dhāmne	_
+# text = aram indrasya dhāmne
+# sent_id = 590573
+# sent_counter = 5
+# sent_subcounter = 2
+1	aram	aram	ADV	_		_	_	_	LemmaId=32594|OccId=4741825|Unsandhied=aram
+2	indrasya	indra	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=4650104|Unsandhied=indrasya
+3	dhāmne	dhāman	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=42443|OccId=4650105|Unsandhied=dhāmne|Punctuation=fullStop
 
-# text_line: pavasva vṛtrahantamokthebhir anumādyaḥ
-# text_line_id: 589463
-# text_line_counter: 6
-# text_line_subcounter: 1
-1	pavasva	pū	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	_	157392	pavasva	_
+# text = pavasva vṛtrahantamokthebhir anumādyaḥ
+# sent_id = 590574
+# sent_counter = 6
+# sent_subcounter = 1
+1	pavasva	pū	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157392|OccId=4650106|Unsandhied=pavasva
 2-4	vṛtrahantamokthebhir	_	_	_	_	_	_	_	_
-2	_	vṛtra	NOUN	NC	Case=Cpd	_	_	_	_	142153	vṛtra	_
-3	_	hantama	ADJ	JJ	Case=Voc|Gender=Masc|Number=Sing	_	_	_	_	218731	hantama	_
-4	_	uktha	NOUN	NC	Case=Ins|Gender=Neut|Number=Plur	_	_	_	_	64199	ukthebhiḥ	_
-5	anumādyaḥ	anumad	VERB	KDG	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	_	157955	anumādyaḥ	_
+2	_	vṛtra	NOUN	_	Case=Cpd	_	_	_	LemmaId=142153|OccId=4650107|Unsandhied=vṛtra
+3	_	hantama	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=218731|OccId=4650108|Unsandhied=hantama
+4	_	uktha	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	_	_	_	LemmaId=64199|OccId=4650109|Unsandhied=ukthebhiḥ
+5	anumādyaḥ	anumad	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	LemmaId=157955|OccId=4650110|Unsandhied=anumādyaḥ
 
-# text_line: śuciḥ pāvako adbhutaḥ
-# text_line_id: 589464
-# text_line_counter: 6
-# text_line_subcounter: 2
-1	śuciḥ	śuci	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	126317	śuciḥ	_
-2	pāvako	pāvaka	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	94465	pāvakaḥ	_
-3	adbhutaḥ	adbhuta	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	7654	adbhutaḥ	_
+# text = śuciḥ pāvako adbhutaḥ
+# sent_id = 590575
+# sent_counter = 6
+# sent_subcounter = 2
+1	śuciḥ	śuci	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=126317|OccId=4650111|Unsandhied=śuciḥ
+2	pāvako	pāvaka	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=94465|OccId=4650112|Unsandhied=pāvakaḥ
+3	adbhutaḥ	adbhuta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=7654|OccId=4650113|Unsandhied=adbhutaḥ|Punctuation=fullStop
 
-# text_line: śuciḥ pāvaka ucyate somaḥ sutasya madhvaḥ
-# text_line_id: 589465
-# text_line_counter: 7
-# text_line_subcounter: 1
-1	śuciḥ	śuci	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	126317	śuciḥ	_
-2	pāvaka	pāvaka	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	94465	pāvakaḥ	_
-3	ucyate	vac	VERB	V	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	_	157264	ucyate	_
-4	somaḥ	soma	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	100106	somaḥ	_
-5	sutasya	su	VERB	PPP	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	_	157338	sutasya	_
-6	madhvaḥ	madhu	NOUN	NC	Case=Gen|Gender=Neut|Number=Sing	_	_	_	_	35443	madhvaḥ	_
+# text = śuciḥ pāvaka ucyate somaḥ sutasya madhvaḥ
+# sent_id = 590576
+# sent_counter = 7
+# sent_subcounter = 1
+1	śuciḥ	śuci	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=126317|OccId=4650114|Unsandhied=śuciḥ
+2	pāvaka	pāvaka	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=94465|OccId=4650115|Unsandhied=pāvakaḥ
+3	ucyate	vac	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157264|OccId=4650116|Unsandhied=ucyate
+4	somaḥ	soma	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=100106|OccId=4650117|Unsandhied=somaḥ
+5	sutasya	su	VERB	_	Case=Gen|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=157338|OccId=4650118|Unsandhied=sutasya
+6	madhvaḥ	madhu	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=35443|OccId=4650119|Unsandhied=madhvaḥ
 
-# text_line: devāvīr aghaśaṃsahā
-# text_line_id: 589466
-# text_line_counter: 7
-# text_line_subcounter: 2
-1	devāvīr	devāvī	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	218781	devāvīḥ	_
+# text = devāvīr aghaśaṃsahā
+# sent_id = 590577
+# sent_counter = 7
+# sent_subcounter = 2
+1	devāvīr	devāvī	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=218781|OccId=4650120|Unsandhied=devāvīḥ
 2-4	aghaśaṃsahā	_	_	_	_	_	_	_	_
-2	_	agha	NOUN	NC	Case=Cpd	_	_	_	_	6036	agha	_
-3	_	śaṃsa	ADJ	JJ	Case=Cpd	_	_	_	_	116300	śaṃsa	_
-4	_	han	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	166068	hā	_
+2	_	agha	NOUN	_	Case=Cpd	_	_	_	LemmaId=6036|OccId=4650121|Unsandhied=agha
+3	_	śaṃsa	ADJ	_	Case=Cpd	_	_	_	LemmaId=116300|OccId=4650122|Unsandhied=śaṃsa
+4	_	han	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166068|OccId=4650123|Unsandhied=hā|Punctuation=fullStop
+

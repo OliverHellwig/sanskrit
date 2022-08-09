@@ -2,104 +2,99 @@
 ## text_id: 464
 ## chapter: AVŚ, 1, 24
 ## chapter_id: 10601
+# text = suparṇaḥ jātaḥ prathamaḥ
+# sent_id = 609463_1
+1	suparṇaḥ	suparṇa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	LemmaId=107885|OccId=4531529|Unsandhied=suparṇaḥ|Annotator=Ol
+2	jātaḥ	jan	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=156584|OccId=4531530|Unsandhied=jātaḥ|Annotator=Ol
+3	prathamaḥ	prathama	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	acl	_	LemmaId=140448|OccId=4531531|Unsandhied=prathamaḥ|Annotator=Ol|Punctuation=fullStop
 
-# text_line: suparṇo jātaḥ prathamas tasya tvaṃ pittam āsitha
-# text_line_id: 608352
-# text_line_counter: 1
-# text_line_subcounter: 1
-1	suparṇo	suparṇa	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	107885	suparṇaḥ	_
-2	jātaḥ	jan	VERB	PPP	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	156584	jātaḥ	_
-3	prathamas	prathama	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	140448	prathamaḥ	_
-4	tasya	tad	PRON	PRD	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	37875	tasya	_
-5	tvaṃ	tvad	PRON	PPR	Case=Nom|Gender=|Number=Sing	_	_	_	_	37880	tvam	_
-6	pittam	pitta	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	95032	pittam	_
-7	āsitha	as	VERB	V	Tense=Perf|Mood=Ind|Person=2|Number=Sing	_	_	_	_	156122	āsitha	_
+# text = tasya tvam pittam āsitha
+# sent_id = 609463_2
+1	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LemmaId=37875|OccId=4531532|Unsandhied=tasya|Annotator=Ol
+2	tvam	tvad	PRON	_	Case=Nom|Number=Sing	3	nsubj	_	LemmaId=37880|OccId=4531533|Unsandhied=tvam|Annotator=Ol
+3	pittam	pitta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=95032|OccId=4531534|Unsandhied=pittam|Annotator=Ol
+4	āsitha	as	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	3	cop	_	LemmaId=156122|OccId=4531583|Unsandhied=āsitha|Annotator=Ol|Punctuation=fullStop
 
-# text_line: tad āsurī yudhā jitā rūpaṃ cakre vanaspatīn
-# text_line_id: 608353
-# text_line_counter: 1
-# text_line_subcounter: 2
-1	tad	tad	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37875	tat	_
-2	āsurī	āsurī	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	62979	āsurī	_
-3	yudhā	yudh	NOUN	NC	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	64850	yudhā	_
-4	jitā	ji	VERB	PPP	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	_	156588	jitā	_
-5	rūpaṃ	rūpa	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	71929	rūpam	_
-6	cakre	kṛ	VERB	V	Tense=Perf|Mood=Ind|Person=3|Number=Sing	_	_	_	_	156168	cakre	_
-7	vanaspatīn	vanaspati	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	68657	vanaspatīn	_
+# text = tat āsurī yudhā jitā rūpam cakre vanaspatīn
+# sent_id = 609464_1
+1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	6	advmod	_	LemmaId=37875|OccId=4531535|Unsandhied=tat|Annotator=Ol
+2	āsurī	āsurī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	LemmaId=62979|OccId=4531536|Unsandhied=āsurī|Annotator=Ol
+3	yudhā	yudh	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	4	obl:instr	_	LemmaId=64850|OccId=4531537|Unsandhied=yudhā|Annotator=Ol
+4	jitā	ji	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	acl	_	LemmaId=156588|OccId=4531538|Unsandhied=jitā|Annotator=Ol
+5	rūpam	rūpa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	LemmaId=71929|OccId=4531539|Unsandhied=rūpam|Annotator=Ol
+6	cakre	kṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=156168|OccId=4531540|Unsandhied=cakre|Annotator=Ol
+7	vanaspatīn	vanaspati	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	6	xcomp	_	LemmaId=68657|OccId=4531541|Unsandhied=vanaspatīn|Annotator=Ol|Punctuation=fullStop
 
-# text_line: āsurī cakre prathamedaṃ kilāsabheṣajam idaṃ kilāsanāśanam
-# text_line_id: 608354
-# text_line_counter: 2
-# text_line_subcounter: 1
-1	āsurī	āsurī	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	62979	āsurī	_
-2	cakre	kṛ	VERB	V	Tense=Perf|Mood=Ind|Person=3|Number=Sing	_	_	_	_	156168	cakre	_
-3-4	prathamedaṃ	_	_	_	_	_	_	_	_
-3	_	prathama	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	140448	prathamā	_
-4	_	idam	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37876	idam	_
-5-6	kilāsabheṣajam	_	_	_	_	_	_	_	_
-5	_	kilāsa	NOUN	NC	Case=Cpd	_	_	_	_	23507	kilāsa	_
-6	_	bheṣaja	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	25937	bheṣajam	_
-7	idaṃ	idam	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37876	idam	_
-8-9	kilāsanāśanam	_	_	_	_	_	_	_	_
-8	_	kilāsa	NOUN	NC	Case=Cpd	_	_	_	_	23507	kilāsa	_
-9	_	nāśana	ADJ	JJ	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	33827	nāśanam	_
+# text = āsurī cakre prathamā idam kilāsa bheṣajam idam kilāsa nāśanam
+# sent_id = 609465_1
+1	āsurī	āsurī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	LemmaId=62979|OccId=4531542|Unsandhied=āsurī|Annotator=Ol
+2	cakre	kṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=156168|OccId=4531543|Unsandhied=cakre|Annotator=Ol
+3	prathamā	prathama	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	acl	_	LemmaId=140448|OccId=4531544|Unsandhied=prathamā|Annotator=Ol
+4	idam	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	6	det	_	LemmaId=37876|OccId=4531545|Unsandhied=idam|Annotator=Ol
+5	kilāsa	kilāsa	NOUN	_	Case=Cpd|Gender=Masc	6	nmod	_	LemmaId=23507|OccId=4531546|Unsandhied=kilāsa|Annotator=Ol
+6	bheṣajam	bheṣaja	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=25937|OccId=4531547|Unsandhied=bheṣajam|Annotator=Ol
+7	idam	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	9	det	_	LemmaId=37876|OccId=4531548|Unsandhied=idam|Annotator=Ol
+8	kilāsa	kilāsa	NOUN	_	Case=Cpd|Gender=Masc	9	nmod	_	LemmaId=23507|OccId=4531549|Unsandhied=kilāsa|Annotator=Ol
+9	nāśanam	nāśana	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	6	conj	_	LemmaId=33827|OccId=4531550|Unsandhied=nāśanam|Annotator=Ol|Punctuation=fullStop
 
-# text_line: anīnaśat kilāsaṃ sarūpām akarat tvacam
-# text_line_id: 608355
-# text_line_counter: 2
-# text_line_subcounter: 2
-1	anīnaśat	naś	VERB	V	Tense=Aor|Mood=Ind|Formation=red|Person=3|Number=Sing	_	_	_	_	157399	anīnaśat	_
-2	kilāsaṃ	kilāsa	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	23507	kilāsam	_
-3	sarūpām	sarūpa	ADJ	JJ	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	104220	sarūpām	_
-4	akarat	kṛ	VERB	V	Tense=Aor|Mood=Ind|Formation=them|Person=3|Number=Sing	_	_	_	_	156168	akarat	_
-5	tvacam	tvac	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	100456	tvacam	_
+# text = anīnaśat kilāsam
+# sent_id = 609466_1
+1	anīnaśat	naś	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=157399|OccId=4531551|Unsandhied=anīnaśat|Annotator=Ol
+2	kilāsam	kilāsa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	LemmaId=23507|OccId=4531552|Unsandhied=kilāsam|Annotator=Ol|Punctuation=fullStop
 
-# text_line: sarūpā nāma te mātā sarūpo nāma te pitā
-# text_line_id: 608356
-# text_line_counter: 3
-# text_line_subcounter: 1
-1	sarūpā	sarūpa	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	104220	sarūpā	_
-2	nāma	nāma	ADV	CX		_	_	_	_	33528	nāma	_
-3	te	tvad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37880	te	_
-4	mātā	mātṛ	NOUN	NC	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	78551	mātā	_
-5	sarūpo	sarūpa	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	104220	sarūpaḥ	_
-6	nāma	nāma	ADV	CX		_	_	_	_	33528	nāma	_
-7	te	tvad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37880	te	_
-8	pitā	pitṛ	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	94899	pitā	_
+# text = sarūpām akarat tvacam
+# sent_id = 609466_2
+1	sarūpām	sarūpa	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	2	xcomp:result	_	LemmaId=104220|OccId=4531553|Unsandhied=sarūpām|Annotator=Ol
+2	akarat	kṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=156168|OccId=4531554|Unsandhied=akarat|Annotator=Ol
+3	tvacam	tvac	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	2	obj	_	LemmaId=100456|OccId=4531555|Unsandhied=tvacam|Annotator=Ol|Punctuation=fullStop
 
-# text_line: sarūpakṛt tvam oṣadhe sā sarūpam idaṃ kṛdhi
-# text_line_id: 608357
-# text_line_counter: 3
-# text_line_subcounter: 2
-1-2	sarūpakṛt	_	_	_	_	_	_	_	_
-1	_	sarūpa	ADJ	JJ	Case=Cpd	_	_	_	_	104220	sarūpa	_
-2	_	kṛt	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	3440	kṛt	_
-3	tvam	tvad	PRON	PPR	Case=Nom|Gender=|Number=Sing	_	_	_	_	37880	tvam	_
-4	oṣadhe	oṣadhi	NOUN	NC	Case=Voc|Gender=Fem|Number=Sing	_	_	_	_	40135	oṣadhe	_
-5	sā	tad	PRON	PRD	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	37875	sā	_
-6	sarūpam	sarūpa	ADJ	JJ	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	104220	sarūpam	_
-7	idaṃ	idam	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37876	idam	_
-8	kṛdhi	kṛ	VERB	V	Tense=Aor|Mood=Imp|Person=2|Number=Sing	_	_	_	_	156168	kṛdhi	_
+# text = sarūpā nāma te mātā
+# sent_id = 609467_1
+1	sarūpā	sarūpa	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=104220|OccId=4531556|Unsandhied=sarūpā|Annotator=Ol
+2	nāma	nāma	ADV	_	_	1	advmod	_	LemmaId=33528|OccId=4531557|Unsandhied=nāma|Annotator=Ol
+3	te	tvad	PRON	_	Case=Gen|Number=Sing	4	nmod	_	LemmaId=37880|OccId=4531558|Unsandhied=te|Annotator=Ol
+4	mātā	mātṛ	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	LemmaId=78551|OccId=4531559|Unsandhied=mātā|Annotator=Ol|Punctuation=fullStop
 
-# text_line: śyāmā sarūpaṃkaraṇī pṛthivyā adhy udbhṛtā
-# text_line_id: 608358
-# text_line_counter: 4
-# text_line_subcounter: 1
-1	śyāmā	śyāma	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	127912	śyāmā	_
-2	sarūpaṃkaraṇī	sarūpaṃkaraṇa	ADJ	JJ	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_	220007	sarūpaṃkaraṇī	_
-3	pṛthivyā	pṛthivī	NOUN	NC	Case=Abl|Gender=Fem|Number=Sing	_	_	_	_	150027	pṛthivyāḥ	_
-4	adhy	adhi	ADV	CADP		_	_	_	_	170078	adhi	_
-5	udbhṛtā	udbhṛ	VERB	PPP	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	_	160261	udbhṛtā	_
+# text = sarūpaḥ nāma te pitā
+# sent_id = 609467_2
+1	sarūpaḥ	sarūpa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=104220|OccId=4531560|Unsandhied=sarūpaḥ|Annotator=Ol
+2	nāma	nāma	ADV	_	_	1	advmod	_	LemmaId=33528|OccId=4531561|Unsandhied=nāma|Annotator=Ol
+3	te	tvad	PRON	_	Case=Gen|Number=Sing	4	nmod	_	LemmaId=37880|OccId=4531562|Unsandhied=te|Annotator=Ol
+4	pitā	pitṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=94899|OccId=4531563|Unsandhied=pitā|Annotator=Ol|Punctuation=fullStop
 
-# text_line: idam ū ṣu pra sādhaya punā rūpāṇi kalpaya
-# text_line_id: 608359
-# text_line_counter: 4
-# text_line_subcounter: 2
-1	idam	idam	PRON	PRD	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	37876	idam	_
-2	ū	u	PART	CEM		_	_	_	_	213150	u	_
-3	ṣu	su	ADV	CAD		_	_	_	_	204329	su	_
-4	pra	pra	ADV	CADP		_	_	_	_	216277	pra	_
-5	sādhaya	sādhay	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	_	159171	sādhaya	_
-6	punā	punar	ADV	CAD		_	_	_	_	143659	punar	_
-7	rūpāṇi	rūpa	NOUN	NC	Case=Acc|Gender=Neut|Number=Plur	_	_	_	_	71929	rūpāṇi	_
-8	kalpaya	kalpay	VERB	V	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	_	156177	kalpaya	_
+# text = sarūpa kṛt tvam oṣadhe
+# sent_id = 609468_1
+1	sarūpa	sarūpa	ADJ	_	Case=Cpd	2	xcomp:result	_	LemmaId=104220|OccId=4531564|Unsandhied=sarūpa|Annotator=Ol
+2	kṛt	kṛt	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=3440|OccId=4531565|Unsandhied=kṛt|Annotator=Ol
+3	tvam	tvad	PRON	_	Case=Nom|Number=Sing	2	nsubj	_	LemmaId=37880|OccId=4531566|Unsandhied=tvam|Annotator=Ol
+4	oṣadhe	oṣadhi	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	2	vocative	_	LemmaId=40135|OccId=4531567|Unsandhied=oṣadhe|Annotator=Ol|Punctuation=fullStop
+
+# text = sā sarūpam idam kṛdhi
+# sent_id = 609468_2
+1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	LemmaId=37875|OccId=4531568|Unsandhied=sā|Annotator=Ol
+2	sarūpam	sarūpa	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	4	xcomp:result	_	LemmaId=104220|OccId=4531569|Unsandhied=sarūpam|Annotator=Ol
+3	idam	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	LemmaId=37876|OccId=4531570|Unsandhied=idam|Annotator=Ol
+4	kṛdhi	kṛ	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Past	0	root	_	LemmaId=156168|OccId=4531571|Unsandhied=kṛdhi|Annotator=Ol|Punctuation=fullStop
+
+# text = śyāmā sarūpaṃkaraṇī pṛthivyāḥ adhi udbhṛtā
+# sent_id = 609469_1
+1	śyāmā	śyāma	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	LemmaId=127912|OccId=4531572|Unsandhied=śyāmā|Annotator=Ol
+2	sarūpaṃkaraṇī	sarūpaṃkaraṇa	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	1	conj	_	LemmaId=220007|OccId=4531584|Unsandhied=sarūpaṃkaraṇī|Annotator=Ol
+3	pṛthivyāḥ	pṛthivī	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	5	obl:source	_	LemmaId=150027|OccId=4531573|Unsandhied=pṛthivyāḥ|Annotator=Ol
+4	adhi	adhi	ADV	_	_	3	case	_	LemmaId=170078|OccId=4531574|Unsandhied=adhi|Annotator=Ol
+5	udbhṛtā	udbhṛ	VERB	_	Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=160261|OccId=4531575|Unsandhied=udbhṛtā|Annotator=Ol|Punctuation=fullStop
+
+# text = idam u su pra sādhaya
+# sent_id = 609470_1
+1	idam	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	LemmaId=37876|OccId=4531576|Unsandhied=idam|Annotator=Ol
+2	u	u	PART	_	_	5	discourse	_	LemmaId=213150|OccId=4531577|Unsandhied=u|Annotator=Ol
+3	su	su	ADV	_	_	2	fixed	_	LemmaId=204329|OccId=4531578|Unsandhied=su|Annotator=Ol
+4	pra	pra	ADV	_	_	5	advmod	_	LemmaId=216277|OccId=4531579|Unsandhied=pra|Annotator=Ol
+5	sādhaya	sādhay	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=159171|OccId=4531580|Unsandhied=sādhaya|Annotator=Ol|Punctuation=fullStop
+
+# text = punar rūpāṇi kalpaya
+# sent_id = 609470_2
+1	punar	punar	ADV	_	_	3	advmod	_	LemmaId=143659|OccId=4531585|Unsandhied=punar|Annotator=Ol
+2	rūpāṇi	rūpa	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	3	obj	_	LemmaId=71929|OccId=4531581|Unsandhied=rūpāṇi|Annotator=Ol
+3	kalpaya	kalpay	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=156177|OccId=4531582|Unsandhied=kalpaya|Annotator=Ol|Punctuation=fullStop
+

@@ -2,188 +2,204 @@
 ## text_id: 471
 ## chapter: AB, 7, 29
 ## chapter_id: 12168
+# text = trayāṇām bhakṣāṇām ekam āhariṣyanti somam vā dadhi vā apaḥ vā
+# sent_id = 625716_1
+1	trayāṇām	tri	NUM	_	Case=Gen|Gender=Masc|Number=Plur	2	nummod	_	LemmaId=166282|OccId=4939009|Unsandhied=trayāṇām|Annotator=Sa
+2	bhakṣāṇām	bhakṣa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	3	nmod	_	LemmaId=48351|OccId=4939010|Unsandhied=bhakṣāṇām|Annotator=Sa
+3	ekam	eka	PRON	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	LemmaId=39102|OccId=4939011|Unsandhied=ekam|Annotator=Sa
+4	āhariṣyanti	āhṛ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut	0	root	_	LemmaId=160039|OccId=4939012|Unsandhied=āhariṣyanti|Annotator=Sa
+5	somam	soma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	LemmaId=100106|OccId=4939013|Unsandhied=somam|Annotator=Sa
+6	vā	vā	CCONJ	_	_	5	cc	_	LemmaId=75765|OccId=4939014|Unsandhied=vā|Annotator=Sa
+7	dadhi	dadhi	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	conj	_	LemmaId=100937|OccId=4939015|Unsandhied=dadhi|Annotator=Sa
+8	vā	vā	CCONJ	_	_	7	cc	_	LemmaId=75765|OccId=4939016|Unsandhied=vā|Annotator=Sa
+9	apaḥ	ap	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	conj	_	LemmaId=167009|OccId=4939017|Unsandhied=apaḥ|Annotator=Sa
+10	vā	vā	CCONJ	_	_	9	cc	_	LemmaId=75765|OccId=4939018|Unsandhied=vā|Annotator=Sa|Punctuation=fullStop
 
-# text_line: trayāṇām bhakṣāṇām ekam āhariṣyanti somaṃ vā dadhi vāpo vā
-# text_line_id: 624605
-# text_line_counter: 1
-# text_line_subcounter: 
-1	trayāṇām	tri	NUM	NUM	Case=Gen|Gender=Masc|Number=Plur	_	_	_	_	166282	trayāṇām	_
-2	bhakṣāṇām	bhakṣa	NOUN	NC	Case=Gen|Gender=Masc|Number=Plur	_	_	_	_	48351	bhakṣāṇām	_
-3	ekam	eka	PRON	PPX	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	39102	ekam	_
-4	āhariṣyanti	āhṛ	VERB	V	Tense=Fut|Mood=Ind|Person=3|Number=Plur	_	_	_	_	160039	āhariṣyanti	_
-5	somaṃ	soma	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	100106	somam	_
-6	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-7	dadhi	dadhi	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	100937	dadhi	_
-8-9	vāpo	_	_	_	_	_	_	_	_
-8	_	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-9	_	ap	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	167009	apaḥ	_
-10	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
+# text = sa yadi somam brāhmaṇānām sa bhakṣaḥ
+# sent_id = 625717_1
+1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	3	orphan	_	LemmaId=37875|OccId=4939019|Unsandhied=sa|Annotator=Sa
+2	yadi	yadi	SCONJ	_	_	3	mark	_	LemmaId=73699|OccId=4939020|Unsandhied=yadi|Annotator=Sa
+3	somam	soma	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	6	advcl:cond	_	LemmaId=100106|OccId=4939021|Unsandhied=somam|Annotator=Sa|Punctuation=comma
+4	brāhmaṇānām	brāhmaṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	LemmaId=149743|OccId=4939022|Unsandhied=brāhmaṇānām|Annotator=Sa
+5	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LemmaId=37875|OccId=4939023|Unsandhied=sa|Annotator=Sa
+6	bhakṣaḥ	bhakṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=48351|OccId=4939024|Unsandhied=bhakṣaḥ|Annotator=Sa|Punctuation=fullStop
 
-# text_line: sa yadi somam brāhmaṇānāṃ sa bhakṣo brāhmaṇāṃs tena bhakṣeṇa jinviṣyasi brāhmaṇakalpas te prajāyām ājaniṣyata ādāyy āpāyy āvasāyī yathākāmaprayāpyo yadā vai kṣatriyāya pāpam bhavati brāhmaṇakalpo 'sya prajāyām ājāyata īśvaro hāsmād dvitīyo vā tṛtīyo vā brāhmaṇatām abhyupaitoḥ sa brahmabandhavena jijyūṣitaḥ
-# text_line_id: 624606
-# text_line_counter: 2
-# text_line_subcounter: 
-1	sa	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37875	sa	_
-2	yadi	yadi	SCONJ	CSB		_	_	_	_	73699	yadi	_
-3	somam	soma	NOUN	NC	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_	100106	somam	_
-4	brāhmaṇānāṃ	brāhmaṇa	NOUN	NC	Case=Gen|Gender=Masc|Number=Plur	_	_	_	_	149743	brāhmaṇānām	_
-5	sa	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37875	sa	_
-6	bhakṣo	bhakṣa	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	48351	bhakṣaḥ	_
-7	brāhmaṇāṃs	brāhmaṇa	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	149743	brāhmaṇān	_
-8	tena	tad	PRON	PRD	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	37875	tena	_
-9	bhakṣeṇa	bhakṣa	NOUN	NC	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	48351	bhakṣeṇa	_
-10	jinviṣyasi	jinv	VERB	V	Tense=Fut|Mood=Ind|Person=2|Number=Sing	_	_	_	_	157145	jinviṣyasi	_
-11-12	brāhmaṇakalpas	_	_	_	_	_	_	_	_
-11	_	brāhmaṇa	NOUN	NC	Case=Cpd	_	_	_	_	149743	brāhmaṇa	_
-12	_	kalpa	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	12696	kalpaḥ	_
-13	te	tvad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37880	te	_
-14	prajāyām	prajā	NOUN	NC	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_	150748	prajāyām	_
-15	ājaniṣyata	ājan	VERB	V	Tense=Fut|Mood=Ind|Person=3|Number=Sing	_	_	_	_	159751	ājaniṣyate	_
-16	ādāyy	ādāyin	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	57967	ādāyī	_
-17	āpāyy	āpāyin	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	58666	āpāyī	_
-18	āvasāyī	āvasāyin	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	62434	āvasāyī	_
-19-20	yathākāmaprayāpyo	_	_	_	_	_	_	_	_
-19	_	yathākāma	ADJ	JJ	Case=Cpd	_	_	_	_	73259	yathākāma	_
-20	_	prayāpay	VERB	KDG	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	_	171338	prayāpyaḥ	_
-21	yadā	yadā	SCONJ	CSB		_	_	_	_	73645	yadā	_
-22	vai	vai	PART	CEM		_	_	_	_	118154	vai	_
-23	kṣatriyāya	kṣatriya	NOUN	NC	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_	135379	kṣatriyāya	_
-24	pāpam	pāpa	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	93767	pāpam	_
-25	bhavati	bhū	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157250	bhavati	_
-26-27	brāhmaṇakalpo	_	_	_	_	_	_	_	_
-26	_	brāhmaṇa	NOUN	NC	Case=Cpd	_	_	_	_	149743	brāhmaṇa	_
-27	_	kalpa	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	12696	kalpaḥ	_
-28	'sya	idam	PRON	PRD	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	37876	asya	_
-29	prajāyām	prajā	NOUN	NC	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_	150748	prajāyām	_
-30	ājāyata	ājan	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	159751	ājāyate	_
-31	īśvaro	īśvara	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	64097	īśvaraḥ	_
-32-33	hāsmād	_	_	_	_	_	_	_	_
-32	_	ha	PART	CEM		_	_	_	_	169970	ha	_
-33	_	idam	PRON	PRD	Case=Abl|Gender=Masc|Number=Sing	_	_	_	_	37876	asmāt	_
-34	dvitīyo	dvitīya	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	91331	dvitīyaḥ	_
-35	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-36	tṛtīyo	tṛtīya	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	83290	tṛtīyaḥ	_
-37	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-38-39	brāhmaṇatām	_	_	_	_	_	_	_	_
-38	_	brāhmaṇa	NOUN	NC	Case=Cpd	_	_	_	_	149743	brāhmaṇa	_
-39	_	tā	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	203679	tām	_
-40	abhyupaitoḥ	abhyupe	VERB	CGDI	VerbForm=Inf	_	_	_	_	159382	abhyupaitoḥ	_
-41	sa	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37875	sa	_
-42	brahmabandhavena	brahmabandhava	NOUN	NC	Case=Ins|Gender=Neut|Number=Sing	_	_	_	_	149301	brahmabandhavena	_
-43	jijyūṣitaḥ	jijyūṣ	VERB	PPP	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	222398	jijyūṣitaḥ	_
+# text = brāhmaṇān tena bhakṣeṇa jinviṣyasi
+# sent_id = 625717_2
+1	brāhmaṇān	brāhmaṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	LemmaId=149743|OccId=4939025|Unsandhied=brāhmaṇān|Annotator=Sa
+2	tena	tad	PRON	_	Case=Ins|Gender=Masc|Number=Sing	3	det	_	LemmaId=37875|OccId=4939026|Unsandhied=tena|Annotator=Sa
+3	bhakṣeṇa	bhakṣa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	4	obl:instr	_	LemmaId=48351|OccId=4939027|Unsandhied=bhakṣeṇa|Annotator=Sa
+4	jinviṣyasi	jinv	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	0	root	_	LemmaId=157145|OccId=4939028|Unsandhied=jinviṣyasi|Annotator=Sa|Punctuation=fullStop
 
-# text_line: atha yadi dadhi vaiśyānāṃ sa bhakṣo vaiśyāṃs tena bhakṣeṇa jinviṣyasi vaiśyakalpas te prajāyām ājaniṣyate 'nyasya balikṛd anyasyādyo yathākāmajyeyo yadā vai kṣatriyāya pāpam bhavati vaiśyakalpo 'sya prajāyām ājāyata īśvaro hāsmād dvitīyo vā tṛtīyo vā vaiśyatām abhyupaitoḥ sa vaiśyatayā jijyūṣitaḥ
-# text_line_id: 624607
-# text_line_counter: 3
-# text_line_subcounter: 
-1	atha	atha	ADV	CAD		_	_	_	_	7467	atha	_
-2	yadi	yadi	SCONJ	CSB		_	_	_	_	73699	yadi	_
-3	dadhi	dadhi	NOUN	NC	Case=Acc|Gender=Neut|Number=Sing	_	_	_	_	100937	dadhi	_
-4	vaiśyānāṃ	vaiśya	NOUN	NC	Case=Gen|Gender=Masc|Number=Plur	_	_	_	_	120428	vaiśyānām	_
-5	sa	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37875	sa	_
-6	bhakṣo	bhakṣa	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	48351	bhakṣaḥ	_
-7	vaiśyāṃs	vaiśya	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	120428	vaiśyān	_
-8	tena	tad	PRON	PRD	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	37875	tena	_
-9	bhakṣeṇa	bhakṣa	NOUN	NC	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	48351	bhakṣeṇa	_
-10	jinviṣyasi	jinv	VERB	V	Tense=Fut|Mood=Ind|Person=2|Number=Sing	_	_	_	_	157145	jinviṣyasi	_
-11-12	vaiśyakalpas	_	_	_	_	_	_	_	_
-11	_	vaiśya	NOUN	NC	Case=Cpd	_	_	_	_	120428	vaiśya	_
-12	_	kalpa	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	12696	kalpaḥ	_
-13	te	tvad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37880	te	_
-14	prajāyām	prajā	NOUN	NC	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_	150748	prajāyām	_
-15	ājaniṣyate	ājan	VERB	V	Tense=Fut|Mood=Ind|Person=3|Number=Sing	_	_	_	_	159751	ājaniṣyate	_
-16	'nyasya	anya	PRON	PPX	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	164189	anyasya	_
-17-18	balikṛd	_	_	_	_	_	_	_	_
-17	_	bali	NOUN	NC	Case=Cpd	_	_	_	_	154379	bali	_
-18	_	kṛt	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	3440	kṛt	_
-19-20	anyasyādyo	_	_	_	_	_	_	_	_
-19	_	anya	PRON	PPX	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	164189	anyasya	_
-20	_	ad	VERB	KDG	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	_	156113	adyaḥ	_
-21-22	yathākāmajyeyo	_	_	_	_	_	_	_	_
-21	_	yathākāma	ADJ	JJ	Case=Cpd	_	_	_	_	73259	yathākāma	_
-22	_	jyā	VERB	KDG	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	_	157152	jyeyaḥ	_
-23	yadā	yadā	SCONJ	CSB		_	_	_	_	73645	yadā	_
-24	vai	vai	PART	CEM		_	_	_	_	118154	vai	_
-25	kṣatriyāya	kṣatriya	NOUN	NC	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_	135379	kṣatriyāya	_
-26	pāpam	pāpa	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	93767	pāpam	_
-27	bhavati	bhū	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157250	bhavati	_
-28-29	vaiśyakalpo	_	_	_	_	_	_	_	_
-28	_	vaiśya	NOUN	NC	Case=Cpd	_	_	_	_	120428	vaiśya	_
-29	_	kalpa	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	12696	kalpaḥ	_
-30	'sya	idam	PRON	PRD	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	37876	asya	_
-31	prajāyām	prajā	NOUN	NC	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_	150748	prajāyām	_
-32	ājāyata	ājan	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	159751	ājāyate	_
-33	īśvaro	īśvara	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	64097	īśvaraḥ	_
-34-35	hāsmād	_	_	_	_	_	_	_	_
-34	_	ha	PART	CEM		_	_	_	_	169970	ha	_
-35	_	idam	PRON	PRD	Case=Abl|Gender=Masc|Number=Sing	_	_	_	_	37876	asmāt	_
-36	dvitīyo	dvitīya	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	91331	dvitīyaḥ	_
-37	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-38	tṛtīyo	tṛtīya	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	83290	tṛtīyaḥ	_
-39	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-40-41	vaiśyatām	_	_	_	_	_	_	_	_
-40	_	vaiśya	NOUN	NC	Case=Cpd	_	_	_	_	120428	vaiśya	_
-41	_	tā	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	203679	tām	_
-42	abhyupaitoḥ	abhyupe	VERB	CGDI	VerbForm=Inf	_	_	_	_	159382	abhyupaitoḥ	_
-43	sa	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37875	sa	_
-44-45	vaiśyatayā	_	_	_	_	_	_	_	_
-44	_	vaiśya	NOUN	NC	Case=Cpd	_	_	_	_	120428	vaiśya	_
-45	_	tā	NOUN	NC	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	203679	tayā	_
-46	jijyūṣitaḥ	jijyūṣ	VERB	PPP	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	222398	jijyūṣitaḥ	_
+# text = brāhmaṇa kalpaḥ te prajāyām ājaniṣyate ādāyī āpāyī āvasāyī yathākāma prayāpyaḥ
+# sent_id = 625717_3
+1	brāhmaṇa	brāhmaṇa	NOUN	_	Case=Cpd|Gender=Masc	2	nmod	_	LemmaId=149743|OccId=4939029|Unsandhied=brāhmaṇa|Annotator=Sa
+2	kalpaḥ	kalpa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=12696|OccId=4939030|Unsandhied=kalpaḥ|Annotator=Sa
+3	te	tvad	PRON	_	Case=Gen|Number=Sing	4	nmod	_	LemmaId=37880|OccId=4939031|Unsandhied=te|Annotator=Sa
+4	prajāyām	prajā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	5	obl:loc	_	LemmaId=150748|OccId=4939032|Unsandhied=prajāyām|Annotator=Sa
+5	ājaniṣyate	ājan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	LemmaId=159751|OccId=4939140|Unsandhied=ājaniṣyate|Annotator=Sa
+6	ādāyī	ādāyin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	acl:dpct	_	LemmaId=57967|OccId=4939033|Unsandhied=ādāyī|Annotator=Sa
+7	āpāyī	āpāyin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	LemmaId=58666|OccId=4939034|Unsandhied=āpāyī|Annotator=Sa
+8	āvasāyī	āvasāyin	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	6	conj	_	LemmaId=62434|OccId=4939035|Unsandhied=āvasāyī|Annotator=Sa
+9	yathākāma	yathākāma	ADJ	_	Case=Cpd	10	advmod	_	LemmaId=73259|OccId=4939036|Unsandhied=yathākāma|Annotator=Sa
+10	prayāpyaḥ	prayāpay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	6	conj	_	LemmaId=171338|OccId=4939037|Unsandhied=prayāpyaḥ|Annotator=Sa|Punctuation=fullStop
 
-# text_line: atha yady apaḥ śūdrāṇāṃ sa bhakṣaḥ śūdrāṃs tena bhakṣeṇa jinviṣyasi śūdrakalpas te prajāyām ājaniṣyate 'nyasya preṣyaḥ kāmotthāpyo yathākāmavadhyo yadā vai kṣatriyāya pāpam bhavati śūdrakalpo 'sya prajāyām ājāyata īśvaro hāsmād dvitīyo vā tṛtīyo vā śūdratām abhyupaitoḥ sa śūdratayā jijyūṣitaḥ
-# text_line_id: 624608
-# text_line_counter: 4
-# text_line_subcounter: 
-1	atha	atha	ADV	CAD		_	_	_	_	7467	atha	_
-2	yady	yadi	SCONJ	CSB		_	_	_	_	73699	yadi	_
-3	apaḥ	ap	NOUN	NC	Case=Acc|Gender=Fem|Number=Plur	_	_	_	_	167009	apaḥ	_
-4	śūdrāṇāṃ	śūdra	NOUN	NC	Case=Gen|Gender=Masc|Number=Plur	_	_	_	_	127190	śūdrāṇām	_
-5	sa	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37875	sa	_
-6	bhakṣaḥ	bhakṣa	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	48351	bhakṣaḥ	_
-7	śūdrāṃs	śūdra	NOUN	NC	Case=Acc|Gender=Masc|Number=Plur	_	_	_	_	127190	śūdrān	_
-8	tena	tad	PRON	PRD	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	37875	tena	_
-9	bhakṣeṇa	bhakṣa	NOUN	NC	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_	48351	bhakṣeṇa	_
-10	jinviṣyasi	jinv	VERB	V	Tense=Fut|Mood=Ind|Person=2|Number=Sing	_	_	_	_	157145	jinviṣyasi	_
-11-12	śūdrakalpas	_	_	_	_	_	_	_	_
-11	_	śūdra	NOUN	NC	Case=Cpd	_	_	_	_	127190	śūdra	_
-12	_	kalpa	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	12696	kalpaḥ	_
-13	te	tvad	PRON	PPR	Case=Gen|Gender=|Number=Sing	_	_	_	_	37880	te	_
-14	prajāyām	prajā	NOUN	NC	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_	150748	prajāyām	_
-15	ājaniṣyate	ājan	VERB	V	Tense=Fut|Mood=Ind|Person=3|Number=Sing	_	_	_	_	159751	ājaniṣyate	_
-16	'nyasya	anya	PRON	PPX	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	164189	anyasya	_
-17	preṣyaḥ	preṣya	NOUN	NC	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	153987	preṣyaḥ	_
-18-19	kāmotthāpyo	_	_	_	_	_	_	_	_
-18	_	kāma	NOUN	NC	Case=Cpd	_	_	_	_	13752	kāma	_
-19	_	utthāpay	VERB	KDG	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	_	160136	utthāpyaḥ	_
-20-21	yathākāmavadhyo	_	_	_	_	_	_	_	_
-20	_	yathākāma	ADJ	JJ	Case=Cpd	_	_	_	_	73259	yathākāma	_
-21	_	vadh	VERB	KDG	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	_	_	_	_	158446	vadhyaḥ	_
-22	yadā	yadā	SCONJ	CSB		_	_	_	_	73645	yadā	_
-23	vai	vai	PART	CEM		_	_	_	_	118154	vai	_
-24	kṣatriyāya	kṣatriya	NOUN	NC	Case=Dat|Gender=Masc|Number=Sing	_	_	_	_	135379	kṣatriyāya	_
-25	pāpam	pāpa	NOUN	NC	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_	93767	pāpam	_
-26	bhavati	bhū	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	157250	bhavati	_
-27-28	śūdrakalpo	_	_	_	_	_	_	_	_
-27	_	śūdra	NOUN	NC	Case=Cpd	_	_	_	_	127190	śūdra	_
-28	_	kalpa	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	12696	kalpaḥ	_
-29	'sya	idam	PRON	PRD	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	37876	asya	_
-30	prajāyām	prajā	NOUN	NC	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_	150748	prajāyām	_
-31	ājāyata	ājan	VERB	V	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	_	159751	ājāyate	_
-32	īśvaro	īśvara	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	64097	īśvaraḥ	_
-33-34	hāsmād	_	_	_	_	_	_	_	_
-33	_	ha	PART	CEM		_	_	_	_	169970	ha	_
-34	_	idam	PRON	PRD	Case=Abl|Gender=Masc|Number=Sing	_	_	_	_	37876	asmāt	_
-35	dvitīyo	dvitīya	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	91331	dvitīyaḥ	_
-36	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-37	tṛtīyo	tṛtīya	ADJ	JJ	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	83290	tṛtīyaḥ	_
-38	vā	vā	CCONJ	CCD		_	_	_	_	75765	vā	_
-39-40	śūdratām	_	_	_	_	_	_	_	_
-39	_	śūdra	NOUN	NC	Case=Cpd	_	_	_	_	127190	śūdra	_
-40	_	tā	NOUN	NC	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_	203679	tām	_
-41	abhyupaitoḥ	abhyupe	VERB	CGDI	VerbForm=Inf	_	_	_	_	159382	abhyupaitoḥ	_
-42	sa	tad	PRON	PRD	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_	37875	sa	_
-43-44	śūdratayā	_	_	_	_	_	_	_	_
-43	_	śūdra	NOUN	NC	Case=Cpd	_	_	_	_	127190	śūdra	_
-44	_	tā	NOUN	NC	Case=Ins|Gender=Fem|Number=Sing	_	_	_	_	203679	tayā	_
-45	jijyūṣitaḥ	jijyūṣ	VERB	PPP	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	_	222398	jijyūṣitaḥ	_
+# text = yadā vai kṣatriyāya pāpam bhavati brāhmaṇa kalpaḥ asya prajāyām ājāyate
+# sent_id = 625717_4
+1	yadā	yadā	SCONJ	_	_	5	mark	_	LemmaId=73645|OccId=4939038|Unsandhied=yadā|Annotator=Sa
+2	vai	vai	PART	_	_	5	discourse	_	LemmaId=118154|OccId=4939039|Unsandhied=vai|Annotator=Sa
+3	kṣatriyāya	kṣatriya	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	obl:benef	_	LemmaId=135379|OccId=4939040|Unsandhied=kṣatriyāya|Annotator=Sa
+4	pāpam	pāpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	LemmaId=93767|OccId=4939041|Unsandhied=pāpam|Annotator=Sa
+5	bhavati	bhū	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	advcl:temp	_	LemmaId=157250|OccId=4939042|Unsandhied=bhavati|Annotator=Sa|Punctuation=comma
+6	brāhmaṇa	brāhmaṇa	NOUN	_	Case=Cpd|Gender=Masc	7	nmod	_	LemmaId=149743|OccId=4939043|Unsandhied=brāhmaṇa|Annotator=Sa
+7	kalpaḥ	kalpa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LemmaId=12696|OccId=4939044|Unsandhied=kalpaḥ|Annotator=Sa
+8	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	LemmaId=37876|OccId=4939045|Unsandhied=asya|Annotator=Sa
+9	prajāyām	prajā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	10	obl:loc	_	LemmaId=150748|OccId=4939046|Unsandhied=prajāyām|Annotator=Sa
+10	ājāyate	ājan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=159751|OccId=4939047|Unsandhied=ājāyate|Annotator=Sa|Punctuation=fullStop
+
+# text = īśvaraḥ ha asmāt dvitīyaḥ vā tṛtīyaḥ vā brāhmaṇa tām abhyupaitoḥ
+# sent_id = 625717_5
+1	īśvaraḥ	īśvara	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=64097|OccId=4939048|Unsandhied=īśvaraḥ|Annotator=Sa
+2	ha	ha	PART	_	_	1	discourse	_	LemmaId=169970|OccId=4939049|Unsandhied=ha|Annotator=Sa
+3	asmāt	idam	PRON	_	Case=Abl|Gender=Masc|Number=Sing	4	obl:source	_	LemmaId=37876|OccId=4939050|Unsandhied=asmāt|Annotator=Sa
+4	dvitīyaḥ	dvitīya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=91331|OccId=4939051|Unsandhied=dvitīyaḥ|Annotator=Sa
+5	vā	vā	CCONJ	_	_	4	cc	_	LemmaId=75765|OccId=4939141|Unsandhied=vā|Annotator=Sa
+6	tṛtīyaḥ	tṛtīya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	LemmaId=83290|OccId=4939142|Unsandhied=tṛtīyaḥ|Annotator=Sa
+7	vā	vā	CCONJ	_	_	6	cc	_	LemmaId=75765|OccId=4939052|Unsandhied=vā|Annotator=Sa
+8	brāhmaṇa	brāhmaṇa	NOUN	_	Case=Cpd|Gender=Masc	9	nmod	_	LemmaId=149743|OccId=4939053|Unsandhied=brāhmaṇa|Annotator=Sa
+9	tām	tā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	LemmaId=203679|OccId=4939054|Unsandhied=tām|Annotator=Sa
+10	abhyupaitoḥ	abhyupe	VERB	_	VerbForm=Inf	1	xcomp	_	LemmaId=159382|OccId=4939143|Unsandhied=abhyupaitoḥ|Annotator=Sa|Punctuation=fullStop
+
+# text = sa brahmabandhavena jijyūṣitaḥ
+# sent_id = 625717_6
+1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LemmaId=37875|OccId=4939055|Unsandhied=sa|Annotator=Sa
+2	brahmabandhavena	brahmabandhava	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	1	acl:dpct	_	LemmaId=149301|OccId=4939056|Unsandhied=brahmabandhavena|Annotator=Sa
+3	jijyūṣitaḥ	jijyūṣ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=222398|OccId=4939144|Unsandhied=jijyūṣitaḥ|Annotator=Sa|Punctuation=fullStop
+
+# text = atha yadi dadhi vaiśyānām sa bhakṣaḥ
+# sent_id = 625718_1
+1	atha	atha	ADV	_	_	6	discourse	_	LemmaId=7467|OccId=4939057|Unsandhied=atha|Annotator=Sa
+2	yadi	yadi	SCONJ	_	_	3	mark	_	LemmaId=73699|OccId=4939058|Unsandhied=yadi|Annotator=Sa
+3	dadhi	dadhi	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	advcl:cond	_	LemmaId=100937|OccId=4939059|Unsandhied=dadhi|Annotator=Sa|Punctuation=comma
+4	vaiśyānām	vaiśya	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	LemmaId=120428|OccId=4939060|Unsandhied=vaiśyānām|Annotator=Sa
+5	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LemmaId=37875|OccId=4939061|Unsandhied=sa|Annotator=Sa
+6	bhakṣaḥ	bhakṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=48351|OccId=4939062|Unsandhied=bhakṣaḥ|Annotator=Sa|Punctuation=fullStop
+
+# text = vaiśyān tena bhakṣeṇa jinviṣyasi
+# sent_id = 625718_2
+1	vaiśyān	vaiśya	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	LemmaId=120428|OccId=4939063|Unsandhied=vaiśyān|Annotator=Sa
+2	tena	tad	PRON	_	Case=Ins|Gender=Masc|Number=Sing	3	det	_	LemmaId=37875|OccId=4939064|Unsandhied=tena|Annotator=Sa
+3	bhakṣeṇa	bhakṣa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	4	obl:instr	_	LemmaId=48351|OccId=4939065|Unsandhied=bhakṣeṇa|Annotator=Sa
+4	jinviṣyasi	jinv	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	0	root	_	LemmaId=157145|OccId=4939066|Unsandhied=jinviṣyasi|Annotator=Sa|Punctuation=fullStop
+
+# text = vaiśya kalpaḥ te prajāyām ājaniṣyate anyasya bali kṛt anyasya adyaḥ yathākāma jyeyaḥ
+# sent_id = 625718_3
+1	vaiśya	vaiśya	NOUN	_	Case=Cpd|Gender=Masc	2	nmod	_	LemmaId=120428|OccId=4939067|Unsandhied=vaiśya|Annotator=Sa
+2	kalpaḥ	kalpa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=12696|OccId=4939068|Unsandhied=kalpaḥ|Annotator=Sa
+3	te	tvad	PRON	_	Case=Gen|Number=Sing	4	nmod	_	LemmaId=37880|OccId=4939069|Unsandhied=te|Annotator=Sa
+4	prajāyām	prajā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	5	obl:loc	_	LemmaId=150748|OccId=4939070|Unsandhied=prajāyām|Annotator=Sa
+5	ājaniṣyate	ājan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	LemmaId=159751|OccId=4939145|Unsandhied=ājaniṣyate|Annotator=Sa
+6	anyasya	anya	PRON	_	Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	LemmaId=164189|OccId=4939071|Unsandhied=anyasya|Annotator=Sa
+7	bali	bali	NOUN	_	Case=Cpd|Gender=Masc	8	obj	_	LemmaId=154379|OccId=4939072|Unsandhied=bali|Annotator=Sa
+8	kṛt	kṛt	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	acl:dpct	_	LemmaId=3440|OccId=4939073|Unsandhied=kṛt|Annotator=Sa
+9	anyasya	anya	PRON	_	Case=Gen|Gender=Masc|Number=Sing	10	nmod	_	LemmaId=164189|OccId=4939074|Unsandhied=anyasya|Annotator=Sa
+10	adyaḥ	ad	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	8	conj	_	LemmaId=156113|OccId=4939075|Unsandhied=adyaḥ|Annotator=Sa
+11	yathākāma	yathākāma	ADJ	_	Case=Cpd	12	advmod	_	LemmaId=73259|OccId=4939146|Unsandhied=yathākāma|Annotator=Sa
+12	jyeyaḥ	jyā	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	8	conj	_	LemmaId=157152|OccId=4939147|Unsandhied=jyeyaḥ|Annotator=Sa|Punctuation=fullStop
+
+# text = yadā vai kṣatriyāya pāpam bhavati vaiśya kalpaḥ asya prajāyām ājāyate
+# sent_id = 625718_4
+1	yadā	yadā	SCONJ	_	_	5	mark	_	LemmaId=73645|OccId=4939076|Unsandhied=yadā|Annotator=Sa
+2	vai	vai	PART	_	_	5	discourse	_	LemmaId=118154|OccId=4939077|Unsandhied=vai|Annotator=Sa
+3	kṣatriyāya	kṣatriya	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	obl:benef	_	LemmaId=135379|OccId=4939078|Unsandhied=kṣatriyāya|Annotator=Sa
+4	pāpam	pāpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	LemmaId=93767|OccId=4939079|Unsandhied=pāpam|Annotator=Sa
+5	bhavati	bhū	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	advcl:temp	_	LemmaId=157250|OccId=4939080|Unsandhied=bhavati|Annotator=Sa|Punctuation=comma
+6	vaiśya	vaiśya	NOUN	_	Case=Cpd|Gender=Masc	7	nmod	_	LemmaId=120428|OccId=4939081|Unsandhied=vaiśya|Annotator=Sa
+7	kalpaḥ	kalpa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LemmaId=12696|OccId=4939082|Unsandhied=kalpaḥ|Annotator=Sa
+8	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	LemmaId=37876|OccId=4939083|Unsandhied=asya|Annotator=Sa
+9	prajāyām	prajā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	10	obl:loc	_	LemmaId=150748|OccId=4939084|Unsandhied=prajāyām|Annotator=Sa
+10	ājāyate	ājan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=159751|OccId=4939085|Unsandhied=ājāyate|Annotator=Sa|Punctuation=fullStop
+
+# text = īśvaraḥ ha asmāt dvitīyaḥ vā tṛtīyaḥ vā vaiśya tām abhyupaitoḥ
+# sent_id = 625718_5
+1	īśvaraḥ	īśvara	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=64097|OccId=4939086|Unsandhied=īśvaraḥ|Annotator=Sa
+2	ha	ha	PART	_	_	1	discourse	_	LemmaId=169970|OccId=4939087|Unsandhied=ha|Annotator=Sa
+3	asmāt	idam	PRON	_	Case=Abl|Gender=Masc|Number=Sing	4	obl:source	_	LemmaId=37876|OccId=4939088|Unsandhied=asmāt|Annotator=Sa
+4	dvitīyaḥ	dvitīya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=91331|OccId=4939089|Unsandhied=dvitīyaḥ|Annotator=Sa
+5	vā	vā	CCONJ	_	_	4	cc	_	LemmaId=75765|OccId=4939090|Unsandhied=vā|Annotator=Sa
+6	tṛtīyaḥ	tṛtīya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	LemmaId=83290|OccId=4939091|Unsandhied=tṛtīyaḥ|Annotator=Sa
+7	vā	vā	CCONJ	_	_	6	cc	_	LemmaId=75765|OccId=4939092|Unsandhied=vā|Annotator=Sa
+8	vaiśya	vaiśya	NOUN	_	Case=Cpd|Gender=Masc	9	nmod	_	LemmaId=120428|OccId=4939093|Unsandhied=vaiśya|Annotator=Sa
+9	tām	tā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	LemmaId=203679|OccId=4939094|Unsandhied=tām|Annotator=Sa
+10	abhyupaitoḥ	abhyupe	VERB	_	VerbForm=Inf	1	xcomp	_	LemmaId=159382|OccId=4939148|Unsandhied=abhyupaitoḥ|Annotator=Sa|Punctuation=fullStop
+
+# text = sa vaiśya tayā jijyūṣitaḥ
+# sent_id = 625718_6
+1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=37875|OccId=4939095|Unsandhied=sa|Annotator=Sa
+2	vaiśya	vaiśya	NOUN	_	Case=Cpd|Gender=Masc	3	nmod	_	LemmaId=120428|OccId=4939096|Unsandhied=vaiśya|Annotator=Sa
+3	tayā	tā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	4	obl:manner	_	LemmaId=203679|OccId=4939097|Unsandhied=tayā|Annotator=Sa
+4	jijyūṣitaḥ	jijyūṣ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=222398|OccId=4939149|Unsandhied=jijyūṣitaḥ|Annotator=Sa|Punctuation=fullStop
+
+# text = atha yadi apaḥ śūdrāṇām sa bhakṣaḥ
+# sent_id = 625719_1
+1	atha	atha	ADV	_	_	6	discourse	_	LemmaId=7467|OccId=4939098|Unsandhied=atha|Annotator=Sa
+2	yadi	yadi	SCONJ	_	_	3	mark	_	LemmaId=73699|OccId=4939099|Unsandhied=yadi|Annotator=Sa
+3	apaḥ	ap	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	6	advcl:cond	_	LemmaId=167009|OccId=4939100|Unsandhied=apaḥ|Annotator=Sa|Punctuation=comma
+4	śūdrāṇām	śūdra	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	6	nmod	_	LemmaId=127190|OccId=4939101|Unsandhied=śūdrāṇām|Annotator=Sa
+5	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LemmaId=37875|OccId=4939102|Unsandhied=sa|Annotator=Sa
+6	bhakṣaḥ	bhakṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=48351|OccId=4939103|Unsandhied=bhakṣaḥ|Annotator=Sa|Punctuation=fullStop
+
+# text = śūdrān tena bhakṣeṇa jinviṣyasi
+# sent_id = 625719_2
+1	śūdrān	śūdra	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	LemmaId=127190|OccId=4939104|Unsandhied=śūdrān|Annotator=Sa
+2	tena	tad	PRON	_	Case=Ins|Gender=Masc|Number=Sing	3	det	_	LemmaId=37875|OccId=4939105|Unsandhied=tena|Annotator=Sa
+3	bhakṣeṇa	bhakṣa	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	4	obl:instr	_	LemmaId=48351|OccId=4939106|Unsandhied=bhakṣeṇa|Annotator=Sa
+4	jinviṣyasi	jinv	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut	0	root	_	LemmaId=157145|OccId=4939107|Unsandhied=jinviṣyasi|Annotator=Sa|Punctuation=fullStop
+
+# text = śūdra kalpaḥ te prajāyām ājaniṣyate anyasya preṣyaḥ kāma utthāpyaḥ yathākāma vadhyaḥ
+# sent_id = 625719_3
+1	śūdra	śūdra	NOUN	_	Case=Cpd|Gender=Masc	2	nmod	_	LemmaId=127190|OccId=4939108|Unsandhied=śūdra|Annotator=Sa
+2	kalpaḥ	kalpa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=12696|OccId=4939109|Unsandhied=kalpaḥ|Annotator=Sa
+3	te	tvad	PRON	_	Case=Gen|Number=Sing	4	nmod	_	LemmaId=37880|OccId=4939110|Unsandhied=te|Annotator=Sa
+4	prajāyām	prajā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	5	obl:loc	_	LemmaId=150748|OccId=4939111|Unsandhied=prajāyām|Annotator=Sa
+5	ājaniṣyate	ājan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut	0	root	_	LemmaId=159751|OccId=4939150|Unsandhied=ājaniṣyate|Annotator=Sa
+6	anyasya	anya	PRON	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	LemmaId=164189|OccId=4939112|Unsandhied=anyasya|Annotator=Sa
+7	preṣyaḥ	preṣya	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	acl:dpct	_	LemmaId=153987|OccId=4939113|Unsandhied=preṣyaḥ|Annotator=Sa
+8	kāma	kāma	NOUN	_	Case=Cpd|Gender=Masc	9	advmod	_	LemmaId=13752|OccId=4939114|Unsandhied=kāma|Annotator=Sa
+9	utthāpyaḥ	utthāpay	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	7	conj	_	LemmaId=160136|OccId=4939115|Unsandhied=utthāpyaḥ|Annotator=Sa
+10	yathākāma	yathākāma	ADJ	_	Case=Cpd	11	advmod	_	LemmaId=73259|OccId=4939116|Unsandhied=yathākāma|Annotator=Sa
+11	vadhyaḥ	vadh	VERB	_	Case=Nom|Gender=Masc|Number=Sing|VerbForm=Gdv	7	conj	_	LemmaId=158446|OccId=4939117|Unsandhied=vadhyaḥ|Annotator=Sa|Punctuation=fullStop
+
+# text = yadā vai kṣatriyāya pāpam bhavati śūdra kalpaḥ asya prajāyām ājāyate
+# sent_id = 625719_4
+1	yadā	yadā	SCONJ	_	_	5	mark	_	LemmaId=73645|OccId=4939118|Unsandhied=yadā|Annotator=Sa
+2	vai	vai	PART	_	_	5	discourse	_	LemmaId=118154|OccId=4939119|Unsandhied=vai|Annotator=Sa
+3	kṣatriyāya	kṣatriya	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	obl:benef	_	LemmaId=135379|OccId=4939120|Unsandhied=kṣatriyāya|Annotator=Sa
+4	pāpam	pāpa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	LemmaId=93767|OccId=4939121|Unsandhied=pāpam|Annotator=Sa
+5	bhavati	bhū	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	10	advcl:temp	_	LemmaId=157250|OccId=4939122|Unsandhied=bhavati|Annotator=Sa|Punctuation=comma
+6	śūdra	śūdra	NOUN	_	Case=Cpd|Gender=Masc	7	nmod	_	LemmaId=127190|OccId=4939123|Unsandhied=śūdra|Annotator=Sa
+7	kalpaḥ	kalpa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LemmaId=12696|OccId=4939124|Unsandhied=kalpaḥ|Annotator=Sa
+8	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	LemmaId=37876|OccId=4939125|Unsandhied=asya|Annotator=Sa
+9	prajāyām	prajā	NOUN	_	Case=Loc|Gender=Fem|Number=Sing	10	obl:loc	_	LemmaId=150748|OccId=4939126|Unsandhied=prajāyām|Annotator=Sa
+10	ājāyate	ājan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=159751|OccId=4939127|Unsandhied=ājāyate|Annotator=Sa|Punctuation=fullStop
+
+# text = īśvaraḥ ha asmāt dvitīyaḥ vā tṛtīyaḥ vā śūdra tām abhyupaitoḥ
+# sent_id = 625719_5
+1	īśvaraḥ	īśvara	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=64097|OccId=4939128|Unsandhied=īśvaraḥ|Annotator=Sa
+2	ha	ha	PART	_	_	1	discourse	_	LemmaId=169970|OccId=4939129|Unsandhied=ha|Annotator=Sa
+3	asmāt	idam	PRON	_	Case=Abl|Gender=Masc|Number=Sing	4	obl:source	_	LemmaId=37876|OccId=4939130|Unsandhied=asmāt|Annotator=Sa
+4	dvitīyaḥ	dvitīya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=91331|OccId=4939131|Unsandhied=dvitīyaḥ|Annotator=Sa
+5	vā	vā	CCONJ	_	_	4	cc	_	LemmaId=75765|OccId=4939132|Unsandhied=vā|Annotator=Sa
+6	tṛtīyaḥ	tṛtīya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	LemmaId=83290|OccId=4939133|Unsandhied=tṛtīyaḥ|Annotator=Sa
+7	vā	vā	CCONJ	_	_	6	cc	_	LemmaId=75765|OccId=4939134|Unsandhied=vā|Annotator=Sa
+8	śūdra	śūdra	NOUN	_	Case=Cpd|Gender=Masc	9	nmod	_	LemmaId=127190|OccId=4939135|Unsandhied=śūdra|Annotator=Sa
+9	tām	tā	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	LemmaId=203679|OccId=4939136|Unsandhied=tām|Annotator=Sa
+10	abhyupaitoḥ	abhyupe	VERB	_	VerbForm=Inf	1	xcomp	_	LemmaId=159382|OccId=4939151|Unsandhied=abhyupaitoḥ|Annotator=Sa|Punctuation=fullStop
+
+# text = sa śūdra tayā jijyūṣitaḥ
+# sent_id = 625719_6
+1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=37875|OccId=4939137|Unsandhied=sa|Annotator=Sa
+2	śūdra	śūdra	NOUN	_	Case=Cpd|Gender=Masc	3	nmod	_	LemmaId=127190|OccId=4939138|Unsandhied=śūdra|Annotator=Sa
+3	tayā	tā	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	4	obl:manner	_	LemmaId=203679|OccId=4939139|Unsandhied=tayā|Annotator=Sa
+4	jijyūṣitaḥ	jijyūṣ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=222398|OccId=4939152|Unsandhied=jijyūṣitaḥ|Annotator=Sa|Punctuation=fullStop
+

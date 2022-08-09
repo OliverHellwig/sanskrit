@@ -5,22 +5,25 @@
 This is a dump of most of the texts in the DCS in a human readable, tab separated format. Most commentarial texts are not included in this dump.
 The analysis of each string has been checked by one annotator.
 
-The subdirectory ./files contains the texts in CoNLL-U format (see https://universaldependencies.org/format.html).
+The subdirectory ./files contains the texts in CoNLL-U format (see https://universaldependencies.org/format.html). Each text is in a separate folder, and each chapter (i.e. what is defined as chapter in the DCS) in a separate file.
+The file name "Aṣṭāṅgahṛdayasaṃhitā-0007-AHS, Sū., 8-1162" means: Text=Aṣṭāṅgahṛdayasaṃhitā", chapter seven ("0007"), citation form of the chapter name="AHS, Sū., 8", chapter id="1162"
+Note that format of the CoNLL-U files has changed in the latest release (Aug 9, 2022) and now conforms to the UD standard.
+
 Current size of the dump:
 
-* Number of lines: 665765
-* Number of words: 5956507
+* Number of lines: 670479
+* Number of words: 5989632
 
-Texts shorter than 50,000 words are stored in individual files in the directory ./files. Their names end with -all (= containing all chapters).
-Longer texts are split into one file per chapter and stored in subdirectories of ./files.
-The file name "Aṣṭāṅgahṛdayasaṃhitā-0007-AHS, Sū., 8-1162" means: Text=Aṣṭāṅgahṛdayasaṃhitā", chapter seven ("0007"), citation form of the chapter name="AHS, Sū., 8", chapter id="1162"
 
-Each line starting with a number contains ten entries. The following list explains entries whose meaning is not the same as in the UD standard as well as the additional fields (11++).
+
+Each line that begins with a number contains ten entries. The following list explains entries whose meaning is not the same as in the UD standard.
 
 * 2. FORM: Word form or punctuation symbol. - A single string (= sequence of letters limited by spaces) can contain one or multiple words in Sanskrit. If it contains multiple words, the annotation follows the proposals for multiword annotation (https://universaldependencies.org/format.html#words-tokens-and-empty-nodes).
 * 3. LEMMA: Lemma or stem of word form. - The lexical id of the lemma is found in field 11.
 * 4. UPOS: Universal part-of-speech tag. - The value of this field is mapped automatically from the XPOS field.
 * 5. XPOS: Language-specific part-of-speech tag. - This tag set is described in ./files/lookup/pos.csv and Hellwig, Hettrich, Modi and Pinkal (2018): Multi-layer Annotation of the Rigveda.
+* 7. HEAD: If the chapter forms part of the Vedic Treebank, this field contains the line number (= column 1) of the syntactic head.
+* 8. DEPREL: If the chapter forms part of the Vedic Treebank, this field contains the label of the syntactic arc.
 * 10. MISC: This field can contain any combination of the following key-value pairs:
   * LemmaId: Matches the first column of ./files/lookup/dictionary.csv
   * OccId: the id of this occurrence of the word
