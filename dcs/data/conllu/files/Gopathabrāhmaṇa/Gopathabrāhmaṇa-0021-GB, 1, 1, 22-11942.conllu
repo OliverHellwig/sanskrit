@@ -3,10 +3,10 @@
 ## chapter: GB, 1, 1, 22
 ## chapter_id: 11942
 # text = sā eṣā eka akṣarā ṛc brahmaṇaḥ tapasaḥ agre prādurbabhūva brahmavedasya ātharvaṇam śukram
-# sent_id = 651962_1
+# sent_id = 653531_1
 1	sā	tad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	5	det	_	LemmaId=37875|OccId=4897327|Unsandhied=sā|Annotator=Ol
 2	eṣā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	5	det	_	LemmaId=163744|OccId=4897328|Unsandhied=eṣā|Annotator=Ol
-3	eka	eka	PRON	_	Case=Cpd	4	nummod	_	LemmaId=39102|OccId=4897329|Unsandhied=eka|Annotator=Ol
+3	eka	eka	NUM	_	Case=Cpd	4	nummod	_	LemmaId=39102|OccId=4897329|Unsandhied=eka|Annotator=Ol
 4	akṣarā	akṣara	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	acl:dpct	_	LemmaId=5484|OccId=4897330|Unsandhied=akṣarā|Annotator=Ol
 5	ṛc	ṛc	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	LemmaId=38865|OccId=4897331|Unsandhied=ṛc|Annotator=Ol
 6	brahmaṇaḥ	brahman	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	7	nmod	_	LemmaId=149177|OccId=4897227|Unsandhied=brahmaṇaḥ|Annotator=Ol
@@ -18,16 +18,16 @@
 12	śukram	śukra	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	9	xcomp:result	_	LemmaId=126271|OccId=4897233|Unsandhied=śukram|Annotator=Ol|Punctuation=fullStop
 
 # text = atas eva mantrāḥ prādurbabhūvuḥ
-# sent_id = 651963_1
+# sent_id = 653532_1
 1	atas	atas	ADV	_	_	4	obl:source	_	LemmaId=6823|OccId=4897234|Unsandhied=atas|Annotator=Ol
 2	eva	eva	PART	_	_	1	discourse	_	LemmaId=39754|OccId=4897235|Unsandhied=eva|Annotator=Ol
 3	mantrāḥ	mantra	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	LemmaId=36369|OccId=4897236|Unsandhied=mantrāḥ|Annotator=Ol
 4	prādurbabhūvuḥ	prādurbhū	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=168086|OccId=4897237|Unsandhied=prādurbabhūvuḥ|Annotator=Ol|Punctuation=fullStop
 
 # text = sa tu khalu mantrāṇām a tapasā a śuśrūṣā anadhyāya adhyayanena yat ūnam ca viriṣṭam ca yātayāmam ca karoti tat atharvaṇām tejasā pratyāpyāyayet
-# sent_id = 651964_1
+# sent_id = 653533_1
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	LemmaId=37875|OccId=4897238|Unsandhied=sa|Annotator=Ol
-2	tu	tu	CCONJ	_	_	18	discourse	_	LemmaId=82701|OccId=4897239|Unsandhied=tu|Annotator=Ol
+2	tu	tu	PART	_	_	18	discourse	_	LemmaId=82701|OccId=4897239|Unsandhied=tu|Annotator=Ol
 3	khalu	khalu	PART	_	_	2	fixed	_	LemmaId=128848|OccId=4897240|Unsandhied=khalu|Annotator=Ol
 4	mantrāṇām	mantra	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	11	nmod	_	LemmaId=36369|OccId=4897241|Unsandhied=mantrāṇām|Annotator=Ol
 5	a	a	PART	_	_	6	advmod	_	LemmaId=213048|OccId=4897317|Unsandhied=a|Annotator=Ol
@@ -38,11 +38,11 @@
 10	adhyayanena	adhyayana	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	6	conj	_	LemmaId=9586|OccId=4897322|Unsandhied=adhyayanena|Annotator=Ol
 11	yat	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	LemmaId=37877|OccId=4897242|Unsandhied=yat|Annotator=Ol
 12	ūnam	ūna	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	18	xcomp:result	_	LemmaId=38355|OccId=4897243|Unsandhied=ūnam|Annotator=Ol
-13	ca	ca	CCONJ	_	_	12	cc	_	LemmaId=157144|OccId=4897244|Unsandhied=ca|Annotator=Ol
+13	ca	ca	CONJ	_	_	12	cc	_	LemmaId=157144|OccId=4897244|Unsandhied=ca|Annotator=Ol
 14	viriṣṭam	viriṣ	VERB	_	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	12	conj	_	LemmaId=170018|OccId=4897245|Unsandhied=viriṣṭam|Annotator=Ol
-15	ca	ca	CCONJ	_	_	14	cc	_	LemmaId=157144|OccId=4897246|Unsandhied=ca|Annotator=Ol
+15	ca	ca	CONJ	_	_	14	cc	_	LemmaId=157144|OccId=4897246|Unsandhied=ca|Annotator=Ol
 16	yātayāmam	yātayāma	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	12	conj	_	LemmaId=74261|OccId=4897247|Unsandhied=yātayāmam|Annotator=Ol
-17	ca	ca	CCONJ	_	_	16	cc	_	LemmaId=157144|OccId=4897248|Unsandhied=ca|Annotator=Ol
+17	ca	ca	CONJ	_	_	16	cc	_	LemmaId=157144|OccId=4897248|Unsandhied=ca|Annotator=Ol
 18	karoti	kṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	19	acl:rel	_	LemmaId=156168|OccId=4897249|Unsandhied=karoti|Annotator=Ol|Punctuation=comma
 19	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	22	obj	_	LemmaId=37875|OccId=4897250|Unsandhied=tat|Annotator=Ol
 20	atharvaṇām	atharvan	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	21	nmod	_	LemmaId=7480|OccId=4897251|Unsandhied=atharvaṇām|Annotator=Ol
@@ -50,31 +50,31 @@
 22	pratyāpyāyayet	pratyāpyāyay	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=222198|OccId=4897323|Unsandhied=pratyāpyāyayet|Annotator=Ol|Punctuation=fullStop
 
 # text = mantrāḥ ca mām abhimukhībhaveyuḥ
-# sent_id = 651965_1
+# sent_id = 653534_1
 1	mantrāḥ	mantra	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	LemmaId=36369|OccId=4897253|Unsandhied=mantrāḥ|Annotator=Ol
-2	ca	ca	CCONJ	_	_	1	cc	_	LemmaId=157144|OccId=4897254|Unsandhied=ca|Annotator=Ol
+2	ca	ca	CONJ	_	_	1	cc	_	LemmaId=157144|OccId=4897254|Unsandhied=ca|Annotator=Ol
 3	mām	mad	PRON	_	Case=Acc|Number=Sing	4	obl:goal	_	LemmaId=37879|OccId=4897255|Unsandhied=mām|Annotator=Ol
 4	abhimukhībhaveyuḥ	abhimukhībhū	VERB	_	Mood=Opt|Number=Plur|Person=3|Tense=Pres	0	root	_	LemmaId=170037|OccId=4897256|Unsandhied=abhimukhībhaveyuḥ|Annotator=Ol
 
 # text = purastāt oṃkāram prayuṅkte
-# sent_id = 651966_1
+# sent_id = 653535_1
 1	purastāt	purastāt	ADV	_	_	3	advmod	_	LemmaId=143801|OccId=4897261|Unsandhied=purastāt|Annotator=Ol
 2	oṃkāram	oṃkāra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	LemmaId=169309|OccId=4897262|Unsandhied=oṃkāram|Annotator=Ol
 3	prayuṅkte	prayuj	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=162979|OccId=4897263|Unsandhied=prayuṅkte|Annotator=Ol|Punctuation=fullStop
 
 # text = etayaiva tad ṛcā pratyāpyāyayet
-# sent_id = 651967
+# sent_id = 653536
 # sent_counter = 6
 # sent_subcounter = 
 1-2	etayaiva	_	_	_	_	_	_	_	_
-1	_	etad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=4897264|Unsandhied=etayā
-2	_	eva	PART	_		_	_	_	LemmaId=39754|OccId=4897265|Unsandhied=eva
+1	etayā	etad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=163744|OccId=4897264|Unsandhied=etayā
+2	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=4897265|Unsandhied=eva
 3	tad	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4897266|Unsandhied=tat
 4	ṛcā	ṛc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=38865|OccId=4897267|Unsandhied=ṛcā
 5	pratyāpyāyayet	pratyāpyāyay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=222198|OccId=5383955|Unsandhied=pratyāpyāyayet|Punctuation=fullStop
 
 # text = eṣā eva yajñasya purastāt yujyate eṣā paścāt
-# sent_id = 651968_1
+# sent_id = 653537_1
 1	eṣā	etad	PRON	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	LemmaId=163744|OccId=4897268|Unsandhied=eṣā|Annotator=Ol
 2	eva	eva	PART	_	_	1	discourse	_	LemmaId=39754|OccId=4897269|Unsandhied=eva|Annotator=Ol
 3	yajñasya	yajña	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	5	obl:temp	_	LemmaId=72936|OccId=4897270|Unsandhied=yajñasya|Annotator=Ol|IsMantra=True
@@ -84,16 +84,16 @@
 7	paścāt	paścāt	ADV	_	_	6	orphan	_	LemmaId=92800|OccId=4897274|Unsandhied=paścāt|Annotator=Ol|Punctuation=fullStop
 
 # text = sarvatas etayā yajñaḥ tāyate
-# sent_id = 651970_1
+# sent_id = 653539_1
 1	sarvatas	sarvatas	ADV	_	_	4	advmod	_	LemmaId=105129|OccId=4897275|Unsandhied=sarvatas|Annotator=Ol
 2	etayā	etad	PRON	_	Case=Ins|Gender=Fem|Number=Sing	4	obl:instr	_	LemmaId=163744|OccId=4897276|Unsandhied=etayā|Annotator=Ol
 3	yajñaḥ	yajña	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=72936|OccId=4897277|Unsandhied=yajñaḥ|Annotator=Ol
 4	tāyate	tan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LemmaId=157173|OccId=4897278|Unsandhied=tāyate|Annotator=Ol|Punctuation=fullStop
 
 # text = tat api etat ṛcā uktam yā purastāt yujyate ṛcaḥ akṣare parame vyoman iti
-# sent_id = 651971_1
+# sent_id = 653540_1
 1	tat	tad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	3	det	_	LemmaId=37875|OccId=4897279|Unsandhied=tat|Annotator=Ol
-2	api	api	ADV	_	_	5	discourse	_	LemmaId=21365|OccId=4897280|Unsandhied=api|Annotator=Ol
+2	api	api	PART	_	_	5	discourse	_	LemmaId=21365|OccId=4897280|Unsandhied=api|Annotator=Ol
 3	etat	etad	PRON	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	LemmaId=163744|OccId=4897281|Unsandhied=etat|Annotator=Ol
 4	ṛcā	ṛc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	5	obl	_	LemmaId=38865|OccId=4897282|Unsandhied=ṛcā|Annotator=Ol
 5	uktam	vac	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=157264|OccId=4897283|Unsandhied=uktam|Annotator=Ol|Punctuation=fullStop
@@ -107,7 +107,7 @@
 13	iti	iti	PART	_	_	12	mark	_	LemmaId=63331|OccId=4897290|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
 
 # text = tat etat akṣaram brāhmaṇaḥ yam kāmam icchet tri rātra upoṣitaḥ prāc mukhaḥ vāgyataḥ barhiṣi upaviśya sahasra kṛtvas āvartayet
-# sent_id = 651973_1
+# sent_id = 653542_1
 1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	3	det	_	LemmaId=37875|OccId=4897291|Unsandhied=tat|Annotator=Ol
 2	etat	etad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	3	det	_	LemmaId=163744|OccId=4897292|Unsandhied=etat|Annotator=Ol
 3	akṣaram	akṣara	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	18	obj	_	LemmaId=5484|OccId=4897293|Unsandhied=akṣaram|Annotator=Ol
@@ -128,13 +128,13 @@
 18	āvartayet	āvartay	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=159958|OccId=4897308|Unsandhied=āvartayet|Annotator=Ol|Punctuation=fullStop
 
 # text = sidhyanti asya arthāḥ sarva karmāṇi ca iti brāhmaṇam
-# sent_id = 651974_1
+# sent_id = 653543_1
 1	sidhyanti	sidh	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	8	ccomp	_	LemmaId=158146|OccId=4897309|Unsandhied=sidhyanti|Annotator=Ol
 2	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LemmaId=37876|OccId=4897310|Unsandhied=asya|Annotator=Ol
 3	arthāḥ	artha	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	LemmaId=53136|OccId=4897311|Unsandhied=arthāḥ|Annotator=Ol
-4	sarva	sarva	ADJ	_	Case=Cpd	5	det	_	LemmaId=104444|OccId=4897312|Unsandhied=sarva|Annotator=Ol
+4	sarva	sarva	PRON	_	Case=Cpd	5	det	_	LemmaId=104444|OccId=4897312|Unsandhied=sarva|Annotator=Ol
 5	karmāṇi	karman	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	3	conj	_	LemmaId=12243|OccId=4897313|Unsandhied=karmāṇi|Annotator=Ol
-6	ca	ca	CCONJ	_	_	5	cc	_	LemmaId=157144|OccId=4897314|Unsandhied=ca|Annotator=Ol
+6	ca	ca	CONJ	_	_	5	cc	_	LemmaId=157144|OccId=4897314|Unsandhied=ca|Annotator=Ol
 7	iti	iti	PART	_	_	6	mark	_	LemmaId=63331|OccId=4897315|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
 8	brāhmaṇam	brāhmaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=149744|OccId=4897316|Unsandhied=brāhmaṇam|Annotator=Ol|Punctuation=fullStop
 

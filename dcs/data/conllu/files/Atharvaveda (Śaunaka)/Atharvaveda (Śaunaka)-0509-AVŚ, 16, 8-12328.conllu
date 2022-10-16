@@ -3,7 +3,7 @@
 ## chapter: AVŚ, 16, 8
 ## chapter_id: 12328
 # text = jitam asmākam udbhinnam asmākam ṛtam asmākaṃ tejo 'smākaṃ brahmāsmākaṃ svar asmākaṃ yajño 'smākaṃ paśavo 'smākaṃ prajā asmākaṃ vīrā asmākam
-# sent_id = 617245
+# sent_id = 618814
 # sent_counter = 1
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4969916|Unsandhied=jitam
@@ -15,8 +15,8 @@
 7	tejo	tejas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=83387|OccId=4969922|Unsandhied=tejaḥ
 8	'smākaṃ	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4969923|Unsandhied=asmākam|Punctuation=fullStop
 9-10	brahmāsmākaṃ	_	_	_	_	_	_	_	_
-9	_	brahman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=149176|OccId=4969924|Unsandhied=brahma
-10	_	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4969925|Unsandhied=asmākam|Punctuation=fullStop
+9	brahma	brahman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=149176|OccId=4969924|Unsandhied=brahma
+10	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4969925|Unsandhied=asmākam|Punctuation=fullStop
 11	svar	svar	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=119779|OccId=4969926|Unsandhied=svar
 12	asmākaṃ	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4969927|Unsandhied=asmākam|Punctuation=fullStop
 13	yajño	yajña	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=72936|OccId=4969928|Unsandhied=yajñaḥ
@@ -28,93 +28,82 @@
 19	vīrā	vīra	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=166143|OccId=4969934|Unsandhied=vīrāḥ
 20	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4969935|Unsandhied=asmākam|Punctuation=fullStop
 
-# text = tasmād amuṃ nirbhajāmo 'mum āmuṣyāyaṇam amuṣyāḥ putram asau yaḥ
-# sent_id = 617246
-# sent_counter = 1
-# sent_subcounter = 2
-1	tasmād	tad	PRON	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4969936|Unsandhied=tasmāt
-2	amuṃ	adas	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=163742|OccId=4969937|Unsandhied=amum
-3	nirbhajāmo	nirbhaj	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Plur	_	_	_	LemmaId=161404|OccId=4969957|Unsandhied=nirbhajāmaḥ
-4	'mum	adas	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=163742|OccId=4969938|Unsandhied=amum
-5	āmuṣyāyaṇam	āmuṣyāyaṇa	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=59038|OccId=4969939|Unsandhied=āmuṣyāyaṇam
-6	amuṣyāḥ	adas	PRON	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=163742|OccId=4969940|Unsandhied=amuṣyāḥ
-7	putram	putra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=144475|OccId=4969941|Unsandhied=putram|Punctuation=comma
-8	asau	adas	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=163742|OccId=4969942|Unsandhied=asau
-9	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=4969943|Unsandhied=yaḥ|Punctuation=fullStop
+# text = tasmāt amum nirbhajāmaḥ amum āmuṣyāyaṇam amuṣyāḥ putram asau yaḥ
+# sent_id = 618815_1
+1	tasmāt	tad	PRON	_	Case=Abl|Gender=Neut|Number=Sing	3	obl:source	_	LemmaId=37875|OccId=4969936|Unsandhied=tasmāt|Annotator=Ol
+2	amum	adas	PRON	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	LemmaId=163742|OccId=4969937|Unsandhied=amum|Annotator=Ol
+3	nirbhajāmaḥ	nirbhaj	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres	0	root	_	LemmaId=161404|OccId=4969957|Unsandhied=nirbhajāmaḥ|Annotator=Ol
+4	amum	adas	PRON	_	Case=Acc|Gender=Masc|Number=Sing	2	nmod:appos	_	LemmaId=163742|OccId=4969938|Unsandhied=amum|Annotator=Ol
+5	āmuṣyāyaṇam	āmuṣyāyaṇa	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	LemmaId=59038|OccId=4969939|Unsandhied=āmuṣyāyaṇam|Annotator=Ol
+6	amuṣyāḥ	adas	PRON	_	Case=Gen|Gender=Fem|Number=Sing	7	nmod	_	LemmaId=163742|OccId=4969940|Unsandhied=amuṣyāḥ|Annotator=Ol
+7	putram	putra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	4	conj	_	LemmaId=144475|OccId=4969941|Unsandhied=putram|Annotator=Ol|Punctuation=comma
+8	asau	adas	PRON	_	Case=Nom|Gender=Masc|Number=Sing	7	acl:rel	_	LemmaId=163742|OccId=4969942|Unsandhied=asau|Annotator=Ol
+9	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	8	nsubj	_	LemmaId=37877|OccId=4969943|Unsandhied=yaḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = sa grāhyāḥ pāśān mā moci
-# sent_id = 617247
-# sent_counter = 1
-# sent_subcounter = 3
-1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4969944|Unsandhied=sa
-2	grāhyāḥ	grāhi	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=156342|OccId=4969945|Unsandhied=grāhyāḥ
-3	pāśān	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=94501|OccId=4969946|Unsandhied=pāśāt
-4	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4969947|Unsandhied=mā
-5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4969948|Unsandhied=moci|Punctuation=fullStop
+# text = sa grāhyāḥ pāśāt mā moci
+# sent_id = 618816_1
+1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=37875|OccId=4969944|Unsandhied=sa|Annotator=Ol
+2	grāhyāḥ	grāhi	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	LemmaId=156342|OccId=4969945|Unsandhied=grāhyāḥ|Annotator=Ol
+3	pāśāt	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	5	obl:source	_	LemmaId=94501|OccId=4969946|Unsandhied=pāśāt|Annotator=Ol
+4	mā	mā	PART	_	_	5	advmod	_	LemmaId=170120|OccId=4969947|Unsandhied=mā|Annotator=Ol
+5	moci	muc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	LemmaId=157281|OccId=4969948|Unsandhied=moci|Annotator=Ol|Punctuation=fullStop
 
-# text = tasyedaṃ varcastejaḥ prāṇamāyur nirveṣṭayāmīdam enam adharāñcaṃ pādayāmi
-# sent_id = 617248
-# sent_counter = 1
-# sent_subcounter = 4
-1-2	tasyedaṃ	_	_	_	_	_	_	_	_
-1	_	tad	PRON	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=37875|OccId=4969949|Unsandhied=tasya
-2	_	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37876|OccId=4969950|Unsandhied=idam
-3-4	varcastejaḥ	_	_	_	_	_	_	_	_
-3	_	varcas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=69437|OccId=4969951|Unsandhied=varcaḥ
-4	_	tejas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=83387|OccId=4969952|Unsandhied=tejaḥ
-5-6	prāṇamāyur	_	_	_	_	_	_	_	_
-5	_	prāṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=156090|OccId=4969953|Unsandhied=prāṇam
-6	_	āyus	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=59234|OccId=4969954|Unsandhied=āyuḥ
-7-8	nirveṣṭayāmīdam	_	_	_	_	_	_	_	_
-7	_	nirveṣṭay	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=161454|OccId=4969958|Unsandhied=nirveṣṭayāmi
-8	_	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=37876|OccId=4969959|Unsandhied=idam
-9	enam	enad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=166401|OccId=4969955|Unsandhied=enam
-10	adharāñcaṃ	adharāñc	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=219175|OccId=4969956|Unsandhied=adharāñcam
-11	pādayāmi	pāday	VERB	_	Tense=Pres|Mood=Ind|Person=1|Number=Sing	_	_	_	LemmaId=157459|OccId=4969960|Unsandhied=pādayāmi|Punctuation=fullStop
+# text = tasya idam varcaḥ tejaḥ prāṇam āyuḥ nirveṣṭayāmi
+# sent_id = 618817_1
+1	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LemmaId=37875|OccId=4969949|Unsandhied=tasya|Annotator=Ol
+2	idam	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	3	det	_	LemmaId=37876|OccId=4969950|Unsandhied=idam|Annotator=Ol
+3	varcaḥ	varcas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	7	obj	_	LemmaId=69437|OccId=4969951|Unsandhied=varcaḥ|Annotator=Ol
+4	tejaḥ	tejas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	LemmaId=83387|OccId=4969952|Unsandhied=tejaḥ|Annotator=Ol
+5	prāṇam	prāṇa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	conj	_	LemmaId=156090|OccId=4969953|Unsandhied=prāṇam|Annotator=Ol
+6	āyuḥ	āyus	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	3	conj	_	LemmaId=59234|OccId=4969954|Unsandhied=āyuḥ|Annotator=Ol
+7	nirveṣṭayāmi	nirveṣṭay	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	LemmaId=161454|OccId=4969958|Unsandhied=nirveṣṭayāmi|Annotator=Ol
+
+# text = idam enam adharāñcam pādayāmi
+# sent_id = 618817_2
+1	idam	idam	PRON	_	Case=Acc|Gender=Neut|Number=Sing	4	advmod	_	LemmaId=37876|OccId=4969959|Unsandhied=idam|Annotator=Ol
+2	enam	enad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	LemmaId=166401|OccId=4969955|Unsandhied=enam|Annotator=Ol
+3	adharāñcam	adharāñc	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	2	acl	_	LemmaId=219175|OccId=4969956|Unsandhied=adharāñcam|Annotator=Ol
+4	pādayāmi	pāday	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	LemmaId=157459|OccId=4969960|Unsandhied=pādayāmi|Annotator=Ol|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617249
+# sent_id = 618818
 # sent_counter = 2
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4969961|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4969962|Unsandhied=asmākam|Punctuation=fullStop
 
-# text = so nirṛtyāḥ pāśān mā moci
-# sent_id = 617251
-# sent_counter = 2
-# sent_subcounter = 3
-1	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4969963|Unsandhied=saḥ
-2	nirṛtyāḥ	nirṛti	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=27704|OccId=4969964|Unsandhied=nirṛtyāḥ
-3	pāśān	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=94501|OccId=4969965|Unsandhied=pāśāt
-4	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4969966|Unsandhied=mā
-5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4969967|Unsandhied=moci|Punctuation=fullStop
+# text = saḥ nirṛtyāḥ pāśāt mā moci
+# sent_id = 618820_1
+1	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=37875|OccId=4969963|Unsandhied=saḥ|Annotator=Ol
+2	nirṛtyāḥ	nirṛti	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	LemmaId=27704|OccId=4969964|Unsandhied=nirṛtyāḥ|Annotator=Ol
+3	pāśāt	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	5	obl:source	_	LemmaId=94501|OccId=4969965|Unsandhied=pāśāt|Annotator=Ol
+4	mā	mā	PART	_	_	5	advmod	_	LemmaId=170120|OccId=4969966|Unsandhied=mā|Annotator=Ol
+5	moci	muc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	LemmaId=157281|OccId=4969967|Unsandhied=moci|Annotator=Ol|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617252
+# sent_id = 618821
 # sent_counter = 3
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4969968|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4969969|Unsandhied=asmākam|Punctuation=fullStop
 
-# text = so 'bhūtyāḥ pāśān mā moci
-# sent_id = 617254
-# sent_counter = 3
-# sent_subcounter = 3
-1	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4969970|Unsandhied=saḥ
-2	'bhūtyāḥ	abhūti	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	_	_	_	LemmaId=31268|OccId=4969971|Unsandhied=abhūtyāḥ
-3	pāśān	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=94501|OccId=4969972|Unsandhied=pāśāt
-4	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4969973|Unsandhied=mā
-5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4969974|Unsandhied=moci|Punctuation=fullStop
+# text = saḥ abhūtyāḥ pāśāt mā moci
+# sent_id = 618823_1
+1	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=37875|OccId=4969970|Unsandhied=saḥ|Annotator=Ol
+2	abhūtyāḥ	abhūti	NOUN	_	Case=Gen|Gender=Fem|Number=Sing	3	nmod	_	LemmaId=31268|OccId=4969971|Unsandhied=abhūtyāḥ|Annotator=Ol
+3	pāśāt	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	5	obl:source	_	LemmaId=94501|OccId=4969972|Unsandhied=pāśāt|Annotator=Ol
+4	mā	mā	PART	_	_	5	advmod	_	LemmaId=170120|OccId=4969973|Unsandhied=mā|Annotator=Ol
+5	moci	muc	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Voice=Pass	0	root	_	LemmaId=157281|OccId=4969974|Unsandhied=moci|Annotator=Ol|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617255
+# sent_id = 618824
 # sent_counter = 4
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4969975|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4969976|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa nirbhūtyāḥ pāśān mā moci
-# sent_id = 617257
+# sent_id = 618826
 # sent_counter = 4
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4969977|Unsandhied=sa
@@ -124,14 +113,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4969981|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617258
+# sent_id = 618827
 # sent_counter = 5
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4969982|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4969983|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa parābhūtyāḥ pāśān mā moci
-# sent_id = 617260
+# sent_id = 618829
 # sent_counter = 5
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4969984|Unsandhied=sa
@@ -141,33 +130,33 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4969988|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617261
+# sent_id = 618830
 # sent_counter = 6
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4969989|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4969990|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa devajāmīnāṃ pāśān mā moci
-# sent_id = 617263
+# sent_id = 618832
 # sent_counter = 6
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4969991|Unsandhied=sa
 2-3	devajāmīnāṃ	_	_	_	_	_	_	_	_
-2	_	deva	NOUN	_	Case=Cpd	_	_	_	LemmaId=86559|OccId=4969992|Unsandhied=deva
-3	_	jāmi	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	LemmaId=88769|OccId=4969993|Unsandhied=jāmīnām
+2	deva	deva	NOUN	_	Case=Cpd	_	_	_	LemmaId=86559|OccId=4969992|Unsandhied=deva
+3	jāmīnām	jāmi	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	_	_	_	LemmaId=88769|OccId=4969993|Unsandhied=jāmīnām
 4	pāśān	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=94501|OccId=4969994|Unsandhied=pāśāt
 5	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4969995|Unsandhied=mā
 6	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4969996|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617264
+# sent_id = 618833
 # sent_counter = 7
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4969997|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4969998|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa bṛhaspateḥ pāśān mā moci
-# sent_id = 617266
+# sent_id = 618835
 # sent_counter = 7
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4969999|Unsandhied=sa
@@ -177,14 +166,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970003|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617267
+# sent_id = 618836
 # sent_counter = 8
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970004|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970005|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa prajāpateḥ pāśān mā moci
-# sent_id = 617269
+# sent_id = 618838
 # sent_counter = 8
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970006|Unsandhied=sa
@@ -194,14 +183,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970010|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617270
+# sent_id = 618839
 # sent_counter = 9
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970011|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970012|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa ṛṣīṇāṃ pāśān mā moci
-# sent_id = 617272
+# sent_id = 618841
 # sent_counter = 9
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970013|Unsandhied=saḥ
@@ -211,14 +200,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970017|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617273
+# sent_id = 618842
 # sent_counter = 10
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970018|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970019|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa ārṣeyāṇāṃ pāśān mā moci
-# sent_id = 617275
+# sent_id = 618844
 # sent_counter = 10
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970020|Unsandhied=saḥ
@@ -228,14 +217,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970024|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617276
+# sent_id = 618845
 # sent_counter = 11
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970025|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970026|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = so 'ṅgirasāṃ pāśān mā moci
-# sent_id = 617278
+# sent_id = 618847
 # sent_counter = 11
 # sent_subcounter = 3
 1	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970027|Unsandhied=saḥ
@@ -245,14 +234,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970031|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617279
+# sent_id = 618848
 # sent_counter = 12
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970032|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970033|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa āṅgirasānāṃ pāśān mā moci
-# sent_id = 617281
+# sent_id = 618850
 # sent_counter = 12
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970034|Unsandhied=saḥ
@@ -262,14 +251,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970038|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617282
+# sent_id = 618851
 # sent_counter = 13
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970039|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970040|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = so 'tharvaṇām pāśān mā moci
-# sent_id = 617284
+# sent_id = 618853
 # sent_counter = 13
 # sent_subcounter = 3
 1	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970041|Unsandhied=saḥ
@@ -279,14 +268,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970045|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617285
+# sent_id = 618854
 # sent_counter = 14
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970046|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970047|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa ātharvaṇānāṃ pāśān mā moci
-# sent_id = 617287
+# sent_id = 618856
 # sent_counter = 14
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970048|Unsandhied=saḥ
@@ -296,14 +285,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970052|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617288
+# sent_id = 618857
 # sent_counter = 15
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970053|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970054|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa vanaspatīṇāṃ pāśān mā moci
-# sent_id = 617290
+# sent_id = 618859
 # sent_counter = 15
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970055|Unsandhied=sa
@@ -313,14 +302,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970059|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617291
+# sent_id = 618860
 # sent_counter = 16
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970060|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970061|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa vānaspatyānāṃ pāśān mā moci
-# sent_id = 617293
+# sent_id = 618862
 # sent_counter = 16
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970062|Unsandhied=sa
@@ -330,14 +319,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970066|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617294
+# sent_id = 618863
 # sent_counter = 17
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970067|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970068|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa ṛtūnāṃ pāśān mā moci
-# sent_id = 617296
+# sent_id = 618865
 # sent_counter = 17
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970069|Unsandhied=saḥ
@@ -347,14 +336,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970073|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617297
+# sent_id = 618866
 # sent_counter = 18
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970074|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970075|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa ārtavānāṃ pāśān mā moci
-# sent_id = 617299
+# sent_id = 618868
 # sent_counter = 18
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970076|Unsandhied=saḥ
@@ -364,14 +353,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970080|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617300
+# sent_id = 618869
 # sent_counter = 19
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970081|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970082|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa māsānāṃ pāśān mā moci
-# sent_id = 617302
+# sent_id = 618871
 # sent_counter = 19
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970083|Unsandhied=sa
@@ -381,33 +370,33 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970087|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617303
+# sent_id = 618872
 # sent_counter = 20
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970088|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970089|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = so 'rdhamāsānāṃ pāśān mā moci
-# sent_id = 617305
+# sent_id = 618874
 # sent_counter = 20
 # sent_subcounter = 3
 1	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970090|Unsandhied=saḥ
 2-3	'rdhamāsānāṃ	_	_	_	_	_	_	_	_
-2	_	ardha	ADJ	_	Case=Cpd	_	_	_	LemmaId=53321|OccId=4970091|Unsandhied=ardha
-3	_	māsa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=133175|OccId=4970092|Unsandhied=māsānām
+2	ardha	ardha	ADJ	_	Case=Cpd	_	_	_	LemmaId=53321|OccId=4970091|Unsandhied=ardha
+3	māsānām	māsa	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=133175|OccId=4970092|Unsandhied=māsānām
 4	pāśān	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=94501|OccId=4970093|Unsandhied=pāśāt
 5	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4970094|Unsandhied=mā
 6	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970095|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617306
+# sent_id = 618875
 # sent_counter = 21
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970096|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970097|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = so 'horātrayoḥ pāśān mā moci
-# sent_id = 617308
+# sent_id = 618877
 # sent_counter = 21
 # sent_subcounter = 3
 1	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970098|Unsandhied=saḥ
@@ -417,14 +406,14 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970102|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617309
+# sent_id = 618878
 # sent_counter = 22
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970103|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970104|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = so 'hnoḥ saṃyatoḥ pāśān mā moci
-# sent_id = 617311
+# sent_id = 618880
 # sent_counter = 22
 # sent_subcounter = 3
 1	so	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970105|Unsandhied=saḥ
@@ -435,14 +424,14 @@
 6	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970110|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617312
+# sent_id = 618881
 # sent_counter = 23
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970111|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970112|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa dyāvāpṛthivyoḥ pāśān mā moci
-# sent_id = 617314
+# sent_id = 618883
 # sent_counter = 23
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970113|Unsandhied=sa
@@ -452,33 +441,33 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970117|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617315
+# sent_id = 618884
 # sent_counter = 24
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970118|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970119|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa indrāgnyoḥ pāśān mā moci
-# sent_id = 617317
+# sent_id = 618886
 # sent_counter = 24
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970120|Unsandhied=saḥ
 2-3	indrāgnyoḥ	_	_	_	_	_	_	_	_
-2	_	indra	NOUN	_	Case=Cpd	_	_	_	LemmaId=63463|OccId=4970121|Unsandhied=indra
-3	_	agni	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=5705|OccId=4970122|Unsandhied=agnyoḥ
+2	indra	indra	NOUN	_	Case=Cpd	_	_	_	LemmaId=63463|OccId=4970121|Unsandhied=indra
+3	agnyoḥ	agni	NOUN	_	Case=Gen|Gender=Masc|Number=Dual	_	_	_	LemmaId=5705|OccId=4970122|Unsandhied=agnyoḥ
 4	pāśān	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=94501|OccId=4970123|Unsandhied=pāśāt
 5	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4970124|Unsandhied=mā
 6	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970125|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617318
+# sent_id = 618887
 # sent_counter = 25
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970126|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970127|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa mitrāvaruṇayoḥ pāśān mā moci
-# sent_id = 617320
+# sent_id = 618889
 # sent_counter = 25
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970128|Unsandhied=sa
@@ -488,49 +477,39 @@
 5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970132|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617321
+# sent_id = 618890
 # sent_counter = 26
-# sent_subcounter = 
+# sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970133|Unsandhied=jitam
+2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970134|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa rājño varuṇasya pāśān mā moci
-# sent_id = 617323
+# sent_id = 618892
 # sent_counter = 26
-# sent_subcounter = 
+# sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970135|Unsandhied=sa
+2	rājño	rājan	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=70467|OccId=4970136|Unsandhied=rājñaḥ
+3	varuṇasya	varuṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=69074|OccId=4970137|Unsandhied=varuṇasya
+4	pāśān	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=94501|OccId=4970138|Unsandhied=pāśāt
+5	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4970139|Unsandhied=mā
+6	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970140|Unsandhied=moci|Punctuation=fullStop
 
 # text = jitam asmākam ﾰ
-# sent_id = 617321
-# sent_counter = 26
-# sent_subcounter = 
-1	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970134|Unsandhied=asmākam|Punctuation=fullStop
-
-# text = sa rājño varuṇasya pāśān mā moci
-# sent_id = 617323
-# sent_counter = 26
-# sent_subcounter = 
-1	rājño	rājan	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=70467|OccId=4970136|Unsandhied=rājñaḥ
-2	varuṇasya	varuṇa	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=69074|OccId=4970137|Unsandhied=varuṇasya
-3	pāśān	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=94501|OccId=4970138|Unsandhied=pāśāt
-4	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4970139|Unsandhied=mā
-5	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970140|Unsandhied=moci|Punctuation=fullStop
-
-# text = jitam asmākam ﾰ
-# sent_id = 617324
+# sent_id = 618893
 # sent_counter = 27
 # sent_subcounter = 1
 1	jitam	ji	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156588|OccId=4970141|Unsandhied=jitam
 2	asmākam	mad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37879|OccId=4970142|Unsandhied=asmākam|Punctuation=fullStop
 
 # text = sa mṛtyoḥ paḍvīśāt pāśānmā moci
-# sent_id = 617326
+# sent_id = 618895
 # sent_counter = 27
 # sent_subcounter = 3
 1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=4970143|Unsandhied=sa
 2	mṛtyoḥ	mṛtyu	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=137611|OccId=4970144|Unsandhied=mṛtyoḥ
 3	paḍvīśāt	paḍvīśa	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	_	_	_	LemmaId=15383|OccId=4970148|Unsandhied=paḍvīśāt
 4-5	pāśānmā	_	_	_	_	_	_	_	_
-4	_	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=94501|OccId=4970145|Unsandhied=pāśāt
-5	_	mā	PART	_		_	_	_	LemmaId=170120|OccId=4970146|Unsandhied=mā
+4	pāśāt	pāśa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=94501|OccId=4970145|Unsandhied=pāśāt
+5	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4970146|Unsandhied=mā
 6	moci	muc	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157281|OccId=4970147|Unsandhied=moci|Punctuation=fullStop
 

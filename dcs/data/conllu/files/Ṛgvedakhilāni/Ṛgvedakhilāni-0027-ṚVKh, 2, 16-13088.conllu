@@ -2,33 +2,33 @@
 ## text_id: 497
 ## chapter: ṚVKh, 2, 16
 ## chapter_id: 13088
-# text = upapravada maṇḍūki varṣam āvada tāduri
-# sent_id = 638437
-# sent_counter = 1
-# sent_subcounter = 1
-1	upapravada	upapravad	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=160477|OccId=5108229|Unsandhied=upapravada
-2	maṇḍūki	maṇḍūkī	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	_	_	_	LemmaId=27126|OccId=5108230|Unsandhied=maṇḍūki|Punctuation=fullStop
-3	varṣam	varṣa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=74765|OccId=5108231|Unsandhied=varṣam
-4	āvada	āvad	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=159929|OccId=5108232|Unsandhied=āvada
-5	tāduri	tādurī	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	_	_	_	LemmaId=97054|OccId=5108233|Unsandhied=tāduri|Punctuation=fullStop
+# text = upapravada maṇḍūki
+# sent_id = 640006_1
+1	upapravada	upapravad	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=160477|OccId=5108229|Unsandhied=upapravada|Annotator=Ol
+2	maṇḍūki	maṇḍūkī	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	1	vocative	_	LemmaId=27126|OccId=5108230|Unsandhied=maṇḍūki|Annotator=Ol|Punctuation=fullStop
+
+# text = varṣam āvada tāduri
+# sent_id = 640006_2
+1	varṣam	varṣa	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	LemmaId=74765|OccId=5108231|Unsandhied=varṣam|Annotator=Ol
+2	āvada	āvad	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=159929|OccId=5108232|Unsandhied=āvada|Annotator=Ol
+3	tāduri	tādurī	NOUN	_	Case=Voc|Gender=Fem|Number=Sing	2	vocative	_	LemmaId=97054|OccId=5108233|Unsandhied=tāduri|Annotator=Ol|Punctuation=fullStop
 
 # text = madhye hradasya plavasva nigṛhya caturaḥ padaḥ
-# sent_id = 638438
-# sent_counter = 1
-# sent_subcounter = 2
-1	madhye	madhya	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=35810|OccId=5108234|Unsandhied=madhye
-2	hradasya	hrada	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=57237|OccId=5108235|Unsandhied=hradasya
-3	plavasva	plu	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157926|OccId=5108236|Unsandhied=plavasva
-4	nigṛhya	nigrah	VERB	_	VerbForm=Conv	_	_	_	LemmaId=161275|OccId=5108237|Unsandhied=nigṛhya
-5	caturaḥ	catur	NUM	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=163231|OccId=5108238|Unsandhied=caturaḥ
-6	padaḥ	pad	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=171474|OccId=5108239|Unsandhied=padaḥ|Punctuation=fullStop
+# sent_id = 640007_1
+1	madhye	madhya	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	3	obl:loc	_	LemmaId=35810|OccId=5108234|Unsandhied=madhye|Annotator=Ol
+2	hradasya	hrada	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	LemmaId=57237|OccId=5108235|Unsandhied=hradasya|Annotator=Ol
+3	plavasva	plu	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=157926|OccId=5108236|Unsandhied=plavasva|Annotator=Ol
+4	nigṛhya	nigrah	VERB	_	VerbForm=Conv	3	advcl	_	LemmaId=161275|OccId=5108237|Unsandhied=nigṛhya|Annotator=Ol
+5	caturaḥ	catur	NUM	_	Case=Acc|Gender=Masc|Number=Plur	6	nummod	_	LemmaId=163231|OccId=5108238|Unsandhied=caturaḥ|Annotator=Ol
+6	padaḥ	pad	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	4	obj	_	LemmaId=171474|OccId=5108239|Unsandhied=padaḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = indrāsomā tapataṃ rakṣa ubjatam
-# sent_id = 638439
-# sent_counter = 1
-# sent_subcounter = 3
-1	indrāsomā	indrāsoma	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	_	_	_	LemmaId=63645|OccId=5108240|Unsandhied=indrāsomā
-2	tapataṃ	tap	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	_	_	_	LemmaId=157174|OccId=5108241|Unsandhied=tapatam|Punctuation=fullStop
-3	rakṣa	rakṣas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=65418|OccId=5108242|Unsandhied=rakṣaḥ
-4	ubjatam	ubj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	_	_	_	LemmaId=156144|OccId=5108243|Unsandhied=ubjatam|Punctuation=fullStop
+# text = indrāsomā tapatam
+# sent_id = 640008_1
+1	indrāsomā	indrāsoma	NOUN	_	Case=Voc|Gender=Masc|Number=Dual	2	vocative	_	LemmaId=63645|OccId=5108240|Unsandhied=indrāsomā|Annotator=Ol
+2	tapatam	tap	VERB	_	Mood=Imp|Number=Dual|Person=2|Tense=Pres	0	root	_	LemmaId=157174|OccId=5108241|Unsandhied=tapatam|Annotator=Ol|Punctuation=fullStop
+
+# text = rakṣaḥ ubjatam
+# sent_id = 640008_2
+1	rakṣaḥ	rakṣas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=65418|OccId=5108242|Unsandhied=rakṣaḥ|Annotator=Ol
+2	ubjatam	ubj	VERB	_	Mood=Imp|Number=Dual|Person=2|Tense=Pres	0	root	_	LemmaId=156144|OccId=5108243|Unsandhied=ubjatam|Annotator=Ol|Punctuation=fullStop
 

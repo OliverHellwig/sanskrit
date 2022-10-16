@@ -1,0 +1,96 @@
+## text: Ṛgveda
+## text_id: 450
+## chapter: ṚV, 9, 55
+## chapter_id: 11023
+# text = yavaṃ yavaṃ no andhasā puṣṭaṃ puṣṭaṃ pari srava
+# sent_id = 592340
+# sent_counter = 1
+# sent_subcounter = 1
+1	yavaṃ	yava	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	8	obj	_	LemmaId=74014|OccId=4657121|Unsandhied=yavam
+2	yavaṃ	yava	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	conj	_	LemmaId=74014|OccId=4657122|Unsandhied=yavam
+3	no	mad	PRON	_	Case=Dat|Number=Plur	8	iobj	_	LemmaId=37879|OccId=4657123|Unsandhied=naḥ
+4	andhasā	andhas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	8	obl	_	LemmaId=20369|OccId=4657124|Unsandhied=andhasā
+5	puṣṭaṃ	puṣṭa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	conj	_	LemmaId=145419|OccId=4657125|Unsandhied=puṣṭam
+6	puṣṭaṃ	puṣṭa	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	conj	_	LemmaId=145419|OccId=4657126|Unsandhied=puṣṭam
+7	pari	pari	ADV	_		8	advmod	_	LemmaId=170864|OccId=4657127|Unsandhied=pari
+8	srava	sru	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=157552|OccId=4657128|Unsandhied=srava
+
+
+# text = soma viśvā ca saubhagā
+# sent_id = 592341
+# sent_counter = 1
+# sent_subcounter = 2
+1	soma	soma	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	LemmaId=100106|OccId=4657129|Unsandhied=soma
+2	viśvā	viśva	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	4	det	_	LemmaId=139262|OccId=4657130|Unsandhied=viśvā
+3	ca	ca	CCONJ	_		4	cc	_	LemmaId=157144|OccId=4657131|Unsandhied=ca
+4	saubhagā	saubhaga	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	0	root	_	LemmaId=101661|OccId=4657132|Unsandhied=saubhagā|Punctuation=fullStop
+
+
+# text = yathā tava stavaḥ yathā te jātam andhasaḥ ni barhiṣi priye sadaḥ
+# sent_id = 592343_1
+# layer=1-RV
+# citation_text=ṚV
+# citation_chapter=9, 55
+1	yathā	yathā	PART	_	_	2	mark	_	LemmaId=73250|OccId=4657134|Unsandhied=yathā|Annotator=Er
+2	tava	tvad	PRON	_	Case=Gen|Number=Sing	11	advcl:manner	_	LemmaId=37880|OccId=4657135|Unsandhied=tava|Annotator=Er
+3	stavaḥ	stava	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	LemmaId=102375|OccId=4657136|Unsandhied=stavaḥ|Annotator=Er|Punctuation=comma
+4	yathā	yathā	PART	_	_	6	mark	_	LemmaId=73250|OccId=4657137|Unsandhied=yathā|Annotator=Er
+5	te	tvad	PRON	_	Case=Gen|Number=Sing	7	nmod:sim	_	LemmaId=37880|OccId=4657138|Unsandhied=te|Annotator=Er
+6	jātam	jāta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	11	advcl:manner	_	LemmaId=88547|OccId=4657139|Unsandhied=jātam|Annotator=Er
+7	andhasaḥ	andhas	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	6	obl:source	_	LemmaId=20369|OccId=4657140|Unsandhied=andhasaḥ|Annotator=Er|Punctuation=comma
+8	ni	ni	ADV	_	_	11	advmod:sim	_	LemmaId=216732|OccId=4657141|Unsandhied=ni|Annotator=Er
+9	barhiṣi	barhis	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	11	obl:loc	_	LemmaId=154308|OccId=4657142|Unsandhied=barhiṣi|Annotator=Er
+10	priye	priya	ADJ	_	Case=Loc|Gender=Neut|Number=Sing	9	amod:sim	_	LemmaId=153185|OccId=4657143|Unsandhied=priye|Annotator=Er
+11	sadaḥ	sad	VERB	_	Mood=Jus|Number=Sing|Person=2|Tense=Past	0	root	_	LemmaId=157285|OccId=4657144|Unsandhied=sadaḥ|Annotator=Er|Punctuation=fullStop
+
+
+# text = uta no govid aśvavit pavasva somāndhasā
+# sent_id = 592344
+# sent_counter = 3
+# sent_subcounter = 1
+1	uta	uta	CCONJ	_		7	cc	_	LemmaId=55443|OccId=4657145|Unsandhied=uta
+2	no	mad	PRON	_	Case=Dat|Number=Plur	7	obl	_	LemmaId=37879|OccId=4657146|Unsandhied=naḥ
+3-4	govid	_	_	_	_	_	_	_	_
+3	_	go	NOUN	_	Case=Cpd	4	obj	_	LemmaId=166386|OccId=4657147|Unsandhied=go
+4	_	vid	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	7	advcl	_	LemmaId=212350|OccId=4657148|Unsandhied=vid
+5-6	aśvavit	_	_	_	_	_	_	_	_
+5	_	aśva	NOUN	_	Case=Cpd	6	obj	_	LemmaId=60200|OccId=4657149|Unsandhied=aśva
+6	_	vid	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	LemmaId=212350|OccId=4657150|Unsandhied=vid
+7	pavasva	pū	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=157392|OccId=4657151|Unsandhied=pavasva
+8-9	somāndhasā	_	_	_	_	_	_	_	_
+8	_	soma	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	LemmaId=100106|OccId=4657152|Unsandhied=soma
+9	_	andhas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	obl	_	LemmaId=20369|OccId=4657153|Unsandhied=andhasā
+
+
+# text = makṣūtamebhir ahabhiḥ
+# sent_id = 592345
+# sent_counter = 3
+# sent_subcounter = 2
+1	makṣūtamebhir	makṣūtama	ADJ	_	Case=Ins|Gender=Neut|Number=Plur	0	root	_	LemmaId=26550|OccId=4657154|Unsandhied=makṣūtamebhiḥ|WordSem=67360
+2	ahabhiḥ	aha	NOUN	_	Case=Ins|Gender=Neut|Number=Plur	1	conj	_	LemmaId=203023|OccId=4657155|Unsandhied=ahabhiḥ|Punctuation=fullStop|WordSem=65905
+
+
+# text = yo jināti na jīyate hanti śatrum abhītya
+# sent_id = 592346
+# sent_counter = 4
+# sent_subcounter = 1
+1	yo	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	LemmaId=37877|OccId=4657156|Unsandhied=yaḥ
+2	jināti	jyā	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	5	advcl	_	LemmaId=157152|OccId=4955670|Unsandhied=jināti|Punctuation=comma
+3	na	na	PART	_		4	advmod	_	LemmaId=43432|OccId=4657158|Unsandhied=na
+4	jīyate	ji	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	2	conj	_	LemmaId=156588|OccId=4657159|Unsandhied=jīyate|Punctuation=comma
+5	hanti	han	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	0	root	_	LemmaId=157282|OccId=4657160|Unsandhied=hanti
+6	śatrum	śatru	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	LemmaId=115509|OccId=4657161|Unsandhied=śatrum
+7	abhītya	abhī	VERB	_	VerbForm=Conv	5	advcl	_	LemmaId=159226|OccId=4657162|Unsandhied=abhītya|Punctuation=comma
+
+
+# text = sa pavasva sahasrajit
+# sent_id = 592347
+# sent_counter = 4
+# sent_subcounter = 2
+1	sa	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	2	advcl	_	LemmaId=37875|OccId=4657163|Unsandhied=sa
+2	pavasva	pū	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	0	root	_	LemmaId=157392|OccId=4657164|Unsandhied=pavasva
+3-4	sahasrajit	_	_	_	_	_	_	_	_
+3	_	sahasra	NUM	_	Case=Cpd	4	obj	_	LemmaId=111378|OccId=4657165|Unsandhied=sahasra
+4	_	jit	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	2	vocative	_	LemmaId=88935|OccId=4657166|Unsandhied=jit|Punctuation=fullStop
+
+
