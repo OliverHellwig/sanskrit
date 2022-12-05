@@ -298,7 +298,7 @@
 4	chidyate	chid	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=156265|OccId=957777|Unsandhied=chidyate|WordSem=95292
 5	tu	tu	PART	_		_	_	_	LemmaId=82701|OccId=957778|Unsandhied=tu|UnsandhiedReconstructed=True
 6	dvidhā	dvidhā	ADV	_		_	_	_	LemmaId=91044|OccId=957779|Unsandhied=dvidhā|UnsandhiedReconstructed=True|WordSem=99925
-7	nṛṇām	nṛ	NOUN	_	Case=Gen|Number=Plur	_	_	_	LemmaId=169021|OccId=957780|Unsandhied=nṛṇām|UnsandhiedReconstructed=True|WordSem=46592
+7	nṛṇām	nṛ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=169021|OccId=957780|Unsandhied=nṝṇām|UnsandhiedReconstructed=True|WordSem=46592
 
 # text = doṣato vābhighātādvā saṃdhānaṃ tasya me śṛṇu
 # sent_id = 1550
@@ -938,13 +938,14 @@
 # sent_id = 1578
 # sent_counter = 19
 # sent_subcounter = 1
-1-5	athāsyāpraduṣṭasyābhivardhanārtham	_	_	_	_	_	_	_	_
-1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=958307|Unsandhied=atha|UnsandhiedReconstructed=True
-2	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=958308|Unsandhied=asya|UnsandhiedReconstructed=True
-3	apraduṣṭasya	apraduṣṭa	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=199797|OccId=958309|Unsandhied=apraduṣṭasya|UnsandhiedReconstructed=True|WordSem=70076
-4	abhivardhana	abhivardhana	NOUN	_	Case=Cpd	_	_	_	LemmaId=172516|OccId=958310|Unsandhied=abhivardhana|UnsandhiedReconstructed=True|WordSem=58836
-5	artham	artha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=958311|Unsandhied=artham|UnsandhiedReconstructed=True|WordSem=28746
-6	abhyaṅgaḥ	abhyaṅga	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=31306|OccId=958291|Unsandhied=abhyaṅgaḥ|UnsandhiedReconstructed=True|WordSem=128498
+1-6	athāsyāpraduṣṭasyābhivardhanārtham	_	_	_	_	_	_	_	_
+1	atha	atha	ADV	_		_	_	_	LemmaId=7467|OccId=5503626|Unsandhied=atha
+2	asya	idam	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=5503627|Unsandhied=asya
+3	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5503628|Unsandhied=a
+4	praduṣṭasya	praduṣ	VERB	_	Case=Gen|Gender=Masc|Number=Sing|VerbForm=Part	_	_	_	LemmaId=162881|OccId=5503629|Unsandhied=praduṣṭasya
+5	abhivardhana	abhivardhana	NOUN	_	Case=Cpd	_	_	_	LemmaId=172516|OccId=5503630|Unsandhied=abhivardhana
+6	artham	artha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=53136|OccId=5503631|Unsandhied=artham
+7	abhyaṅgaḥ	abhyaṅga	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=31306|OccId=958291|Unsandhied=abhyaṅgaḥ|UnsandhiedReconstructed=True|WordSem=128498
 
 # text = tadyathā godhāpratudaviṣkirānūpaudakavasāmajjānau payaḥ sarpistailaṃ gaurasarṣapajaṃ ca yathālābhaṃ saṃbhṛtyārkālarkabalātibalānantāpāmārgāśvagandhāvidārigandhākṣīraśuklājalaśūkamadhuravargapayasyāprativāpaṃ tailaṃ vā pācayitvā svanuguptaṃ nidadhyāt
 # sent_id = 1579

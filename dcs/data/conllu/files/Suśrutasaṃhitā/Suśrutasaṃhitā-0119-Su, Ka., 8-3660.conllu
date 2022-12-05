@@ -1226,9 +1226,11 @@
 1	utkārikā	utkārikā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=55547|OccId=1427348|Unsandhied=utkārikā|UnsandhiedReconstructed=True
 2	sthirādau	sthirādi	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=203308|OccId=1427563|Unsandhied=sthirādau|UnsandhiedReconstructed=True
 3	vā	vā	CONJ	_		_	_	_	LemmaId=75765|OccId=1427349|Unsandhied=vā|UnsandhiedReconstructed=True
-4	sukṛtā	sukṛta	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=106746|OccId=1427350|Unsandhied=sukṛtā|UnsandhiedReconstructed=True
-5	svedane	svedana	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=121818|OccId=1427351|Unsandhied=svedane|UnsandhiedReconstructed=True
-6	hitā	hita	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=109983|OccId=1427352|Unsandhied=hitā|UnsandhiedReconstructed=True
+4-5	sukṛtā	_	_	_	_	_	_	_	_
+4	su	su	ADV	_		_	_	_	LemmaId=204329|OccId=5517452|Unsandhied=su
+5	kṛtā	kṛ	VERB	_	Case=Nom|Gender=Fem|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156168|OccId=5517453|Unsandhied=kṛtā
+6	svedane	svedana	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=121818|OccId=1427351|Unsandhied=svedane|UnsandhiedReconstructed=True
+7	hitā	hita	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=109983|OccId=1427352|Unsandhied=hitā|UnsandhiedReconstructed=True
 
 # text = na svedayeta cādaṃśaṃ dhūmaṃ vakṣyāmi vṛścike
 # sent_id = 11434
@@ -2132,7 +2134,7 @@
 2-3	cāpi	_	_	_	_	_	_	_	_
 2	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1427825|Unsandhied=ca|UnsandhiedReconstructed=True
 3	api	api	PART	_		_	_	_	LemmaId=21365|OccId=1427826|Unsandhied=api|UnsandhiedReconstructed=True
-4	bhiṣagbhir	bhiṣaj	NOUN	_	Case=Ins|Number=Plur	_	_	_	LemmaId=50269|OccId=1427827|Unsandhied=_
+4	bhiṣagbhir	bhiṣaj	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=50269|OccId=1427827|Unsandhied=_
 5-6	mandabuddhibhiḥ	_	_	_	_	_	_	_	_
 5	manda	manda	ADJ	_	Case=Cpd	_	_	_	LemmaId=36632|OccId=1427828|Unsandhied=manda|UnsandhiedReconstructed=True
 6	buddhibhiḥ	buddhi	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=148382|OccId=1427829|Unsandhied=buddhibhiḥ|UnsandhiedReconstructed=True
@@ -2205,14 +2207,16 @@
 # sent_id = 11500
 # sent_counter = 78
 # sent_subcounter = 2
-1	ajñātvā	ajñātvā	ADV	_		_	_	_	LemmaId=6616|OccId=1427862|Unsandhied=ajñātvā|UnsandhiedReconstructed=True
-2-3	viṣasadbhāvaṃ	_	_	_	_	_	_	_	_
-2	viṣa	viṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=139407|OccId=1427863|Unsandhied=viṣa|UnsandhiedReconstructed=True
-3	sadbhāvam	sadbhāva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=16913|OccId=1427864|Unsandhied=sadbhāvam|UnsandhiedReconstructed=True
-4-6	bhiṣagvyāpādayennaram	_	_	_	_	_	_	_	_
-4	bhiṣaj	bhiṣaj	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=50269|OccId=1427865|Unsandhied=bhiṣaj|UnsandhiedReconstructed=True
-5	vyāpādayet	vyāpāday	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=164634|OccId=1427866|Unsandhied=vyāpādayet
-6	naram	nara	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=44242|OccId=1427867|Unsandhied=naram|UnsandhiedReconstructed=True
+1-2	ajñātvā	_	_	_	_	_	_	_	_
+1	a	a	PART	_		_	_	_	LemmaId=213048|OccId=5504796|Unsandhied=a
+2	jñātvā	jñā	VERB	_	VerbForm=Conv	_	_	_	LemmaId=157151|OccId=5504797|Unsandhied=jñātvā
+3-4	viṣasadbhāvaṃ	_	_	_	_	_	_	_	_
+3	viṣa	viṣa	NOUN	_	Case=Cpd	_	_	_	LemmaId=139407|OccId=1427863|Unsandhied=viṣa|UnsandhiedReconstructed=True
+4	sadbhāvam	sadbhāva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=16913|OccId=1427864|Unsandhied=sadbhāvam|UnsandhiedReconstructed=True
+5-7	bhiṣagvyāpādayennaram	_	_	_	_	_	_	_	_
+5	bhiṣaj	bhiṣaj	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=50269|OccId=1427865|Unsandhied=bhiṣaj|UnsandhiedReconstructed=True
+6	vyāpādayet	vyāpāday	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=164634|OccId=1427866|Unsandhied=vyāpādayet
+7	naram	nara	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=44242|OccId=1427867|Unsandhied=naram|UnsandhiedReconstructed=True
 
 # text = prodbhidyamānastu yathāṅkureṇa na vyaktajātiḥ pravibhāti vṛkṣaḥ
 # sent_id = 11501
@@ -3247,7 +3251,7 @@
 2	eva	eva	PART	_		_	_	_	LemmaId=39754|OccId=1428411|Unsandhied=eva|UnsandhiedReconstructed=True
 3	arjuna	arjuna	NOUN	_	Case=Cpd	_	_	_	LemmaId=53077|OccId=1428412|Unsandhied=arjuna|UnsandhiedReconstructed=True
 4	śelubhyām	śelu	NOUN	_	Case=Ins|Gender=Neut|Number=Dual	_	_	_	LemmaId=126728|OccId=1428413|Unsandhied=śelubhyām|UnsandhiedReconstructed=True
-5	tvagbhir	tvac	NOUN	_	Case=Ins|Number=Plur	_	_	_	LemmaId=100456|OccId=1428414|Unsandhied=_
+5	tvagbhir	tvac	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=100456|OccId=1428414|Unsandhied=tvagbhiḥ|UnsandhiedReconstructed=True
 6	āmrātakasya	āmrātaka	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=59101|OccId=1428415|Unsandhied=āmrātakasya|UnsandhiedReconstructed=True
 7	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=1428416|Unsandhied=ca|UnsandhiedReconstructed=True
 

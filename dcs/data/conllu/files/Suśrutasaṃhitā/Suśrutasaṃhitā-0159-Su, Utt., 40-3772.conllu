@@ -101,7 +101,7 @@
 # sent_id = 14186
 # sent_counter = 5
 # sent_subcounter = 2
-1	nṛṇāṃ	nṛ	NOUN	_	Case=Gen|Number=Plur	_	_	_	LemmaId=169021|OccId=1484873|Unsandhied=nṛṇām|UnsandhiedReconstructed=True
+1	nṛṇāṃ	nṛ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=169021|OccId=1484873|Unsandhied=nṝṇām|UnsandhiedReconstructed=True
 2-3	bhavatyatīsāro	_	_	_	_	_	_	_	_
 2	bhavati	bhū	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157250|OccId=1484874|Unsandhied=bhavati
 3	atīsāraḥ	atīsāra	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=7314|OccId=1484875|Unsandhied=atīsāraḥ|UnsandhiedReconstructed=True
@@ -860,7 +860,7 @@
 4	na	na	PART	_		_	_	_	LemmaId=43432|OccId=1485326|Unsandhied=na|UnsandhiedReconstructed=True
 5	ādau	ādi	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=57973|OccId=1485327|Unsandhied=ādau|UnsandhiedReconstructed=True
 6	saṃgrahaṇaṃ	saṃgrahaṇa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=9026|OccId=1485328|Unsandhied=saṃgrahaṇam|UnsandhiedReconstructed=True
-7	nṛṇām	nṛ	NOUN	_	Case=Gen|Number=Plur	_	_	_	LemmaId=169021|OccId=1485329|Unsandhied=nṛṇām|UnsandhiedReconstructed=True
+7	nṛṇām	nṛ	NOUN	_	Case=Gen|Gender=Masc|Number=Plur	_	_	_	LemmaId=169021|OccId=1485329|Unsandhied=nṝṇām|UnsandhiedReconstructed=True
 
 # text = teṣāṃ doṣā vibaddhāḥ prāgjanayantyāmayānimān
 # sent_id = 14234
@@ -2271,17 +2271,19 @@
 6	sūtreṇa	sūtra	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=99128|OccId=1486060|Unsandhied=sūtreṇa|UnsandhiedReconstructed=True
 7	saṃdṛḍham	saṃdṛh	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=203776|OccId=1486161|Unsandhied=saṃdṛḍham|UnsandhiedReconstructed=True
 
-# text = mṛdāvaliptaṃ sukṛtamaṅgāreṣvavakūlayet
+# text = mṛdāvaliptaṃ sukṛtam aṅgāreṣvavakūlayet
 # sent_id = 14341
 # sent_counter = 82
 # sent_subcounter = 2
 1-2	mṛdāvaliptaṃ	_	_	_	_	_	_	_	_
 1	mṛdā	mṛd	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=137099|OccId=1486061|Unsandhied=mṛdā|UnsandhiedReconstructed=True
 2	avaliptam	avalip	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=159618|OccId=1486062|Unsandhied=avaliptam|UnsandhiedReconstructed=True
-3-5	sukṛtamaṅgāreṣvavakūlayet	_	_	_	_	_	_	_	_
-3	sukṛtam	sukṛta	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=106746|OccId=1486063|Unsandhied=sukṛtam|UnsandhiedReconstructed=True
-4	aṅgāreṣu	aṅgāra	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=6231|OccId=1486064|Unsandhied=aṅgāreṣu|UnsandhiedReconstructed=True
-5	avakūlayet	avakūlay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159432|OccId=1486065|Unsandhied=avakūlayet
+3-4	sukṛtam	_	_	_	_	_	_	_	_
+3	su	su	ADV	_		_	_	_	LemmaId=204329|OccId=5517444|Unsandhied=su
+4	kṛtam	kṛ	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=156168|OccId=5517445|Unsandhied=kṛtam
+5-6	aṅgāreṣvavakūlayet	_	_	_	_	_	_	_	_
+5	aṅgāreṣu	aṅgāra	NOUN	_	Case=Loc|Gender=Masc|Number=Plur	_	_	_	LemmaId=6231|OccId=5517446|Unsandhied=aṅgāreṣu
+6	avakūlayet	avakūlay	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=159432|OccId=5517447|Unsandhied=avakūlayet
 
 # text = svinnamuddhṛtya niṣpīḍya rasamādāya taṃ tataḥ
 # sent_id = 14342
@@ -3641,7 +3643,7 @@
 4	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=1489562|Unsandhied=yaḥ|UnsandhiedReconstructed=True
 5	sāryate	sāray	VERB	_	Tense=Pres|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157520|OccId=1489563|Unsandhied=sāryate
 6	phenilaṃ	phenila	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=154173|OccId=1489564|Unsandhied=phenilam|UnsandhiedReconstructed=True
-7	śakṛt	śakṛt	NOUN	_	Case=Nom|Number=Sing	_	_	_	LemmaId=115045|OccId=1489713|Unsandhied=_
+7	śakṛt	śakṛt	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=115045|OccId=1489713|Unsandhied=śakṛt|UnsandhiedReconstructed=True
 
 # text = sa pibet phāṇitaṃ śuṇṭhīdadhitailapayoghṛtam
 # sent_id = 14441
