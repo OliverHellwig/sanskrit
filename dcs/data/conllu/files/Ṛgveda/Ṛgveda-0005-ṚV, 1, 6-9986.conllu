@@ -3,7 +3,7 @@
 ## chapter: ṚV, 1, 6
 ## chapter_id: 9986
 # text = yuñjanti bradhnam aruṣaṃ carantam pari tasthuṣaḥ
-# sent_id = 577270
+# sent_id = 581546
 # sent_counter = 1
 # sent_subcounter = 1
 1	yuñjanti	yuj	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157298|OccId=4376260|Unsandhied=yuñjanti
@@ -14,7 +14,7 @@
 6	tasthuṣaḥ	sthā	VERB	_	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	_	_	_	LemmaId=157340|OccId=4376265|Unsandhied=tasthuṣaḥ|Punctuation=fullStop
 
 # text = rocante rocanā divi
-# sent_id = 577271
+# sent_id = 581547
 # sent_counter = 1
 # sent_subcounter = 2
 1	rocante	ruc	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157428|OccId=4376266|Unsandhied=rocante
@@ -22,7 +22,7 @@
 3	divi	div	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=168377|OccId=4376268|Unsandhied=divi|Punctuation=fullStop
 
 # text = yuñjanty asya kāmyā harī vipakṣasā rathe
-# sent_id = 577272
+# sent_id = 581548
 # sent_counter = 2
 # sent_subcounter = 1
 1	yuñjanty	yuj	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=157298|OccId=4376269|Unsandhied=yuñjanti
@@ -33,7 +33,7 @@
 6	rathe	ratha	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=66339|OccId=4376274|Unsandhied=rathe
 
 # text = śoṇā dhṛṣṇū nṛvāhasā
-# sent_id = 577273
+# sent_id = 581549
 # sent_counter = 2
 # sent_subcounter = 2
 1	śoṇā	śoṇa	ADJ	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=127795|OccId=4376275|Unsandhied=śoṇā
@@ -42,27 +42,20 @@
 3	nṛ	nṛ	NOUN	_	Case=Cpd	_	_	_	LemmaId=169021|OccId=4376277|Unsandhied=nṛ
 4	vāhasā	vāhas	ADJ	_	Case=Acc|Gender=Masc|Number=Dual	_	_	_	LemmaId=47149|OccId=4376278|Unsandhied=vāhasā|Punctuation=fullStop
 
-# text = ketuṃ kṛṇvann aketave peśo maryā apeśase
-# sent_id = 577274
-# sent_counter = 3
-# sent_subcounter = 1
-1	ketuṃ	ketu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=4406|OccId=4376279|Unsandhied=ketum
-2	kṛṇvann	kṛ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=156168|OccId=4376280|Unsandhied=kṛṇvan
-3	aketave	aketu	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=5338|OccId=4376281|Unsandhied=aketave|Punctuation=comma
-4	peśo	peśas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=150144|OccId=4376282|Unsandhied=peśaḥ|WordSem=589
-5	maryā	marya	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37187|OccId=4376283|Unsandhied=maryāḥ
-6	apeśase	apeśas	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=21510|OccId=4376284|Unsandhied=apeśase
-
-# text = sam uṣadbhir ajāyathāḥ
-# sent_id = 577275
-# sent_counter = 3
-# sent_subcounter = 2
-1	sam	sam	ADP	_		_	_	_	LemmaId=171323|OccId=4376285|Unsandhied=sam
-2	uṣadbhir	uṣas	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	_	_	_	LemmaId=169428|OccId=4376352|Unsandhied=uṣadbhiḥ
-3	ajāyathāḥ	jan	VERB	_	Tense=Impf|Mood=Ind|Person=2|Number=Sing	_	_	_	LemmaId=156584|OccId=4376286|Unsandhied=ajāyathāḥ|Punctuation=fullStop
+# text = ketum kṛṇvan aketave peśaḥ maryāḥ apeśase sam uṣadbhiḥ ajāyathāḥ
+# sent_id = 581551_1
+1	ketum	ketu	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	LemmaId=4406|OccId=4376279|Unsandhied=ketum|Annotator=Ol
+2	kṛṇvan	kṛ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	9	advcl	_	LemmaId=156168|OccId=4376280|Unsandhied=kṛṇvan|Annotator=Ol
+3	aketave	aketu	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	2	iobj	_	LemmaId=5338|OccId=4376281|Unsandhied=aketave|Annotator=Ol|Punctuation=comma
+4	peśaḥ	peśas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	conj	_	LemmaId=150144|OccId=4376282|Unsandhied=peśaḥ|Annotator=Ol|WordSem=589
+5	maryāḥ	marya	NOUN	_	Case=Voc|Gender=Masc|Number=Plur	4	orphan	_	LemmaId=37187|OccId=4376283|Unsandhied=maryāḥ|Annotator=Ol
+6	apeśase	apeśas	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	4	orphan	_	LemmaId=21510|OccId=4376284|Unsandhied=apeśase|Annotator=Ol
+7	sam	sam	ADP	_	_	9	advmod	_	LemmaId=171323|OccId=4376285|Unsandhied=sam|Annotator=Ol
+8	uṣadbhiḥ	uṣas	NOUN	_	Case=Ins|Gender=Fem|Number=Plur	9	obl:soc	_	LemmaId=169428|OccId=4376352|Unsandhied=uṣadbhiḥ|Annotator=Ol
+9	ajāyathāḥ	jan	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Past	0	root	_	LemmaId=156584|OccId=4376286|Unsandhied=ajāyathāḥ|Annotator=Ol|Punctuation=fullStop
 
 # text = ād aha svadhām anu punar garbhatvam erire
-# sent_id = 577276
+# sent_id = 581552
 # sent_counter = 4
 # sent_subcounter = 1
 1	ād	āt	ADV	_		_	_	_	LemmaId=218741|OccId=4376287|Unsandhied=āt
@@ -76,7 +69,7 @@
 8	erire	er	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Plur	_	_	_	LemmaId=219268|OccId=4376353|Unsandhied=erire
 
 # text = dadhānā nāma yajñiyam
-# sent_id = 577277
+# sent_id = 581553
 # sent_counter = 4
 # sent_subcounter = 2
 1	dadhānā	dhā	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157327|OccId=4376294|Unsandhied=dadhānāḥ
@@ -84,7 +77,7 @@
 3	yajñiyam	yajñiya	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=73160|OccId=4376296|Unsandhied=yajñiyam|Punctuation=fullStop
 
 # text = vīḍu cid ārujatnubhir guhā cid indra vahnibhiḥ
-# sent_id = 577278
+# sent_id = 581554
 # sent_counter = 5
 # sent_subcounter = 1
 1	vīḍu	vīḍu	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=141514|OccId=4376354|Unsandhied=vīḍu|WordSem=73070
@@ -96,7 +89,7 @@
 7	vahnibhiḥ	vahni	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=75677|OccId=4376302|Unsandhied=vahnibhiḥ
 
 # text = avinda usriyā anu
-# sent_id = 577279
+# sent_id = 581555
 # sent_counter = 5
 # sent_subcounter = 2
 1	avinda	vid	VERB	_	Tense=Impf|Mood=Ind|Person=2|Number=Sing	_	_	_	LemmaId=157306|OccId=4376303|Unsandhied=avindaḥ
@@ -104,7 +97,7 @@
 3	anu	anu	ADP	_		_	_	_	LemmaId=166836|OccId=4376305|Unsandhied=anu|Punctuation=fullStop
 
 # text = devayantaḥ yathā matim acchā vidadvasum giraḥ mahām anūṣata śrutam
-# sent_id = 577281_1
+# sent_id = 581557_1
 1	devayantaḥ	devay	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	8	advcl:manner	_	LemmaId=161099|OccId=4376306|Unsandhied=devayantaḥ|Annotator=Er
 2	yathā	yathā	PART	_	_	1	mark:sim	_	LemmaId=73250|OccId=4376307|Unsandhied=yathā|Annotator=Er
 3	matim	mati	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	1	orphan	_	LemmaId=36010|OccId=4376308|Unsandhied=matim|Annotator=Er
@@ -116,7 +109,7 @@
 9	śrutam	śruta	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	7	conj	_	LemmaId=40756|OccId=4376314|Unsandhied=śrutam|Annotator=Er|Punctuation=fullStop
 
 # text = indreṇa saṃ hi dṛkṣase saṃjagmāno abibhyuṣā
-# sent_id = 577282
+# sent_id = 581558
 # sent_counter = 7
 # sent_subcounter = 1
 1	indreṇa	indra	NOUN	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=4376315|Unsandhied=indreṇa
@@ -129,7 +122,7 @@
 7	bibhyuṣā	bhī	VERB	_	Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	_	_	_	LemmaId=159469|OccId=4376358|Unsandhied=bibhyuṣā
 
 # text = mandū samānavarcasā
-# sent_id = 577283
+# sent_id = 581559
 # sent_counter = 7
 # sent_subcounter = 2
 1	mandū	mandu	ADJ	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=36617|OccId=4376318|Unsandhied=mandū
@@ -138,7 +131,7 @@
 3	varcasā	varcas	NOUN	_	Case=Nom|Gender=Masc|Number=Dual	_	_	_	LemmaId=69437|OccId=4376320|Unsandhied=varcasā|Punctuation=fullStop
 
 # text = anavadyair abhidyubhir makhaḥ sahasvad arcati
-# sent_id = 577284
+# sent_id = 581560
 # sent_counter = 8
 # sent_subcounter = 1
 1	anavadyair	anavadya	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=10103|OccId=4376321|Unsandhied=anavadyaiḥ
@@ -148,7 +141,7 @@
 5	arcati	arc	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=156117|OccId=4376325|Unsandhied=arcati|WordSem=92106
 
 # text = gaṇair indrasya kāmyaiḥ
-# sent_id = 577285
+# sent_id = 581561
 # sent_counter = 8
 # sent_subcounter = 2
 1	gaṇair	gaṇa	NOUN	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=129336|OccId=4376326|Unsandhied=gaṇaiḥ
@@ -156,7 +149,7 @@
 3	kāmyaiḥ	kāmya	ADJ	_	Case=Ins|Gender=Masc|Number=Plur	_	_	_	LemmaId=14021|OccId=4376328|Unsandhied=kāmyaiḥ|Punctuation=fullStop
 
 # text = ataḥ parijmann ā gahi divo vā rocanād adhi
-# sent_id = 577286
+# sent_id = 581562
 # sent_counter = 9
 # sent_subcounter = 1
 1	ataḥ	atas	ADV	_		_	_	_	LemmaId=6823|OccId=4376329|Unsandhied=atas
@@ -169,7 +162,7 @@
 8	adhi	adhi	ADP	_		_	_	_	LemmaId=170078|OccId=4376335|Unsandhied=adhi|Punctuation=fullStop
 
 # text = sam asminn ṛñjate giraḥ
-# sent_id = 577287
+# sent_id = 581563
 # sent_counter = 9
 # sent_subcounter = 2
 1	sam	sam	ADP	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=171323|OccId=4376336|Unsandhied=sam
@@ -178,7 +171,7 @@
 4	giraḥ	gir	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=123966|OccId=4376339|Unsandhied=giraḥ|Punctuation=fullStop
 
 # text = ito vā sātim īmahe divo vā pārthivād adhi
-# sent_id = 577288
+# sent_id = 581564
 # sent_counter = 10
 # sent_subcounter = 1
 1	ito	itas	ADV	_		_	_	_	LemmaId=63327|OccId=4376340|Unsandhied=itas
@@ -191,7 +184,7 @@
 8	adhi	adhi	ADP	_		_	_	_	LemmaId=170078|OccId=4376347|Unsandhied=adhi
 
 # text = indram maho vā rajasaḥ
-# sent_id = 577289
+# sent_id = 581565
 # sent_counter = 10
 # sent_subcounter = 2
 1	indram	indra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=4376348|Unsandhied=indram

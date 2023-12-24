@@ -3,96 +3,75 @@
 ## chapter: AVP, 1, 99
 ## chapter_id: 13288
 # text = apocchantī duṣvapnyam apa durhārdam ucchatam
-# sent_id = 625369
-# sent_counter = 1
-# sent_subcounter = 1
-1	apocchantī	apavas	VERB	_	Case=Nom|Gender=Fem|Number=Dual|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=158474|OccId=5142068|Unsandhied=apocchantī
-2	duṣvapnyam	duḥṣvapnya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=85060|OccId=5142015|Unsandhied=duṣvapnyam|Punctuation=comma
-3	apa	apa	ADP	_		_	_	_	LemmaId=216268|OccId=5142016|Unsandhied=apa
-4	durhārdam	durhārd	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=85801|OccId=5142017|Unsandhied=durhārdam
-5	ucchatam	vas	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Dual	_	_	_	LemmaId=158473|OccId=5142018|Unsandhied=ucchatam|Punctuation=fullStop
+# sent_id = 629645_1
+1	apocchantī	apavas	VERB	_	Case=Nom|Gender=Fem|Number=Dual|Tense=Pres|VerbForm=Part	5	advcl	_	LemmaId=158474|OccId=5142068|Unsandhied=apocchantī|Annotator=Ol
+2	duṣvapnyam	duḥṣvapnya	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	1	obj	_	LemmaId=85060|OccId=5142015|Unsandhied=duṣvapnyam|Annotator=Ol|Punctuation=comma
+3	apa	apa	ADP	_	_	5	advmod	_	LemmaId=216268|OccId=5142016|Unsandhied=apa|Annotator=Ol
+4	durhārdam	durhārd	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	5	obj	_	LemmaId=85801|OccId=5142017|Unsandhied=durhārdam|Annotator=Ol
+5	ucchatam	vas	VERB	_	Mood=Imp|Number=Dual|Person=2|Tense=Pres	0	root	_	LemmaId=158473|OccId=5142018|Unsandhied=ucchatam|Annotator=Ol|Punctuation=fullStop
 
-# text = apoṣṭaṃ sarvaṃ kṣetriyaṃ sarvāś ca yātudhānyaḥ
-# sent_id = 625370
-# sent_counter = 1
-# sent_subcounter = 2
-1-2	apoṣṭaṃ	_	_	_	_	_	_	_	_
-1	apa	apa	ADP	_		_	_	_	LemmaId=216268|OccId=5222355|Unsandhied=apa
-2	uṣṭam	vas	VERB	_	Case=Nom|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=158473|OccId=5222356|Unsandhied=uṣṭam
-3	sarvaṃ	sarva	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=104444|OccId=5142019|Unsandhied=sarvam
-4	kṣetriyaṃ	kṣetriya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=135604|OccId=5142020|Unsandhied=kṣetriyam
-5	sarvāś	sarva	PRON	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=104444|OccId=5142021|Unsandhied=sarvāḥ
-6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5142022|Unsandhied=ca
-7	yātudhānyaḥ	yātudhānī	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=171305|OccId=5142023|Unsandhied=yātudhānyaḥ|Punctuation=fullStop
+# text = apa uṣṭam sarvam kṣetriyam sarvāḥ ca yātudhānyaḥ
+# sent_id = 629646_1
+1	apa	apa	ADP	_	_	2	advmod	_	LemmaId=216268|OccId=5222355|Unsandhied=apa|Annotator=Ol
+2	uṣṭam	vas	VERB	_	Case=Nom|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	LemmaId=158473|OccId=5222356|Unsandhied=uṣṭam|Annotator=Ol
+3	sarvam	sarva	PRON	_	Case=Nom|Gender=Neut|Number=Sing	4	det	_	LemmaId=104444|OccId=5142019|Unsandhied=sarvam|Annotator=Ol
+4	kṣetriyam	kṣetriya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	LemmaId=135604|OccId=5142020|Unsandhied=kṣetriyam|Annotator=Ol
+5	sarvāḥ	sarva	PRON	_	Case=Nom|Gender=Fem|Number=Plur	7	det	_	LemmaId=104444|OccId=5142021|Unsandhied=sarvāḥ|Annotator=Ol
+6	ca	ca	CONJ	_	_	7	cc	_	LemmaId=157144|OccId=5142022|Unsandhied=ca|Annotator=Ol
+7	yātudhānyaḥ	yātudhānī	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	4	conj	_	LemmaId=171305|OccId=5142023|Unsandhied=yātudhānyaḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = ud agātāṃ bhagavatī vicṛtau nāma tārake
-# sent_id = 625371
-# sent_counter = 2
-# sent_subcounter = 1
-1	ud	ud	ADP	_		_	_	_	LemmaId=214859|OccId=5142024|Unsandhied=ud
-2	agātāṃ	gā	VERB	_	Tense=Past|Mood=Ind|Formation=root|Person=3|Number=Dual	_	_	_	LemmaId=156219|OccId=5142025|Unsandhied=agātām
-3	bhagavatī	bhagavat	ADJ	_	Case=Nom|Gender=Fem|Number=Dual	_	_	_	LemmaId=48482|OccId=5142026|Unsandhied=bhagavatī
-4	vicṛtau	vicṛt	NOUN	_	Case=Nom|Gender=Fem|Number=Dual	_	_	_	LemmaId=48095|OccId=5142027|Unsandhied=vicṛtau
-5	nāma	nāma	ADV	_		_	_	_	LemmaId=33528|OccId=5142028|Unsandhied=nāma
-6	tārake	tārakā	NOUN	_	Case=Nom|Gender=Fem|Number=Dual	_	_	_	LemmaId=97357|OccId=5142029|Unsandhied=tārake|Punctuation=fullStop
+# text = ud agātām bhagavatī vicṛtau nāma tārake
+# sent_id = 629647_1
+1	ud	ud	ADP	_	_	2	advmod	_	LemmaId=214859|OccId=5142024|Unsandhied=ud|Annotator=Ol
+2	agātām	gā	VERB	_	Mood=Ind|Number=Dual|Person=3|Tense=Past	0	root	_	LemmaId=156219|OccId=5142025|Unsandhied=agātām|Annotator=Ol
+3	bhagavatī	bhagavat	ADJ	_	Case=Nom|Gender=Fem|Number=Dual	6	amod	_	LemmaId=48482|OccId=5142026|Unsandhied=bhagavatī|Annotator=Ol
+4	vicṛtau	vicṛt	NOUN	_	Case=Nom|Gender=Fem|Number=Dual	6	nmod:appos	_	LemmaId=48095|OccId=5142027|Unsandhied=vicṛtau|Annotator=Ol
+5	nāma	nāma	ADV	_	_	4	advmod	_	LemmaId=33528|OccId=5142028|Unsandhied=nāma|Annotator=Ol
+6	tārake	tārakā	NOUN	_	Case=Nom|Gender=Fem|Number=Dual	2	nsubj	_	LemmaId=97357|OccId=5142029|Unsandhied=tārake|Annotator=Ol|Punctuation=fullStop
 
-# text = vi kṣetriyasya muñcatāṃ saṃgranthiṃ hṛdayasya ca
-# sent_id = 625372
-# sent_counter = 2
-# sent_subcounter = 2
-1	vi	vi	ADP	_		_	_	_	LemmaId=216733|OccId=5142030|Unsandhied=vi
-2	kṣetriyasya	kṣetriya	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=135604|OccId=5142031|Unsandhied=kṣetriyasya
-3	muñcatāṃ	muc	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Dual	_	_	_	LemmaId=157281|OccId=5142032|Unsandhied=muñcatām
-4	saṃgranthiṃ	saṃgranthi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=223764|OccId=5222357|Unsandhied=saṃgranthim
-5	hṛdayasya	hṛdaya	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=110583|OccId=5142033|Unsandhied=hṛdayasya
-6	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5142034|Unsandhied=ca|Punctuation=fullStop
+# text = vi kṣetriyasya muñcatām saṃgranthim hṛdayasya ca
+# sent_id = 629648_1
+1	vi	vi	ADP	_	_	3	advmod	_	LemmaId=216733|OccId=5142030|Unsandhied=vi|Annotator=Ol
+2	kṣetriyasya	kṣetriya	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	LemmaId=135604|OccId=5142031|Unsandhied=kṣetriyasya|Annotator=Ol
+3	muñcatām	muc	VERB	_	Mood=Imp|Number=Dual|Person=3|Tense=Pres	0	root	_	LemmaId=157281|OccId=5142032|Unsandhied=muñcatām|Annotator=Ol
+4	saṃgranthim	saṃgranthi	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	3	obj	_	LemmaId=223764|OccId=5222357|Unsandhied=saṃgranthim|Annotator=Ol
+5	hṛdayasya	hṛdaya	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	2	conj	_	LemmaId=110583|OccId=5142033|Unsandhied=hṛdayasya|Annotator=Ol
+6	ca	ca	CONJ	_	_	5	cc	_	LemmaId=157144|OccId=5142034|Unsandhied=ca|Annotator=Ol|Punctuation=fullStop
 
-# text = namo astu varatrābhyo nama īṣāyugebhyaḥ
-# sent_id = 625373
-# sent_counter = 3
-# sent_subcounter = 1
-1	namo	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=5142035|Unsandhied=namaḥ
-2	astu	as	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=5142036|Unsandhied=astu
-3	varatrābhyo	varatrā	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	_	_	_	LemmaId=69038|OccId=5142037|Unsandhied=varatrābhyaḥ|Punctuation=comma
-4	nama	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=5142038|Unsandhied=namaḥ
-5-6	īṣāyugebhyaḥ	_	_	_	_	_	_	_	_
-5	īṣā	īṣā	NOUN	_	Case=Cpd	_	_	_	LemmaId=64160|OccId=5142039|Unsandhied=īṣā
-6	yugebhyaḥ	yuga	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	_	_	_	LemmaId=64702|OccId=5142040|Unsandhied=yugebhyaḥ|Punctuation=fullStop
+# text = namaḥ astu varatrābhyaḥ namaḥ īṣā yugebhyaḥ
+# sent_id = 629649_1
+1	namaḥ	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	LemmaId=44133|OccId=5142035|Unsandhied=namaḥ|Annotator=Ol
+2	astu	as	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	3	cop	_	LemmaId=156122|OccId=5142036|Unsandhied=astu|Annotator=Ol
+3	varatrābhyaḥ	varatrā	NOUN	_	Case=Dat|Gender=Fem|Number=Plur	0	root	_	LemmaId=69038|OccId=5142037|Unsandhied=varatrābhyaḥ|Annotator=Ol|Punctuation=comma
+4	namaḥ	namas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	LemmaId=44133|OccId=5142038|Unsandhied=namaḥ|Annotator=Ol
+5	īṣā	īṣā	NOUN	_	Case=Cpd|Gender=Fem	6	compound:coord	_	LemmaId=64160|OccId=5142039|Unsandhied=īṣā|Annotator=Ol
+6	yugebhyaḥ	yuga	NOUN	_	Case=Dat|Gender=Neut|Number=Plur	3	conj	_	LemmaId=64702|OccId=5142040|Unsandhied=yugebhyaḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = mṛgāyāraṇye tiṣṭhate kṣetriyāyākaraṃ namaḥ
-# sent_id = 625374
-# sent_counter = 3
-# sent_subcounter = 2
-1-2	mṛgāyāraṇye	_	_	_	_	_	_	_	_
-1	mṛgāya	mṛga	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=137625|OccId=5142041|Unsandhied=mṛgāya
-2	araṇye	araṇya	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=32512|OccId=5142042|Unsandhied=araṇye
-3	tiṣṭhate	sthā	VERB	_	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157340|OccId=5142043|Unsandhied=tiṣṭhate
-4-5	kṣetriyāyākaraṃ	_	_	_	_	_	_	_	_
-4	kṣetriyāya	kṣetriya	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=135604|OccId=5142044|Unsandhied=kṣetriyāya
-5	akaram	kṛ	VERB	_	Tense=Past|Mood=Ind|Formation=them|Person=1|Number=Sing	_	_	_	LemmaId=156168|OccId=5142045|Unsandhied=akaram
-6	namaḥ	namas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=44133|OccId=5142046|Unsandhied=namaḥ|Punctuation=fullStop
+# text = mṛgāya araṇye tiṣṭhate kṣetriyāya akaram namaḥ
+# sent_id = 629650_1
+1	mṛgāya	mṛga	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	5	iobj	_	LemmaId=137625|OccId=5142041|Unsandhied=mṛgāya|Annotator=Ol
+2	araṇye	araṇya	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	3	obl:loc	_	LemmaId=32512|OccId=5142042|Unsandhied=araṇye|Annotator=Ol
+3	tiṣṭhate	sthā	VERB	_	Case=Dat|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	1	acl	_	LemmaId=157340|OccId=5142043|Unsandhied=tiṣṭhate|Annotator=Ol
+4	kṣetriyāya	kṣetriya	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	conj	_	LemmaId=135604|OccId=5142044|Unsandhied=kṣetriyāya|Annotator=Ol
+5	akaram	kṛ	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past	0	root	_	LemmaId=156168|OccId=5142045|Unsandhied=akaram|Annotator=Ol
+6	namaḥ	namas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	LemmaId=44133|OccId=5142046|Unsandhied=namaḥ|Annotator=Ol|Punctuation=fullStop
 
-# text = ākhor idaṃ kṣaitrapatyaṃ manoś ca mānavasya ca
-# sent_id = 625375
-# sent_counter = 4
-# sent_subcounter = 1
-1	ākhor	ākhu	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=61956|OccId=5142047|Unsandhied=ākhoḥ
-2	idaṃ	idam	PRON	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=37876|OccId=5142048|Unsandhied=idam
-3	kṣaitrapatyaṃ	kṣaitrapatya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=135628|OccId=5142049|Unsandhied=kṣaitrapatyam
-4	manoś	manu	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=36151|OccId=5142050|Unsandhied=manoḥ
-5	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5142051|Unsandhied=ca
-6	mānavasya	mānava	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=78957|OccId=5142052|Unsandhied=mānavasya
-7	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5142053|Unsandhied=ca|Punctuation=fullStop
+# text = ākhoḥ idam kṣaitrapatyam manoḥ ca mānavasya ca
+# sent_id = 629651_1
+1	ākhoḥ	ākhu	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	LemmaId=61956|OccId=5142047|Unsandhied=ākhoḥ|Annotator=Ol
+2	idam	idam	PRON	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	LemmaId=37876|OccId=5142048|Unsandhied=idam|Annotator=Ol
+3	kṣaitrapatyam	kṣaitrapatya	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=135628|OccId=5142049|Unsandhied=kṣaitrapatyam|Annotator=Ol
+4	manoḥ	manu	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	conj	_	LemmaId=36151|OccId=5142050|Unsandhied=manoḥ|Annotator=Ol
+5	ca	ca	CONJ	_	_	4	cc	_	LemmaId=157144|OccId=5142051|Unsandhied=ca|Annotator=Ol
+6	mānavasya	mānava	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	1	conj	_	LemmaId=78957|OccId=5142052|Unsandhied=mānavasya|Annotator=Ol
+7	ca	ca	CONJ	_	_	6	cc	_	LemmaId=157144|OccId=5142053|Unsandhied=ca|Annotator=Ol|Punctuation=fullStop
 
-# text = manaḥ sarvasya paśyata iha bhūyaḥ syād iti
-# sent_id = 625376
-# sent_counter = 4
-# sent_subcounter = 2
-1	manaḥ	manas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5142054|Unsandhied=manaḥ
-2	sarvasya	sarva	PRON	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=104444|OccId=5142055|Unsandhied=sarvasya
-3	paśyata	paś	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157390|OccId=5142056|Unsandhied=paśyataḥ
-4	iha	iha	ADV	_		_	_	_	LemmaId=63959|OccId=5142057|Unsandhied=iha
-5	bhūyaḥ	bhūyas	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	LemmaId=25548|OccId=5142058|Unsandhied=bhūyaḥ
-6	syād	as	VERB	_	Tense=Pres|Mood=Opt|Person=3|Number=Sing	_	_	_	LemmaId=156122|OccId=5142059|Unsandhied=syāt
-7	iti	iti	PART	_		_	_	_	LemmaId=63331|OccId=5142060|Unsandhied=iti|Punctuation=fullStop
+# text = manaḥ sarvasya paśyataḥ iha bhūyaḥ syāt
+# sent_id = 629652_1
+1	manaḥ	manas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	LemmaId=36096|OccId=5142054|Unsandhied=manaḥ|Annotator=Ol
+2	sarvasya	sarva	PRON	_	Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	LemmaId=104444|OccId=5142055|Unsandhied=sarvasya|Annotator=Ol
+3	paśyataḥ	paś	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	2	acl	_	LemmaId=157390|OccId=5142056|Unsandhied=paśyataḥ|Annotator=Ol
+4	iha	iha	ADV	_	_	5	advmod	_	LemmaId=63959|OccId=5142057|Unsandhied=iha|Annotator=Ol
+5	bhūyaḥ	bhūyas	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=25548|OccId=5142058|Unsandhied=bhūyaḥ|Annotator=Ol
+6	syāt	as	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	5	cop	_	LemmaId=156122|OccId=5142059|Unsandhied=syāt|Annotator=Ol
 

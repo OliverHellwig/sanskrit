@@ -2,124 +2,104 @@
 ## text_id: 468
 ## chapter: AVP, 1, 76
 ## chapter_id: 13083
-# text = ūrdhvo bhava prati vidhyādhy asmad ugraṃ dhanur ojasvān ā tanuṣva
-# sent_id = 625164
-# sent_counter = 1
-# sent_subcounter = 1
-1	ūrdhvo	ūrdhva	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=38446|OccId=5107397|Unsandhied=ūrdhvaḥ
-2	bhava	bhū	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157250|OccId=5107398|Unsandhied=bhava|Punctuation=fullStop
-3	prati	prati	ADP	_		_	_	_	LemmaId=151755|OccId=5107399|Unsandhied=prati
-4-5	vidhyādhy	_	_	_	_	_	_	_	_
-4	vidhya	vyadh	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157284|OccId=5107400|Unsandhied=vidhya
-5	adhi	adhi	ADP	_		_	_	_	LemmaId=170078|OccId=5107401|Unsandhied=adhi
-6	asmad	mad	PRON	_	Case=Abl|Number=Plur	_	_	_	LemmaId=37879|OccId=5107402|Unsandhied=asmat|Punctuation=fullStop
-7	ugraṃ	ugra	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=64249|OccId=5107403|Unsandhied=ugram
-8	dhanur	dhanus	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=91820|OccId=5107404|Unsandhied=dhanuḥ
-9	ojasvān	ojasvat	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=40062|OccId=5107405|Unsandhied=ojasvān
-10	ā	ā	ADP	_		_	_	_	LemmaId=213041|OccId=5107478|Unsandhied=ā
-11	tanuṣva	tan	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157173|OccId=5107406|Unsandhied=tanuṣva|Punctuation=fullStop
+# text = ūrdhvaḥ bhava
+# sent_id = 629440_1
+1	ūrdhvaḥ	ūrdhva	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	xcomp:result	_	LemmaId=38446|OccId=5107397|Unsandhied=ūrdhvaḥ|Annotator=Ol
+2	bhava	bhū	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=157250|OccId=5107398|Unsandhied=bhava|Annotator=Ol|Punctuation=fullStop
 
-# text = prati durhārdaṃ harasā śṛṇīhi kṛtvānam agne adharaṃ kṛṇuṣva
-# sent_id = 625165
-# sent_counter = 1
-# sent_subcounter = 2
-1	prati	prati	ADP	_		_	_	_	LemmaId=151755|OccId=5107407|Unsandhied=prati
-2	durhārdaṃ	durhārd	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=85801|OccId=5107408|Unsandhied=durhārdam
-3	harasā	haras	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=108661|OccId=5107409|Unsandhied=harasā
-4	śṛṇīhi	śṛ	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=158547|OccId=5107410|Unsandhied=śṛṇīhi|Punctuation=fullStop
-5	kṛtvānam	kṛtvan	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=219202|OccId=5107411|Unsandhied=kṛtvānam
-6	agne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5107412|Unsandhied=agne
-7	adharaṃ	adhara	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=7787|OccId=5107413|Unsandhied=adharam
-8	kṛṇuṣva	kṛ	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=156168|OccId=5107414|Unsandhied=kṛṇuṣva|Punctuation=fullStop
+# text = prati vidhya adhi asmat
+# sent_id = 629440_2
+1	prati	prati	ADP	_	_	2	advmod	_	LemmaId=151755|OccId=5107399|Unsandhied=prati|Annotator=Ol
+2	vidhya	vyadh	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=157284|OccId=5107400|Unsandhied=vidhya|Annotator=Ol
+3	adhi	adhi	ADP	_	_	4	case	_	LemmaId=170078|OccId=5107401|Unsandhied=adhi|Annotator=Ol
+4	asmat	mad	PRON	_	Case=Abl|Number=Plur	2	obl:source	_	LemmaId=37879|OccId=5107402|Unsandhied=asmat|Annotator=Ol|Punctuation=fullStop
 
-# text = praty enaṃ yāhi prati bhaṅdhy enaṃ vividhyann agne vitaraṃ vi bhāhi
-# sent_id = 625166
-# sent_counter = 2
-# sent_subcounter = 1
-1	praty	prati	ADP	_		_	_	_	LemmaId=151755|OccId=5107415|Unsandhied=prati
-2	enaṃ	enad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=166401|OccId=5107416|Unsandhied=enam
-3	yāhi	yā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157263|OccId=5107417|Unsandhied=yāhi|Punctuation=fullStop
-4	prati	prati	ADP	_		_	_	_	LemmaId=151755|OccId=5107418|Unsandhied=prati
-5	bhaṅdhy	bhañj	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=158867|OccId=5107419|Unsandhied=bhaṅdhi
-6	enaṃ	enad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=166401|OccId=5107420|Unsandhied=enam|Punctuation=fullStop
-7	vividhyann	vivyadh	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=163607|OccId=5107421|Unsandhied=vividhyan
-8	agne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5107422|Unsandhied=agne
-9	vitaraṃ	vitaram	ADV	_		_	_	_	LemmaId=121198|OccId=5107423|Unsandhied=vitaram
-10	vi	vi	ADP	_		_	_	_	LemmaId=216733|OccId=5107424|Unsandhied=vi
-11	bhāhi	bhā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157416|OccId=5107425|Unsandhied=bhāhi|Punctuation=fullStop
+# text = ugram dhanuḥ ojasvān ā tanuṣva
+# sent_id = 629440_3
+1	ugram	ugra	ADJ	_	Case=Acc|Gender=Neut|Number=Sing	2	amod	_	LemmaId=64249|OccId=5107403|Unsandhied=ugram|Annotator=Ol
+2	dhanuḥ	dhanus	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	LemmaId=91820|OccId=5107404|Unsandhied=dhanuḥ|Annotator=Ol
+3	ojasvān	ojasvat	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	advcl:dpct	_	LemmaId=40062|OccId=5107405|Unsandhied=ojasvān|Annotator=Ol
+4	ā	ā	ADP	_	_	5	advmod	_	LemmaId=213041|OccId=5107478|Unsandhied=ā|Annotator=Ol
+5	tanuṣva	tan	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=157173|OccId=5107406|Unsandhied=tanuṣva|Annotator=Ol|Punctuation=fullStop
 
-# text = pratyaṅ prehi vartmanā jarhṛṣāṇaḥ kṛtyākṛte duṣkṛte mādhi vocaḥ
-# sent_id = 625167
-# sent_counter = 2
-# sent_subcounter = 2
-1	pratyaṅ	pratyañc	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166384|OccId=5107426|Unsandhied=pratyaṅ
-2-3	prehi	_	_	_	_	_	_	_	_
-2	pra	pra	ADP	_		_	_	_	LemmaId=216277|OccId=5107427|Unsandhied=pra
-3	ihi	i	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=156127|OccId=5107428|Unsandhied=ihi
-4	vartmanā	vartman	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=74657|OccId=5107429|Unsandhied=vartmanā
-5	jarhṛṣāṇaḥ	jarhṛṣ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=218703|OccId=5107430|Unsandhied=jarhṛṣāṇaḥ|Punctuation=fullStop
-6-7	kṛtyākṛte	_	_	_	_	_	_	_	_
-6	kṛtyā	kṛtyā	NOUN	_	Case=Cpd	_	_	_	LemmaId=3740|OccId=5107431|Unsandhied=kṛtyā
-7	kṛte	kṛt	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=3440|OccId=5107432|Unsandhied=kṛte
-8	duṣkṛte	duṣkṛt	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=85914|OccId=5107473|Unsandhied=duṣkṛte
-9-10	mādhi	_	_	_	_	_	_	_	_
-9	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=5107433|Unsandhied=mā
-10	adhi	adhi	ADP	_		_	_	_	LemmaId=170078|OccId=5107434|Unsandhied=adhi
-11	vocaḥ	vac	VERB	_	Tense=Past|Mood=Jus|Person=2|Number=Sing	_	_	_	LemmaId=157264|OccId=5107435|Unsandhied=vocaḥ|Punctuation=fullStop
+# text = prati durhārdam harasā śṛṇīhi
+# sent_id = 629441_1
+1	prati	prati	ADP	_	_	4	advmod	_	LemmaId=151755|OccId=5107407|Unsandhied=prati|Annotator=Ol
+2	durhārdam	durhārd	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	LemmaId=85801|OccId=5107408|Unsandhied=durhārdam|Annotator=Ol
+3	harasā	haras	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	4	obl:instr	_	LemmaId=108661|OccId=5107409|Unsandhied=harasā|Annotator=Ol
+4	śṛṇīhi	śṛ	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=158547|OccId=5107410|Unsandhied=śṛṇīhi|Annotator=Ol|Punctuation=fullStop
 
-# text = yo no durhārd dhṛdayenābhivaste yaś cakṣuṣā manasā yaś ca vācā
-# sent_id = 625168
-# sent_counter = 3
-# sent_subcounter = 1
-1	yo	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=5107436|Unsandhied=yaḥ
-2	no	mad	PRON	_	Case=Acc|Number=Plur	_	_	_	LemmaId=37879|OccId=5107437|Unsandhied=naḥ
-3	durhārd	durhārd	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=85801|OccId=5107438|Unsandhied=durhārd
-4-5	dhṛdayenābhivaste	_	_	_	_	_	_	_	_
-4	hṛdayena	hṛdaya	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=110583|OccId=5107476|Unsandhied=hṛdayena
-5	abhivaste	abhivas	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158959|OccId=5107477|Unsandhied=abhivaste|Punctuation=comma
-6	yaś	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=5107439|Unsandhied=yaḥ
-7	cakṣuṣā	cakṣus	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=161797|OccId=5107440|Unsandhied=cakṣuṣā
-8	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=36096|OccId=5107441|Unsandhied=manasā
-9	yaś	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=37877|OccId=5107442|Unsandhied=yaḥ
-10	ca	ca	CONJ	_		_	_	_	LemmaId=157144|OccId=5107443|Unsandhied=ca
-11	vācā	vāc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	_	_	_	LemmaId=76023|OccId=5107444|Unsandhied=vācā|Punctuation=comma
+# text = kṛtvānam agne adharam kṛṇuṣva
+# sent_id = 629441_2
+1	kṛtvānam	kṛtvan	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	4	obj	_	LemmaId=219202|OccId=5107411|Unsandhied=kṛtvānam|Annotator=Ol
+2	agne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	4	vocative	_	LemmaId=5705|OccId=5107412|Unsandhied=agne|Annotator=Ol
+3	adharam	adhara	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	4	xcomp:result	_	LemmaId=7787|OccId=5107413|Unsandhied=adharam|Annotator=Ol
+4	kṛṇuṣva	kṛ	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=156168|OccId=5107414|Unsandhied=kṛṇuṣva|Annotator=Ol|Punctuation=fullStop
 
-# text = pratyaṅ daṃṣṭrābhyām abhi taṃ bubhūṣan kṛtyākṛtaṃ duṣkṛtaṃ nir dahāgne
-# sent_id = 625169
-# sent_counter = 3
-# sent_subcounter = 2
-1	pratyaṅ	pratyañc	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=166384|OccId=5107445|Unsandhied=pratyaṅ
-2	daṃṣṭrābhyām	daṃṣṭra	NOUN	_	Case=Ins|Gender=Fem|Number=Dual	_	_	_	LemmaId=100546|OccId=5107446|Unsandhied=daṃṣṭrābhyām
-3	abhi	abhi	ADP	_		_	_	_	LemmaId=171289|OccId=5107447|Unsandhied=abhi
-4	taṃ	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37875|OccId=5107448|Unsandhied=tam
-5	bubhūṣan	bubhūṣ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=171843|OccId=5107449|Unsandhied=bubhūṣan|Punctuation=comma
-6-7	kṛtyākṛtaṃ	_	_	_	_	_	_	_	_
-6	kṛtyā	kṛtyā	NOUN	_	Case=Cpd	_	_	_	LemmaId=3740|OccId=5107450|Unsandhied=kṛtyā
-7	kṛtam	kṛt	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=3440|OccId=5107451|Unsandhied=kṛtam
-8	duṣkṛtaṃ	duṣkṛt	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=85914|OccId=5107452|Unsandhied=duṣkṛtam
-9	nir	niḥ	ADP	_		_	_	_	LemmaId=169772|OccId=5107453|Unsandhied=niḥ
-10-11	dahāgne	_	_	_	_	_	_	_	_
-10	daha	dah	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157371|OccId=5107454|Unsandhied=daha
-11	agne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	_	_	_	LemmaId=5705|OccId=5107455|Unsandhied=agne|Punctuation=fullStop
+# text = prati enam yāhi
+# sent_id = 629442_1
+1	prati	prati	ADP	_	_	3	advmod	_	LemmaId=151755|OccId=5107415|Unsandhied=prati|Annotator=Ol
+2	enam	enad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	3	obl:goal	_	LemmaId=166401|OccId=5107416|Unsandhied=enam|Annotator=Ol
+3	yāhi	yā	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=157263|OccId=5107417|Unsandhied=yāhi|Annotator=Ol|Punctuation=fullStop
 
-# text = pratībodhaś caturakṣo divyo aśmeva vīḍubhit
-# sent_id = 625170
-# sent_counter = 4
-# sent_subcounter = 1
-1	pratībodhaś	pratībodha	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=223037|OccId=5107456|Unsandhied=pratībodhaḥ
-2-3	caturakṣo	_	_	_	_	_	_	_	_
-2	catur	catur	NUM	_	Case=Cpd	_	_	_	LemmaId=163231|OccId=5107457|Unsandhied=catur
-3	akṣaḥ	akṣa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=5541|OccId=5107458|Unsandhied=akṣaḥ
-4	divyo	divya	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=147116|OccId=5107459|Unsandhied=divyaḥ
-5-6	aśmeva	_	_	_	_	_	_	_	_
-5	aśmā	aśman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=60078|OccId=5107460|Unsandhied=aśmā
-6	iva	iva	PART	_		_	_	_	LemmaId=63807|OccId=5107461|Unsandhied=iva
-7-8	vīḍubhit	_	_	_	_	_	_	_	_
-7	vīḍu	vīḍu	ADJ	_	Case=Cpd	_	_	_	LemmaId=141514|OccId=5107462|Unsandhied=vīḍu
-8	bhid	bhid	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=50143|OccId=5107463|Unsandhied=bhid
+# text = prati bhaṅdhi enam
+# sent_id = 629442_2
+1	prati	prati	ADP	_	_	2	advmod	_	LemmaId=151755|OccId=5107418|Unsandhied=prati|Annotator=Ol
+2	bhaṅdhi	bhañj	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=158867|OccId=5107419|Unsandhied=bhaṅdhi|Annotator=Ol
+3	enam	enad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	2	obj	_	LemmaId=166401|OccId=5107420|Unsandhied=enam|Annotator=Ol|Punctuation=fullStop
+
+# text = vividhyan agne vitaram vi bhāhi
+# sent_id = 629442_3
+1	vividhyan	vivyadh	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	5	advcl:dpct	_	LemmaId=163607|OccId=5107421|Unsandhied=vividhyan|Annotator=Ol
+2	agne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	5	vocative	_	LemmaId=5705|OccId=5107422|Unsandhied=agne|Annotator=Ol
+3	vitaram	vitaram	ADV	_	_	5	advmod	_	LemmaId=121198|OccId=5107423|Unsandhied=vitaram|Annotator=Ol
+4	vi	vi	ADP	_	_	5	advmod	_	LemmaId=216733|OccId=5107424|Unsandhied=vi|Annotator=Ol
+5	bhāhi	bhā	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=157416|OccId=5107425|Unsandhied=bhāhi|Annotator=Ol|Punctuation=fullStop
+
+# text = pratyaṅ pra ihi vartmanā jarhṛṣāṇaḥ
+# sent_id = 629443_1
+1	pratyaṅ	pratyañc	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	advcl:dpct	_	LemmaId=166384|OccId=5107426|Unsandhied=pratyaṅ|Annotator=Ol
+2	pra	pra	ADP	_	_	3	advmod	_	LemmaId=216277|OccId=5107427|Unsandhied=pra|Annotator=Ol
+3	ihi	i	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=156127|OccId=5107428|Unsandhied=ihi|Annotator=Ol
+4	vartmanā	vartman	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	3	obl:path	_	LemmaId=74657|OccId=5107429|Unsandhied=vartmanā|Annotator=Ol
+5	jarhṛṣāṇaḥ	jarhṛṣ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	3	advcl	_	LemmaId=218703|OccId=5107430|Unsandhied=jarhṛṣāṇaḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = kṛtyā kṛte duṣkṛte mā adhi vocaḥ
+# sent_id = 629443_2
+1	kṛtyā	kṛtyā	NOUN	_	Case=Cpd|Gender=Fem	2	obj	_	LemmaId=3740|OccId=5107431|Unsandhied=kṛtyā|Annotator=Ol
+2	kṛte	kṛt	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	6	iobj	_	LemmaId=3440|OccId=5107432|Unsandhied=kṛte|Annotator=Ol
+3	duṣkṛte	duṣkṛt	ADJ	_	Case=Dat|Gender=Masc|Number=Sing	2	conj	_	LemmaId=85914|OccId=5107473|Unsandhied=duṣkṛte|Annotator=Ol
+4	mā	mā	PART	_	_	6	advmod	_	LemmaId=170120|OccId=5107433|Unsandhied=mā|Annotator=Ol
+5	adhi	adhi	ADP	_	_	6	advmod	_	LemmaId=170078|OccId=5107434|Unsandhied=adhi|Annotator=Ol
+6	vocaḥ	vac	VERB	_	Mood=Jus|Number=Sing|Person=2|Tense=Past	0	root	_	LemmaId=157264|OccId=5107435|Unsandhied=vocaḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = yaḥ naḥ durhārd hṛdayena abhivaste yaḥ cakṣuṣā manasā yaḥ ca vācā pratyaṅ daṃṣṭrābhyām abhi tam bubhūṣan kṛtyā kṛtam duṣkṛtam niḥ daha agne
+# sent_id = 629445_1
+1	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	3	det	_	LemmaId=37877|OccId=5107436|Unsandhied=yaḥ|Annotator=Ol
+2	naḥ	mad	PRON	_	Case=Acc|Number=Plur	5	obj	_	LemmaId=37879|OccId=5107437|Unsandhied=naḥ|Annotator=Ol
+3	durhārd	durhārd	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=85801|OccId=5107438|Unsandhied=durhārd|Annotator=Ol
+4	hṛdayena	hṛdaya	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	5	obl:instr	_	LemmaId=110583|OccId=5107476|Unsandhied=hṛdayena|Annotator=Ol
+5	abhivaste	abhivas	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	15	acl:rel	_	LemmaId=158959|OccId=5107477|Unsandhied=abhivaste|Annotator=Ol|Punctuation=comma
+6	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	LemmaId=37877|OccId=5107439|Unsandhied=yaḥ|Annotator=Ol
+7	cakṣuṣā	cakṣus	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	6	orphan	_	LemmaId=161797|OccId=5107440|Unsandhied=cakṣuṣā|Annotator=Ol
+8	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	7	conj	_	LemmaId=36096|OccId=5107441|Unsandhied=manasā|Annotator=Ol
+9	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	5	conj	_	LemmaId=37877|OccId=5107442|Unsandhied=yaḥ|Annotator=Ol
+10	ca	ca	CONJ	_	_	9	cc	_	LemmaId=157144|OccId=5107443|Unsandhied=ca|Annotator=Ol
+11	vācā	vāc	NOUN	_	Case=Ins|Gender=Fem|Number=Sing	9	orphan	_	LemmaId=76023|OccId=5107444|Unsandhied=vācā|Annotator=Ol|Punctuation=comma
+12	pratyaṅ	pratyañc	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	16	advcl:dpct	_	LemmaId=166384|OccId=5107445|Unsandhied=pratyaṅ|Annotator=Ol
+13	daṃṣṭrābhyām	daṃṣṭra	NOUN	_	Case=Ins|Gender=Fem|Number=Dual	16	obl:instr	_	LemmaId=100546|OccId=5107446|Unsandhied=daṃṣṭrābhyām|Annotator=Ol
+14	abhi	abhi	ADP	_	_	16	advmod	_	LemmaId=171289|OccId=5107447|Unsandhied=abhi|Annotator=Ol
+15	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	16	obj	_	LemmaId=37875|OccId=5107448|Unsandhied=tam|Annotator=Ol
+16	bubhūṣan	bubhūṣ	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	21	advcl:dpct	_	LemmaId=171843|OccId=5107449|Unsandhied=bubhūṣan|Annotator=Ol|Punctuation=comma
+17	kṛtyā	kṛtyā	NOUN	_	Case=Cpd|Gender=Fem	18	obj	_	LemmaId=3740|OccId=5107450|Unsandhied=kṛtyā|Annotator=Ol
+18	kṛtam	kṛt	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	21	obj	_	LemmaId=3440|OccId=5107451|Unsandhied=kṛtam|Annotator=Ol
+19	duṣkṛtam	duṣkṛt	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	18	conj	_	LemmaId=85914|OccId=5107452|Unsandhied=duṣkṛtam|Annotator=Ol
+20	niḥ	niḥ	ADP	_	_	21	advmod	_	LemmaId=169772|OccId=5107453|Unsandhied=niḥ|Annotator=Ol
+21	daha	dah	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=157371|OccId=5107454|Unsandhied=daha|Annotator=Ol
+22	agne	agni	NOUN	_	Case=Voc|Gender=Masc|Number=Sing	21	vocative	_	LemmaId=5705|OccId=5107455|Unsandhied=agne|Annotator=Ol|Punctuation=fullStop
 
 # text = prabhañjañ chatrūn prati yāhy agne kṛtyākṛtaṃ duṣkṛtaṃ hṛdaye vidhya marmaṇi
-# sent_id = 625171
+# sent_id = 629447
 # sent_counter = 4
 # sent_subcounter = 2
 1	prabhañjañ	prabhañj	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=162936|OccId=5107474|Unsandhied=prabhañjan

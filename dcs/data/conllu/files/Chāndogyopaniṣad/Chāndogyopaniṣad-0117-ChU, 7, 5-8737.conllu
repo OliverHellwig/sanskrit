@@ -2,14 +2,15 @@
 ## text_id: 365
 ## chapter: ChU, 7, 5
 ## chapter_id: 8737
-# text = cittam saṃkalpāt bhūyaḥ
-# sent_id = 470112_1
-1	cittam	citta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	LemmaId=51356|OccId=3524737|Unsandhied=cittam|Annotator=Ol
-2	saṃkalpāt	saṃkalpa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	3	obl:grad	_	LemmaId=8830|OccId=3524738|Unsandhied=saṃkalpāt|Annotator=Au
-3	bhūyaḥ	bhūyas	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=25548|OccId=3524739|Unsandhied=bhūyaḥ|Annotator=Ol|Punctuation=fullStop
+# text = cittam vāva saṃkalpāt bhūyaḥ
+# sent_id = 472739_1
+1	cittam	citta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=51356|OccId=3524737|Unsandhied=cittam|Annotator=Ol
+2	vāva	vāva	PART	_	_	4	discourse	_	LemmaId=213758|OccId=5506990|Unsandhied=vāva|Annotator=Ol
+3	saṃkalpāt	saṃkalpa	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	4	obl:grad	_	LemmaId=8830|OccId=3524738|Unsandhied=saṃkalpāt|Annotator=Au
+4	bhūyaḥ	bhūyas	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=25548|OccId=3524739|Unsandhied=bhūyaḥ|Annotator=Ol|Punctuation=fullStop
 
 # text = _ vai cetayate atha saṃkalpayate atha manasyati atha vācam īrayati
-# sent_id = 470113_1
+# sent_id = 472740_1
 1	_	yadā	SCONJ	_	_	3	mark	_	LemmaId=73645|OccId=3524740|Unsandhied=_|Annotator=Au
 2	vai	vai	PART	_	_	3	discourse	_	LemmaId=118154|OccId=3524741|Unsandhied=vai|Annotator=Au
 3	cetayate	cetay	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	advcl:temp	_	LemmaId=167537|OccId=3524742|Unsandhied=cetayate|Annotator=Au
@@ -21,18 +22,15 @@
 9	vācam	vāc	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	10	obj	_	LemmaId=76023|OccId=3524748|Unsandhied=vācam|Annotator=Au
 10	īrayati	īray	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	conj	_	LemmaId=158860|OccId=3524749|Unsandhied=īrayati|Annotator=Ol|Punctuation=fullStop
 
-# text = tām u nāmnīrayati
-# sent_id = 470116
-# sent_counter = 1
-# sent_subcounter = 5
-1	tām	tad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=37875|OccId=3524750|Unsandhied=tām|UnsandhiedReconstructed=True
-2	u	u	PART	_		_	_	_	LemmaId=213150|OccId=3524859|Unsandhied=u|UnsandhiedReconstructed=True
-3-4	nāmnīrayati	_	_	_	_	_	_	_	_
-3	nāmni	nāman	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=33597|OccId=5506991|Unsandhied=nāmni
-4	īrayati	īray	VERB	_	Tense=Pres|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=158860|OccId=5506992|Unsandhied=īrayati|Punctuation=fullStop
+# text = tām u nāmni īrayati
+# sent_id = 472743_1
+1	tām	tad	PRON	_	Case=Acc|Gender=Fem|Number=Sing	4	obj	_	LemmaId=37875|OccId=3524750|Unsandhied=tām|Annotator=Ol
+2	u	u	PART	_	_	4	discourse	_	LemmaId=213150|OccId=3524859|Unsandhied=u|Annotator=Ol
+3	nāmni	nāman	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	4	obl	_	LemmaId=33597|OccId=5506991|Unsandhied=nāmni|Annotator=Ol
+4	īrayati	īray	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=158860|OccId=5506992|Unsandhied=īrayati|Annotator=Ol|Punctuation=fullStop
 
 # text = nāmni mantrāḥ ekam bhavanti mantreṣu karmāṇi
-# sent_id = 470117_1
+# sent_id = 472744_1
 1	nāmni	nāman	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	4	obl:loc	_	LemmaId=33597|OccId=3524751|Unsandhied=nāmni|Annotator=Au
 2	mantrāḥ	mantra	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	LemmaId=36369|OccId=3524752|Unsandhied=mantrāḥ|Annotator=Au
 3	ekam	eka	NUM	_	Case=Nom|Gender=Neut|Number=Sing	4	xcomp:result	_	LemmaId=39102|OccId=3524753|Unsandhied=ekam|Annotator=Au
@@ -41,7 +39,7 @@
 6	karmāṇi	karman	NOUN	_	Case=Nom|Gender=Neut|Number=Plur	4	conj	_	LemmaId=12243|OccId=3524756|Unsandhied=karmāṇi|Annotator=Ol|Punctuation=fullStop
 
 # text = tāni ha _ etāni citta ekāyanāni citte pratiṣṭhitāni
-# sent_id = 470118_1
+# sent_id = 472745_1
 1	tāni	tad	PRON	_	Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	LemmaId=37875|OccId=3524757|Unsandhied=tāni|Annotator=Ol
 2	ha	ha	PART	_	_	6	discourse	_	LemmaId=169970|OccId=3524758|Unsandhied=ha|Annotator=Ol
 3	_	vā	CONJ	_	_	2	fixed	_	LemmaId=75765|OccId=3524759|Unsandhied=_|Annotator=Au
@@ -51,8 +49,8 @@
 7	citte	citta	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	8	obl:loc	_	LemmaId=51356|OccId=3524763|Unsandhied=citte|Annotator=Au
 8	pratiṣṭhitāni	pratiṣṭhā	VERB	_	Case=Nom|Gender=Neut|Number=Plur|Tense=Past|VerbForm=Part	6	conj	_	LemmaId=162663|OccId=3524764|Unsandhied=pratiṣṭhitāni|Annotator=Ol|Punctuation=fullStop
 
-# text = tasmāt _ api bahu vid acittaḥ bhavati na ayam asti iti eva enam āhuḥ yat ayam veda na ittham acittaḥ syāt iti
-# sent_id = 470119_1
+# text = tasmāt _ api bahu vid acittaḥ bhavati na ayam asti iti eva enam āhuḥ yat ayam veda yat vai ayam vidvān na ittham acittaḥ syāt iti
+# sent_id = 472746_1
 1	tasmāt	tasmāt	ADV	_	_	14	advmod	_	LemmaId=203521|OccId=3524765|Unsandhied=tasmāt|Annotator=Au
 2	_	yadi	SCONJ	_	_	6	mark	_	LemmaId=73699|OccId=3524766|Unsandhied=_|Annotator=Ol
 3	api	api	PART	_	_	6	discourse	_	LemmaId=21365|OccId=3524767|Unsandhied=api|Annotator=Ol
@@ -64,20 +62,24 @@
 9	ayam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LemmaId=37876|OccId=3524773|Unsandhied=ayam|Annotator=Au
 10	asti	as	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	14	ccomp	_	LemmaId=156122|OccId=3524774|Unsandhied=asti|Annotator=Au
 11	iti	iti	PART	_	_	10	mark	_	LemmaId=63331|OccId=3524775|Unsandhied=iti|Annotator=Au|Punctuation=comma
-12	eva	eva	PART	_	_	11	discourse	_	LemmaId=39754|OccId=3524776|Unsandhied=eva|Annotator=Au
+12	eva	eva	PART	_	_	11	fixed	_	LemmaId=39754|OccId=3524776|Unsandhied=eva|Annotator=Au
 13	enam	enad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	14	iobj	_	LemmaId=166401|OccId=3524777|Unsandhied=enam|Annotator=Au
 14	āhuḥ	ah	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past	0	root	_	LemmaId=156124|OccId=3524778|Unsandhied=āhuḥ|Annotator=Au|Punctuation=comma
 15	yat	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	17	obj	_	LemmaId=37877|OccId=3524779|Unsandhied=yat|Annotator=Au
 16	ayam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	17	nsubj	_	LemmaId=37876|OccId=3524780|Unsandhied=ayam|Annotator=Au
-17	veda	vid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	20	advcl:concess	_	LemmaId=158058|OccId=3524781|Unsandhied=veda|Annotator=Ol|Punctuation=comma
-18	na	na	PART	_	_	20	advmod	_	LemmaId=43432|OccId=3524786|Unsandhied=na|Annotator=Au
-19	ittham	ittham	ADV	_	_	20	advmod	_	LemmaId=63363|OccId=3524787|Unsandhied=ittham|Annotator=Au
-20	acittaḥ	acitta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	parataxis	_	LemmaId=6348|OccId=3524788|Unsandhied=acittaḥ|Annotator=Ol
-21	syāt	as	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	20	cop	_	LemmaId=156122|OccId=3524789|Unsandhied=syāt|Annotator=Au
-22	iti	iti	PART	_	_	20	mark	_	LemmaId=63331|OccId=3524790|Unsandhied=iti|Annotator=Au|Punctuation=fullStop
+17	veda	vid	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	24	advcl:concess	_	LemmaId=158058|OccId=3524781|Unsandhied=veda|Annotator=Ol|Punctuation=comma
+18	yat	yad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	21	obj	_	LemmaId=37877|OccId=3524782|Unsandhied=yat|Annotator=Ol
+19	vai	vai	PART	_	_	21	discourse	_	LemmaId=118154|OccId=5506995|Unsandhied=vai|Annotator=Ol
+20	ayam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	21	nsubj	_	LemmaId=37876|OccId=3524784|Unsandhied=ayam|Annotator=Ol
+21	vidvān	vid	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	conj	_	LemmaId=158058|OccId=5506996|Unsandhied=vidvān|Annotator=Ol|Punctuation=comma
+22	na	na	PART	_	_	24	advmod	_	LemmaId=43432|OccId=3524786|Unsandhied=na|Annotator=Au
+23	ittham	ittham	ADV	_	_	24	advmod	_	LemmaId=63363|OccId=3524787|Unsandhied=ittham|Annotator=Au
+24	acittaḥ	acitta	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	10	parataxis	_	LemmaId=6348|OccId=3524788|Unsandhied=acittaḥ|Annotator=Ol
+25	syāt	as	VERB	_	Mood=Opt|Number=Sing|Person=3|Tense=Pres	24	cop	_	LemmaId=156122|OccId=3524789|Unsandhied=syāt|Annotator=Au
+26	iti	iti	PART	_	_	24	mark	_	LemmaId=63331|OccId=3524790|Unsandhied=iti|Annotator=Au|Punctuation=fullStop
 
 # text = atha _ alpa vid cittavān bhavati tasmai eva _ śuśrūṣante
-# sent_id = 470121_1
+# sent_id = 472748_1
 1	atha	atha	ADV	_	_	10	advmod	_	LemmaId=7467|OccId=3524791|Unsandhied=atha|Annotator=Ol
 2	_	yadi	SCONJ	_	_	5	mark	_	LemmaId=73699|OccId=3524792|Unsandhied=_|Annotator=Ol
 3	alpa	alpa	ADJ	_	Case=Cpd	4	obj	_	LemmaId=53831|OccId=3524793|Unsandhied=alpa|Annotator=Ol
@@ -90,7 +92,7 @@
 10	śuśrūṣante	śuśrūṣ	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	LemmaId=169656|OccId=3524800|Unsandhied=śuśrūṣante|Annotator=Au|Punctuation=fullStop
 
 # text = cittam hi eva eṣām ekāyanam
-# sent_id = 470122_1
+# sent_id = 472749_1
 1	cittam	citta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	LemmaId=51356|OccId=3524801|Unsandhied=cittam|Annotator=Ol
 2	hi	hi	PART	_	_	5	discourse	_	LemmaId=109879|OccId=3524802|Unsandhied=hi|Annotator=Ol
 3	eva	eva	PART	_	_	2	fixed	_	LemmaId=39754|OccId=3524803|Unsandhied=eva|Annotator=Au
@@ -98,48 +100,45 @@
 5	ekāyanam	ekāyana	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=39535|OccId=3524805|Unsandhied=ekāyanam|Annotator=Ol|Punctuation=fullStop
 
 # text = cittam ātmā
-# sent_id = 470123_1
+# sent_id = 472750_1
 1	cittam	citta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	LemmaId=51356|OccId=3524806|Unsandhied=cittam|Annotator=Ol
 2	ātmā	ātman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=57749|OccId=3524807|Unsandhied=ātmā|Annotator=Ol|Punctuation=fullStop
 
 # text = cittam pratiṣṭhā
-# sent_id = 470124_1
+# sent_id = 472751_1
 1	cittam	citta	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	LemmaId=51356|OccId=3524808|Unsandhied=cittam|Annotator=Ol
 2	pratiṣṭhā	pratiṣṭhā	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	0	root	_	LemmaId=140020|OccId=3524809|Unsandhied=pratiṣṭhā|Annotator=Ol|Punctuation=fullStop
 
 # text = cittam upāssva iti
-# sent_id = 470125_1
-1	cittam	citta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	LemmaId=51356|OccId=3524810|Unsandhied=cittam|Annotator=Au
+# sent_id = 472752_1
+1	cittam	citta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=51356|OccId=3524810|Unsandhied=cittam|Annotator=Au
 2	upāssva	upās	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=160725|OccId=3524811|Unsandhied=upāssva|Annotator=Au
 3	iti	iti	PART	_	_	2	mark	_	LemmaId=63331|OccId=3524812|Unsandhied=iti|Annotator=Au|Punctuation=fullStop
 
-# text = saḥ yaḥ cittam brahma iti upāste
-# sent_id = 470126_1
-1	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LemmaId=37875|OccId=3524813|Unsandhied=saḥ|Annotator=Au
+# text = saḥ yaḥ cittam brahma iti upāste cittān vai saḥ lokān dhruvān dhruvaḥ pratiṣṭhitān pratiṣṭhitaḥ a vyathamānān a vyathamānaḥ abhisidhyati
+# sent_id = 472754_1
+1	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	LemmaId=37875|OccId=3524813|Unsandhied=saḥ|Annotator=Sv
 2	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LemmaId=37877|OccId=3524814|Unsandhied=yaḥ|Annotator=Au
 3	cittam	citta	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	LemmaId=51356|OccId=3524815|Unsandhied=cittam|Annotator=Au
 4	brahma	brahman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	6	xcomp	_	LemmaId=149176|OccId=3524816|Unsandhied=brahma|Annotator=Au
 5	iti	iti	PART	_	_	4	mark	_	LemmaId=63331|OccId=3524817|Unsandhied=iti|Annotator=Au
-6	upāste	upās	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=160725|OccId=3524818|Unsandhied=upāste|Annotator=Au
-
-# text = cittān vai saḥ lokān dhruvān dhruvaḥ pratiṣṭhitān pratiṣṭhitaḥ abhisidhyati
-# sent_id = 470127_1
-1	cittān	cit	VERB	_	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	acl	_	LemmaId=156255|OccId=3524819|Unsandhied=cittān|Annotator=Au
-2	vai	vai	PART	_	_	3	orphan	_	LemmaId=118154|OccId=3524820|Unsandhied=vai|Annotator=Ol
-3	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=37875|OccId=3524821|Unsandhied=saḥ|Annotator=Ol
-4	lokān	loka	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	orphan	_	LemmaId=66869|OccId=3524822|Unsandhied=lokān|Annotator=Ol
-5	dhruvān	dhruva	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	1	conj	_	LemmaId=43248|OccId=3524823|Unsandhied=dhruvān|Annotator=Ol
-6	dhruvaḥ	dhruva	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	3	acl	_	LemmaId=43248|OccId=3524824|Unsandhied=dhruvaḥ|Annotator=Au
-7	pratiṣṭhitān	pratiṣṭhā	VERB	_	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	8	orphan	_	LemmaId=162663|OccId=3524825|Unsandhied=pratiṣṭhitān|Annotator=Ol
-8	pratiṣṭhitaḥ	pratiṣṭhā	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	LemmaId=162663|OccId=3524826|Unsandhied=pratiṣṭhitaḥ|Annotator=Ol
-9	abhisidhyati	abhisidh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	3	conj	_	LemmaId=159169|OccId=3524829|Unsandhied=abhisidhyati|Annotator=Ol
-
-# text = abhisidhyati
-# sent_id = 470127_2
-1	abhisidhyati	abhisidh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=159169|OccId=3524829|Unsandhied=abhisidhyati|Annotator=Au
+6	upāste	upās	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	acl:crel	_	LemmaId=160725|OccId=3524818|Unsandhied=upāste|Annotator=Sv
+7	cittān	cit	VERB	_	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	acl	_	LemmaId=156255|OccId=3524819|Unsandhied=cittān|Annotator=Ol
+8	vai	vai	PART	_	_	9	orphan	_	LemmaId=118154|OccId=3524820|Unsandhied=vai|Annotator=Ol
+9	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	0	root	_	LemmaId=37875|OccId=3524821|Unsandhied=saḥ|Annotator=Ol
+10	lokān	loka	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	9	orphan	_	LemmaId=66869|OccId=3524822|Unsandhied=lokān|Annotator=Ol
+11	dhruvān	dhruva	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	7	conj	_	LemmaId=43248|OccId=3524823|Unsandhied=dhruvān|Annotator=Ol
+12	dhruvaḥ	dhruva	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	9	orphan	_	LemmaId=43248|OccId=3524824|Unsandhied=dhruvaḥ|Annotator=Ol
+13	pratiṣṭhitān	pratiṣṭhā	VERB	_	Case=Acc|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	conj	_	LemmaId=162663|OccId=3524825|Unsandhied=pratiṣṭhitān|Annotator=Ol
+14	pratiṣṭhitaḥ	pratiṣṭhā	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	orphan	_	LemmaId=162663|OccId=3524826|Unsandhied=pratiṣṭhitaḥ|Annotator=Ol
+15	a	a	PART	_	_	16	advmod	_	LemmaId=213048|OccId=5506998|Unsandhied=a|Annotator=Sv
+16	vyathamānān	vyath	VERB	_	Case=Acc|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	19	obj	_	LemmaId=159019|OccId=5506999|Unsandhied=vyathamānān|Annotator=Ol
+17	a	a	PART	_	_	18	advmod	_	LemmaId=213048|OccId=5507000|Unsandhied=a|Annotator=Sv
+18	vyathamānaḥ	vyath	VERB	_	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part	19	advcl	_	LemmaId=159019|OccId=5507001|Unsandhied=vyathamānaḥ|Annotator=Ol
+19	abhisidhyati	abhisidh	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	conj	_	LemmaId=159169|OccId=3524829|Unsandhied=abhisidhyati|Annotator=Ol
 
 # text = _ cittasya gatam tatra asya yathākāma cāraḥ bhavati yaḥ cittam brahma iti upāste
-# sent_id = 470128_1
+# sent_id = 472755_1
 1	_	yāvat	SCONJ	_	_	3	mark	_	LemmaId=64536|OccId=3524830|Unsandhied=_|Annotator=Au
 2	cittasya	citta	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	LemmaId=51356|OccId=3524831|Unsandhied=cittasya|Annotator=Au
 3	gatam	gata	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	advcl	_	LemmaId=130090|OccId=3524832|Unsandhied=gatam|Annotator=Au
@@ -155,22 +154,23 @@
 13	upāste	upās	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	5	acl:rel	_	LemmaId=160725|OccId=3524842|Unsandhied=upāste|Annotator=Au
 
 # text = asti bhagavan cittāt bhūyaḥ iti
-# sent_id = 470129_1
+# sent_id = 472756_1
 1	asti	as	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=156122|OccId=3524843|Unsandhied=asti|Annotator=Au
 2	bhagavan	bhagavat	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	LemmaId=48482|OccId=3524844|Unsandhied=bhagavan|Annotator=Au
 3	cittāt	citta	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	4	obl:grad	_	LemmaId=51356|OccId=3524845|Unsandhied=cittāt|Annotator=Ol
 4	bhūyaḥ	bhūyas	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	LemmaId=25548|OccId=3524846|Unsandhied=bhūyaḥ|Annotator=Au
 5	iti	iti	PART	_	_	1	mark	_	LemmaId=63331|OccId=3524847|Unsandhied=iti|Annotator=Au
 
-# text = cittāt bhūyaḥ asti iti
-# sent_id = 470130_1
-1	cittāt	citta	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	2	obl:grad	_	LemmaId=51356|OccId=3524848|Unsandhied=cittāt|Annotator=Ol
-2	bhūyaḥ	bhūyas	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	LemmaId=25548|OccId=3524849|Unsandhied=bhūyaḥ|Annotator=Au
-3	asti	as	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=156122|OccId=3524850|Unsandhied=asti|Annotator=Au
-4	iti	iti	PART	_	_	3	mark	_	LemmaId=63331|OccId=3524851|Unsandhied=iti|Annotator=Au
+# text = cittāt vāva bhūyaḥ asti iti
+# sent_id = 472757_1
+1	cittāt	citta	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	3	obl:grad	_	LemmaId=51356|OccId=3524848|Unsandhied=cittāt|Annotator=Ol
+2	vāva	vāva	PART	_	_	4	discourse	_	LemmaId=213758|OccId=5506997|Unsandhied=vāva|Annotator=Ol
+3	bhūyaḥ	bhūyas	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=25548|OccId=3524849|Unsandhied=bhūyaḥ|Annotator=Au
+4	asti	as	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=156122|OccId=3524850|Unsandhied=asti|Annotator=Au
+5	iti	iti	PART	_	_	4	mark	_	LemmaId=63331|OccId=3524851|Unsandhied=iti|Annotator=Au
 
 # text = tat me bhagavān bravītu iti
-# sent_id = 470131_1
+# sent_id = 472758_1
 1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	LemmaId=37875|OccId=3524852|Unsandhied=tat|Annotator=Au
 2	me	mad	PRON	_	Case=Dat|Number=Sing	4	iobj	_	LemmaId=37879|OccId=3524853|Unsandhied=me|Annotator=Au
 3	bhagavān	bhagavat	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=48482|OccId=3524854|Unsandhied=bhagavān|Annotator=Au

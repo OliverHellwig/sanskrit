@@ -2,14 +2,15 @@
 ## text_id: 365
 ## chapter: ChU, 7, 3
 ## chapter_id: 8730
-# text = manaḥ vācaḥ bhūyaḥ
-# sent_id = 470072_1
-1	manaḥ	manas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	LemmaId=36096|OccId=3522800|Unsandhied=manaḥ|Annotator=Au
-2	vācaḥ	vāc	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	3	obl:grad	_	LemmaId=76023|OccId=3522801|Unsandhied=vācaḥ|Annotator=Au
-3	bhūyaḥ	bhūyas	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=25548|OccId=3522802|Unsandhied=bhūyaḥ|Annotator=Au
+# text = manaḥ vāva vācaḥ bhūyaḥ
+# sent_id = 472699_1
+1	manaḥ	manas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=36096|OccId=3522800|Unsandhied=manaḥ|Annotator=Au
+2	vāva	vāva	PART	_	_	4	discourse	_	LemmaId=213758|OccId=5637471|Unsandhied=vāva|Annotator=Ol
+3	vācaḥ	vāc	NOUN	_	Case=Abl|Gender=Fem|Number=Sing	4	obl:grad	_	LemmaId=76023|OccId=3522801|Unsandhied=vācaḥ|Annotator=Au
+4	bhūyaḥ	bhūyas	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=25548|OccId=3522802|Unsandhied=bhūyaḥ|Annotator=Au|Punctuation=fullStop
 
 # text = yathā vai dve _ āmalake dve _ kole dvau _ akṣau muṣṭiḥ anubhavati evam vācam ca nām ca manaḥ anubhavati
-# sent_id = 470073_1
+# sent_id = 472700_1
 1	yathā	yathā	PART	_	_	13	mark	_	LemmaId=73250|OccId=3522803|Unsandhied=yathā|Annotator=Au
 2	vai	vai	PART	_	_	13	discourse	_	LemmaId=118154|OccId=3522804|Unsandhied=vai|Annotator=Au
 3	dve	dvi	NUM	_	Case=Acc|Gender=Neut|Number=Dual	5	nummod	_	LemmaId=166283|OccId=3522805|Unsandhied=dve|Annotator=Au
@@ -32,7 +33,7 @@
 20	anubhavati	anubhū	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157949|OccId=3522822|Unsandhied=anubhavati|Annotator=Au
 
 # text = saḥ _ manasā manasyati mantrān adhīyīya iti atha adhīte karmāṇi kurvīya iti atha kurute putrān ca paśūn ca iccheya iti atha icchate imam ca lokam amum ca iccheya iti atha icchate
-# sent_id = 470074_1
+# sent_id = 472701_1
 1	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	9	discourse	_	LemmaId=37875|OccId=3522823|Unsandhied=saḥ|Annotator=Ol
 2	_	yadā	SCONJ	_	_	4	mark	_	LemmaId=73645|OccId=3522824|Unsandhied=_|Annotator=Au
 3	manasā	manas	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	4	obl:instr	_	LemmaId=36096|OccId=3522825|Unsandhied=manasā|Annotator=Au
@@ -43,7 +44,7 @@
 8	atha	atha	ADV	_	_	9	advmod	_	LemmaId=7467|OccId=3522827|Unsandhied=atha|Annotator=Au
 9	adhīte	adhī	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=157633|OccId=3522828|Unsandhied=adhīte|Annotator=Au
 10	karmāṇi	karman	NOUN	_	Case=Acc|Gender=Neut|Number=Plur	11	obj	_	LemmaId=12243|OccId=3522829|Unsandhied=karmāṇi|Annotator=Au
-11	kurvīya	kṛ	VERB	_	Mood=Opt|Number=Sing|Person=1|Tense=Pres	14	orphan	_	LemmaId=156168|OccId=3522830|Unsandhied=kurvīya|Annotator=Ol
+11	kurvīya	kṛ	VERB	_	Mood=Opt|Number=Sing|Person=1|Tense=Pres	14	advcl:ccomp	_	LemmaId=156168|OccId=3522830|Unsandhied=kurvīya|Annotator=Ol
 12	iti	iti	PART	_	_	11	mark	_	LemmaId=63331|OccId=3522831|Unsandhied=iti|Annotator=Au
 13	atha	atha	ADV	_	_	14	advmod	_	LemmaId=7467|OccId=3522832|Unsandhied=atha|Annotator=Au
 14	kurute	kṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	conj	_	LemmaId=156168|OccId=3522833|Unsandhied=kurute|Annotator=Ol
@@ -51,7 +52,7 @@
 16	ca	ca	CONJ	_	_	15	cc	_	LemmaId=157144|OccId=3522835|Unsandhied=ca|Annotator=Au
 17	paśūn	paśu	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	15	conj	_	LemmaId=92688|OccId=3522836|Unsandhied=paśūn|Annotator=Au
 18	ca	ca	CONJ	_	_	17	cc	_	LemmaId=157144|OccId=3522837|Unsandhied=ca|Annotator=Au
-19	iccheya	iṣ	VERB	_	Mood=Opt|Number=Sing|Person=1|Tense=Pres	22	orphan	_	LemmaId=156131|OccId=3522838|Unsandhied=iccheya|Annotator=Ol
+19	iccheya	iṣ	VERB	_	Mood=Opt|Number=Sing|Person=1|Tense=Pres	22	advcl:ccomp	_	LemmaId=156131|OccId=3522838|Unsandhied=iccheya|Annotator=Ol
 20	iti	iti	PART	_	_	19	mark	_	LemmaId=63331|OccId=3522839|Unsandhied=iti|Annotator=Au
 21	atha	atha	ADV	_	_	22	advmod	_	LemmaId=7467|OccId=3522840|Unsandhied=atha|Annotator=Au
 22	icchate	iṣ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	conj	_	LemmaId=156131|OccId=3522841|Unsandhied=icchate|Annotator=Ol
@@ -60,37 +61,37 @@
 25	lokam	loka	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	28	obj	_	LemmaId=66869|OccId=3522844|Unsandhied=lokam|Annotator=Au
 26	amum	adas	PRON	_	Case=Acc|Gender=Masc|Number=Sing	25	conj	_	LemmaId=163742|OccId=3522845|Unsandhied=amum|Annotator=Au
 27	ca	ca	CONJ	_	_	26	cc	_	LemmaId=157144|OccId=3522846|Unsandhied=ca|Annotator=Au
-28	iccheya	iṣ	VERB	_	Mood=Opt|Number=Sing|Person=1|Tense=Pres	31	orphan	_	LemmaId=156131|OccId=3522847|Unsandhied=iccheya|Annotator=Ol
+28	iccheya	iṣ	VERB	_	Mood=Opt|Number=Sing|Person=1|Tense=Pres	31	advcl:ccomp	_	LemmaId=156131|OccId=3522847|Unsandhied=iccheya|Annotator=Ol
 29	iti	iti	PART	_	_	28	mark	_	LemmaId=63331|OccId=3522848|Unsandhied=iti|Annotator=Au
 30	atha	atha	ADV	_	_	31	advmod	_	LemmaId=7467|OccId=3522849|Unsandhied=atha|Annotator=Au
 31	icchate	iṣ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	9	conj	_	LemmaId=156131|OccId=3522850|Unsandhied=icchate|Annotator=Ol
 
 # text = manaḥ hi ātmā
-# sent_id = 470078_1
+# sent_id = 472705_1
 1	manaḥ	manas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=36096|OccId=3522851|Unsandhied=manaḥ|Annotator=Ol
 2	hi	hi	PART	_	_	1	discourse	_	LemmaId=109879|OccId=3522852|Unsandhied=hi|Annotator=Ol
 3	ātmā	ātman	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=57749|OccId=3522853|Unsandhied=ātmā|Annotator=Ol
 
 # text = manaḥ hi lokaḥ
-# sent_id = 470079_1
+# sent_id = 472706_1
 1	manaḥ	manas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=36096|OccId=3522854|Unsandhied=manaḥ|Annotator=Au
 2	hi	hi	PART	_	_	1	discourse	_	LemmaId=109879|OccId=3522855|Unsandhied=hi|Annotator=Au
 3	lokaḥ	loka	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	1	nsubj	_	LemmaId=66869|OccId=3522856|Unsandhied=lokaḥ|Annotator=Au
 
 # text = manaḥ hi brahma
-# sent_id = 470080_1
+# sent_id = 472707_1
 1	manaḥ	manas	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=36096|OccId=3522857|Unsandhied=manaḥ|Annotator=Ol
 2	hi	hi	PART	_	_	1	discourse	_	LemmaId=109879|OccId=3522858|Unsandhied=hi|Annotator=Ol
 3	brahma	brahman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	LemmaId=149176|OccId=3522859|Unsandhied=brahma|Annotator=Ol
 
 # text = manaḥ upāssva iti
-# sent_id = 470081_1
+# sent_id = 472708_1
 1	manaḥ	manas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obl	_	LemmaId=36096|OccId=3522860|Unsandhied=manaḥ|Annotator=Au
 2	upāssva	upās	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=160725|OccId=3522861|Unsandhied=upāssva|Annotator=Au
 3	iti	iti	PART	_	_	2	mark	_	LemmaId=63331|OccId=3522862|Unsandhied=iti|Annotator=Au
 
 # text = saḥ yaḥ manaḥ brahma iti upāste yāvat manasaḥ gatam tatra asya yathākāma cāraḥ bhavati yaḥ manaḥ brahma iti upāste
-# sent_id = 470083_1
+# sent_id = 472710_1
 1	saḥ	tad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	14	discourse	_	LemmaId=37875|OccId=3522863|Unsandhied=saḥ|Annotator=Ol
 2	yaḥ	yad	PRON	_	Case=Nom|Gender=Masc|Number=Sing	6	nsubj	_	LemmaId=37877|OccId=3522864|Unsandhied=yaḥ|Annotator=Au
 3	manaḥ	manas	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	6	obj	_	LemmaId=36096|OccId=3522865|Unsandhied=manaḥ|Annotator=Au
@@ -112,22 +113,23 @@
 19	upāste	upās	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	11	acl:rel	_	LemmaId=160725|OccId=3522881|Unsandhied=upāste|Annotator=Au
 
 # text = asti bhagavan manasaḥ bhūyaḥ iti
-# sent_id = 470084_1
+# sent_id = 472711_1
 1	asti	as	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=156122|OccId=3522882|Unsandhied=asti|Annotator=Au
 2	bhagavan	bhagavat	ADJ	_	Case=Voc|Gender=Masc|Number=Sing	1	vocative	_	LemmaId=48482|OccId=3522883|Unsandhied=bhagavan|Annotator=Au
 3	manasaḥ	manas	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	4	obl:grad	_	LemmaId=36096|OccId=3522884|Unsandhied=manasaḥ|Annotator=Ol
 4	bhūyaḥ	bhūyas	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	LemmaId=25548|OccId=3522885|Unsandhied=bhūyaḥ|Annotator=Au
 5	iti	iti	PART	_	_	1	mark	_	LemmaId=63331|OccId=3522886|Unsandhied=iti|Annotator=Au
 
-# text = manasaḥ bhūyaḥ asti iti
-# sent_id = 470085_1
-1	manasaḥ	manas	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	2	obl:grad	_	LemmaId=36096|OccId=3522887|Unsandhied=manasaḥ|Annotator=Ol
-2	bhūyaḥ	bhūyas	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	nsubj	_	LemmaId=25548|OccId=3522888|Unsandhied=bhūyaḥ|Annotator=Au
-3	asti	as	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=156122|OccId=3522889|Unsandhied=asti|Annotator=Au
-4	iti	iti	PART	_	_	3	mark	_	LemmaId=63331|OccId=3522890|Unsandhied=iti|Annotator=Au
+# text = manasaḥ vāva bhūyaḥ asti iti
+# sent_id = 472712_1
+1	manasaḥ	manas	NOUN	_	Case=Abl|Gender=Neut|Number=Sing	3	obl:grad	_	LemmaId=36096|OccId=3522887|Unsandhied=manasaḥ|Annotator=Ol
+2	vāva	vāva	PART	_	_	4	discourse	_	LemmaId=213758|OccId=5637472|Unsandhied=vāva|Annotator=Ol
+3	bhūyaḥ	bhūyas	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	LemmaId=25548|OccId=3522888|Unsandhied=bhūyaḥ|Annotator=Au
+4	asti	as	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=156122|OccId=3522889|Unsandhied=asti|Annotator=Au
+5	iti	iti	PART	_	_	4	mark	_	LemmaId=63331|OccId=3522890|Unsandhied=iti|Annotator=Au|Punctuation=fullStop
 
 # text = tat me bhagavān bravītu iti
-# sent_id = 470086_1
+# sent_id = 472713_1
 1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	4	obj	_	LemmaId=37875|OccId=3522891|Unsandhied=tat|Annotator=Au
 2	me	mad	PRON	_	Case=Dat|Number=Sing	4	iobj	_	LemmaId=37879|OccId=3522892|Unsandhied=me|Annotator=Au
 3	bhagavān	bhagavat	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=48482|OccId=3522893|Unsandhied=bhagavān|Annotator=Au

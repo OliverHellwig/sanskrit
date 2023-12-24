@@ -3,19 +3,19 @@
 ## chapter: ṚV, 10, 123
 ## chapter_id: 9898
 # text = ayam venaḥ codayat pṛśni garbhāḥ jyotiḥ jarāyū rajasaḥ vimāne
-# sent_id = 597488_1
+# sent_id = 601764_1
 1	ayam	idam	PRON	_	Case=Nom|Gender=Masc|Number=Sing	2	det	_	LemmaId=37876|OccId=4352666|Unsandhied=ayam|Annotator=Er
 2	venaḥ	vena	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	LemmaId=143120|OccId=4352667|Unsandhied=venaḥ|Annotator=Er
 3	codayat	coday	VERB	_	Mood=Jus|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=158613|OccId=4785105|Unsandhied=codayat|Annotator=Er
-4	pṛśni	pṛśni	NOUN	_	Case=Cpd|Gender=Fem	5	appos	_	LemmaId=150068|OccId=4352669|Unsandhied=pṛśni|Annotator=Er
+4	pṛśni	pṛśni	NOUN	_	Case=Cpd|Gender=Fem	5	nmod:pred	_	LemmaId=150068|OccId=4352669|Unsandhied=pṛśni|Annotator=Er
 5	garbhāḥ	garbha	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	3	obj	_	LemmaId=129602|OccId=4352670|Unsandhied=garbhāḥ|Annotator=Er
-6	jyotiḥ	jyotis	NOUN	_	Case=Cpd|Gender=Neut	7	appos	_	LemmaId=95369|OccId=4352671|Unsandhied=jyotiḥ|Annotator=Er
-7	jarāyū	jarāyu	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	appos:attr	_	LemmaId=87979|OccId=4352672|Unsandhied=jarāyū|Annotator=Er
+6	jyotiḥ	jyotis	NOUN	_	Case=Cpd|Gender=Neut	7	nmod:pred	_	LemmaId=95369|OccId=4352671|Unsandhied=jyotiḥ|Annotator=Er
+7	jarāyū	jarāyu	NOUN	_	Case=Acc|Gender=Fem|Number=Plur	5	appos	_	LemmaId=87979|OccId=4352672|Unsandhied=jarāyū|Annotator=Er
 8	rajasaḥ	rajas	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	LemmaId=65999|OccId=4352673|Unsandhied=rajasaḥ|Annotator=Er
 9	vimāne	vimāna	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	3	obl:loc	_	LemmaId=123118|OccId=4352674|Unsandhied=vimāne|Annotator=Er|Punctuation=fullStop
 
 # text = imam apām saṃgame sūryasya śiśum na viprāḥ matibhiḥ rihanti
-# sent_id = 597489_1
+# sent_id = 601765_1
 1	imam	idam	PRON	_	Case=Acc|Gender=Masc|Number=Sing	9	obj	_	LemmaId=37876|OccId=4352675|Unsandhied=imam|Annotator=Er
 2	apām	ap	NOUN	_	Case=Gen|Gender=Fem|Number=Plur	3	nmod	_	LemmaId=167009|OccId=4352676|Unsandhied=apām|Annotator=Er
 3	saṃgame	saṃgama	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	9	obl:loc	_	LemmaId=8977|OccId=4352677|Unsandhied=saṃgame|Annotator=Er
@@ -27,7 +27,7 @@
 9	rihanti	rih	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres	0	root	_	LemmaId=217463|OccId=4352683|Unsandhied=rihanti|Annotator=Er|Punctuation=fullStop
 
 # text = samudrād ūrmim ud iyarti veno nabhojāḥ pṛṣṭhaṃ haryatasya darśi
-# sent_id = 597490
+# sent_id = 601766
 # sent_counter = 2
 # sent_subcounter = 1
 1	samudrād	samudra	NOUN	_	Case=Abl|Gender=Masc|Number=Sing	_	_	_	LemmaId=30275|OccId=4352684|Unsandhied=samudrāt
@@ -43,7 +43,7 @@
 10	darśi	dṛś	VERB	_	Tense=Past|Mood=Ind|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157766|OccId=4352802|Unsandhied=darśi
 
 # text = ṛtasya sānāv adhi viṣṭapi bhrāṭ samānaṃ yonim abhy anūṣata vrāḥ
-# sent_id = 597491
+# sent_id = 601767
 # sent_counter = 2
 # sent_subcounter = 2
 1	ṛtasya	ṛta	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=38665|OccId=4352693|Unsandhied=ṛtasya
@@ -58,7 +58,7 @@
 10	vrāḥ	vrā	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=114703|OccId=4352701|Unsandhied=vrāḥ|Punctuation=fullStop
 
 # text = samānam pūrvīr abhi vāvaśānās tiṣṭhan vatsasya mātaraḥ sanīḍāḥ
-# sent_id = 597492
+# sent_id = 601768
 # sent_counter = 3
 # sent_subcounter = 1
 1	samānam	samāna	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=29763|OccId=4352702|Unsandhied=samānam
@@ -71,7 +71,7 @@
 8	sanīḍāḥ	sanīḍa	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=17459|OccId=4352805|Unsandhied=sanīḍāḥ|Punctuation=fullStop
 
 # text = ṛtasya sānāv adhi cakramāṇā rihanti madhvo amṛtasya vāṇīḥ
-# sent_id = 597493
+# sent_id = 601769
 # sent_counter = 3
 # sent_subcounter = 2
 1	ṛtasya	ṛta	NOUN	_	Case=Gen|Gender=Neut|Number=Sing	_	_	_	LemmaId=38665|OccId=4352708|Unsandhied=ṛtasya
@@ -84,7 +84,7 @@
 8	vāṇīḥ	vāṇī	NOUN	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=76515|OccId=4352714|Unsandhied=vāṇīḥ|Punctuation=fullStop
 
 # text = jānanto rūpam akṛpanta viprā mṛgasya ghoṣam mahiṣasya hi gman
-# sent_id = 597494
+# sent_id = 601770
 # sent_counter = 4
 # sent_subcounter = 1
 1	jānanto	jñā	VERB	_	Case=Nom|Gender=Masc|Number=Plur|Tense=Pres|VerbForm=Part	_	_	_	LemmaId=157151|OccId=4352715|Unsandhied=jānantaḥ
@@ -98,7 +98,7 @@
 9	gman	gam	VERB	_	Tense=Past|Mood=Jus|Person=3|Number=Plur	_	_	_	LemmaId=156214|OccId=4745659|Unsandhied=gman|Punctuation=fullStop
 
 # text = ṛtena yanto adhi sindhum asthur vidad gandharvo amṛtāni nāma
-# sent_id = 597495
+# sent_id = 601771
 # sent_counter = 4
 # sent_subcounter = 2
 1	ṛtena	ṛta	NOUN	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	LemmaId=38665|OccId=4352724|Unsandhied=ṛtena
@@ -112,7 +112,7 @@
 9	nāma	nāman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=33597|OccId=4352732|Unsandhied=nāma|Punctuation=fullStop
 
 # text = apsarā jāram upasiṣmiyāṇā yoṣā bibharti parame vyoman
-# sent_id = 597496
+# sent_id = 601772
 # sent_counter = 5
 # sent_subcounter = 1
 1	apsarā	apsaras	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=21861|OccId=4352733|Unsandhied=apsarāḥ
@@ -124,7 +124,7 @@
 7	vyoman	vyoman	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=115316|OccId=4352738|Unsandhied=vyoman|Punctuation=fullStop
 
 # text = carat priyasya yoniṣu priyaḥ san sīdat pakṣe hiraṇyaye sa venaḥ
-# sent_id = 597497
+# sent_id = 601773
 # sent_counter = 5
 # sent_subcounter = 2
 1	carat	car	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Sing	_	_	_	LemmaId=156249|OccId=4785106|Unsandhied=carat
@@ -139,7 +139,7 @@
 10	venaḥ	vena	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=143120|OccId=4352748|Unsandhied=venaḥ|Punctuation=fullStop
 
 # text = nāke suparṇam upa yat patantaṃ hṛdā venanto abhy acakṣata tvā
-# sent_id = 597498
+# sent_id = 601774
 # sent_counter = 6
 # sent_subcounter = 1
 1	nāke	nāka	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=32980|OccId=4352749|Unsandhied=nāke
@@ -154,7 +154,7 @@
 10	tvā	tvad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37880|OccId=4352758|Unsandhied=tvā
 
 # text = hiraṇyapakṣaṃ varuṇasya dūtaṃ yamasya yonau śakunam bhuraṇyum
-# sent_id = 597499
+# sent_id = 601775
 # sent_counter = 6
 # sent_subcounter = 2
 1-2	hiraṇyapakṣaṃ	_	_	_	_	_	_	_	_
@@ -168,7 +168,7 @@
 8	bhuraṇyum	bhuraṇyu	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=50588|OccId=4352766|Unsandhied=bhuraṇyum|Punctuation=comma
 
 # text = ūrdhvaḥ gandharvaḥ adhi nāke asthāt pratyaṅ citrā bibhrat asya āyudhāni vasānaḥ atkam surabhim dṛśe kam svar na
-# sent_id = 597500_1
+# sent_id = 601776_1
 1	ūrdhvaḥ	ūrdhva	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	2	acl:dpct	_	LemmaId=38446|OccId=4352767|Unsandhied=ūrdhvaḥ|Annotator=Er
 2	gandharvaḥ	gandharva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	LemmaId=130069|OccId=4352768|Unsandhied=gandharvaḥ|Annotator=Er
 3	adhi	adhi	ADP	_	_	4	case	_	LemmaId=170078|OccId=4352769|Unsandhied=adhi|Annotator=Er
@@ -188,13 +188,13 @@
 17	na	na	PART	_	_	16	case:sim	_	LemmaId=43432|OccId=4352808|Unsandhied=na|Annotator=Er|Punctuation=fullStop
 
 # text = nāma janata priyāṇi
-# sent_id = 597501_1
+# sent_id = 601777_1
 1	nāma	nāman	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=33597|OccId=4352783|Unsandhied=nāma|Annotator=Er
 2	janata	jan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=156584|OccId=4352809|Unsandhied=janata|Annotator=Er
 3	priyāṇi	priya	ADJ	_	Case=Acc|Gender=Neut|Number=Plur	1	amod	_	LemmaId=153185|OccId=4352784|Unsandhied=priyāṇi|Annotator=Er|Punctuation=fullStop
 
 # text = drapsaḥ samudram abhi yaj jigāti paśyan gṛdhrasya cakṣasā vidharman
-# sent_id = 597502
+# sent_id = 601778
 # sent_counter = 8
 # sent_subcounter = 1
 1	drapsaḥ	drapsa	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=90399|OccId=4352785|Unsandhied=drapsaḥ
@@ -208,7 +208,7 @@
 9	vidharman	vidharman	NOUN	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	LemmaId=122880|OccId=4352793|Unsandhied=vidharman|Punctuation=comma
 
 # text = bhānuḥ śukreṇa śociṣā cakānas tṛtīye cakre rajasi priyāṇi
-# sent_id = 597503
+# sent_id = 601779
 # sent_counter = 8
 # sent_subcounter = 2
 1	bhānuḥ	bhānu	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=49438|OccId=4352794|Unsandhied=bhānuḥ
