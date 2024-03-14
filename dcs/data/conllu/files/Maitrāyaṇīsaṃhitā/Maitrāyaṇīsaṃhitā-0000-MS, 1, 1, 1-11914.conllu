@@ -3,64 +3,54 @@
 ## chapter: MS, 1, 1, 1
 ## chapter_id: 11914
 # text = iṣe tvā subhūtāya
-# sent_id = 653373
-# sent_counter = 1
-# sent_subcounter = 
-1	iṣe	iṣ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	LemmaId=171336|OccId=4892795|Unsandhied=iṣe
-2	tvā	tvad	PRON	_	Case=Acc|Number=Sing	_	_	_	LemmaId=37880|OccId=4892796|Unsandhied=tvā
-3	subhūtāya	subhūta	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=108249|OccId=4892797|Unsandhied=subhūtāya|Punctuation=fullStop
+# sent_id = 658071_1
+1	iṣe	iṣ	NOUN	_	Case=Dat|Gender=Fem|Number=Sing	2	orphan	_	LemmaId=171336|OccId=4892795|Unsandhied=iṣe|Annotator=Ol
+2	tvā	tvad	PRON	_	Case=Acc|Number=Sing	0	root	_	LemmaId=37880|OccId=4892796|Unsandhied=tvā|Annotator=Ol
+3	subhūtāya	subhūta	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	1	conj	_	LemmaId=108249|OccId=4892797|Unsandhied=subhūtāya|Annotator=Ol|Punctuation=fullStop
 
 # text = vāyavaḥ stha
-# sent_id = 653374
-# sent_counter = 2
-# sent_subcounter = 
-1	vāyavaḥ	vāyu	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	_	_	_	LemmaId=76933|OccId=4892798|Unsandhied=vāyavaḥ|IsMantra=True
-2	stha	as	VERB	_	Tense=Pres|Mood=Ind|Person=2|Number=Plur	_	_	_	LemmaId=156122|OccId=4892799|Unsandhied=stha|Punctuation=fullStop|IsMantra=True
+# sent_id = 658072_1
+1	vāyavaḥ	vāyu	NOUN	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	LemmaId=76933|OccId=4892798|Unsandhied=vāyavaḥ|Annotator=Ol
+2	stha	as	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres	1	cop	_	LemmaId=156122|OccId=4892799|Unsandhied=stha|Annotator=Ol|Punctuation=fullStop
 
-# text = devo vaḥ savitā prārpayatu śreṣṭhatamāya karmaṇe
-# sent_id = 653375
-# sent_counter = 3
-# sent_subcounter = 
-1	devo	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=86559|OccId=4892800|Unsandhied=devaḥ|IsMantra=True
-2	vaḥ	tvad	PRON	_	Case=Acc|Number=Plur	_	_	_	LemmaId=37880|OccId=4892801|Unsandhied=vaḥ|IsMantra=True
-3	savitā	savitṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=105325|OccId=4892802|Unsandhied=savitā|IsMantra=True
-4	prārpayatu	prārpay	VERB	_	Tense=Pres|Mood=Imp|Person=3|Number=Sing	_	_	_	LemmaId=170058|OccId=4892803|Unsandhied=prārpayatu|IsMantra=True
-5	śreṣṭhatamāya	śreṣṭhatama	ADJ	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=40953|OccId=4892804|Unsandhied=śreṣṭhatamāya|IsMantra=True
-6	karmaṇe	karman	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	LemmaId=12243|OccId=4892823|Unsandhied=karmaṇe|Punctuation=fullStop|IsMantra=True
+# text = devaḥ vaḥ savitā prārpayatu śreṣṭhatamāya karmaṇe
+# sent_id = 658073_1
+1	devaḥ	deva	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	3	nmod:appos	_	LemmaId=86559|OccId=4892800|Unsandhied=devaḥ|Annotator=Ol
+2	vaḥ	tvad	PRON	_	Case=Acc|Number=Plur	4	obj	_	LemmaId=37880|OccId=4892801|Unsandhied=vaḥ|Annotator=Ol
+3	savitā	savitṛ	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=105325|OccId=4892802|Unsandhied=savitā|Annotator=Ol
+4	prārpayatu	prārpay	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=170058|OccId=4892803|Unsandhied=prārpayatu|Annotator=Ol
+5	śreṣṭhatamāya	śreṣṭhatama	ADJ	_	Case=Dat|Gender=Neut|Number=Sing	6	amod	_	LemmaId=40953|OccId=4892804|Unsandhied=śreṣṭhatamāya|Annotator=Ol
+6	karmaṇe	karman	NOUN	_	Case=Dat|Gender=Neut|Number=Sing	4	advcl:fin	_	LemmaId=12243|OccId=4892823|Unsandhied=karmaṇe|Annotator=Ol|Punctuation=fullStop
 
-# text = āpyāyadhvam aghnyā devebhyā indrāya bhāgam
-# sent_id = 653376
-# sent_counter = 4
-# sent_subcounter = 
-1	āpyāyadhvam	āpyā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Plur	_	_	_	LemmaId=159828|OccId=4892805|Unsandhied=āpyāyadhvam
-2	aghnyā	aghnyā	NOUN	_	Case=Voc|Gender=Fem|Number=Plur	_	_	_	LemmaId=6084|OccId=4892806|Unsandhied=aghnyāḥ
-3	devebhyā	deva	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	_	_	_	LemmaId=86559|OccId=4892824|Unsandhied=devebhyaḥ
-4	indrāya	indra	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	_	_	_	LemmaId=63463|OccId=4892807|Unsandhied=indrāya
-5	bhāgam	bhāga	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=49485|OccId=4892808|Unsandhied=bhāgam|Punctuation=fullStop
+# text = āpyāyadhvam aghnyāḥ devebhyaḥ indrāya bhāgam
+# sent_id = 658074_1
+1	āpyāyadhvam	āpyā	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres	0	root	_	LemmaId=159828|OccId=4892805|Unsandhied=āpyāyadhvam|Annotator=Ol
+2	aghnyāḥ	aghnyā	NOUN	_	Case=Voc|Gender=Fem|Number=Plur	1	vocative	_	LemmaId=6084|OccId=4892806|Unsandhied=aghnyāḥ|Annotator=Ol
+3	devebhyaḥ	deva	NOUN	_	Case=Dat|Gender=Masc|Number=Plur	1	iobj	_	LemmaId=86559|OccId=4892824|Unsandhied=devebhyaḥ|Annotator=Ol
+4	indrāya	indra	NOUN	_	Case=Dat|Gender=Masc|Number=Sing	3	conj	_	LemmaId=63463|OccId=4892807|Unsandhied=indrāya|Annotator=Ol
+5	bhāgam	bhāga	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	1	obj	_	LemmaId=49485|OccId=4892808|Unsandhied=bhāgam|Annotator=Ol|Punctuation=fullStop
 
-# text = mā vaḥ stena īśata māghaśaṃso dhruvā asmin gopatau syāta bahvīḥ
-# sent_id = 653377
-# sent_counter = 5
-# sent_subcounter = 
-1	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4892809|Unsandhied=mā|IsMantra=True
-2	vaḥ	tvad	PRON	_	Case=Gen|Number=Plur	_	_	_	LemmaId=37880|OccId=4892810|Unsandhied=vaḥ|IsMantra=True
-3	stena	stena	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=102527|OccId=4892811|Unsandhied=stenaḥ|IsMantra=True
-4	īśata	īś	VERB	_	Tense=Pres|Mood=Jus|Person=3|Number=Sing	_	_	_	LemmaId=156137|OccId=4892812|Unsandhied=īśata|Punctuation=comma|IsMantra=True
-5-7	māghaśaṃso	_	_	_	_	_	_	_	_
-5	mā	mā	PART	_		_	_	_	LemmaId=170120|OccId=4892813|Unsandhied=mā|IsMantra=True
-6	agha	agha	ADJ	_	Case=Cpd	_	_	_	LemmaId=6035|OccId=4892814|Unsandhied=agha|IsMantra=True
-7	śaṃsaḥ	śaṃsa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=116300|OccId=4892815|Unsandhied=śaṃsaḥ|Punctuation=fullStop|IsMantra=True
-8	dhruvā	dhruva	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=43248|OccId=4892825|Unsandhied=dhruvāḥ|IsMantra=True
-9	asmin	idam	PRON	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=37876|OccId=4892816|Unsandhied=asmin|IsMantra=True
-10	gopatau	gopati	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	LemmaId=125370|OccId=4892817|Unsandhied=gopatau|IsMantra=True
-11	syāta	as	VERB	_	Tense=Pres|Mood=Opt|Person=2|Number=Plur	_	_	_	LemmaId=156122|OccId=4892818|Unsandhied=syāta|IsMantra=True
-12	bahvīḥ	bahu	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	_	_	_	LemmaId=154412|OccId=4892819|Unsandhied=bahvīḥ|Punctuation=fullStop|IsMantra=True
+# text = mā vaḥ stenaḥ īśata mā agha śaṃsaḥ
+# sent_id = 658075_1
+1	mā	mā	PART	_	_	4	advmod	_	LemmaId=170120|OccId=4892809|Unsandhied=mā|Annotator=Ol
+2	vaḥ	tvad	PRON	_	Case=Gen|Number=Plur	4	obj	_	LemmaId=37880|OccId=4892810|Unsandhied=vaḥ|Annotator=Ol
+3	stenaḥ	stena	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	4	nsubj	_	LemmaId=102527|OccId=4892811|Unsandhied=stenaḥ|Annotator=Ol
+4	īśata	īś	VERB	_	Mood=Jus|Number=Sing|Person=3|Tense=Pres	0	root	_	LemmaId=156137|OccId=4892812|Unsandhied=īśata|Annotator=Ol|Punctuation=comma
+5	mā	mā	PART	_	_	7	orphan	_	LemmaId=170120|OccId=4892813|Unsandhied=mā|Annotator=Ol
+6	agha	agha	ADJ	_	Case=Cpd	7	obj	_	LemmaId=6035|OccId=4892814|Unsandhied=agha|Annotator=Ol
+7	śaṃsaḥ	śaṃsa	ADJ	_	Case=Nom|Gender=Masc|Number=Sing	4	conj	_	LemmaId=116300|OccId=4892815|Unsandhied=śaṃsaḥ|Annotator=Ol|Punctuation=fullStop
+
+# text = dhruvāḥ asmin gopatau syāta bahvīḥ
+# sent_id = 658075_2
+1	dhruvāḥ	dhruva	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	0	root	_	LemmaId=43248|OccId=4892825|Unsandhied=dhruvāḥ|Annotator=Ol
+2	asmin	idam	PRON	_	Case=Loc|Gender=Masc|Number=Sing	3	det	_	LemmaId=37876|OccId=4892816|Unsandhied=asmin|Annotator=Ol
+3	gopatau	gopati	NOUN	_	Case=Loc|Gender=Masc|Number=Sing	1	obl:loc	_	LemmaId=125370|OccId=4892817|Unsandhied=gopatau|Annotator=Ol
+4	syāta	as	VERB	_	Mood=Opt|Number=Plur|Person=2|Tense=Pres	1	cop	_	LemmaId=156122|OccId=4892818|Unsandhied=syāta|Annotator=Ol
+5	bahvīḥ	bahu	ADJ	_	Case=Nom|Gender=Fem|Number=Plur	1	conj	_	LemmaId=154412|OccId=4892819|Unsandhied=bahvīḥ|Annotator=Ol|Punctuation=fullStop
 
 # text = yajamānasya paśūn pāhi
-# sent_id = 653378
-# sent_counter = 6
-# sent_subcounter = 
-1	yajamānasya	yajamāna	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	LemmaId=72876|OccId=4892820|Unsandhied=yajamānasya|IsMantra=True
-2	paśūn	paśu	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=92688|OccId=4892821|Unsandhied=paśūn|IsMantra=True
-3	pāhi	pā	VERB	_	Tense=Pres|Mood=Imp|Person=2|Number=Sing	_	_	_	LemmaId=157846|OccId=4892822|Unsandhied=pāhi|Punctuation=fullStop|IsMantra=True
+# sent_id = 658076_1
+1	yajamānasya	yajamāna	NOUN	_	Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	LemmaId=72876|OccId=4892820|Unsandhied=yajamānasya|Annotator=Ol
+2	paśūn	paśu	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	3	obj	_	LemmaId=92688|OccId=4892821|Unsandhied=paśūn|Annotator=Ol
+3	pāhi	pā	VERB	_	Mood=Imp|Number=Sing|Person=2|Tense=Pres	0	root	_	LemmaId=157846|OccId=4892822|Unsandhied=pāhi|Annotator=Ol|Punctuation=fullStop
 

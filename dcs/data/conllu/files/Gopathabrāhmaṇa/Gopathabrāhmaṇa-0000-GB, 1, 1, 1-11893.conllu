@@ -3,7 +3,7 @@
 ## chapter: GB, 1, 1, 1
 ## chapter_id: 11893
 # text = om brahma ha vai idam agre āsīt svayaṃbhu ekam eva
-# sent_id = 666103_1
+# sent_id = 670801_1
 1	om	oṃ	INTJ	_	_	8	discourse	_	LemmaId=40111|OccId=4886578|Unsandhied=om|Annotator=Ol
 2	brahma	brahman	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	LemmaId=149176|OccId=4886579|Unsandhied=brahma|Annotator=Ol
 3	ha	ha	PART	_	_	8	discourse	_	LemmaId=169970|OccId=4886580|Unsandhied=ha|Annotator=Ol
@@ -15,40 +15,37 @@
 9	ekam	eka	NUM	_	Case=Nom|Gender=Neut|Number=Sing	8	conj	_	LemmaId=39102|OccId=4886586|Unsandhied=ekam|Annotator=Ol
 10	eva	eva	PART	_	_	9	discourse	_	LemmaId=39754|OccId=4886587|Unsandhied=eva|Annotator=Ol|Punctuation=fullStop
 
-# text = tat aikṣata
-# sent_id = 666104_1
+# text = tat aikṣata mahat vai yakṣam yat ekam eva asmi hanta aham mat eva mad mātram dvitīyam devam nirmime iti
+# sent_id = 670802_1
 1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=37875|OccId=4886588|Unsandhied=tat|Annotator=Ol
 2	aikṣata	īkṣ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=156133|OccId=4886589|Unsandhied=aikṣata|Annotator=Ol|Punctuation=fullStop
-
-# text = mahat vai yakṣam yat ekam eva asmi hanta aham mat eva mad mātram dvitīyam devam nirmime iti
-# sent_id = 666105_1
-1	mahat	mahat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	3	amod	_	LemmaId=37544|OccId=4886661|Unsandhied=mahat|Annotator=Ol
-2	vai	vai	PART	_	_	3	discourse	_	LemmaId=118154|OccId=4886591|Unsandhied=vai|Annotator=Ol
-3	yakṣam	yakṣa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	0	root	_	LemmaId=72793|OccId=4886662|Unsandhied=yakṣam|Annotator=Ol|Punctuation=comma
-4	yat	yat	SCONJ	_	_	5	mark	_	LemmaId=73227|OccId=4886592|Unsandhied=yat|Annotator=Ol
-5	ekam	eka	NUM	_	Case=Nom|Gender=Neut|Number=Sing	3	csubj	_	LemmaId=39102|OccId=4886593|Unsandhied=ekam|Annotator=Ol
-6	eva	eva	PART	_	_	5	discourse	_	LemmaId=39754|OccId=4886594|Unsandhied=eva|Annotator=Ol
-7	asmi	as	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	cop	_	LemmaId=156122|OccId=4886595|Unsandhied=asmi|Annotator=Ol|Punctuation=fullStop
-8	hanta	hanta	INTJ	_	_	16	discourse	_	LemmaId=108511|OccId=4886596|Unsandhied=hanta|Annotator=Ol
-9	aham	mad	PRON	_	Case=Nom|Number=Sing	16	nsubj	_	LemmaId=37879|OccId=4886597|Unsandhied=aham|Annotator=Ol
-10	mat	mad	PRON	_	Case=Abl|Number=Sing	16	obl	_	LemmaId=37879|OccId=4886598|Unsandhied=mat|Annotator=Ol
-11	eva	eva	PART	_	_	10	discourse	_	LemmaId=39754|OccId=4886599|Unsandhied=eva|Annotator=Ol
-12	mad	mad	PRON	_	Case=Cpd	13	nmod	_	LemmaId=37879|OccId=4886600|Unsandhied=mad|Annotator=Ol
-13	mātram	mātra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	15	acl	_	LemmaId=78185|OccId=4886601|Unsandhied=mātram|Annotator=Ol
-14	dvitīyam	dvitīya	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	15	amod	_	LemmaId=91331|OccId=4886602|Unsandhied=dvitīyam|Annotator=Ol
-15	devam	deva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	16	obj	_	LemmaId=86559|OccId=4886603|Unsandhied=devam|Annotator=Ol
-16	nirmime	nirmā	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	3	parataxis	_	LemmaId=161416|OccId=4886667|Unsandhied=nirmime|Annotator=Ol
-17	iti	iti	PART	_	_	16	mark	_	LemmaId=63331|OccId=4886604|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
+3	mahat	mahat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	5	amod	_	LemmaId=37544|OccId=4886661|Unsandhied=mahat|Annotator=Ol
+4	vai	vai	PART	_	_	5	discourse	_	LemmaId=118154|OccId=4886591|Unsandhied=vai|Annotator=Ol
+5	yakṣam	yakṣa	NOUN	_	Case=Nom|Gender=Neut|Number=Sing	2	ccomp	_	LemmaId=72793|OccId=4886662|Unsandhied=yakṣam|Annotator=Ol|Punctuation=comma
+6	yat	yat	SCONJ	_	_	7	mark	_	LemmaId=73227|OccId=4886592|Unsandhied=yat|Annotator=Ol
+7	ekam	eka	NUM	_	Case=Nom|Gender=Neut|Number=Sing	5	csubj	_	LemmaId=39102|OccId=4886593|Unsandhied=ekam|Annotator=Ol
+8	eva	eva	PART	_	_	7	discourse	_	LemmaId=39754|OccId=4886594|Unsandhied=eva|Annotator=Ol
+9	asmi	as	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	7	cop	_	LemmaId=156122|OccId=4886595|Unsandhied=asmi|Annotator=Ol|Punctuation=fullStop
+10	hanta	hanta	INTJ	_	_	18	discourse	_	LemmaId=108511|OccId=4886596|Unsandhied=hanta|Annotator=Ol
+11	aham	mad	PRON	_	Case=Nom|Number=Sing	18	nsubj	_	LemmaId=37879|OccId=4886597|Unsandhied=aham|Annotator=Ol
+12	mat	mad	PRON	_	Case=Abl|Number=Sing	18	obl:source	_	LemmaId=37879|OccId=4886598|Unsandhied=mat|Annotator=Ol
+13	eva	eva	PART	_	_	12	discourse	_	LemmaId=39754|OccId=4886599|Unsandhied=eva|Annotator=Ol
+14	mad	mad	PRON	_	Case=Cpd	15	nmod	_	LemmaId=37879|OccId=4886600|Unsandhied=mad|Annotator=Ol
+15	mātram	mātra	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	17	acl	_	LemmaId=78185|OccId=4886601|Unsandhied=mātram|Annotator=Ol
+16	dvitīyam	dvitīya	ADJ	_	Case=Acc|Gender=Masc|Number=Sing	17	amod	_	LemmaId=91331|OccId=4886602|Unsandhied=dvitīyam|Annotator=Ol
+17	devam	deva	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	18	obj	_	LemmaId=86559|OccId=4886603|Unsandhied=devam|Annotator=Ol
+18	nirmime	nirmā	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres	5	parataxis	_	LemmaId=161416|OccId=4886667|Unsandhied=nirmime|Annotator=Ol
+19	iti	iti	PART	_	_	18	mark	_	LemmaId=63331|OccId=4886604|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
 
 # text = tat abhyaśrāmyat abhyatapat samatapat
-# sent_id = 666107_1
+# sent_id = 670805_1
 1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	advmod	_	LemmaId=37875|OccId=4886605|Unsandhied=tat|Annotator=Ol
 2	abhyaśrāmyat	abhiśram	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=169971|OccId=4886606|Unsandhied=abhyaśrāmyat|Annotator=Ol
 3	abhyatapat	abhitap	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	LemmaId=158629|OccId=4886607|Unsandhied=abhyatapat|Annotator=Ol
 4	samatapat	saṃtap	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	2	conj	_	LemmaId=164927|OccId=4886608|Unsandhied=samatapat|Annotator=Ol|Punctuation=fullStop
 
 # text = tasya śrāntasya taptasya saṃtaptasya lalāṭe snehaḥ yat ārdram ājāyata
-# sent_id = 666108_1
+# sent_id = 670806_1
 1	tasya	tad	PRON	_	Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	LemmaId=37875|OccId=4886609|Unsandhied=tasya|Annotator=Ol
 2	śrāntasya	śram	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl	_	LemmaId=159054|OccId=4886610|Unsandhied=śrāntasya|Annotator=Ol
 3	taptasya	tap	VERB	_	Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	conj	_	LemmaId=157174|OccId=4886611|Unsandhied=taptasya|Annotator=Ol
@@ -60,12 +57,12 @@
 9	ājāyata	ājan	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=159751|OccId=4886617|Unsandhied=ājāyata|Annotator=Ol|Punctuation=fullStop
 
 # text = tena anandat
-# sent_id = 666109_1
-1	tena	tad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	2	obl	_	LemmaId=37875|OccId=4886618|Unsandhied=tena|Annotator=Ol
+# sent_id = 670807_1
+1	tena	tad	PRON	_	Case=Ins|Gender=Neut|Number=Sing	2	obl:instr	_	LemmaId=37875|OccId=4886618|Unsandhied=tena|Annotator=Ol
 2	anandat	nand	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=157792|OccId=4886619|Unsandhied=anandat|Annotator=Ol|Punctuation=fullStop
 
 # text = tat abravīt mahat vai yakṣam su vedam avidam aham iti
-# sent_id = 666110_1
+# sent_id = 670808_1
 1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	2	obj	_	LemmaId=37875|OccId=4886620|Unsandhied=tat|Annotator=Ol
 2	abravīt	brū	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=157262|OccId=4886621|Unsandhied=abravīt|Annotator=Ol|Punctuation=fullStop
 3	mahat	mahat	ADJ	_	Case=Nom|Gender=Neut|Number=Sing	2	ccomp	_	LemmaId=37544|OccId=4886663|Unsandhied=mahat|Annotator=Ol
@@ -78,7 +75,7 @@
 10	iti	iti	PART	_	_	9	mark	_	LemmaId=63331|OccId=4886628|Unsandhied=iti|Annotator=Ol|Punctuation=fullStop
 
 # text = tat yat abravīt mahat vai yakṣam su vedam avidam aham iti tasmāt su vedaḥ abhavat
-# sent_id = 666114_1
+# sent_id = 670812_1
 1	tat	tad	PRON	_	Case=Acc|Gender=Neut|Number=Sing	3	advmod	_	LemmaId=37875|OccId=5270878|Unsandhied=tat|Annotator=Ol
 2	yat	yat	SCONJ	_	_	3	mark	_	LemmaId=73227|OccId=5270879|Unsandhied=yat|Annotator=Ol
 3	abravīt	brū	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	15	advcl:caus	_	LemmaId=157262|OccId=4886631|Unsandhied=abravīt|Annotator=Ol|Punctuation=comma
@@ -92,11 +89,11 @@
 11	iti	iti	PART	_	_	10	mark	_	LemmaId=63331|OccId=4886638|Unsandhied=iti|Annotator=Ol|Punctuation=comma
 12	tasmāt	tasmāt	ADV	_	_	15	advmod	_	LemmaId=203521|OccId=4886639|Unsandhied=tasmāt|Annotator=Ol
 13	su	su	ADV	_	_	14	amod	_	LemmaId=204329|OccId=4886640|Unsandhied=su|Annotator=Ol
-14	vedaḥ	veda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	xcomp	_	LemmaId=142594|OccId=4886641|Unsandhied=vedaḥ|Annotator=Ol
+14	vedaḥ	veda	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	15	xcomp:result	_	LemmaId=142594|OccId=4886641|Unsandhied=vedaḥ|Annotator=Ol
 15	abhavat	bhū	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	0	root	_	LemmaId=157250|OccId=4886642|Unsandhied=abhavat|Annotator=Ol|Punctuation=fullStop
 
 # text = tam vai etam su vedam santam svedaḥ iti ācakṣate parokṣeṇa
-# sent_id = 666115_1
+# sent_id = 670813_1
 1	tam	tad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	3	det	_	LemmaId=37875|OccId=4886643|Unsandhied=tam|Annotator=Ol
 2	vai	vai	PART	_	_	9	discourse	_	LemmaId=118154|OccId=4886644|Unsandhied=vai|Annotator=Ol
 3	etam	etad	PRON	_	Case=Acc|Gender=Masc|Number=Sing	9	iobj	_	LemmaId=163744|OccId=4886645|Unsandhied=etam|Annotator=Ol
@@ -109,7 +106,7 @@
 10	parokṣeṇa	parokṣa	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	9	obl:manner	_	LemmaId=18652|OccId=4886652|Unsandhied=parokṣeṇa|Annotator=Ol|Punctuation=fullStop
 
 # text = parokṣa priyāḥ iva hi devāḥ bhavanti pratyakṣa dviṣaḥ
-# sent_id = 666116_1
+# sent_id = 670814_1
 1	parokṣa	parokṣa	ADJ	_	Case=Cpd	2	nmod	_	LemmaId=18652|OccId=4886653|Unsandhied=parokṣa|Annotator=Ol
 2	priyāḥ	priya	ADJ	_	Case=Nom|Gender=Masc|Number=Plur	0	root	_	LemmaId=153185|OccId=4886654|Unsandhied=priyāḥ|Annotator=Ol
 3	iva	iva	PART	_	_	2	discourse	_	LemmaId=63807|OccId=4886655|Unsandhied=iva|Annotator=Ol
