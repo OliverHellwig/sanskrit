@@ -1,0 +1,1 @@
+Sutras extracted from each Adhyaya of the LatSS. This data will be changed and corrected in future releases.

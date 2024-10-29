@@ -2,104 +2,71 @@
 ## text_id: 464
 ## chapter: AVŚ, 6, 17
 ## chapter_id: 11103
-# text = yatheyam pṛthivī mahī bhūtānāṃ garbham ādadhe
-# sent_id = 621864
-# sent_counter = 1
-# sent_subcounter = 1
-1-2	yatheyam	_	_	_	_	_	_	_	_
-1	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=4689640|Unsandhied=yathā
-2	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37876|OccId=4689641|Unsandhied=iyam
-3	pṛthivī	pṛthivī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=150027|OccId=4689642|Unsandhied=pṛthivī
-4	mahī	mah	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=218692|OccId=4689643|Unsandhied=mahī
-5	bhūtānāṃ	bhūta	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	_	_	_	LemmaId=25207|OccId=4689644|Unsandhied=bhūtānām
-6	garbham	garbha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	LemmaId=129602|OccId=4689645|Unsandhied=garbham
-7	ādadhe	ādhā	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=159787|OccId=4689646|Unsandhied=ādadhe|Punctuation=comma
+# text = yathā iyam pṛthivī mahī bhūtānām garbham ādadhe eva te dhriyatām garbhaḥ anu sūtum savitave
+# sent_id = 622176_1
+1	yathā	yathā	PART	_	_	7	mark	_	LemmaId=73250|OccId=4689640|Unsandhied=yathā|Annotator=Ol
+2	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	3	det	_	LemmaId=37876|OccId=4689641|Unsandhied=iyam|Annotator=Ol
+3	pṛthivī	pṛthivī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	LemmaId=150027|OccId=4689642|Unsandhied=pṛthivī|Annotator=Ol
+4	mahī	mah	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	LemmaId=218692|OccId=4689643|Unsandhied=mahī|Annotator=Ol
+5	bhūtānām	bhūta	NOUN	_	Case=Gen|Gender=Neut|Number=Plur	6	nmod	_	LemmaId=25207|OccId=4689644|Unsandhied=bhūtānām|Annotator=Ol
+6	garbham	garbha	NOUN	_	Case=Acc|Gender=Masc|Number=Sing	7	obj	_	LemmaId=129602|OccId=4689645|Unsandhied=garbham|Annotator=Ol
+7	ādadhe	ādhā	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	advcl:manner	_	LemmaId=159787|OccId=4689646|Unsandhied=ādadhe|Annotator=Ol|Punctuation=comma
+8	eva	eva	PART	_	_	10	advmod	_	LemmaId=39754|OccId=4689688|Unsandhied=eva|Annotator=Ol
+9	te	tvad	PRON	_	Case=Gen|Number=Sing	11	nmod	_	LemmaId=37880|OccId=4689647|Unsandhied=te|Annotator=Ol
+10	dhriyatām	dhṛ	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LemmaId=157616|OccId=4689648|Unsandhied=dhriyatām|Annotator=Ol
+11	garbhaḥ	garbha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LemmaId=129602|OccId=4689649|Unsandhied=garbhaḥ|Annotator=Ol
+12	anu	anu	ADP	_	_	14	advmod	_	LemmaId=166836|OccId=4689650|Unsandhied=anu|Annotator=Ol
+13	sūtum	sūtu	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	LemmaId=98895|OccId=4689651|Unsandhied=sūtum|Annotator=Ol
+14	savitave	sū	VERB	_	VerbForm=Inf	10	advcl:fin	_	LemmaId=157291|OccId=4689689|Unsandhied=savitave|Annotator=Ol|Punctuation=fullStop
 
-# text = evā te dhriyatāṃ garbho anu sūtuṃ savitave
-# sent_id = 621865
-# sent_counter = 1
-# sent_subcounter = 2
-1	evā	eva	PART	_		_	_	_	LemmaId=39754|OccId=4689688|Unsandhied=eva
-2	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4689647|Unsandhied=te
-3	dhriyatāṃ	dhṛ	VERB	_	Tense=Pres|Mood=Imp|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157616|OccId=4689648|Unsandhied=dhriyatām
-4	garbho	garbha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=129602|OccId=4689649|Unsandhied=garbhaḥ
-5	anu	anu	ADP	_		_	_	_	LemmaId=166836|OccId=4689650|Unsandhied=anu
-6	sūtuṃ	sūtu	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=98895|OccId=4689651|Unsandhied=sūtum
-7	savitave	sū	VERB	_	VerbForm=Inf	_	_	_	LemmaId=157291|OccId=4689689|Unsandhied=savitave|Punctuation=fullStop
+# text = yathā iyam pṛthivī mahī dādhāra imān vanaspatīn eva te dhriyatām garbhaḥ anu sūtum savitave
+# sent_id = 622178_1
+1	yathā	yathā	PART	_	_	5	mark	_	LemmaId=73250|OccId=4689652|Unsandhied=yathā|Annotator=Ol
+2	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	3	det	_	LemmaId=37876|OccId=4689653|Unsandhied=iyam|Annotator=Ol
+3	pṛthivī	pṛthivī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	LemmaId=150027|OccId=4689654|Unsandhied=pṛthivī|Annotator=Ol
+4	mahī	mah	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	LemmaId=218692|OccId=4689655|Unsandhied=mahī|Annotator=Ol
+5	dādhāra	dhṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	advcl:manner	_	LemmaId=157616|OccId=4689656|Unsandhied=dādhāra|Annotator=Ol
+6	imān	idam	PRON	_	Case=Acc|Gender=Masc|Number=Plur	7	det	_	LemmaId=37876|OccId=4689657|Unsandhied=imān|Annotator=Ol
+7	vanaspatīn	vanaspati	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	LemmaId=68657|OccId=4689658|Unsandhied=vanaspatīn|Annotator=Ol|Punctuation=comma
+8	eva	eva	PART	_	_	10	advmod	_	LemmaId=39754|OccId=4689690|Unsandhied=eva|Annotator=Ol
+9	te	tvad	PRON	_	Case=Gen|Number=Sing	11	nmod	_	LemmaId=37880|OccId=4689659|Unsandhied=te|Annotator=Ol
+10	dhriyatām	dhṛ	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LemmaId=157616|OccId=4689660|Unsandhied=dhriyatām|Annotator=Ol
+11	garbhaḥ	garbha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LemmaId=129602|OccId=4689661|Unsandhied=garbhaḥ|Annotator=Ol
+12	anu	anu	ADP	_	_	14	advmod	_	LemmaId=166836|OccId=4689662|Unsandhied=anu|Annotator=Ol
+13	sūtum	sūtu	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	LemmaId=98895|OccId=4689663|Unsandhied=sūtum|Annotator=Ol
+14	savitave	sū	VERB	_	VerbForm=Inf	10	advcl:fin	_	LemmaId=157291|OccId=4689691|Unsandhied=savitave|Annotator=Ol|Punctuation=fullStop
 
-# text = yatheyaṃ pṛthivī mahī dādhāremān vanaspatīn
-# sent_id = 621866
-# sent_counter = 2
-# sent_subcounter = 1
-1-2	yatheyaṃ	_	_	_	_	_	_	_	_
-1	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=4689652|Unsandhied=yathā
-2	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37876|OccId=4689653|Unsandhied=iyam
-3	pṛthivī	pṛthivī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=150027|OccId=4689654|Unsandhied=pṛthivī
-4	mahī	mah	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=218692|OccId=4689655|Unsandhied=mahī
-5-6	dādhāremān	_	_	_	_	_	_	_	_
-5	dādhāra	dhṛ	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157616|OccId=4689656|Unsandhied=dādhāra
-6	imān	idam	PRON	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=37876|OccId=4689657|Unsandhied=imān
-7	vanaspatīn	vanaspati	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=68657|OccId=4689658|Unsandhied=vanaspatīn|Punctuation=comma
+# text = yathā iyam pṛthivī mahī dādhāra parvatān girīn eva te dhriyatām garbhaḥ anu sūtum savitave
+# sent_id = 622180_1
+1	yathā	yathā	PART	_	_	5	mark	_	LemmaId=73250|OccId=4689664|Unsandhied=yathā|Annotator=Ol
+2	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	3	det	_	LemmaId=37876|OccId=4689665|Unsandhied=iyam|Annotator=Ol
+3	pṛthivī	pṛthivī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	LemmaId=150027|OccId=4689666|Unsandhied=pṛthivī|Annotator=Ol
+4	mahī	mah	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	LemmaId=218692|OccId=4689667|Unsandhied=mahī|Annotator=Ol
+5	dādhāra	dhṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	advcl:manner	_	LemmaId=157616|OccId=4689668|Unsandhied=dādhāra|Annotator=Ol
+6	parvatān	parvata	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	7	amod	_	LemmaId=20216|OccId=4689669|Unsandhied=parvatān|Annotator=Ol|WordSem=73036
+7	girīn	giri	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	5	obj	_	LemmaId=123968|OccId=4689670|Unsandhied=girīn|Annotator=Ol|Punctuation=comma|WordSem=41988
+8	eva	eva	PART	_	_	10	advmod	_	LemmaId=39754|OccId=4689692|Unsandhied=eva|Annotator=Ol
+9	te	tvad	PRON	_	Case=Gen|Number=Sing	11	nmod	_	LemmaId=37880|OccId=4689671|Unsandhied=te|Annotator=Ol
+10	dhriyatām	dhṛ	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LemmaId=157616|OccId=4689672|Unsandhied=dhriyatām|Annotator=Ol
+11	garbhaḥ	garbha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LemmaId=129602|OccId=4689673|Unsandhied=garbhaḥ|Annotator=Ol
+12	anu	anu	ADP	_	_	14	advmod	_	LemmaId=166836|OccId=4689674|Unsandhied=anu|Annotator=Ol
+13	sūtum	sūtu	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	LemmaId=98895|OccId=4689675|Unsandhied=sūtum|Annotator=Ol
+14	savitave	sū	VERB	_	VerbForm=Inf	10	advcl:fin	_	LemmaId=157291|OccId=4689693|Unsandhied=savitave|Annotator=Ol|Punctuation=fullStop
 
-# text = evā te dhriyatāṃ garbho anu sūtuṃ savitave
-# sent_id = 621867
-# sent_counter = 2
-# sent_subcounter = 2
-1	evā	eva	PART	_		_	_	_	LemmaId=39754|OccId=4689690|Unsandhied=eva
-2	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4689659|Unsandhied=te
-3	dhriyatāṃ	dhṛ	VERB	_	Tense=Pres|Mood=Imp|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157616|OccId=4689660|Unsandhied=dhriyatām
-4	garbho	garbha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=129602|OccId=4689661|Unsandhied=garbhaḥ
-5	anu	anu	ADP	_		_	_	_	LemmaId=166836|OccId=4689662|Unsandhied=anu
-6	sūtuṃ	sūtu	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=98895|OccId=4689663|Unsandhied=sūtum
-7	savitave	sū	VERB	_	VerbForm=Inf	_	_	_	LemmaId=157291|OccId=4689691|Unsandhied=savitave|Punctuation=fullStop
-
-# text = yatheyaṃ pṛthivī mahī dādhāra parvatān girīn
-# sent_id = 621868
-# sent_counter = 3
-# sent_subcounter = 1
-1-2	yatheyaṃ	_	_	_	_	_	_	_	_
-1	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=4689664|Unsandhied=yathā
-2	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37876|OccId=4689665|Unsandhied=iyam
-3	pṛthivī	pṛthivī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=150027|OccId=4689666|Unsandhied=pṛthivī
-4	mahī	mah	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=218692|OccId=4689667|Unsandhied=mahī
-5	dādhāra	dhṛ	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157616|OccId=4689668|Unsandhied=dādhāra
-6	parvatān	parvata	ADJ	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=20216|OccId=4689669|Unsandhied=parvatān|WordSem=73036
-7	girīn	giri	NOUN	_	Case=Acc|Gender=Masc|Number=Plur	_	_	_	LemmaId=123968|OccId=4689670|Unsandhied=girīn|Punctuation=comma|WordSem=41988
-
-# text = evā te dhriyatāṃ garbho anu sūtuṃ savitave
-# sent_id = 621869
-# sent_counter = 3
-# sent_subcounter = 2
-1	evā	eva	PART	_		_	_	_	LemmaId=39754|OccId=4689692|Unsandhied=eva
-2	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4689671|Unsandhied=te
-3	dhriyatāṃ	dhṛ	VERB	_	Tense=Pres|Mood=Imp|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157616|OccId=4689672|Unsandhied=dhriyatām
-4	garbho	garbha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=129602|OccId=4689673|Unsandhied=garbhaḥ
-5	anu	anu	ADP	_		_	_	_	LemmaId=166836|OccId=4689674|Unsandhied=anu
-6	sūtuṃ	sūtu	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=98895|OccId=4689675|Unsandhied=sūtum
-7	savitave	sū	VERB	_	VerbForm=Inf	_	_	_	LemmaId=157291|OccId=4689693|Unsandhied=savitave|Punctuation=fullStop
-
-# text = yatheyaṃ pṛthivī mahī dādhāra viṣṭhitaṃ jagat
-# sent_id = 621870
-# sent_counter = 4
-# sent_subcounter = 1
-1-2	yatheyaṃ	_	_	_	_	_	_	_	_
-1	yathā	yathā	PART	_		_	_	_	LemmaId=73250|OccId=4689676|Unsandhied=yathā
-2	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=37876|OccId=4689677|Unsandhied=iyam
-3	pṛthivī	pṛthivī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=150027|OccId=4689678|Unsandhied=pṛthivī
-4	mahī	mah	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	LemmaId=218692|OccId=4689679|Unsandhied=mahī
-5	dādhāra	dhṛ	VERB	_	Tense=Past|Mood=Ind|Person=3|Number=Sing	_	_	_	LemmaId=157616|OccId=4689680|Unsandhied=dādhāra
-6	viṣṭhitaṃ	viṣṭhā	VERB	_	Case=Acc|Gender=Neut|Number=Sing|VerbForm=Part	_	_	_	LemmaId=163641|OccId=4689681|Unsandhied=viṣṭhitam
-7	jagat	jagant	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	_	_	_	LemmaId=164188|OccId=4689682|Unsandhied=jagat|Punctuation=comma
-
-# text = evā te dhriyatāṃ garbho anu sūtuṃ savitave
-# sent_id = 621871
-# sent_counter = 4
-# sent_subcounter = 2
-1	evā	eva	PART	_		_	_	_	LemmaId=39754|OccId=4689694|Unsandhied=eva
-2	te	tvad	PRON	_	Case=Gen|Number=Sing	_	_	_	LemmaId=37880|OccId=4689683|Unsandhied=te
-3	dhriyatāṃ	dhṛ	VERB	_	Tense=Pres|Mood=Imp|Voice=Pass|Person=3|Number=Sing	_	_	_	LemmaId=157616|OccId=4689684|Unsandhied=dhriyatām
-4	garbho	garbha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	LemmaId=129602|OccId=4689685|Unsandhied=garbhaḥ
-5	anu	anu	ADP	_		_	_	_	LemmaId=166836|OccId=4689686|Unsandhied=anu
-6	sūtuṃ	sūtu	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	LemmaId=98895|OccId=4689687|Unsandhied=sūtum
-7	savitave	sū	VERB	_	VerbForm=Inf	_	_	_	LemmaId=157291|OccId=4689695|Unsandhied=savitave|Punctuation=fullStop
+# text = yathā iyam pṛthivī mahī dādhāra viṣṭhitam jagat eva te dhriyatām garbhaḥ anu sūtum savitave
+# sent_id = 622182_1
+1	yathā	yathā	PART	_	_	5	mark	_	LemmaId=73250|OccId=4689676|Unsandhied=yathā|Annotator=Ol
+2	iyam	idam	PRON	_	Case=Nom|Gender=Fem|Number=Sing	3	det	_	LemmaId=37876|OccId=4689677|Unsandhied=iyam|Annotator=Ol
+3	pṛthivī	pṛthivī	NOUN	_	Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	LemmaId=150027|OccId=4689678|Unsandhied=pṛthivī|Annotator=Ol
+4	mahī	mah	ADJ	_	Case=Nom|Gender=Fem|Number=Sing	3	amod	_	LemmaId=218692|OccId=4689679|Unsandhied=mahī|Annotator=Ol
+5	dādhāra	dhṛ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past	10	advcl:manner	_	LemmaId=157616|OccId=4689680|Unsandhied=dādhāra|Annotator=Ol
+6	viṣṭhitam	viṣṭhā	VERB	_	Case=Acc|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part	7	acl	_	LemmaId=163641|OccId=4689681|Unsandhied=viṣṭhitam|Annotator=Ol
+7	jagat	jagant	NOUN	_	Case=Acc|Gender=Neut|Number=Sing	5	obj	_	LemmaId=164188|OccId=4689682|Unsandhied=jagat|Annotator=Ol|Punctuation=comma
+8	eva	eva	PART	_	_	10	advmod	_	LemmaId=39754|OccId=4689694|Unsandhied=eva|Annotator=Ol
+9	te	tvad	PRON	_	Case=Gen|Number=Sing	11	nmod	_	LemmaId=37880|OccId=4689683|Unsandhied=te|Annotator=Ol
+10	dhriyatām	dhṛ	VERB	_	Mood=Imp|Number=Sing|Person=3|Tense=Pres|Voice=Pass	0	root	_	LemmaId=157616|OccId=4689684|Unsandhied=dhriyatām|Annotator=Ol
+11	garbhaḥ	garbha	NOUN	_	Case=Nom|Gender=Masc|Number=Sing	10	nsubj	_	LemmaId=129602|OccId=4689685|Unsandhied=garbhaḥ|Annotator=Ol
+12	anu	anu	ADP	_	_	14	advmod	_	LemmaId=166836|OccId=4689686|Unsandhied=anu|Annotator=Ol
+13	sūtum	sūtu	NOUN	_	Case=Acc|Gender=Fem|Number=Sing	14	obj	_	LemmaId=98895|OccId=4689687|Unsandhied=sūtum|Annotator=Ol
+14	savitave	sū	VERB	_	VerbForm=Inf	10	advcl:fin	_	LemmaId=157291|OccId=4689695|Unsandhied=savitave|Annotator=Ol|Punctuation=fullStop
 

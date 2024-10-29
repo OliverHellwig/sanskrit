@@ -28,7 +28,7 @@ Each line that begins with a number contains ten entries. The following list exp
   * LemmaId: Matches the first column of ./files/lookup/dictionary.csv
   * OccId: the id of this occurrence of the word
   * Unsandhied: The unsandhied word form, "padapāṭha version". Univerbified preverbs are not resolved, but can be retrieved from the column 'preverbs' in ./files/lookup/dictionary.csv; only available for a part of the DCS.
-  * WordSem: Ids of word semantic concepts. The Ids correspond to the first column of in ./files/lookup/word-senses.csv. A nicer form of these data is available via the [http://sanskritwordnet.unipv.it/](Sanskrit WordNet).
+  * WordSem: Ids of lexical semantic concepts. The Ids correspond to the first column of in ./files/lookup/word-senses.csv. A nicer form of these data is available via the [http://sanskritwordnet.unipv.it/](Sanskrit WordNet).
   * Punctuation ['comma', 'fullStop']: not part of the original Sanskrit text, but inserted in a separate layer.
   * IsMantra: true if this word forms part of a mantra as recorded in Bloomfield's Vedic Concordance.
 
@@ -48,7 +48,7 @@ In bibtex:
 @Manual{your_latech_key,
 title = {{The Digital Corpus of Sanskrit (DCS)}},
 author = {Hellwig, Oliver},
-year = {2010--2022}
+year = {2010--2024}
 }
 ```
 

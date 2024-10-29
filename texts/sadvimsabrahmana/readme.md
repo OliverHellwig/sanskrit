@@ -5,5 +5,5 @@ What has been done so far:
 - OCRed with Google Docs OCR
 - Split into one file per chapter (in folder split/)
 - Corrected and Sandhi split
-
+- Second round of correction during integration in the DCS
 
