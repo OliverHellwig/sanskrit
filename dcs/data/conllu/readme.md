@@ -44,9 +44,7 @@ Additionally, the file 'sembank-relations.csv' contains the operators needed to 
 
 If you use these data in your work, please cite as follows:
 
-Oliver Hellwig: Digital Corpus of Sanskrit (DCS). 2010-2022.
 
-In bibtex:
 ```
 @Manual{your_latech_key,
 title = {{The Digital Corpus of Sanskrit (DCS)}},
